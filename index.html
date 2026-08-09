@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Software Tutorial Library</title>
+  <meta name="description" content="A curated, searchable index of video tutorials spanning music production, visual design, 3D, real-time visuals, and programming tools — organised by software and topic.">
+  <link rel="stylesheet" href="style.css">
+  <!-- Three.js & OrbitControls for 3D Latent Space -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+</head>
+<body>
+  <div class="editorial-app">
+    
+    <!-- Editorial Header -->
+    <header class="editorial-header">
+      <div class="header-top-row">
+        <div class="title-group">
+          <h1 class="editorial-title" id="app-title">TouchDesigner Tutorials</h1>
+          <p class="header-subtitle" id="header-subtitle">A repository of video tutorials covering a wide range of creative and technical software. Select one below to explore and filter its complete tutorial catalogue.</p>
+        </div>
+        <div class="header-actions">
+          <!-- All Softwares Home Button -->
+          <button id="btn-go-home" class="btn-home-nav" title="Back to Software Directory Home">
+            <span class="home-nav-arrow">←</span> All Softwares
+          </button>
+
+          <!-- Theme selector -->
+          <div class="theme-toggle-switch" role="radiogroup" aria-label="Theme selector">
+            <button class="theme-btn" data-theme="light" title="Light Mode" aria-label="Light Mode">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="12" cy="12" r="5"></circle>
+                <line x1="12" y1="1" x2="12" y2="3"></line>
+                <line x1="12" y1="21" x2="12" y2="23"></line>
+                <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                <line x1="1" y1="12" x2="3" y2="12"></line>
+                <line x1="21" y1="12" x2="23" y2="12"></line>
+                <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+              </svg>
+            </button>
+            <button class="theme-btn active" data-theme="dark" title="Dark Mode" aria-label="Dark Mode">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- Home / Software Directory Landing View -->
+    <main id="home-view" class="home-view-container">
+      <div class="home-hero">
+        <div class="home-search-container">
+          <svg class="home-search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+          <input type="text" id="home-search-input" class="home-search-input" placeholder="Search software..." aria-label="Search software">
+        </div>
+      </div>
+
+      <div id="home-search-empty" class="home-empty-state" style="display:none;">
+        <p>No software found matching your search.</p>
+      </div>
+
+      <!-- 1. Music & Audio -->
+      <section class="software-domain-section">
+        <div class="domain-header">
+          <h2 class="domain-title">Music & Audio</h2>
+        </div>
+        <div class="home-software-grid">
+          <div class="software-card" data-software="ableton">
+            <img src="assets/logos/ableton.svg" class="software-card-logo" alt="Ableton Live" />
+            <h2 class="software-card-title">Ableton Live</h2>
+          </div>
+          <div class="software-card" data-software="logicpro">
+            <img src="assets/logos/logicpro.png" class="software-card-logo" alt="Logic Pro" />
+            <h2 class="software-card-title">Logic Pro</h2>
+          </div>
+          <div class="software-card" data-software="reaper">
+            <img src="assets/logos/reaper.svg" class="software-card-logo" alt="REAPER" />
+            <h2 class="software-card-title">REAPER</h2>
+          </div>
+          <div class="software-card" data-software="sibelius">
+            <img src="assets/logos/sibelius.png" class="software-card-logo" alt="Sibelius" />
+            <h2 class="software-card-title">Sibelius</h2>
+          </div>
+          <div class="software-card" data-software="maxmsp">
+            <img src="assets/logos/maxmsp.png" class="software-card-logo" alt="Max/MSP" />
+            <h2 class="software-card-title">Max/MSP</h2>
+          </div>
+        </div>
+      </section>
+
+      <!-- 2. Visual Design & Video -->
+      <section class="software-domain-section">
+        <div class="domain-header">
+          <h2 class="domain-title">Visual Design & Video</h2>
+        </div>
+        <div class="home-software-grid">
+          <div class="software-card" data-software="photoshop">
+            <img src="assets/logos/photoshop.svg" class="software-card-logo" alt="Photoshop" />
+            <h2 class="software-card-title">Photoshop</h2>
+          </div>
+          <div class="software-card" data-software="illustrator">
+            <img src="assets/logos/illustrator.svg" class="software-card-logo" alt="Illustrator" />
+            <h2 class="software-card-title">Illustrator</h2>
+          </div>
+          <div class="software-card" data-software="aftereffects">
+            <img src="assets/logos/aftereffects.svg" class="software-card-logo" alt="After Effects" />
+            <h2 class="software-card-title">After Effects</h2>
+          </div>
+          <div class="software-card" data-software="premiere">
+            <img src="assets/logos/premiere.svg" class="software-card-logo" alt="Premiere Pro" />
+            <h2 class="software-card-title">Premiere Pro</h2>
+          </div>
+          <div class="software-card" data-software="davinci">
+            <img src="assets/logos/davinci.svg" class="software-card-logo" alt="DaVinci Resolve" />
+            <h2 class="software-card-title">DaVinci Resolve</h2>
+          </div>
+        </div>
+      </section>
+
+      <!-- 3. 3D & Game Engines -->
+      <section class="software-domain-section">
+        <div class="domain-header">
+          <h2 class="domain-title">3D & Game Engines</h2>
+        </div>
+        <div class="home-software-grid">
+          <div class="software-card" data-software="blender">
+            <img src="assets/logos/blender.svg" class="software-card-logo" alt="Blender 3D" />
+            <h2 class="software-card-title">Blender 3D</h2>
+          </div>
+          <div class="software-card" data-software="unity">
+            <img src="assets/logos/unity.svg" class="software-card-logo" alt="Unity Engine" />
+            <h2 class="software-card-title">Unity Engine</h2>
+          </div>
+          <div class="software-card" data-software="unreal">
+            <img src="assets/logos/unreal.svg" class="software-card-logo" alt="Unreal Engine" />
+            <h2 class="software-card-title">Unreal Engine</h2>
+          </div>
+        </div>
+      </section>
+
+      <!-- 4. Real-Time Visuals & Projection -->
+      <section class="software-domain-section">
+        <div class="domain-header">
+          <h2 class="domain-title">Real-Time Visuals & Projection</h2>
+        </div>
+        <div class="home-software-grid">
+          <div class="software-card" data-software="td">
+            <img src="assets/logos/touchdesigner.png" class="software-card-logo" alt="TouchDesigner" />
+            <h2 class="software-card-title">TouchDesigner</h2>
+          </div>
+          <div class="software-card" data-software="resolume">
+            <img src="assets/logos/resolume.svg" class="software-card-logo" alt="Resolume Arena" />
+            <h2 class="software-card-title">Resolume Arena</h2>
+          </div>
+          <div class="software-card" data-software="madmapper">
+            <img src="assets/logos/madmapper.svg" class="software-card-logo" alt="MadMapper" />
+            <h2 class="software-card-title">MadMapper</h2>
+          </div>
+        </div>
+      </section>
+
+      <!-- 5. Programming & AI -->
+      <section class="software-domain-section">
+        <div class="domain-header">
+          <h2 class="domain-title">Programming & AI</h2>
+        </div>
+        <div class="home-software-grid">
+          <div class="software-card" data-software="python">
+            <img src="assets/logos/python.svg" class="software-card-logo" alt="Python" />
+            <h2 class="software-card-title">Python</h2>
+          </div>
+          <div class="software-card" data-software="vsc">
+            <img src="assets/logos/vsc.svg" class="software-card-logo" alt="Visual Studio Code" />
+            <h2 class="software-card-title">Visual Studio Code</h2>
+          </div>
+          <div class="software-card" data-software="comfyui">
+            <img src="assets/logos/comfyui.png" class="software-card-logo" alt="ComfyUI" />
+            <h2 class="software-card-title">ComfyUI</h2>
+          </div>
+        </div>
+      </section>
+      <footer class="home-footer">
+        Built by <a href="https://adrivelasco.com" target="_blank" class="home-footer-link">Adri Velasco</a> · Updated Aug 2026 · <a href="mailto:adrianvelasco1930@gmail.com?subject=Tutorial%20Suggestion" class="home-footer-link">Any suggestion? ↗</a>
+      </footer>
+    </main>
+
+    <!-- Main Database View -->
+    <div id="db-view" style="display:none;">
+
+    <!-- Toolbar Controls -->
+    <div class="editorial-toolbar">
+      <div class="toolbar-group">
+        <!-- SVG View Switcher Toggle -->
+        <div class="view-toggle-switch">
+          <button class="view-btn active" data-view="grid" title="Grid View" aria-label="Grid View">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <rect x="3" y="3" width="7" height="7"></rect>
+              <rect x="14" y="3" width="7" height="7"></rect>
+              <rect x="14" y="14" width="7" height="7"></rect>
+              <rect x="3" y="14" width="7" height="7"></rect>
+            </svg>
+          </button>
+          <button class="view-btn" data-view="table" title="Table Index" aria-label="Table Index">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <line x1="3" y1="6" x2="21" y2="6"></line>
+              <line x1="3" y1="12" x2="21" y2="12"></line>
+              <line x1="3" y1="18" x2="21" y2="18"></line>
+            </svg>
+          </button>
+          <button class="view-btn" data-view="latent" title="3D Latent Space Map" aria-label="3D Latent Space Map">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="6" cy="6" r="2"></circle>
+              <circle cx="18" cy="8" r="2"></circle>
+              <circle cx="12" cy="17" r="2"></circle>
+              <line x1="7.8" y1="6.3" x2="16.2" y2="7.7"></line>
+              <line x1="16.7" y1="9.6" x2="13.3" y2="15.4"></line>
+            </svg>
+          </button>
+        </div>
+
+        <!-- Search Box -->
+        <div class="search-wrapper">
+          <svg class="search-icon-svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+          <input type="text" id="search-input" class="search-input" placeholder="Search by title, creator, or topic..." />
+          <kbd class="search-shortcut">⌘K</kbd>
+        </div>
+
+        <!-- User Collections Quick Filters -->
+        <div class="user-collection-filters" role="group" aria-label="User collections filter">
+          <button class="user-filter-chip active" data-user-filter="all" title="Show all tutorials">All</button>
+          <button class="user-filter-chip" data-user-filter="favorites" title="Show Favorites">
+            <svg class="svg-chip-icon fav-color" width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l8.72-8.72 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg>
+            <span class="chip-count" id="fav-count">0</span>
+          </button>
+          <button class="user-filter-chip" data-user-filter="saved" title="Show Saved for Later">
+            <svg class="svg-chip-icon save-color" width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path></svg>
+            <span class="chip-count" id="saved-count">0</span>
+          </button>
+          <button class="user-filter-chip" data-user-filter="watched" title="Show Watched Tutorials">
+            <svg class="svg-chip-icon watched-color" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+            <span class="chip-count" id="watched-count">0</span>
+          </button>
+        </div>
+      </div>
+
+      <div class="toolbar-group">
+        <!-- Topic Filter -->
+        <div class="select-wrapper">
+          <select id="filter-category" class="select-filter">
+            <option value="ALL">All Topics</option>
+          </select>
+        </div>
+
+        <!-- Creator Filter -->
+        <div class="select-wrapper">
+          <select id="filter-author" class="select-filter">
+            <option value="ALL">All Creators</option>
+          </select>
+        </div>
+
+        <!-- Sort Option -->
+        <div class="select-wrapper">
+          <select id="sort-select" class="select-filter">
+            <option value="default">Default Order</option>
+            <option value="popular-desc">Most Popular</option>
+            <option value="popular-asc">Least Popular</option>
+            <option value="recent-asc">Most Recent</option>
+            <option value="recent-desc">Oldest First</option>
+            <option value="title-asc">Title (A-Z)</option>
+            <option value="title-desc">Title (Z-A)</option>
+            <option value="author-asc">Creator (A-Z)</option>
+          </select>
+        </div>
+
+        <!-- Counter -->
+        <span class="counter-badge" id="items-counter">500 tutorials</span>
+      </div>
+    </div>
+
+    <!-- Main Views Container -->
+    <main id="views-container">
+      
+      <!-- Grid View -->
+      <section id="view-grid" class="view-section" style="display: none;">
+        <div class="editorial-grid" id="grid-container">
+          <!-- Rendered grid cards -->
+        </div>
+      </section>
+
+      <!-- Table View (Default) -->
+      <section id="view-table" class="view-section">
+        <div class="table-container">
+          <table class="editorial-table">
+            <thead>
+              <tr>
+                <th style="width: 45%;">Tutorial Title</th>
+                <th style="width: 25%;">Creator / Channel</th>
+                <th style="width: 20%;">Topics & Descriptors</th>
+                <th style="width: 10%; text-align: center;">Action</th>
+              </tr>
+            </thead>
+            <tbody id="table-body">
+              <!-- Rendered table rows -->
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- 3D Latent Space View -->
+      <section id="view-latent" class="view-section" style="display: none;">
+        <div class="latent-container">
+          <div class="latent-header">
+            <div class="latent-actions">
+              <span class="latent-hint">Drag: Rotate 3D • Right Click: Pan • Scroll: Move Page</span>
+              <button id="btn-reset-latent" class="theme-toggle-btn" title="Reset 3D Camera">Reset 3D Camera</button>
+            </div>
+          </div>
+          <div class="latent-viewport" id="latent-viewport">
+            <div id="latent-3d-container" style="width: 100%; height: 100%;"></div>
+            <div id="latent-tooltip" class="latent-tooltip" style="display: none;"></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Empty State -->
+      <div id="empty-state" class="editorial-empty" style="display: none;">
+        <h3>No tutorials found</h3>
+        <p>Nothing matched your search in this library.</p>
+        <a id="yt-search-link" href="#" target="_blank" class="yt-search-btn">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2 31.3 31.3 0 0 0 0 12a31.3 31.3 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1C4.5 20.4 12 20.4 12 20.4s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1A31.3 31.3 0 0 0 24 12a31.3 31.3 0 0 0-.5-5.8zM9.7 15.5V8.5l6.3 3.5-6.3 3.5z"/></svg>
+          Search on YouTube ↗
+        </a>
+      </div>
+
+    </main>
+  </div>
+
+  <!-- Video Cinema Modal -->
+  <div id="video-modal" class="modal-overlay">
+    <div class="modal-box">
+      <div class="modal-top">
+        <h3 id="modal-video-title" class="modal-title">Tutorial Title</h3>
+        <button id="modal-close-btn" class="modal-close" aria-label="Close modal">✕</button>
+      </div>
+      <div class="modal-frame">
+        <iframe id="modal-iframe" src="" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+      </div>
+      <div class="modal-bottom">
+        <div class="creator-name" id="modal-video-meta">
+          <!-- Dynamic author & tags -->
+        </div>
+        <div class="modal-actions-wrapper">
+          <div class="modal-user-actions">
+            <button id="modal-btn-fav" class="modal-action-btn" title="Toggle Favorite">
+              <span class="action-icon"></span> <span class="action-label">Favorite</span>
+            </button>
+            <button id="modal-btn-save" class="modal-action-btn" title="Save for later">
+              <span class="action-icon"></span> <span class="action-label">Watch Later</span>
+            </button>
+            <button id="modal-btn-watched" class="modal-action-btn" title="Mark as watched">
+              <span class="action-icon"></span> <span class="action-label">Watched</span>
+            </button>
+          </div>
+          <a id="modal-external-link" href="#" target="_blank" class="link-action">
+            Open on YouTube ↗
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+
+  <!-- Datasets & App Logic -->
+  <script src="datasets/js/tutorials_data.js"></script>
+  <script src="datasets/js/blender_tutorials_data.js"></script>
+  <script src="datasets/js/ableton_tutorials_data.js"></script>
+  <script src="datasets/js/premiere_tutorials_data.js"></script>
+  <script src="datasets/js/aftereffects_tutorials_data.js"></script>
+  <script src="datasets/js/photoshop_tutorials_data.js"></script>
+  <script src="datasets/js/maxmsp_tutorials_data.js"></script>
+  <script src="datasets/js/logicpro_tutorials_data.js"></script>
+  <script src="datasets/js/reaper_tutorials_data.js"></script>
+  <script src="datasets/js/illustrator_tutorials_data.js"></script>
+  <script src="datasets/js/davinci_tutorials_data.js"></script>
+  <script src="datasets/js/sibelius_tutorials_data.js"></script>
+  <script src="datasets/js/vsc_tutorials_data.js"></script>
+  <script src="datasets/js/unity_tutorials_data.js"></script>
+  <script src="datasets/js/unreal_tutorials_data.js"></script>
+  <script src="datasets/js/python_tutorials_data.js"></script>
+  <script src="datasets/js/resolume_tutorials_data.js"></script>
+  <script src="datasets/js/comfyui_tutorials_data.js"></script>
+  <script src="datasets/js/madmapper_tutorials_data.js"></script>
+  <script>
+    window.TD_DATA = TUTORIALS_DATA;
+  </script>
+  <script src="app.js"></script>
+</body>
+</html>
