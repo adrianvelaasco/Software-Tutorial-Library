@@ -27,9 +27,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning)",
     "views": 48562605,
     "upload_date": "2019-08-11",
     "latent_x": -35.56999969482422,
@@ -47,9 +47,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning)",
     "views": 24919014,
     "upload_date": "2021-08-10",
     "latent_x": -24.290000915527344,
@@ -64,11 +64,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "CodeWithHarry",
     "titulo": "Python Tutorial For Beginners in Hindi | Complete Python Course 🔥",
     "enlace": "https://www.youtube.com/watch?v=UrsmFxEIp5k",
-    "categoria_principal": "Data Science with Pandas & NumPy",
+    "categoria_principal": "Data Science",
     "tags": [
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Data Science with Pandas & NumPy (Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Data Science (Data Science)",
     "views": 22873214,
     "upload_date": "2024-08-09",
     "latent_x": 0.9900000095367432,
@@ -124,9 +124,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning)",
     "views": 13114691,
     "upload_date": "2024-08-09",
     "latent_x": -53.34000015258789,
@@ -182,9 +182,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning)",
     "views": 10262308,
     "upload_date": "2023-08-10",
     "latent_x": -32.310001373291016,
@@ -370,11 +370,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Corey Schafer",
     "titulo": "Python OOP Tutorial 1: Classes and Instances",
     "enlace": "https://www.youtube.com/watch?v=ZDa-Z5JzLYM",
-    "categoria_principal": "Object-Oriented Programming (OOP)",
+    "categoria_principal": "OOP Programming",
     "tags": [
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Object-Oriented Programming (OOP) (Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "OOP Programming (OOP Programming)",
     "views": 5006132,
     "upload_date": "2016-08-11",
     "latent_x": 1.7100000381469727,
@@ -408,11 +408,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Programming with Mosh",
     "titulo": "Object-Oriented Programming, Simplified",
     "enlace": "https://www.youtube.com/watch?v=pTB0EiLXUC8",
-    "categoria_principal": "Object-Oriented Programming (OOP)",
+    "categoria_principal": "OOP Programming",
     "tags": [
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Object-Oriented Programming (OOP) (Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "OOP Programming (OOP Programming)",
     "views": 4807142,
     "upload_date": "2018-08-11",
     "latent_x": 14.569999694824219,
@@ -427,11 +427,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "freeCodeCamp.org",
     "titulo": "Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib)",
     "enlace": "https://www.youtube.com/watch?v=LHBE6Q9XlzI",
-    "categoria_principal": "Data Science with Pandas & NumPy",
+    "categoria_principal": "Data Science",
     "tags": [
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Data Science with Pandas & NumPy (Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Data Science (Data Science)",
     "views": 4787904,
     "upload_date": "2020-08-10",
     "latent_x": -15.039999961853027,
@@ -525,9 +525,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science)",
     "views": 4164584,
     "upload_date": "2020-08-10",
     "latent_x": -39.56999969482422,
@@ -545,9 +545,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, OOP Programming)",
     "views": 4005137,
     "upload_date": "2020-08-10",
     "latent_x": 17.3700008392334,
@@ -584,10 +584,10 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Data Science",
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science, Machine Learning)",
     "views": 3609040,
     "upload_date": "2021-08-10",
     "latent_x": -21.0,
@@ -602,12 +602,12 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Keith Galli",
     "titulo": "Complete Python Pandas Data Science Tutorial! (Reading CSV/Excel files, Sorting, Filtering, Groupby)",
     "enlace": "https://www.youtube.com/watch?v=vmEHCJofslg",
-    "categoria_principal": "Data Science with Pandas & NumPy",
+    "categoria_principal": "Data Science",
     "tags": [
-      "Data Science with Pandas & NumPy",
-      "File I/O & Scripting Utilities"
+      "Data Science",
+      "Script Utilities"
     ],
-    "categoria_descriptores": "Data Science with Pandas & NumPy (Data Science with Pandas & NumPy, File I/O & Scripting Utilities)",
+    "categoria_descriptores": "Data Science (Data Science, Script Utilities)",
     "views": 3514203,
     "upload_date": "2019-08-11",
     "latent_x": 17.809999465942383,
@@ -641,11 +641,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "freeCodeCamp.org",
     "titulo": "TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial",
     "enlace": "https://www.youtube.com/watch?v=tPYj3fFJGjk",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 3480002,
     "upload_date": "2020-08-10",
     "latent_x": -15.100000381469727,
@@ -663,9 +663,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning)",
     "views": 3450434,
     "upload_date": "2023-08-10",
     "latent_x": -31.6200008392334,
@@ -683,9 +683,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Web Backend)",
     "views": 3435451,
     "upload_date": "2021-08-10",
     "latent_x": -88.02999877929688,
@@ -722,9 +722,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science)",
     "views": 3303124,
     "upload_date": "2021-08-10",
     "latent_x": -51.9900016784668,
@@ -797,11 +797,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "freeCodeCamp.org",
     "titulo": "Python API Development - Comprehensive Course for Beginners",
     "enlace": "https://www.youtube.com/watch?v=0sOvCWFmrtA",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 3041342,
     "upload_date": "2022-08-10",
     "latent_x": -64.88999938964844,
@@ -835,12 +835,12 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Samson Zhang",
     "titulo": "Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)",
     "enlace": "https://www.youtube.com/watch?v=w8yWXqWQYmU",
-    "categoria_principal": "Data Science with Pandas & NumPy",
+    "categoria_principal": "Data Science",
     "tags": [
-      "Data Science with Pandas & NumPy",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Data Science",
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Data Science with Pandas & NumPy (Data Science with Pandas & NumPy, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Data Science (Data Science, Machine Learning)",
     "views": 2831584,
     "upload_date": "2021-08-10",
     "latent_x": -0.5,
@@ -858,9 +858,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, OOP Programming)",
     "views": 2788976,
     "upload_date": "2024-08-09",
     "latent_x": -1.6399999856948853,
@@ -875,11 +875,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "freeCodeCamp.org",
     "titulo": "Python Backend Web Development Course (with Django)",
     "enlace": "https://www.youtube.com/watch?v=jBzwzrDvZ18",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 2762950,
     "upload_date": "2021-08-10",
     "latent_x": -79.62000274658203,
@@ -913,11 +913,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Telusko",
     "titulo": "#6 Python Tutorial for Beginners | Tuple | Set in Python",
     "enlace": "https://www.youtube.com/watch?v=Mf7eFtbVxFM",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 2402185,
     "upload_date": "2018-08-11",
     "latent_x": 3.2100000381469727,
@@ -935,9 +935,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Web Backend)",
     "views": 2399259,
     "upload_date": "2019-08-11",
     "latent_x": -95.18000030517578,
@@ -955,9 +955,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, OOP Programming)",
     "views": 2348624,
     "upload_date": "2022-08-10",
     "latent_x": 2.7699999809265137,
@@ -1051,9 +1051,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science)",
     "views": 2209577,
     "upload_date": "2019-08-11",
     "latent_x": -47.720001220703125,
@@ -1128,9 +1128,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning)",
     "views": 2102299,
     "upload_date": "2022-08-10",
     "latent_x": -24.940000534057617,
@@ -1145,12 +1145,12 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Telusko",
     "titulo": "OOP in Python | Object Oriented Programming",
     "enlace": "https://www.youtube.com/watch?v=qiSCMNBIP2g",
-    "categoria_principal": "Object-Oriented Programming (OOP)",
+    "categoria_principal": "OOP Programming",
     "tags": [
-      "Object-Oriented Programming (OOP)",
-      "Machine Learning & PyTorch/TensorFlow"
+      "OOP Programming",
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Object-Oriented Programming (OOP) (Object-Oriented Programming (OOP), Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "OOP Programming (OOP Programming, Machine Learning)",
     "views": 2082238,
     "upload_date": "2019-08-11",
     "latent_x": -11.010000228881836,
@@ -1241,11 +1241,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Corey Schafer",
     "titulo": "Python OOP Tutorial 2: Class Variables",
     "enlace": "https://www.youtube.com/watch?v=BJ-VvGyQxho",
-    "categoria_principal": "Object-Oriented Programming (OOP)",
+    "categoria_principal": "OOP Programming",
     "tags": [
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Object-Oriented Programming (OOP) (Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "OOP Programming (OOP Programming)",
     "views": 1929625,
     "upload_date": "2016-08-11",
     "latent_x": 0.25999999046325684,
@@ -1357,11 +1357,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Corey Schafer",
     "titulo": "Python OOP Tutorial 3: classmethods and staticmethods",
     "enlace": "https://www.youtube.com/watch?v=rq8cL2XMM5M",
-    "categoria_principal": "Object-Oriented Programming (OOP)",
+    "categoria_principal": "OOP Programming",
     "tags": [
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Object-Oriented Programming (OOP) (Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "OOP Programming (OOP Programming)",
     "views": 1743603,
     "upload_date": "2016-08-11",
     "latent_x": 4.920000076293945,
@@ -1379,9 +1379,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science)",
     "views": 1716542,
     "upload_date": "2020-08-10",
     "latent_x": -67.88999938964844,
@@ -1418,9 +1418,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, OOP Programming)",
     "views": 1663051,
     "upload_date": "2018-08-11",
     "latent_x": -10.239999771118164,
@@ -1438,9 +1438,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning)",
     "views": 1654824,
     "upload_date": "2024-08-09",
     "latent_x": -7.889999866485596,
@@ -1493,11 +1493,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "freeCodeCamp.org",
     "titulo": "Algorithmic Trading – Machine Learning & Quant Strategies Course with Python",
     "enlace": "https://www.youtube.com/watch?v=9Y3yaoi9rUQ",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 1548187,
     "upload_date": "2024-08-09",
     "latent_x": -11.859999656677246,
@@ -1550,11 +1550,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "freeCodeCamp.org",
     "titulo": "Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer",
     "enlace": "https://www.youtube.com/watch?v=sVcwVQRHIc8",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 1506365,
     "upload_date": "2024-08-09",
     "latent_x": -23.229999542236328,
@@ -1569,11 +1569,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Corey Schafer",
     "titulo": "Python OOP Tutorial 4: Inheritance - Creating Subclasses",
     "enlace": "https://www.youtube.com/watch?v=RSl87lqOXDE",
-    "categoria_principal": "Object-Oriented Programming (OOP)",
+    "categoria_principal": "OOP Programming",
     "tags": [
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Object-Oriented Programming (OOP) (Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "OOP Programming (OOP Programming)",
     "views": 1496299,
     "upload_date": "2016-08-11",
     "latent_x": 18.770000457763672,
@@ -1591,10 +1591,10 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy",
-      "FastAPI & Django Web Backend"
+      "Data Science",
+      "Web Backend"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy, FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science, Web Backend)",
     "views": 1489804,
     "upload_date": "2017-08-11",
     "latent_x": -71.5199966430664,
@@ -1688,9 +1688,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning)",
     "views": 1366901,
     "upload_date": "2019-08-11",
     "latent_x": -21.709999084472656,
@@ -1724,11 +1724,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Fireship",
     "titulo": "PyTorch in 100 Seconds",
     "enlace": "https://www.youtube.com/watch?v=ORMx45xqWkA",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 1355050,
     "upload_date": "2023-08-10",
     "latent_x": -4.829999923706055,
@@ -1782,11 +1782,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Fireship",
     "titulo": "TensorFlow in 100 Seconds",
     "enlace": "https://www.youtube.com/watch?v=i8NETqtGHms",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 1261849,
     "upload_date": "2022-08-10",
     "latent_x": 6.019999980926514,
@@ -1804,9 +1804,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning)",
     "views": 1249909,
     "upload_date": "2025-11-12",
     "latent_x": -35.84000015258789,
@@ -1862,9 +1862,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning)",
     "views": 1194065,
     "upload_date": "2023-08-10",
     "latent_x": -46.04999923706055,
@@ -1940,9 +1940,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Web Scraping & Automation",
     "tags": [
       "Web Scraping & Automation",
-      "File I/O & Scripting Utilities"
+      "Script Utilities"
     ],
-    "categoria_descriptores": "Web Scraping & Automation (Web Scraping & Automation, File I/O & Scripting Utilities)",
+    "categoria_descriptores": "Web Scraping & Automation (Web Scraping & Automation, Script Utilities)",
     "views": 1135928,
     "upload_date": "2019-08-11",
     "latent_x": -63.59000015258789,
@@ -1979,9 +1979,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science)",
     "views": 1098017,
     "upload_date": "2019-08-11",
     "latent_x": -63.220001220703125,
@@ -2018,9 +2018,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning)",
     "views": 1079971,
     "upload_date": "2024-08-09",
     "latent_x": -17.110000610351562,
@@ -2038,9 +2038,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning)",
     "views": 1078798,
     "upload_date": "2024-08-09",
     "latent_x": -18.65999984741211,
@@ -2097,9 +2097,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Web Backend)",
     "views": 1059433,
     "upload_date": "2017-08-11",
     "latent_x": -98.01000213623047,
@@ -2191,12 +2191,12 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "freeCodeCamp.org",
     "titulo": "Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial",
     "enlace": "https://www.youtube.com/watch?v=qFJeN9V1ZsI",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow",
-      "FastAPI & Django Web Backend"
+      "Machine Learning",
+      "Web Backend"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow, FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Machine Learning (Machine Learning, Web Backend)",
     "views": 1004779,
     "upload_date": "2020-08-10",
     "latent_x": -24.610000610351562,
@@ -2366,9 +2366,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning)",
     "views": 910172,
     "upload_date": "2021-08-10",
     "latent_x": -23.68000030517578,
@@ -2405,9 +2405,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning)",
     "views": 903262,
     "upload_date": "2021-08-10",
     "latent_x": -35.279998779296875,
@@ -2422,11 +2422,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Patrick Loeber",
     "titulo": "I built the same app 3 times | Which Python Framework is best? Django vs Flask vs FastAPI",
     "enlace": "https://www.youtube.com/watch?v=3vfum74ggHE",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 882180,
     "upload_date": "2022-08-10",
     "latent_x": -120.0,
@@ -2444,9 +2444,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning)",
     "views": 880442,
     "upload_date": "2020-08-10",
     "latent_x": -38.060001373291016,
@@ -2499,11 +2499,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "freeCodeCamp.org",
     "titulo": "LangGraph Complete Course for Beginners – Complex AI Agents with Python",
     "enlace": "https://www.youtube.com/watch?v=jGg_1h0qzaM",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 865848,
     "upload_date": "2025-08-09",
     "latent_x": -25.030000686645508,
@@ -2575,11 +2575,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Programming with Mosh",
     "titulo": "What is a REST API?",
     "enlace": "https://www.youtube.com/watch?v=SLwpqD8n3d0",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 832052,
     "upload_date": "2018-08-11",
     "latent_x": -70.33000183105469,
@@ -2769,9 +2769,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science)",
     "views": 777323,
     "upload_date": "2025-08-09",
     "latent_x": -63.41999816894531,
@@ -2805,11 +2805,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Keith Galli",
     "titulo": "Complete Python Pandas Data Science Tutorial! (2025 Updated Edition)",
     "enlace": "https://www.youtube.com/watch?v=2uvysYbKdjM",
-    "categoria_principal": "Data Science with Pandas & NumPy",
+    "categoria_principal": "Data Science",
     "tags": [
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Data Science with Pandas & NumPy (Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Data Science (Data Science)",
     "views": 756970,
     "upload_date": "2024-08-09",
     "latent_x": 1.5700000524520874,
@@ -2862,11 +2862,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "NetworkChuck",
     "titulo": "build a meme Python website (Flask Tutorial for Beginners)",
     "enlace": "https://www.youtube.com/watch?v=5aYpkLfkgRE",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 677718,
     "upload_date": "2023-08-10",
     "latent_x": -84.2300033569336,
@@ -2881,11 +2881,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Bro Code",
     "titulo": "Python Object Oriented Programming in 10 minutes 🐍",
     "enlace": "https://www.youtube.com/watch?v=q2SGW2VgwAM",
-    "categoria_principal": "Object-Oriented Programming (OOP)",
+    "categoria_principal": "OOP Programming",
     "tags": [
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Object-Oriented Programming (OOP) (Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "OOP Programming (OOP Programming)",
     "views": 668433,
     "upload_date": "2021-08-10",
     "latent_x": 31.6200008392334,
@@ -2919,12 +2919,12 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "CampusX",
     "titulo": "Complete OOP in Python in 1 Video | End to End OOP in Python in 4 hours",
     "enlace": "https://www.youtube.com/watch?v=Mf2RdpEiXjU",
-    "categoria_principal": "Object-Oriented Programming (OOP)",
+    "categoria_principal": "OOP Programming",
     "tags": [
-      "Object-Oriented Programming (OOP)",
-      "Data Science with Pandas & NumPy"
+      "OOP Programming",
+      "Data Science"
     ],
-    "categoria_descriptores": "Object-Oriented Programming (OOP) (Object-Oriented Programming (OOP), Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "OOP Programming (OOP Programming, Data Science)",
     "views": 646893,
     "upload_date": "2022-08-10",
     "latent_x": 18.43000030517578,
@@ -2958,11 +2958,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "edureka!",
     "titulo": "Python NumPy Tutorial | NumPy Array | Python Tutorial For Beginners | Python Training | Edureka",
     "enlace": "https://www.youtube.com/watch?v=8JfDAm9y_7s",
-    "categoria_principal": "Data Science with Pandas & NumPy",
+    "categoria_principal": "Data Science",
     "tags": [
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Data Science with Pandas & NumPy (Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Data Science (Data Science)",
     "views": 640823,
     "upload_date": "2017-08-11",
     "latent_x": -7.5,
@@ -2996,11 +2996,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Indently",
     "titulo": "Learn Python OOP in under 20 Minutes",
     "enlace": "https://www.youtube.com/watch?v=rLyYb7BFgQI",
-    "categoria_principal": "Object-Oriented Programming (OOP)",
+    "categoria_principal": "OOP Programming",
     "tags": [
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Object-Oriented Programming (OOP) (Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "OOP Programming (OOP Programming)",
     "views": 623102,
     "upload_date": "2025-08-09",
     "latent_x": 31.110000610351562,
@@ -3037,10 +3037,10 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Data Science",
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science, Machine Learning)",
     "views": 600656,
     "upload_date": "2025-08-09",
     "latent_x": -30.190000534057617,
@@ -3058,9 +3058,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science)",
     "views": 598825,
     "upload_date": "2023-08-10",
     "latent_x": -47.470001220703125,
@@ -3075,11 +3075,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Alex The Analyst",
     "titulo": "Data Cleaning in Pandas | Python Pandas Tutorials",
     "enlace": "https://www.youtube.com/watch?v=bDhvCp3_lYw",
-    "categoria_principal": "Data Science with Pandas & NumPy",
+    "categoria_principal": "Data Science",
     "tags": [
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Data Science with Pandas & NumPy (Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Data Science (Data Science)",
     "views": 595374,
     "upload_date": "2023-08-10",
     "latent_x": -1.2200000286102295,
@@ -3094,11 +3094,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Nicholas Renotte",
     "titulo": "Tensorflow Tutorial for Python in 10 Minutes",
     "enlace": "https://www.youtube.com/watch?v=6_2hzRopPbQ",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 593647,
     "upload_date": "2021-08-10",
     "latent_x": 16.079999923706055,
@@ -3173,9 +3173,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Web Backend)",
     "views": 564854,
     "upload_date": "2022-08-10",
     "latent_x": -102.08000183105469,
@@ -3193,9 +3193,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science)",
     "views": 564669,
     "upload_date": "2025-08-09",
     "latent_x": -62.220001220703125,
@@ -3210,11 +3210,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "edureka!",
     "titulo": "Python Scripting Tutorial for Beginners | Python Tutorial | Python Training | Edureka",
     "enlace": "https://www.youtube.com/watch?v=9F6zAuYtuFw",
-    "categoria_principal": "File I/O & Scripting Utilities",
+    "categoria_principal": "Script Utilities",
     "tags": [
-      "File I/O & Scripting Utilities"
+      "Script Utilities"
     ],
-    "categoria_descriptores": "File I/O & Scripting Utilities (File I/O & Scripting Utilities)",
+    "categoria_descriptores": "Script Utilities (Script Utilities)",
     "views": 561490,
     "upload_date": "2018-08-11",
     "latent_x": -28.670000076293945,
@@ -3229,11 +3229,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "CodeWithHarry",
     "titulo": "Classes and Objects in Python | Python Tutorial - Day #57",
     "enlace": "https://www.youtube.com/watch?v=a7baAGCBA9U",
-    "categoria_principal": "Object-Oriented Programming (OOP)",
+    "categoria_principal": "OOP Programming",
     "tags": [
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Object-Oriented Programming (OOP) (Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "OOP Programming (OOP Programming)",
     "views": 560044,
     "upload_date": "2023-08-10",
     "latent_x": -15.0600004196167,
@@ -3286,11 +3286,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "pixegami",
     "titulo": "Python FastAPI Tutorial: Build a REST API in 15 Minutes",
     "enlace": "https://www.youtube.com/watch?v=iWS9ogMPOI0",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 541001,
     "upload_date": "2024-08-09",
     "latent_x": -73.25,
@@ -3365,10 +3365,10 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Object-Oriented Programming (OOP)",
-      "Machine Learning & PyTorch/TensorFlow"
+      "OOP Programming",
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Object-Oriented Programming (OOP), Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, OOP Programming, Machine Learning)",
     "views": 525128,
     "upload_date": "2019-08-11",
     "latent_x": -10.819999694824219,
@@ -3383,11 +3383,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "b001",
     "titulo": "Python Classes in 1 Minute!",
     "enlace": "https://www.youtube.com/watch?v=yYALsys-P_w",
-    "categoria_principal": "Object-Oriented Programming (OOP)",
+    "categoria_principal": "OOP Programming",
     "tags": [
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Object-Oriented Programming (OOP) (Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "OOP Programming (OOP Programming)",
     "views": 509109,
     "upload_date": "2024-08-09",
     "latent_x": -12.90999984741211,
@@ -3440,11 +3440,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "freeCodeCamp.org",
     "titulo": "Python + PyTorch + Pygame Reinforcement Learning – Train an AI to Play Snake",
     "enlace": "https://www.youtube.com/watch?v=L8ypSXwyBds",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 495770,
     "upload_date": "2022-08-10",
     "latent_x": -28.809999465942383,
@@ -3481,9 +3481,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, OOP Programming)",
     "views": 468335,
     "upload_date": "2024-08-09",
     "latent_x": 14.149999618530273,
@@ -3498,11 +3498,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Keep On Coding",
     "titulo": "Object Oriented Programming - The Four Pillars of OOP",
     "enlace": "https://www.youtube.com/watch?v=1ONhXmQuWP8",
-    "categoria_principal": "Object-Oriented Programming (OOP)",
+    "categoria_principal": "OOP Programming",
     "tags": [
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Object-Oriented Programming (OOP) (Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "OOP Programming (OOP Programming)",
     "views": 425272,
     "upload_date": "2020-08-10",
     "latent_x": -2.559999942779541,
@@ -3578,10 +3578,10 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Machine Learning & PyTorch/TensorFlow",
+      "Machine Learning",
       "Web Scraping & Automation"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning & PyTorch/TensorFlow, Web Scraping & Automation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning, Web Scraping & Automation)",
     "views": 395372,
     "upload_date": "2020-08-10",
     "latent_x": -54.369998931884766,
@@ -3618,9 +3618,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, OOP Programming)",
     "views": 389217,
     "upload_date": "2025-08-09",
     "latent_x": 4.789999961853027,
@@ -3654,11 +3654,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "codebasics",
     "titulo": "Pytorch vs Tensorflow vs Keras | Deep Learning Tutorial 6 (Tensorflow Tutorial, Keras & Python)",
     "enlace": "https://www.youtube.com/watch?v=z-ZR_8BZ1wQ",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 383912,
     "upload_date": "2020-08-10",
     "latent_x": 23.84000015258789,
@@ -3695,9 +3695,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, OOP Programming)",
     "views": 379938,
     "upload_date": "2021-08-10",
     "latent_x": 11.569999694824219,
@@ -3715,9 +3715,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science)",
     "views": 366920,
     "upload_date": "2017-08-11",
     "latent_x": -48.52000045776367,
@@ -3735,9 +3735,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Web Backend)",
     "views": 365545,
     "upload_date": "2024-08-09",
     "latent_x": -115.83999633789062,
@@ -3752,11 +3752,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Telusko",
     "titulo": "FastAPI for Beginners - Python Web Framework",
     "enlace": "https://www.youtube.com/watch?v=Lu8lXXlstvM",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 359603,
     "upload_date": "2025-09-13",
     "latent_x": -71.95999908447266,
@@ -3774,9 +3774,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning)",
     "views": 359529,
     "upload_date": "2022-08-10",
     "latent_x": -7.570000171661377,
@@ -3791,12 +3791,12 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Keith Galli",
     "titulo": "Comprehensive Python Beautiful Soup Web Scraping Tutorial! (find/find_all, css select, scrape table)",
     "enlace": "https://www.youtube.com/watch?v=GjKQ6V_ViQE",
-    "categoria_principal": "Data Science with Pandas & NumPy",
+    "categoria_principal": "Data Science",
     "tags": [
-      "Data Science with Pandas & NumPy",
+      "Data Science",
       "Web Scraping & Automation"
     ],
-    "categoria_descriptores": "Data Science with Pandas & NumPy (Data Science with Pandas & NumPy, Web Scraping & Automation)",
+    "categoria_descriptores": "Data Science (Data Science, Web Scraping & Automation)",
     "views": 351387,
     "upload_date": "2020-08-10",
     "latent_x": 9.579999923706055,
@@ -3830,11 +3830,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Tech With Tim",
     "titulo": "FastAPI, Flask or Django - Which Should You Use?",
     "enlace": "https://www.youtube.com/watch?v=cNlJCQHSmbE",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 341923,
     "upload_date": "2024-08-09",
     "latent_x": -96.87000274658203,
@@ -3909,9 +3909,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning)",
     "views": 324105,
     "upload_date": "2023-08-10",
     "latent_x": -36.310001373291016,
@@ -3948,9 +3948,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science)",
     "views": 320748,
     "upload_date": "2025-08-09",
     "latent_x": -46.9900016784668,
@@ -3968,9 +3968,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning)",
     "views": 315564,
     "upload_date": "2025-08-09",
     "latent_x": -33.68000030517578,
@@ -4046,9 +4046,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Web Scraping & Automation",
     "tags": [
       "Web Scraping & Automation",
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "Web Scraping & Automation (Web Scraping & Automation, FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Scraping & Automation (Web Scraping & Automation, Web Backend)",
     "views": 303380,
     "upload_date": "2023-08-10",
     "latent_x": -79.69000244140625,
@@ -4063,12 +4063,12 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Amigoscode",
     "titulo": "FastAPI Tutorial - Building RESTful APIs with Python",
     "enlace": "https://www.youtube.com/watch?v=GN6ICac3OXY",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow",
-      "FastAPI & Django Web Backend"
+      "Machine Learning",
+      "Web Backend"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow, FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Machine Learning (Machine Learning, Web Backend)",
     "views": 301730,
     "upload_date": "2022-08-10",
     "latent_x": -37.630001068115234,
@@ -4083,11 +4083,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "freeCodeCamp.org",
     "titulo": "PyTorch and Monai for AI Healthcare Imaging - Python Machine Learning Course",
     "enlace": "https://www.youtube.com/watch?v=M3ZWfamWrBM",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 296696,
     "upload_date": "2022-08-10",
     "latent_x": -12.539999961853027,
@@ -4102,11 +4102,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Traversy Media",
     "titulo": "Object Oriented Programming (OOP) in Python",
     "enlace": "https://www.youtube.com/watch?v=MikphENIrOo",
-    "categoria_principal": "Object-Oriented Programming (OOP)",
+    "categoria_principal": "OOP Programming",
     "tags": [
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Object-Oriented Programming (OOP) (Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "OOP Programming (OOP Programming)",
     "views": 294967,
     "upload_date": "2021-08-10",
     "latent_x": 17.729999542236328,
@@ -4124,9 +4124,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science)",
     "views": 290674,
     "upload_date": "2023-08-10",
     "latent_x": -57.189998626708984,
@@ -4160,11 +4160,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Tech With Tim",
     "titulo": "Learn Pandas in 30 Minutes - Python Pandas Tutorial",
     "enlace": "https://www.youtube.com/watch?v=EXIgjIBu4EU",
-    "categoria_principal": "Data Science with Pandas & NumPy",
+    "categoria_principal": "Data Science",
     "tags": [
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Data Science with Pandas & NumPy (Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Data Science (Data Science)",
     "views": 284647,
     "upload_date": "2025-08-09",
     "latent_x": 15.5,
@@ -4179,12 +4179,12 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Tech With Tim",
     "titulo": "Learn Fast API With This ONE Project",
     "enlace": "https://www.youtube.com/watch?v=SR5NYCdzKkc",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow",
-      "FastAPI & Django Web Backend"
+      "Machine Learning",
+      "Web Backend"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow, FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Machine Learning (Machine Learning, Web Backend)",
     "views": 283656,
     "upload_date": "2025-11-12",
     "latent_x": -26.600000381469727,
@@ -4332,11 +4332,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Rob Mulla",
     "titulo": "Build Your First Pytorch Model In Minutes! [Tutorial + Code]",
     "enlace": "https://www.youtube.com/watch?v=tHL5STNJKag",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 271826,
     "upload_date": "2024-08-09",
     "latent_x": 22.399999618530273,
@@ -4354,9 +4354,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science)",
     "views": 264827,
     "upload_date": "2024-08-09",
     "latent_x": -58.869998931884766,
@@ -4374,9 +4374,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science)",
     "views": 262785,
     "upload_date": "2022-08-10",
     "latent_x": -39.27000045776367,
@@ -4394,9 +4394,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science)",
     "views": 260756,
     "upload_date": "2020-08-10",
     "latent_x": -50.45000076293945,
@@ -4430,11 +4430,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Chandoo",
     "titulo": "Learn how to use PANDAS in Python in 15 minutes - with 10 real examples",
     "enlace": "https://www.youtube.com/watch?v=mkYBJwX_dMs",
-    "categoria_principal": "Data Science with Pandas & NumPy",
+    "categoria_principal": "Data Science",
     "tags": [
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Data Science with Pandas & NumPy (Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Data Science (Data Science)",
     "views": 252105,
     "upload_date": "2023-08-10",
     "latent_x": 9.199999809265137,
@@ -4491,9 +4491,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science)",
     "views": 247134,
     "upload_date": "2025-08-09",
     "latent_x": -29.68000030517578,
@@ -4508,11 +4508,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Jenny's Lectures CS IT",
     "titulo": "OOP in Python | Object Oriented Programming | Python for Beginners #lec84",
     "enlace": "https://www.youtube.com/watch?v=Ic7ZBKqkS1E",
-    "categoria_principal": "Object-Oriented Programming (OOP)",
+    "categoria_principal": "OOP Programming",
     "tags": [
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Object-Oriented Programming (OOP) (Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "OOP Programming (OOP Programming)",
     "views": 244133,
     "upload_date": "2023-08-10",
     "latent_x": 3.7899999618530273,
@@ -4527,11 +4527,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "BasicOverflow",
     "titulo": "FP vs OOP | For Dummies",
     "enlace": "https://www.youtube.com/watch?v=08CWw_VD45w",
-    "categoria_principal": "Object-Oriented Programming (OOP)",
+    "categoria_principal": "OOP Programming",
     "tags": [
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Object-Oriented Programming (OOP) (Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "OOP Programming (OOP Programming)",
     "views": 241912,
     "upload_date": "2021-08-10",
     "latent_x": 13.270000457763672,
@@ -4546,11 +4546,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Aladdin Persson",
     "titulo": "Pytorch Tutorial - Setting up a Deep Learning Environment (Anaconda & PyCharm)",
     "enlace": "https://www.youtube.com/watch?v=2S1dgHpqCdk",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 239319,
     "upload_date": "2020-08-10",
     "latent_x": 4.329999923706055,
@@ -4603,11 +4603,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Tech With Tim",
     "titulo": "Learn Python Scripting With This ONE Project!",
     "enlace": "https://www.youtube.com/watch?v=dQlw1Cdd3pw",
-    "categoria_principal": "File I/O & Scripting Utilities",
+    "categoria_principal": "Script Utilities",
     "tags": [
-      "File I/O & Scripting Utilities"
+      "Script Utilities"
     ],
-    "categoria_descriptores": "File I/O & Scripting Utilities (File I/O & Scripting Utilities)",
+    "categoria_descriptores": "Script Utilities (Script Utilities)",
     "views": 230628,
     "upload_date": "2023-08-10",
     "latent_x": -29.34000015258789,
@@ -4625,9 +4625,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, OOP Programming)",
     "views": 230210,
     "upload_date": "2024-08-09",
     "latent_x": 2.369999885559082,
@@ -4642,11 +4642,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "codebasics",
     "titulo": "FastAPI Tutorial | FastAPI vs Flask",
     "enlace": "https://www.youtube.com/watch?v=Wr1JjhTt1Xg",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 224391,
     "upload_date": "2022-08-10",
     "latent_x": -91.76000213623047,
@@ -4680,11 +4680,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Programiz",
     "titulo": "Object-oriented Programming (OOP) in Python (Easy to Understand Guide) #20",
     "enlace": "https://www.youtube.com/watch?v=pnWINBJ3-yA",
-    "categoria_principal": "Object-Oriented Programming (OOP)",
+    "categoria_principal": "OOP Programming",
     "tags": [
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Object-Oriented Programming (OOP) (Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "OOP Programming (OOP Programming)",
     "views": 221574,
     "upload_date": "2021-08-10",
     "latent_x": 32.4900016784668,
@@ -4699,11 +4699,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "freeCodeCamp.org",
     "titulo": "Python Essentials for AI Agents – Tutorial",
     "enlace": "https://www.youtube.com/watch?v=UsfpzxZNsPo",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 219462,
     "upload_date": "2026-03-12",
     "latent_x": -20.010000228881836,
@@ -4718,11 +4718,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Nicholas Renotte",
     "titulo": "Building a Neural Network with PyTorch in 15 Minutes | Coding Challenge",
     "enlace": "https://www.youtube.com/watch?v=mozBidd58VQ",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 219112,
     "upload_date": "2023-08-10",
     "latent_x": 9.479999542236328,
@@ -4795,11 +4795,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Tech With Tim",
     "titulo": "How to Create a FastAPI & React Project - Python Backend + React Frontend",
     "enlace": "https://www.youtube.com/watch?v=aSdVU9-SxH4",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 202924,
     "upload_date": "2025-08-09",
     "latent_x": -51.31999969482422,
@@ -4817,9 +4817,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Web Backend)",
     "views": 199181,
     "upload_date": "2026-02-10",
     "latent_x": -84.44000244140625,
@@ -4834,11 +4834,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "CodingEntrepreneurs",
     "titulo": "FastAPI Python Tutorial: Build an Analytics API from Scratch",
     "enlace": "https://www.youtube.com/watch?v=tiBeLLv5GJo",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 196774,
     "upload_date": "2025-08-09",
     "latent_x": -53.189998626708984,
@@ -4856,9 +4856,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning)",
     "views": 196451,
     "upload_date": "2022-08-10",
     "latent_x": -53.36000061035156,
@@ -4892,11 +4892,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Ork Slayer Gamedev",
     "titulo": "Learn Python Classes With a Text-Based Battle - OOP Tutorial",
     "enlace": "https://www.youtube.com/watch?v=cM_ocyOrs_k",
-    "categoria_principal": "Object-Oriented Programming (OOP)",
+    "categoria_principal": "OOP Programming",
     "tags": [
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Object-Oriented Programming (OOP) (Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "OOP Programming (OOP Programming)",
     "views": 187864,
     "upload_date": "2023-08-10",
     "latent_x": -5.210000038146973,
@@ -4911,11 +4911,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Zachary Huang",
     "titulo": "PyTorch in 1 Hour",
     "enlace": "https://www.youtube.com/watch?v=r1bquDz5GGA",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 185190,
     "upload_date": "2025-09-13",
     "latent_x": -4.480000019073486,
@@ -4952,9 +4952,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Web Backend)",
     "views": 177918,
     "upload_date": "2025-08-09",
     "latent_x": -108.08999633789062,
@@ -5045,11 +5045,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Johan Godinho",
     "titulo": "How to create a banking system using Object Oriented Programming in python for beginners",
     "enlace": "https://www.youtube.com/watch?v=xTh-ln2XhgU",
-    "categoria_principal": "Object-Oriented Programming (OOP)",
+    "categoria_principal": "OOP Programming",
     "tags": [
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Object-Oriented Programming (OOP) (Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "OOP Programming (OOP Programming)",
     "views": 173523,
     "upload_date": "2020-08-10",
     "latent_x": 7.900000095367432,
@@ -5064,11 +5064,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Zero To Mastery",
     "titulo": "PyTorch 101 Crash Course For Beginners in 2026 | Daniel Bourke",
     "enlace": "https://www.youtube.com/watch?v=LyJtbe__2i0",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 173158,
     "upload_date": "2025-08-09",
     "latent_x": -11.130000114440918,
@@ -5102,11 +5102,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Tech With Tim",
     "titulo": "The Ultimate FastAPI + React Full Stack Project (Deploy This and You’re Set)",
     "enlace": "https://www.youtube.com/watch?v=_1P0Uqk50Ps",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 170242,
     "upload_date": "2025-08-09",
     "latent_x": -60.279998779296875,
@@ -5141,11 +5141,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Python Simplified",
     "titulo": "Ultimate Guide to NumPy Arrays - VERY DETAILED TUTORIAL for beginners!",
     "enlace": "https://www.youtube.com/watch?v=lLRBYKwP8GQ",
-    "categoria_principal": "Data Science with Pandas & NumPy",
+    "categoria_principal": "Data Science",
     "tags": [
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Data Science with Pandas & NumPy (Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Data Science (Data Science)",
     "views": 169022,
     "upload_date": "2022-08-10",
     "latent_x": 24.489999771118164,
@@ -5160,12 +5160,12 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Simplilearn",
     "titulo": "Python Pandas Tutorial | Pandas For Data Analysis | Python Pandas | Python Tutorial | Simplilearn",
     "enlace": "https://www.youtube.com/watch?v=PfVxFV1ZPnk",
-    "categoria_principal": "Data Science with Pandas & NumPy",
+    "categoria_principal": "Data Science",
     "tags": [
-      "Data Science with Pandas & NumPy",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Data Science",
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Data Science with Pandas & NumPy (Data Science with Pandas & NumPy, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Data Science (Data Science, Machine Learning)",
     "views": 163102,
     "upload_date": "2019-08-11",
     "latent_x": 6.03000020980835,
@@ -5218,11 +5218,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Clear Code",
     "titulo": "Understanding classes and object-oriented programming [Python Tutorial]",
     "enlace": "https://www.youtube.com/watch?v=_vr5faCXFo8",
-    "categoria_principal": "Object-Oriented Programming (OOP)",
+    "categoria_principal": "OOP Programming",
     "tags": [
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Object-Oriented Programming (OOP) (Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "OOP Programming (OOP Programming)",
     "views": 159378,
     "upload_date": "2022-08-10",
     "latent_x": -8.40999984741211,
@@ -5237,11 +5237,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "NeuralNine",
     "titulo": "NumPy Full Python Course - Data Science Fundamentals",
     "enlace": "https://www.youtube.com/watch?v=4c_mwnYdbhQ",
-    "categoria_principal": "Data Science with Pandas & NumPy",
+    "categoria_principal": "Data Science",
     "tags": [
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Data Science with Pandas & NumPy (Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Data Science (Data Science)",
     "views": 158916,
     "upload_date": "2022-08-10",
     "latent_x": -11.1899995803833,
@@ -5256,11 +5256,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Patrick Loeber",
     "titulo": "I built the same model with TensorFlow and PyTorch | Which Framework is better?",
     "enlace": "https://www.youtube.com/watch?v=ay1E1f8VqP8",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 157217,
     "upload_date": "2022-08-10",
     "latent_x": 32.790000915527344,
@@ -5278,9 +5278,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning)",
     "views": 156339,
     "upload_date": "2023-08-10",
     "latent_x": -7.050000190734863,
@@ -5298,9 +5298,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science)",
     "views": 156222,
     "upload_date": "2022-08-10",
     "latent_x": -57.720001220703125,
@@ -5318,9 +5318,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science)",
     "views": 156123,
     "upload_date": "2024-08-09",
     "latent_x": -57.63999938964844,
@@ -5335,11 +5335,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Lex Clips",
     "titulo": "PyTorch vs TensorFlow | Ishan Misra and Lex Fridman",
     "enlace": "https://www.youtube.com/watch?v=cLLsc4Hlo-8",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 155862,
     "upload_date": "2021-08-10",
     "latent_x": 12.75,
@@ -5392,12 +5392,12 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Telusko",
     "titulo": "#1 FastAPI - Python Web Framework",
     "enlace": "https://www.youtube.com/watch?v=02dzgC_Ba70",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow",
-      "FastAPI & Django Web Backend"
+      "Machine Learning",
+      "Web Backend"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow, FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Machine Learning (Machine Learning, Web Backend)",
     "views": 153142,
     "upload_date": "2025-09-13",
     "latent_x": -35.619998931884766,
@@ -5412,11 +5412,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Rishabh Mishra",
     "titulo": "Complete Python Pandas Data Science Tutorial",
     "enlace": "https://www.youtube.com/watch?v=_BA5kFO7w44",
-    "categoria_principal": "Data Science with Pandas & NumPy",
+    "categoria_principal": "Data Science",
     "tags": [
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Data Science with Pandas & NumPy (Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Data Science (Data Science)",
     "views": 151848,
     "upload_date": "2026-02-10",
     "latent_x": 0.20999999344348907,
@@ -5431,11 +5431,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "freeCodeCamp.org",
     "titulo": "Learn PyTorch in 5 Projects – Tutorial",
     "enlace": "https://www.youtube.com/watch?v=E0bwEAWmVEM",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 145037,
     "upload_date": "2025-08-09",
     "latent_x": 6.710000038146973,
@@ -5453,9 +5453,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Web Backend)",
     "views": 143120,
     "upload_date": "2024-08-09",
     "latent_x": -80.51000213623047,
@@ -5473,9 +5473,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Web Scraping & Automation",
     "tags": [
       "Web Scraping & Automation",
-      "File I/O & Scripting Utilities"
+      "Script Utilities"
     ],
-    "categoria_descriptores": "Web Scraping & Automation (Web Scraping & Automation, File I/O & Scripting Utilities)",
+    "categoria_descriptores": "Web Scraping & Automation (Web Scraping & Automation, Script Utilities)",
     "views": 142744,
     "upload_date": "2023-08-10",
     "latent_x": -52.810001373291016,
@@ -5493,9 +5493,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Web Backend)",
     "views": 140541,
     "upload_date": "2021-08-10",
     "latent_x": -99.2699966430664,
@@ -5510,11 +5510,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Nicholas Renotte",
     "titulo": "Build a Deep Learning Model that can LIP READ using Python and Tensorflow | Full Tutorial",
     "enlace": "https://www.youtube.com/watch?v=uKyojQjbx4c",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 138755,
     "upload_date": "2023-08-10",
     "latent_x": 22.920000076293945,
@@ -5529,11 +5529,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "ArjanCodes",
     "titulo": "Anatomy of a Scalable Python Project (FastAPI)",
     "enlace": "https://www.youtube.com/watch?v=Af6Zr0tNNdE",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 138066,
     "upload_date": "2025-10-13",
     "latent_x": -67.91000366210938,
@@ -5624,11 +5624,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "codebasics",
     "titulo": "Python Tutorial for AI: Everything You Need in 2 Hours",
     "enlace": "https://www.youtube.com/watch?v=6GuyMZ-cSzE",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 124622,
     "upload_date": "2026-07-10",
     "latent_x": -12.90999984741211,
@@ -5663,12 +5663,12 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Simplilearn",
     "titulo": "NumPy and Pandas Tutorial | Data Analysis With Python | Python Tutorial for Beginners | Simplilearn",
     "enlace": "https://www.youtube.com/watch?v=FniLzpaSFGk",
-    "categoria_principal": "Data Science with Pandas & NumPy",
+    "categoria_principal": "Data Science",
     "tags": [
-      "Data Science with Pandas & NumPy",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Data Science",
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Data Science with Pandas & NumPy (Data Science with Pandas & NumPy, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Data Science (Data Science, Machine Learning)",
     "views": 120704,
     "upload_date": "2022-08-10",
     "latent_x": 7.150000095367432,
@@ -5683,12 +5683,12 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Simplilearn",
     "titulo": "Python Scripting Tutorial For Beginners | Python Tutorial | Python Programming | Simplilearn",
     "enlace": "https://www.youtube.com/watch?v=AVHqSRMxwPI",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow",
-      "File I/O & Scripting Utilities"
+      "Machine Learning",
+      "Script Utilities"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow, File I/O & Scripting Utilities)",
+    "categoria_descriptores": "Machine Learning (Machine Learning, Script Utilities)",
     "views": 119638,
     "upload_date": "2019-08-11",
     "latent_x": -3.369999885559082,
@@ -5703,11 +5703,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Tuts+ Code",
     "titulo": "Python from Scratch - Lesson 4: Object Oriented Programming",
     "enlace": "https://www.youtube.com/watch?v=iyXyxvs-544",
-    "categoria_principal": "Object-Oriented Programming (OOP)",
+    "categoria_principal": "OOP Programming",
     "tags": [
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Object-Oriented Programming (OOP) (Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "OOP Programming (OOP Programming)",
     "views": 116227,
     "upload_date": "2012-08-12",
     "latent_x": 20.600000381469727,
@@ -5779,11 +5779,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "NeuralNine",
     "titulo": "Scikit-Learn Full Crash Course - Python Machine Learning",
     "enlace": "https://www.youtube.com/watch?v=SIEaLBXr0rk",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 107824,
     "upload_date": "2025-08-09",
     "latent_x": -14.859999656677246,
@@ -5798,11 +5798,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Indently",
     "titulo": "How To Create Your Very First API With FastAPI In Python Tutorial 2023",
     "enlace": "https://www.youtube.com/watch?v=F43rgxq4CKw",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 105182,
     "upload_date": "2023-08-10",
     "latent_x": -61.09000015258789,
@@ -5855,11 +5855,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Swag Professor Explain",
     "titulo": "Every Machine Machine Learning Framework Explained in 5 Minutes!",
     "enlace": "https://www.youtube.com/watch?v=NSfE0BN5DIY",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 98674,
     "upload_date": "2025-10-13",
     "latent_x": 5.409999847412109,
@@ -5877,9 +5877,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, OOP Programming)",
     "views": 97283,
     "upload_date": "2024-08-09",
     "latent_x": 12.850000381469727,
@@ -5894,11 +5894,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Daniel | Tech & Data",
     "titulo": "PyTorch vs TensorFlow in 2026 - Make the Right Choice (Different Explained)",
     "enlace": "https://www.youtube.com/watch?v=iyHkg7TmHmE",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 95566,
     "upload_date": "2024-08-09",
     "latent_x": 8.149999618530273,
@@ -5916,9 +5916,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Web Scraping & Automation",
     "tags": [
       "Web Scraping & Automation",
-      "File I/O & Scripting Utilities"
+      "Script Utilities"
     ],
-    "categoria_descriptores": "Web Scraping & Automation (Web Scraping & Automation, File I/O & Scripting Utilities)",
+    "categoria_descriptores": "Web Scraping & Automation (Web Scraping & Automation, Script Utilities)",
     "views": 95156,
     "upload_date": "2022-08-10",
     "latent_x": -50.36000061035156,
@@ -5936,9 +5936,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, OOP Programming)",
     "views": 91071,
     "upload_date": "2021-08-10",
     "latent_x": 32.58000183105469,
@@ -5953,11 +5953,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Dave Gray",
     "titulo": "Python OOP (Object-Oriented Programming) Project for Beginners",
     "enlace": "https://www.youtube.com/watch?v=PMFd95RgIwE",
-    "categoria_principal": "Object-Oriented Programming (OOP)",
+    "categoria_principal": "OOP Programming",
     "tags": [
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Object-Oriented Programming (OOP) (Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "OOP Programming (OOP Programming)",
     "views": 87068,
     "upload_date": "2023-08-10",
     "latent_x": 11.630000114440918,
@@ -5975,9 +5975,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science)",
     "views": 85582,
     "upload_date": "2021-08-10",
     "latent_x": -45.34000015258789,
@@ -6033,10 +6033,10 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Data Science",
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science, Machine Learning)",
     "views": 83204,
     "upload_date": "2020-08-10",
     "latent_x": -23.440000534057617,
@@ -6051,11 +6051,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Sundeep Saradhi Kanthety",
     "titulo": "PYTHON TUTORIAL FOR BEGINNERS IN 11 HOURS (in ENGLISH) || BASIC PYTHON PROGRAMMING || DATA SCIENCE",
     "enlace": "https://www.youtube.com/watch?v=u3zj0GfLoP8",
-    "categoria_principal": "Data Science with Pandas & NumPy",
+    "categoria_principal": "Data Science",
     "tags": [
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Data Science with Pandas & NumPy (Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Data Science (Data Science)",
     "views": 82224,
     "upload_date": "2022-08-10",
     "latent_x": -15.0,
@@ -6092,9 +6092,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, OOP Programming)",
     "views": 80891,
     "upload_date": "2019-08-11",
     "latent_x": 4.840000152587891,
@@ -6128,11 +6128,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Corey Schafer",
     "titulo": "Python Pydantic Tutorial: Complete Data Validation Course (Used by FastAPI)",
     "enlace": "https://www.youtube.com/watch?v=M81pfi64eeM",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 79132,
     "upload_date": "2025-11-12",
     "latent_x": -81.27999877929688,
@@ -6147,11 +6147,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "IBM Technology",
     "titulo": "What is PyTorch? (Machine/Deep Learning)",
     "enlace": "https://www.youtube.com/watch?v=fJ40w_2h8kk",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 78869,
     "upload_date": "2024-08-09",
     "latent_x": -1.2999999523162842,
@@ -6188,9 +6188,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, OOP Programming)",
     "views": 76653,
     "upload_date": "2023-08-10",
     "latent_x": 2.7699999809265137,
@@ -6208,9 +6208,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Web Backend)",
     "views": 76340,
     "upload_date": "2026-05-11",
     "latent_x": -102.63999938964844,
@@ -6228,9 +6228,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science)",
     "views": 76128,
     "upload_date": "2025-08-09",
     "latent_x": -67.93000030517578,
@@ -6302,11 +6302,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Code with Josh",
     "titulo": "LSTM Time Series Forecasting with TensorFlow & Python – Step-by-Step Tutorial",
     "enlace": "https://www.youtube.com/watch?v=94PlBzgeq90",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 71535,
     "upload_date": "2025-08-09",
     "latent_x": 24.489999771118164,
@@ -6321,11 +6321,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "CodeHead",
     "titulo": "FastAPI explained in 2 minutes",
     "enlace": "https://www.youtube.com/watch?v=umbU5Pk03CM",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 66971,
     "upload_date": "2026-02-10",
     "latent_x": -68.69999694824219,
@@ -6343,9 +6343,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science)",
     "views": 66879,
     "upload_date": "2021-08-10",
     "latent_x": -30.920000076293945,
@@ -6401,10 +6401,10 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy",
-      "FastAPI & Django Web Backend"
+      "Data Science",
+      "Web Backend"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy, FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science, Web Backend)",
     "views": 60632,
     "upload_date": "2026-02-10",
     "latent_x": -79.30000305175781,
@@ -6441,9 +6441,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, OOP Programming)",
     "views": 59357,
     "upload_date": "2017-08-11",
     "latent_x": 0.6499999761581421,
@@ -6515,12 +6515,12 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Thu Vu",
     "titulo": "Python Web-scraping with Selenium vs Scrapy vs BeautifulSoup | Witcher project ep. #1",
     "enlace": "https://www.youtube.com/watch?v=RuNolAh_4bU",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow",
+      "Machine Learning",
       "Web Scraping & Automation"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow, Web Scraping & Automation)",
+    "categoria_descriptores": "Machine Learning (Machine Learning, Web Scraping & Automation)",
     "views": 49013,
     "upload_date": "2022-08-10",
     "latent_x": 14.149999618530273,
@@ -6535,11 +6535,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Tech With Tim",
     "titulo": "Learn NumPy in 40 Minutes - Python NumPy Tutorial",
     "enlace": "https://www.youtube.com/watch?v=zI5ducyfyNc",
-    "categoria_principal": "Data Science with Pandas & NumPy",
+    "categoria_principal": "Data Science",
     "tags": [
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Data Science with Pandas & NumPy (Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Data Science (Data Science)",
     "views": 47654,
     "upload_date": "2026-02-10",
     "latent_x": 2.9800000190734863,
@@ -6557,10 +6557,10 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Data Science",
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science, Machine Learning)",
     "views": 45060,
     "upload_date": "2025-08-09",
     "latent_x": -30.600000381469727,
@@ -6597,9 +6597,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science)",
     "views": 43098,
     "upload_date": "2019-08-11",
     "latent_x": -34.130001068115234,
@@ -6614,11 +6614,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Corey Schafer",
     "titulo": "I Use AI Every Day: What I Like, What I Hate, and Where I Think We're Heading",
     "enlace": "https://www.youtube.com/watch?v=tHh0UaL_V4w",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 42757,
     "upload_date": "2026-07-27",
     "latent_x": -7.230000019073486,
@@ -6636,9 +6636,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science)",
     "views": 42040,
     "upload_date": "2015-08-12",
     "latent_x": -67.4800033569336,
@@ -6675,9 +6675,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning)",
     "views": 40594,
     "upload_date": "2021-08-10",
     "latent_x": -34.58000183105469,
@@ -6711,11 +6711,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "MIT OpenCourseWare",
     "titulo": "PyTorch Tutorial",
     "enlace": "https://www.youtube.com/watch?v=o5gPABcGZwc",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 39797,
     "upload_date": "2026-03-12",
     "latent_x": 2.2100000381469727,
@@ -6730,11 +6730,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "NeuralNine",
     "titulo": "Stock Price Prediction in Python with PyTorch - Full Tutorial",
     "enlace": "https://www.youtube.com/watch?v=IJ50ew8wi-0",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 39357,
     "upload_date": "2025-08-09",
     "latent_x": 8.5,
@@ -6768,11 +6768,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Underfitted",
     "titulo": "How to run PyTorch, TensorFlow, and JAX on your Mac (Apple Silicon)",
     "enlace": "https://www.youtube.com/watch?v=cGEIEnekmRM",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 37171,
     "upload_date": "2024-08-09",
     "latent_x": 26.479999542236328,
@@ -6787,11 +6787,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "ProgrammingKnowledge",
     "titulo": "Python OOP Tutorials | Composition and Aggregation",
     "enlace": "https://www.youtube.com/watch?v=mPFc3JHLnz8",
-    "categoria_principal": "Object-Oriented Programming (OOP)",
+    "categoria_principal": "OOP Programming",
     "tags": [
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Object-Oriented Programming (OOP) (Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "OOP Programming (OOP Programming)",
     "views": 36466,
     "upload_date": "2020-08-10",
     "latent_x": 19.06999969482422,
@@ -6809,9 +6809,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, OOP Programming)",
     "views": 35865,
     "upload_date": "2022-08-10",
     "latent_x": -16.09000015258789,
@@ -6829,9 +6829,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning)",
     "views": 35126,
     "upload_date": "2026-03-12",
     "latent_x": -47.15999984741211,
@@ -6866,11 +6866,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Eric Roby",
     "titulo": "FastAPI vs. Django REST Framework: Which One Should You Choose?",
     "enlace": "https://www.youtube.com/watch?v=bGw9An9rI18",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 33199,
     "upload_date": "2025-08-09",
     "latent_x": -90.02999877929688,
@@ -6907,9 +6907,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, OOP Programming)",
     "views": 31006,
     "upload_date": "2024-08-09",
     "latent_x": 20.1299991607666,
@@ -6943,11 +6943,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "AMP Tech",
     "titulo": "PyTorch o Tensorflow ¿Cuál es la ideal para ti?",
     "enlace": "https://www.youtube.com/watch?v=Je09qqhmEm0",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 30616,
     "upload_date": "2023-08-10",
     "latent_x": 9.600000381469727,
@@ -6981,11 +6981,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Phillip Rubin",
     "titulo": "REST API IN PYTHON | Flask vs. FastAPI vs. Django",
     "enlace": "https://www.youtube.com/watch?v=0juyVjBN8HQ",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 28371,
     "upload_date": "2022-08-10",
     "latent_x": -103.75,
@@ -7000,11 +7000,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "DATACLOUDER",
     "titulo": "El tutorial mejor explicado para aprender fast api desde 0.",
     "enlace": "https://www.youtube.com/watch?v=TatMVGGMxY0",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 27719,
     "upload_date": "2024-08-09",
     "latent_x": -48.65999984741211,
@@ -7038,11 +7038,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Satyajit Pattnaik",
     "titulo": "Complete Python NumPy for Data Science in 30 minutes | NumPy Python Full Guide",
     "enlace": "https://www.youtube.com/watch?v=2Lk3y3pzzmg",
-    "categoria_principal": "Data Science with Pandas & NumPy",
+    "categoria_principal": "Data Science",
     "tags": [
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Data Science with Pandas & NumPy (Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Data Science (Data Science)",
     "views": 24943,
     "upload_date": "2022-08-10",
     "latent_x": 14.40999984741211,
@@ -7057,11 +7057,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "TuTechGuy",
     "titulo": "FastAPI explicado fácil y rápido para principiantes",
     "enlace": "https://www.youtube.com/watch?v=FpjdLbm30ZY",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 24890,
     "upload_date": "2025-11-12",
     "latent_x": -61.13999938964844,
@@ -7076,11 +7076,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Satyajit Pattnaik",
     "titulo": "Complete Python Pandas for Data Science in 30 minutes  - Tutorial for Beginners",
     "enlace": "https://www.youtube.com/watch?v=ogNGyBYlHW0",
-    "categoria_principal": "Data Science with Pandas & NumPy",
+    "categoria_principal": "Data Science",
     "tags": [
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Data Science with Pandas & NumPy (Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Data Science (Data Science)",
     "views": 22300,
     "upload_date": "2022-08-10",
     "latent_x": 14.630000114440918,
@@ -7133,11 +7133,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "NeuralNine",
     "titulo": "Flask VS Django VS FastAPI - Detailed Comparison & Use Cases",
     "enlace": "https://www.youtube.com/watch?v=nnyVoqfcAl8",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 19921,
     "upload_date": "2025-10-13",
     "latent_x": -101.11000061035156,
@@ -7155,9 +7155,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning)",
     "views": 19785,
     "upload_date": "2025-08-09",
     "latent_x": -42.119998931884766,
@@ -7175,9 +7175,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science)",
     "views": 18868,
     "upload_date": "2020-08-10",
     "latent_x": -48.0,
@@ -7214,9 +7214,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning)",
     "views": 16856,
     "upload_date": "2025-08-09",
     "latent_x": -26.540000915527344,
@@ -7288,11 +7288,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Mastering Code and Learn Code With Durgesh",
     "titulo": "FastAPI vs Django vs Flask | Which Python Framework Should You Learn in 2026?",
     "enlace": "https://www.youtube.com/watch?v=DC0ZXApgheg",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 14582,
     "upload_date": "2026-01-11",
     "latent_x": -103.18000030517578,
@@ -7326,11 +7326,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "NeuralNine",
     "titulo": "Python Object-Oriented Programming Explained in 12 Minutes",
     "enlace": "https://www.youtube.com/watch?v=85cQy2aeD44",
-    "categoria_principal": "Object-Oriented Programming (OOP)",
+    "categoria_principal": "OOP Programming",
     "tags": [
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Object-Oriented Programming (OOP) (Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "OOP Programming (OOP Programming)",
     "views": 14215,
     "upload_date": "2025-08-09",
     "latent_x": 26.049999237060547,
@@ -7348,9 +7348,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Web Scraping & Automation",
     "tags": [
       "Web Scraping & Automation",
-      "File I/O & Scripting Utilities"
+      "Script Utilities"
     ],
-    "categoria_descriptores": "Web Scraping & Automation (Web Scraping & Automation, File I/O & Scripting Utilities)",
+    "categoria_descriptores": "Web Scraping & Automation (Web Scraping & Automation, Script Utilities)",
     "views": 13782,
     "upload_date": "2025-08-09",
     "latent_x": -61.16999816894531,
@@ -7365,11 +7365,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "NeuralNine",
     "titulo": "Full Machine Learning Project: Train & Deploy a Pneumonia Classifier in PyTorch",
     "enlace": "https://www.youtube.com/watch?v=Gx_I2y3L8is",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 13600,
     "upload_date": "2025-08-09",
     "latent_x": -31.5,
@@ -7387,9 +7387,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Web Scraping & Automation",
     "tags": [
       "Web Scraping & Automation",
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "Web Scraping & Automation (Web Scraping & Automation, FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Scraping & Automation (Web Scraping & Automation, Web Backend)",
     "views": 13468,
     "upload_date": "2026-03-12",
     "latent_x": -81.66999816894531,
@@ -7407,9 +7407,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Web Backend)",
     "views": 13459,
     "upload_date": "2025-08-09",
     "latent_x": -97.30999755859375,
@@ -7443,12 +7443,12 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Smitha Kolan - Machine Learning Engineer",
     "titulo": "How To Learn Python For Machine Learning (NumPy & Pandas Guide)",
     "enlace": "https://www.youtube.com/watch?v=VsRFqvijF6M",
-    "categoria_principal": "Data Science with Pandas & NumPy",
+    "categoria_principal": "Data Science",
     "tags": [
-      "Data Science with Pandas & NumPy",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Data Science",
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Data Science with Pandas & NumPy (Data Science with Pandas & NumPy, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Data Science (Data Science, Machine Learning)",
     "views": 11433,
     "upload_date": "2021-08-10",
     "latent_x": -8.569999694824219,
@@ -7486,9 +7486,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "File I/O & Scripting Utilities"
+      "Script Utilities"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, File I/O & Scripting Utilities)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Script Utilities)",
     "views": 11409,
     "upload_date": "2025-08-09",
     "latent_x": -20.25,
@@ -7503,11 +7503,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "The Program One",
     "titulo": "PyTorch vs TensorFlow vs JAX: The Ultimate Comparison",
     "enlace": "https://www.youtube.com/watch?v=mf2oCBeg7T8",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 10745,
     "upload_date": "2025-08-09",
     "latent_x": 25.06999969482422,
@@ -7525,9 +7525,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, OOP Programming)",
     "views": 10418,
     "upload_date": "2025-08-09",
     "latent_x": 29.219999313354492,
@@ -7542,11 +7542,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Pivotalstats",
     "titulo": "Complete NUMPY for Beginners in just 10 minutes | Python Data Analysis",
     "enlace": "https://www.youtube.com/watch?v=auZhd2pPtv0",
-    "categoria_principal": "Data Science with Pandas & NumPy",
+    "categoria_principal": "Data Science",
     "tags": [
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Data Science with Pandas & NumPy (Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Data Science (Data Science)",
     "views": 8955,
     "upload_date": "2023-08-10",
     "latent_x": -10.100000381469727,
@@ -7580,11 +7580,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "ACADGILD",
     "titulo": "NumPy Python Tutorial 2018 Part 2 | NumPy and Pandas Tutorial | NumPy Tutorial 2018 | NumPy",
     "enlace": "https://www.youtube.com/watch?v=P_3MyPMXN0Y",
-    "categoria_principal": "Data Science with Pandas & NumPy",
+    "categoria_principal": "Data Science",
     "tags": [
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Data Science with Pandas & NumPy (Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Data Science (Data Science)",
     "views": 8335,
     "upload_date": "2019-08-11",
     "latent_x": 11.09000015258789,
@@ -7621,9 +7621,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Machine Learning)",
     "views": 7617,
     "upload_date": "2025-09-13",
     "latent_x": -20.360000610351562,
@@ -7638,11 +7638,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Unfold Data Science",
     "titulo": "Pytorch tutorial for beginners | Pytorch neural network tutorial | Pytorch course",
     "enlace": "https://www.youtube.com/watch?v=KYFXNncIC3c",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow"
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Machine Learning (Machine Learning)",
     "views": 6998,
     "upload_date": "2024-08-09",
     "latent_x": 1.7000000476837158,
@@ -7657,12 +7657,12 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "CODE MENTAL",
     "titulo": "Web scraping with Python, BeautifulSoup, Pandas and Selenium",
     "enlace": "https://www.youtube.com/watch?v=yMEMUf3vEvc",
-    "categoria_principal": "Data Science with Pandas & NumPy",
+    "categoria_principal": "Data Science",
     "tags": [
-      "Data Science with Pandas & NumPy",
+      "Data Science",
       "Web Scraping & Automation"
     ],
-    "categoria_descriptores": "Data Science with Pandas & NumPy (Data Science with Pandas & NumPy, Web Scraping & Automation)",
+    "categoria_descriptores": "Data Science (Data Science, Web Scraping & Automation)",
     "views": 6987,
     "upload_date": "2021-08-10",
     "latent_x": -5.539999961853027,
@@ -7696,11 +7696,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "PyGuess",
     "titulo": "FastAPI vs Django: Which Python Framework Should You Choose in 2025?",
     "enlace": "https://www.youtube.com/watch?v=akIBTnWU0u8",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 6382,
     "upload_date": "2025-09-13",
     "latent_x": -85.41000366210938,
@@ -7737,9 +7737,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, OOP Programming)",
     "views": 5593,
     "upload_date": "2025-08-09",
     "latent_x": -7.019999980926514,
@@ -7754,12 +7754,12 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Techletters",
     "titulo": "Web Scraping with Python Selenium & BeautifulSoup",
     "enlace": "https://www.youtube.com/watch?v=ad0Ts8xdR-8",
-    "categoria_principal": "Data Science with Pandas & NumPy",
+    "categoria_principal": "Data Science",
     "tags": [
-      "Data Science with Pandas & NumPy",
+      "Data Science",
       "Web Scraping & Automation"
     ],
-    "categoria_descriptores": "Data Science with Pandas & NumPy (Data Science with Pandas & NumPy, Web Scraping & Automation)",
+    "categoria_descriptores": "Data Science (Data Science, Web Scraping & Automation)",
     "views": 5455,
     "upload_date": "2021-08-10",
     "latent_x": -6.079999923706055,
@@ -7794,11 +7794,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "ChatOSS",
     "titulo": "Learn FastAPI, Django, or Flask in 2025? (Python)",
     "enlace": "https://www.youtube.com/watch?v=nsmYbQqZEA8",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 5431,
     "upload_date": "2025-08-09",
     "latent_x": -81.5999984741211,
@@ -7851,11 +7851,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Mxy",
     "titulo": "Object-Oriented Programming in Assembly Explained | Vtables, Polymorphism | Python, Java, C++, C#",
     "enlace": "https://www.youtube.com/watch?v=l8ichluv3JM",
-    "categoria_principal": "Object-Oriented Programming (OOP)",
+    "categoria_principal": "OOP Programming",
     "tags": [
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Object-Oriented Programming (OOP) (Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "OOP Programming (OOP Programming)",
     "views": 5057,
     "upload_date": "2025-08-09",
     "latent_x": 26.1299991607666,
@@ -7873,10 +7873,10 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Control Flow & Loops",
     "tags": [
       "Control Flow & Loops",
-      "Data Science with Pandas & NumPy",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Data Science",
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Control Flow & Loops (Control Flow & Loops, Data Science with Pandas & NumPy, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Control Flow & Loops (Control Flow & Loops, Data Science, Machine Learning)",
     "views": 4966,
     "upload_date": "2022-08-10",
     "latent_x": -19.989999771118164,
@@ -7967,12 +7967,12 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "PyCharm, a JetBrains IDE",
     "titulo": "Jeff Triplett on Django, FastAPI, uv, Pydantic, and AI Agents in Python Web Development",
     "enlace": "https://www.youtube.com/watch?v=QWFmWOw8gRg",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow",
-      "FastAPI & Django Web Backend"
+      "Machine Learning",
+      "Web Backend"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow, FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Machine Learning (Machine Learning, Web Backend)",
     "views": 3482,
     "upload_date": "2026-07-10",
     "latent_x": -44.119998931884766,
@@ -8025,11 +8025,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "SimpliCode",
     "titulo": "Numpy and Pandas Tutorial | Numpy Tutorial | Pandas Tutorial | Python for Beginners | SimpliCode",
     "enlace": "https://www.youtube.com/watch?v=5m1e_4v-s34",
-    "categoria_principal": "Data Science with Pandas & NumPy",
+    "categoria_principal": "Data Science",
     "tags": [
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Data Science with Pandas & NumPy (Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Data Science (Data Science)",
     "views": 3236,
     "upload_date": "2023-08-10",
     "latent_x": 7.320000171661377,
@@ -8047,9 +8047,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Web Scraping & Automation",
     "tags": [
       "Web Scraping & Automation",
-      "File I/O & Scripting Utilities"
+      "Script Utilities"
     ],
-    "categoria_descriptores": "Web Scraping & Automation (Web Scraping & Automation, File I/O & Scripting Utilities)",
+    "categoria_descriptores": "Web Scraping & Automation (Web Scraping & Automation, Script Utilities)",
     "views": 3153,
     "upload_date": "2025-08-09",
     "latent_x": -46.33000183105469,
@@ -8064,11 +8064,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Tech With Rathan",
     "titulo": "Stop Overthinking Django vs FastAPI — Watch This First",
     "enlace": "https://www.youtube.com/watch?v=L5EPuiiQfY4",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 3049,
     "upload_date": "2026-05-11",
     "latent_x": -80.29000091552734,
@@ -8083,11 +8083,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Code Collider",
     "titulo": "Performance Benchmarks: Django vs FastAPI vs Flask",
     "enlace": "https://www.youtube.com/watch?v=lH7MguulaKY",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 2518,
     "upload_date": "2025-08-09",
     "latent_x": -112.75,
@@ -8105,9 +8105,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science)",
     "views": 2328,
     "upload_date": "2022-08-10",
     "latent_x": -45.470001220703125,
@@ -8160,12 +8160,12 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Simplilearn",
     "titulo": "NumPy Tutorial Part - 2 | Numpy Python Tutorial | Numpy Tutorial | Python Training | Simplilearn",
     "enlace": "https://www.youtube.com/watch?v=cKoeD2cSShI",
-    "categoria_principal": "Data Science with Pandas & NumPy",
+    "categoria_principal": "Data Science",
     "tags": [
-      "Data Science with Pandas & NumPy",
-      "Machine Learning & PyTorch/TensorFlow"
+      "Data Science",
+      "Machine Learning"
     ],
-    "categoria_descriptores": "Data Science with Pandas & NumPy (Data Science with Pandas & NumPy, Machine Learning & PyTorch/TensorFlow)",
+    "categoria_descriptores": "Data Science (Data Science, Machine Learning)",
     "views": 1935,
     "upload_date": "2023-08-10",
     "latent_x": -4.179999828338623,
@@ -8180,11 +8180,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "NikolAI Skripko",
     "titulo": "Host Python Web Apps FOR FREE (Flask, Django, FastAPI)",
     "enlace": "https://www.youtube.com/watch?v=grUCtaAiUd0",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 1884,
     "upload_date": "2024-08-09",
     "latent_x": -98.80999755859375,
@@ -8259,9 +8259,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Web Scraping & Automation",
     "tags": [
       "Web Scraping & Automation",
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "Web Scraping & Automation (Web Scraping & Automation, FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Scraping & Automation (Web Scraping & Automation, Web Backend)",
     "views": 1480,
     "upload_date": "2022-08-10",
     "latent_x": -92.69999694824219,
@@ -8279,9 +8279,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, OOP Programming)",
     "views": 1438,
     "upload_date": "2026-02-10",
     "latent_x": -12.09000015258789,
@@ -8296,11 +8296,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "edureka!",
     "titulo": "Python OOPS Concepts | Python OOP Tutorial | Python Classes and Objects | Python | Edureka Rewind",
     "enlace": "https://www.youtube.com/watch?v=PwN4dNVExxY",
-    "categoria_principal": "Object-Oriented Programming (OOP)",
+    "categoria_principal": "OOP Programming",
     "tags": [
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Object-Oriented Programming (OOP) (Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "OOP Programming (OOP Programming)",
     "views": 1099,
     "upload_date": "2023-08-10",
     "latent_x": -0.5199999809265137,
@@ -8337,9 +8337,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Control Flow & Loops",
     "tags": [
       "Control Flow & Loops",
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Control Flow & Loops (Control Flow & Loops, Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Control Flow & Loops (Control Flow & Loops, Data Science)",
     "views": 925,
     "upload_date": "2025-08-09",
     "latent_x": -32.68000030517578,
@@ -8357,9 +8357,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Web Scraping & Automation",
     "tags": [
       "Web Scraping & Automation",
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "Web Scraping & Automation (Web Scraping & Automation, FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Scraping & Automation (Web Scraping & Automation, Web Backend)",
     "views": 905,
     "upload_date": "2022-08-10",
     "latent_x": -92.69999694824219,
@@ -8374,12 +8374,12 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Deepagi Academy",
     "titulo": "Python Selenium - Web Scraping, Bots & Testing",
     "enlace": "https://www.youtube.com/watch?v=AKHa-0Kvp-k",
-    "categoria_principal": "Machine Learning & PyTorch/TensorFlow",
+    "categoria_principal": "Machine Learning",
     "tags": [
-      "Machine Learning & PyTorch/TensorFlow",
+      "Machine Learning",
       "Web Scraping & Automation"
     ],
-    "categoria_descriptores": "Machine Learning & PyTorch/TensorFlow (Machine Learning & PyTorch/TensorFlow, Web Scraping & Automation)",
+    "categoria_descriptores": "Machine Learning (Machine Learning, Web Scraping & Automation)",
     "views": 852,
     "upload_date": "2021-08-10",
     "latent_x": 0.8600000143051147,
@@ -8394,11 +8394,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Andreas Jud",
     "titulo": "FastAPI vs Django: Which web framework to choose?",
     "enlace": "https://www.youtube.com/watch?v=KZMcOOf3G-g",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 831,
     "upload_date": "2026-07-26",
     "latent_x": -89.05000305175781,
@@ -8432,11 +8432,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Code with SJ",
     "titulo": "Live Data in FastAPI 3 | Django vs FastAPI (Part 3)",
     "enlace": "https://www.youtube.com/watch?v=UA3IvRvawUc",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 475,
     "upload_date": "2023-08-10",
     "latent_x": -83.77999877929688,
@@ -8454,9 +8454,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, OOP Programming)",
     "views": 387,
     "upload_date": "2026-02-10",
     "latent_x": 20.989999771118164,
@@ -8474,9 +8474,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science)",
     "views": 370,
     "upload_date": "2026-02-10",
     "latent_x": -38.68000030517578,
@@ -8683,11 +8683,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "ITFO",
     "titulo": "Top Five Python Libraries for Web Development|Django|Bottle|Flask|FastAPI|Pyramid|ITFO",
     "enlace": "https://www.youtube.com/watch?v=M53sYzHoKdE",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 131,
     "upload_date": "2024-08-09",
     "latent_x": -90.19000244140625,
@@ -8702,11 +8702,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Tisfoulla Academy",
     "titulo": "FastAPI Tutorial #1 - What is FastAPI? Installation & First App [2026]",
     "enlace": "https://www.youtube.com/watch?v=C8rkj_HVPzI",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 126,
     "upload_date": "2026-08-01",
     "latent_x": -76.33000183105469,
@@ -8721,11 +8721,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Coding Codes",
     "titulo": "Python #19 - Useful String Methods [By Mosh Hamedani]",
     "enlace": "https://www.youtube.com/watch?v=3c-IA4989uw",
-    "categoria_principal": "Object-Oriented Programming (OOP)",
+    "categoria_principal": "OOP Programming",
     "tags": [
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Object-Oriented Programming (OOP) (Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "OOP Programming (OOP Programming)",
     "views": 121,
     "upload_date": "2024-08-09",
     "latent_x": 8.65999984741211,
@@ -8762,9 +8762,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Web Backend)",
     "views": 101,
     "upload_date": "2023-06-15",
     "latent_x": -115.0199966430664,
@@ -8821,9 +8821,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science)",
     "views": 92,
     "upload_date": "2024-08-09",
     "latent_x": -75.91000366210938,
@@ -8838,11 +8838,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "InfoDruids",
     "titulo": "FastAPI vs Flask vs Django | Best Python Web Framework for Your Project Explained!",
     "enlace": "https://www.youtube.com/watch?v=0kSZm9c_daM",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 89,
     "upload_date": "2025-08-09",
     "latent_x": -109.91000366210938,
@@ -8857,11 +8857,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Tech learner🫆",
     "titulo": "02  NumPy tutorial  for beginners | Python NumPy Tutorial for Beginners - Data Science",
     "enlace": "https://www.youtube.com/watch?v=q46NvUGipM0",
-    "categoria_principal": "Data Science with Pandas & NumPy",
+    "categoria_principal": "Data Science",
     "tags": [
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Data Science with Pandas & NumPy (Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Data Science (Data Science)",
     "views": 80,
     "upload_date": "2025-08-09",
     "latent_x": -7.599999904632568,
@@ -8876,11 +8876,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "ObaCodes",
     "titulo": "Flask vs Django vs FastAPI — Which Python Framework Should You Learn in 2025?",
     "enlace": "https://www.youtube.com/watch?v=zqx3C-2PGEY",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 74,
     "upload_date": "2025-08-09",
     "latent_x": -101.05999755859375,
@@ -8898,9 +8898,9 @@ const PYTHON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Data Science with Pandas & NumPy"
+      "Data Science"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science with Pandas & NumPy)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Data Science)",
     "views": 70,
     "upload_date": "2020-08-10",
     "latent_x": -37.29999923706055,
@@ -8915,11 +8915,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Learning Pines",
     "titulo": "FastAPI vs Django vs Flask - Which Is Better?",
     "enlace": "https://www.youtube.com/watch?v=M2ETtqrC2lg",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 61,
     "upload_date": "2025-10-13",
     "latent_x": -109.31999969482422,
@@ -8934,11 +8934,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "TechSpire4U",
     "titulo": "Why FastAPI is the Future of Python Web Frameworks (vs Django & Flask)",
     "enlace": "https://www.youtube.com/watch?v=ecObQFA22Z0",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 57,
     "upload_date": "2025-09-13",
     "latent_x": -95.04000091552734,
@@ -8953,11 +8953,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "H Learning Fun",
     "titulo": "FastAPI Key Features That Make It FASTER Than Django & Flask!",
     "enlace": "https://www.youtube.com/watch?v=0cuyTj0ru5I",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 57,
     "upload_date": "2025-08-09",
     "latent_x": -99.20999908447266,
@@ -8991,11 +8991,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Lucca and Miguel - Tutorials",
     "titulo": "FastAPI vs Django REST Framework - 2025 Comparison",
     "enlace": "https://www.youtube.com/watch?v=ghoInSN1Uug",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 41,
     "upload_date": "2025-10-13",
     "latent_x": -83.70999908447266,
@@ -9010,11 +9010,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Codr",
     "titulo": "FastAPI in 2 Minutes — Why Developers Are Switching From Flask & Django",
     "enlace": "https://www.youtube.com/watch?v=16TZyES38Ic",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 38,
     "upload_date": "2026-05-11",
     "latent_x": -83.51000213623047,
@@ -9048,11 +9048,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Joshyvibe",
     "titulo": "FastAPI Tutorial for Beginners – Build a REST API in 15 Minutes",
     "enlace": "https://www.youtube.com/watch?v=zd0xIMd3nFg",
-    "categoria_principal": "FastAPI & Django Web Backend",
+    "categoria_principal": "Web Backend",
     "tags": [
-      "FastAPI & Django Web Backend"
+      "Web Backend"
     ],
-    "categoria_descriptores": "FastAPI & Django Web Backend (FastAPI & Django Web Backend)",
+    "categoria_descriptores": "Web Backend (Web Backend)",
     "views": 35,
     "upload_date": "2026-07-26",
     "latent_x": -66.0,
@@ -9125,11 +9125,11 @@ const PYTHON_TUTORIALS_DATA = [
     "autor": "Free Science",
     "titulo": "Python Object Oriented Programming (Part5)",
     "enlace": "https://www.youtube.com/watch?v=1l5uQ6PJid8",
-    "categoria_principal": "Object-Oriented Programming (OOP)",
+    "categoria_principal": "OOP Programming",
     "tags": [
-      "Object-Oriented Programming (OOP)"
+      "OOP Programming"
     ],
-    "categoria_descriptores": "Object-Oriented Programming (OOP) (Object-Oriented Programming (OOP))",
+    "categoria_descriptores": "OOP Programming (OOP Programming)",
     "views": 6,
     "upload_date": "2026-08-05",
     "latent_x": 7.650000095367432,
@@ -9158,4 +9158,3 @@ const PYTHON_TUTORIALS_DATA = [
     "duracion": "02:22"
   }
 ];
-window.PYTHON_DATA = PYTHON_TUTORIALS_DATA;

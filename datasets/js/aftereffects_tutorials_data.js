@@ -24,11 +24,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Video Copilot",
     "titulo": "New Plug-in: SABER + Tutorial! 100% Free",
     "enlace": "https://www.youtube.com/watch?v=reSXGxkyr0k",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations)",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion)",
     "views": 4015502,
     "upload_date": "2016-08-11",
     "latent_x": -94.97000122070312,
@@ -43,11 +43,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "4 Great Motion Graphics Techniques in After Effects",
     "enlace": "https://www.youtube.com/watch?v=9bnOVV3EBC8",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 3207687,
     "upload_date": "2019-08-11",
     "latent_x": -28.040000915527344,
@@ -81,11 +81,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Video Copilot",
     "titulo": "Advanced 3D Light Rays in After Effects!",
     "enlace": "https://www.youtube.com/watch?v=frXQxwMKh6c",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations)",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion)",
     "views": 2616104,
     "upload_date": "2014-08-12",
     "latent_x": -91.81999969482422,
@@ -119,11 +119,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Motion Science",
     "titulo": "After Effects 3D Camera Tutorial: Complete Guide to Motion, Depth & Control",
     "enlace": "https://www.youtube.com/watch?v=zgMHWFolli8",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations)",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion)",
     "views": 2319557,
     "upload_date": "2017-08-11",
     "latent_x": -91.41000366210938,
@@ -252,11 +252,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Video Copilot",
     "titulo": "Ultra 3D Earth Tutorial! + Free ORB Plug-in! 100% After Effects!",
     "enlace": "https://www.youtube.com/watch?v=iT12Q9O-Q30",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations)",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion)",
     "views": 1882250,
     "upload_date": "2019-08-11",
     "latent_x": -87.45999908447266,
@@ -271,11 +271,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "After Effects Basics",
     "titulo": "Motion Graphics for BEGINNERS (After Effects Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=5tQ0hf2SCeo",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 1792516,
     "upload_date": "2023-08-10",
     "latent_x": -48.630001068115234,
@@ -331,9 +331,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Text Effects & Kinetic Typography"
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Kinetic Typography)",
     "views": 1596247,
     "upload_date": "2025-08-09",
     "latent_x": 28.889999389648438,
@@ -424,12 +424,12 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Avnish Parker",
     "titulo": "Kinetic Typography In After Effects - After Effects Tutorial - No Plugins",
     "enlace": "https://www.youtube.com/watch?v=kD73GVXwLXg",
-    "categoria_principal": "Text Effects & Kinetic Typography",
+    "categoria_principal": "Kinetic Typography",
     "tags": [
-      "Text Effects & Kinetic Typography",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Kinetic Typography",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "Text Effects & Kinetic Typography (Text Effects & Kinetic Typography, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "Kinetic Typography (Kinetic Typography, Plugins & Tools)",
     "views": 1235876,
     "upload_date": "2017-08-11",
     "latent_x": -18.31999969482422,
@@ -523,9 +523,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Motion Graphics)",
     "views": 1103048,
     "upload_date": "2022-08-10",
     "latent_x": -5.400000095367432,
@@ -559,11 +559,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Dope Motions",
     "titulo": "After Effects Tutorial - Typography Text Animation in After Effects",
     "enlace": "https://www.youtube.com/watch?v=M6k3MlNP4b0",
-    "categoria_principal": "Text Effects & Kinetic Typography",
+    "categoria_principal": "Kinetic Typography",
     "tags": [
-      "Text Effects & Kinetic Typography"
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Text Effects & Kinetic Typography (Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Kinetic Typography (Kinetic Typography)",
     "views": 1052778,
     "upload_date": "2021-08-10",
     "latent_x": 11.390000343322754,
@@ -635,12 +635,12 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Smertimba Graphics",
     "titulo": "Smooth Text Animation in After Effects",
     "enlace": "https://www.youtube.com/watch?v=-VCxTi8sJ-s",
-    "categoria_principal": "Text Effects & Kinetic Typography",
+    "categoria_principal": "Kinetic Typography",
     "tags": [
-      "Text Effects & Kinetic Typography",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Kinetic Typography",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "Text Effects & Kinetic Typography (Text Effects & Kinetic Typography, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "Kinetic Typography (Kinetic Typography, Plugins & Tools)",
     "views": 1029853,
     "upload_date": "2025-08-09",
     "latent_x": -8.119999885559082,
@@ -674,11 +674,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Motion by Nick (Nick Greenawalt)",
     "titulo": "Text Animators for Beginners - After Effects Type Tutorial",
     "enlace": "https://www.youtube.com/watch?v=IJ3QHNQSJg8",
-    "categoria_principal": "Text Effects & Kinetic Typography",
+    "categoria_principal": "Kinetic Typography",
     "tags": [
-      "Text Effects & Kinetic Typography"
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Text Effects & Kinetic Typography (Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Kinetic Typography (Kinetic Typography)",
     "views": 975676,
     "upload_date": "2021-08-10",
     "latent_x": 23.43000030517578,
@@ -715,10 +715,10 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Compositing & Tracking",
     "tags": [
       "Compositing & Tracking",
-      "3D Space & Camera Animations",
-      "Text Effects & Kinetic Typography"
+      "3D Camera Motion",
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Space & Camera Animations, Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Camera Motion, Kinetic Typography)",
     "views": 965119,
     "upload_date": "2020-08-10",
     "latent_x": -15.050000190734863,
@@ -733,11 +733,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Video Copilot",
     "titulo": "Cinematic Title Design: Fantasy FX Tutorial! 100% After Effects!",
     "enlace": "https://www.youtube.com/watch?v=MAtn2t_GrF4",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations)",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion)",
     "views": 943908,
     "upload_date": "2018-08-11",
     "latent_x": -108.44000244140625,
@@ -752,11 +752,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Motion Nations",
     "titulo": "Mask Text Reveal Animation in After Effects - After Effects Tutorial | Text Animation",
     "enlace": "https://www.youtube.com/watch?v=93u_vKnwDXg",
-    "categoria_principal": "Text Effects & Kinetic Typography",
+    "categoria_principal": "Kinetic Typography",
     "tags": [
-      "Text Effects & Kinetic Typography"
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Text Effects & Kinetic Typography (Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Kinetic Typography (Kinetic Typography)",
     "views": 892061,
     "upload_date": "2021-08-10",
     "latent_x": 11.789999961853027,
@@ -771,13 +771,13 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Motion Nations",
     "titulo": "Minimal Line Motion Graphics Text Animation in After Effects - After Effects Tutorial",
     "enlace": "https://www.youtube.com/watch?v=7LW5mRTvNcY",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers",
-      "Text Effects & Kinetic Typography",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Motion Graphics",
+      "Kinetic Typography",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers, Text Effects & Kinetic Typography, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics, Kinetic Typography, Plugins & Tools)",
     "views": 879645,
     "upload_date": "2024-08-09",
     "latent_x": -0.41999998688697815,
@@ -792,11 +792,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Bricks",
     "titulo": "Smooth Camera Movement in After Effects (Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=PdHYC0gqIPA",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations)",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion)",
     "views": 873288,
     "upload_date": "2025-08-09",
     "latent_x": -104.76000213623047,
@@ -811,11 +811,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Jafar Fazel",
     "titulo": "Motion Graphics Tutorial | Pro Logo Animation in After Effects",
     "enlace": "https://www.youtube.com/watch?v=pJLZU7ffXDA",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 837248,
     "upload_date": "2023-08-10",
     "latent_x": -54.5,
@@ -908,12 +908,12 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Ben Marriott",
     "titulo": "After Effects Smooth Transitions - Animation Tutorial pt. 1",
     "enlace": "https://www.youtube.com/watch?v=UVDpgP7sRbw",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers",
-      "3D Space & Camera Animations"
+      "Motion Graphics",
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics, 3D Camera Motion)",
     "views": 776538,
     "upload_date": "2019-08-11",
     "latent_x": -44.619998931884766,
@@ -985,11 +985,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "3 Kinetic Typography Techniques in After Effects",
     "enlace": "https://www.youtube.com/watch?v=UnK5lGmadSs",
-    "categoria_principal": "Text Effects & Kinetic Typography",
+    "categoria_principal": "Kinetic Typography",
     "tags": [
-      "Text Effects & Kinetic Typography"
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Text Effects & Kinetic Typography (Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Kinetic Typography (Kinetic Typography)",
     "views": 693188,
     "upload_date": "2020-08-10",
     "latent_x": 6.960000038146973,
@@ -1042,13 +1042,13 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Motion Nations",
     "titulo": "Typography Motion Graphics Animation in After Effects - After Effects Tutorial | Kinetic Typography",
     "enlace": "https://www.youtube.com/watch?v=UahA-6QYfC0",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers",
-      "Text Effects & Kinetic Typography",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Motion Graphics",
+      "Kinetic Typography",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers, Text Effects & Kinetic Typography, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics, Kinetic Typography, Plugins & Tools)",
     "views": 657396,
     "upload_date": "2025-08-09",
     "latent_x": 4.170000076293945,
@@ -1082,12 +1082,12 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Video Copilot",
     "titulo": "Star Trek Into Darkness Title Design",
     "enlace": "https://www.youtube.com/watch?v=AYzGhNkNBWs",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "3D Camera Motion",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion, Plugins & Tools)",
     "views": 633136,
     "upload_date": "2014-08-12",
     "latent_x": -70.2699966430664,
@@ -1102,11 +1102,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "ukramedia",
     "titulo": "16 Useful Expressions in After Effects - Part 1 of 2",
     "enlace": "https://www.youtube.com/watch?v=gK1Ejt7qND0",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 607250,
     "upload_date": "2017-08-11",
     "latent_x": 6.260000228881836,
@@ -1121,11 +1121,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Video Copilot",
     "titulo": "Translucent Glass Tutorial",
     "enlace": "https://www.youtube.com/watch?v=WZW8kDQWQ5I",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations)",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion)",
     "views": 605362,
     "upload_date": "2013-08-12",
     "latent_x": -110.06999969482422,
@@ -1140,11 +1140,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "ANIMOTION by Sharin Y",
     "titulo": "Easy Typography Tutorial: Reveal Text Animation in Adobe After Effects",
     "enlace": "https://www.youtube.com/watch?v=FQcp1tKf2qY",
-    "categoria_principal": "Text Effects & Kinetic Typography",
+    "categoria_principal": "Kinetic Typography",
     "tags": [
-      "Text Effects & Kinetic Typography"
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Text Effects & Kinetic Typography (Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Kinetic Typography (Kinetic Typography)",
     "views": 602471,
     "upload_date": "2020-08-10",
     "latent_x": 14.149999618530273,
@@ -1159,11 +1159,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "jayd3nfx",
     "titulo": "Mastering The Mograph Edit Style (Easy) | After Effects Tutorial",
     "enlace": "https://www.youtube.com/watch?v=XLOwAihsftE",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 592105,
     "upload_date": "2025-08-09",
     "latent_x": -67.52999877929688,
@@ -1197,12 +1197,12 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Ag Motion Designs",
     "titulo": "Creative Text Animation In Adobe After Effects - After Effects Tutorial - No Plugins.",
     "enlace": "https://www.youtube.com/watch?v=YTntizUeOwA",
-    "categoria_principal": "Text Effects & Kinetic Typography",
+    "categoria_principal": "Kinetic Typography",
     "tags": [
-      "Text Effects & Kinetic Typography",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Kinetic Typography",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "Text Effects & Kinetic Typography (Text Effects & Kinetic Typography, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "Kinetic Typography (Kinetic Typography, Plugins & Tools)",
     "views": 573766,
     "upload_date": "2024-08-09",
     "latent_x": -32.31999969482422,
@@ -1217,12 +1217,12 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Motion Nations",
     "titulo": "Product Motion Graphics in After Effects - After Effects Tutorial | No Plugins Required",
     "enlace": "https://www.youtube.com/watch?v=I1oAx24biys",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Motion Graphics",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics, Plugins & Tools)",
     "views": 560283,
     "upload_date": "2023-08-10",
     "latent_x": 3.5799999237060547,
@@ -1240,9 +1240,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Motion Graphics)",
     "views": 551361,
     "upload_date": "2019-08-11",
     "latent_x": -14.989999771118164,
@@ -1314,11 +1314,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Ben Marriott",
     "titulo": "5 Best Ways to Use Noise Creatively in After Effects",
     "enlace": "https://www.youtube.com/watch?v=okUI3C-0D9E",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 533009,
     "upload_date": "2022-08-10",
     "latent_x": 39.130001068115234,
@@ -1391,11 +1391,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "School of Motion",
     "titulo": "5 Amazing Expressions in After Effects",
     "enlace": "https://www.youtube.com/watch?v=vQzVmae72wM",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 514121,
     "upload_date": "2018-08-11",
     "latent_x": 10.380000114440918,
@@ -1413,9 +1413,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Compositing & Tracking",
     "tags": [
       "Compositing & Tracking",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Camera Motion)",
     "views": 509981,
     "upload_date": "2016-08-11",
     "latent_x": -23.100000381469727,
@@ -1433,9 +1433,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Motion Graphics)",
     "views": 506613,
     "upload_date": "2021-08-10",
     "latent_x": -8.300000190734863,
@@ -1488,11 +1488,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "trikstr.",
     "titulo": "How to Master 3D Camera in After effects (5 Minutes)",
     "enlace": "https://www.youtube.com/watch?v=VlSDToEFI64",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations)",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion)",
     "views": 502753,
     "upload_date": "2024-08-09",
     "latent_x": -97.62999725341797,
@@ -1510,9 +1510,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Compositing & Tracking",
     "tags": [
       "Compositing & Tracking",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, Plugins & Tools)",
     "views": 491315,
     "upload_date": "2023-08-10",
     "latent_x": 24.579999923706055,
@@ -1565,11 +1565,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Stephan Zammit",
     "titulo": "The Right Way to Animate Text | After Effects Text Animation Tutorial",
     "enlace": "https://www.youtube.com/watch?v=c-Q06JnT6mE",
-    "categoria_principal": "Text Effects & Kinetic Typography",
+    "categoria_principal": "Kinetic Typography",
     "tags": [
-      "Text Effects & Kinetic Typography"
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Text Effects & Kinetic Typography (Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Kinetic Typography (Kinetic Typography)",
     "views": 485960,
     "upload_date": "2025-08-09",
     "latent_x": 29.40999984741211,
@@ -1584,12 +1584,12 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Video Copilot",
     "titulo": "Animating in Element 3D",
     "enlace": "https://www.youtube.com/watch?v=a4WcpvOREQo",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "3D Camera Motion",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion, Plugins & Tools)",
     "views": 484481,
     "upload_date": "2012-08-12",
     "latent_x": -54.709999084472656,
@@ -1607,10 +1607,10 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Compositing & Tracking",
     "tags": [
       "Compositing & Tracking",
-      "3D Space & Camera Animations",
-      "Text Effects & Kinetic Typography"
+      "3D Camera Motion",
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Space & Camera Animations, Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Camera Motion, Kinetic Typography)",
     "views": 479048,
     "upload_date": "2024-08-09",
     "latent_x": -31.610000610351562,
@@ -1644,11 +1644,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Editing Empire",
     "titulo": "Animate After Effects Camera Like A Pro | Only Video You Need |",
     "enlace": "https://www.youtube.com/watch?v=EtZalJhwzVs",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations)",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion)",
     "views": 467791,
     "upload_date": "2025-09-13",
     "latent_x": -116.41000366210938,
@@ -1663,13 +1663,13 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Motion Nations",
     "titulo": "Camera Fly Through 3D Text Animation in After Effects- After Effects Tutorial | No Plugins Required",
     "enlace": "https://www.youtube.com/watch?v=FfZONRXqMOE",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations",
-      "Text Effects & Kinetic Typography",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "3D Camera Motion",
+      "Kinetic Typography",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations, Text Effects & Kinetic Typography, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion, Kinetic Typography, Plugins & Tools)",
     "views": 466107,
     "upload_date": "2023-08-10",
     "latent_x": -50.220001220703125,
@@ -1687,9 +1687,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Compositing & Tracking",
     "tags": [
       "Compositing & Tracking",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, Plugins & Tools)",
     "views": 458682,
     "upload_date": "2024-08-09",
     "latent_x": 28.450000762939453,
@@ -1723,11 +1723,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "After Effects Basics",
     "titulo": "Make EVERYTHING 3D Like A BOSS! (After Effects Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=7mXYN4fjpvo",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations)",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion)",
     "views": 453641,
     "upload_date": "2024-08-09",
     "latent_x": -107.18000030517578,
@@ -1803,9 +1803,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "tags": [
       "VFX & Green Screen Keying",
       "Compositing & Tracking",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "VFX & Green Screen Keying (VFX & Green Screen Keying, Compositing & Tracking, 3D Space & Camera Animations)",
+    "categoria_descriptores": "VFX & Green Screen Keying (VFX & Green Screen Keying, Compositing & Tracking, 3D Camera Motion)",
     "views": 445134,
     "upload_date": "2023-08-10",
     "latent_x": -84.83999633789062,
@@ -1839,11 +1839,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "trikstr.",
     "titulo": "How To Master Text Animation In After Effects (5 Minutes)",
     "enlace": "https://www.youtube.com/watch?v=h5F3QM72PY0",
-    "categoria_principal": "Text Effects & Kinetic Typography",
+    "categoria_principal": "Kinetic Typography",
     "tags": [
-      "Text Effects & Kinetic Typography"
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Text Effects & Kinetic Typography (Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Kinetic Typography (Kinetic Typography)",
     "views": 436623,
     "upload_date": "2024-08-09",
     "latent_x": 22.68000030517578,
@@ -1953,11 +1953,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Tozel",
     "titulo": "Mograph Editing Style Tutorial | After Effects",
     "enlace": "https://www.youtube.com/watch?v=p1SpRFTKZzk",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 397482,
     "upload_date": "2025-08-09",
     "latent_x": -61.43000030517578,
@@ -1975,9 +1975,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "VFX & Green Screen Keying",
     "tags": [
       "VFX & Green Screen Keying",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "VFX & Green Screen Keying (VFX & Green Screen Keying, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "VFX & Green Screen Keying (VFX & Green Screen Keying, Plugins & Tools)",
     "views": 392711,
     "upload_date": "2022-08-10",
     "latent_x": -70.2300033569336,
@@ -2049,12 +2049,12 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Smertimba Graphics",
     "titulo": "Smooth Text Animation in After Effects | Text Reveal Animation | Title Animation",
     "enlace": "https://www.youtube.com/watch?v=zJIgPIOk6nI",
-    "categoria_principal": "Text Effects & Kinetic Typography",
+    "categoria_principal": "Kinetic Typography",
     "tags": [
-      "Text Effects & Kinetic Typography",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Kinetic Typography",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "Text Effects & Kinetic Typography (Text Effects & Kinetic Typography, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "Kinetic Typography (Kinetic Typography, Plugins & Tools)",
     "views": 379750,
     "upload_date": "2024-08-09",
     "latent_x": -22.209999084472656,
@@ -2069,11 +2069,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Vane Motion",
     "titulo": "🔥How to Become a MOTION GRAPHICS designer | After Effects Tutorial (Full Guide)",
     "enlace": "https://www.youtube.com/watch?v=JUbXgxkSWXw",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 378908,
     "upload_date": "2025-08-09",
     "latent_x": -34.189998626708984,
@@ -2145,11 +2145,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Ben Marriott",
     "titulo": "Perfect Shape Morphs in After Effects",
     "enlace": "https://www.youtube.com/watch?v=n24aTp1-jK4",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 347001,
     "upload_date": "2024-08-09",
     "latent_x": -51.9900016784668,
@@ -2202,12 +2202,12 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Motion Nations",
     "titulo": "Particle Text Disintegration Animation in After Effects -  After Effects Tutorial | No Plugins Used",
     "enlace": "https://www.youtube.com/watch?v=zdvYqalqL8g",
-    "categoria_principal": "Text Effects & Kinetic Typography",
+    "categoria_principal": "Kinetic Typography",
     "tags": [
-      "Text Effects & Kinetic Typography",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Kinetic Typography",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "Text Effects & Kinetic Typography (Text Effects & Kinetic Typography, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "Kinetic Typography (Kinetic Typography, Plugins & Tools)",
     "views": 331234,
     "upload_date": "2023-08-10",
     "latent_x": -34.619998931884766,
@@ -2260,11 +2260,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "P A N T E R",
     "titulo": "How to Make Kinetic Warp Text Animation in After Effects",
     "enlace": "https://www.youtube.com/watch?v=IvTXbHLtod4",
-    "categoria_principal": "Text Effects & Kinetic Typography",
+    "categoria_principal": "Kinetic Typography",
     "tags": [
-      "Text Effects & Kinetic Typography"
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Text Effects & Kinetic Typography (Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Kinetic Typography (Kinetic Typography)",
     "views": 327738,
     "upload_date": "2024-08-09",
     "latent_x": 1.9700000286102295,
@@ -2298,11 +2298,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "10 Fresh After Effects Motion Graphics to Use in 2026",
     "enlace": "https://www.youtube.com/watch?v=Ew4teneUCUM",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 323328,
     "upload_date": "2024-08-09",
     "latent_x": -53.599998474121094,
@@ -2355,11 +2355,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Hương Trịnh",
     "titulo": "Simple motion graphics | After Effects",
     "enlace": "https://www.youtube.com/watch?v=uaIhQ0XiA1c",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 314566,
     "upload_date": "2017-08-11",
     "latent_x": -45.47999954223633,
@@ -2374,11 +2374,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Ben Marriott",
     "titulo": "Top 10 After Effects Expressions for Amazing Motion Design",
     "enlace": "https://www.youtube.com/watch?v=rsW4fwscwKI",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 313253,
     "upload_date": "2020-08-10",
     "latent_x": 23.170000076293945,
@@ -2453,9 +2453,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Compositing & Tracking",
     "tags": [
       "Compositing & Tracking",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Camera Motion)",
     "views": 300710,
     "upload_date": "2023-08-10",
     "latent_x": -15.960000038146973,
@@ -2492,9 +2492,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Compositing & Tracking",
     "tags": [
       "Compositing & Tracking",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Camera Motion)",
     "views": 296940,
     "upload_date": "2012-08-12",
     "latent_x": -31.190000534057617,
@@ -2509,13 +2509,13 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Motion Nations",
     "titulo": "Typography Motion Graphics Animation in After Effects - After Effects Tutorial Kinetic Typography #4",
     "enlace": "https://www.youtube.com/watch?v=4vLwhXY0ZRw",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers",
-      "Text Effects & Kinetic Typography",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Motion Graphics",
+      "Kinetic Typography",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers, Text Effects & Kinetic Typography, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics, Kinetic Typography, Plugins & Tools)",
     "views": 293896,
     "upload_date": "2025-08-09",
     "latent_x": -7.159999847412109,
@@ -2549,12 +2549,12 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Ben Marriott",
     "titulo": "15 After Effects Tricks Most Pros Don't Know",
     "enlace": "https://www.youtube.com/watch?v=NgSAv5BWwTg",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers",
+      "Motion Graphics",
       "VFX & Green Screen Keying"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers, VFX & Green Screen Keying)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics, VFX & Green Screen Keying)",
     "views": 288379,
     "upload_date": "2022-08-10",
     "latent_x": -74.69000244140625,
@@ -2626,11 +2626,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "Make Cinematic Motion Graphic Stories in After Effects",
     "enlace": "https://www.youtube.com/watch?v=f3O1aWNTKNQ",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 277370,
     "upload_date": "2026-03-12",
     "latent_x": -88.16000366210938,
@@ -2744,9 +2744,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "VFX & Green Screen Keying",
     "tags": [
       "VFX & Green Screen Keying",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "VFX & Green Screen Keying (VFX & Green Screen Keying, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "VFX & Green Screen Keying (VFX & Green Screen Keying, Plugins & Tools)",
     "views": 269769,
     "upload_date": "2017-08-11",
     "latent_x": -78.63999938964844,
@@ -2764,9 +2764,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Compositing & Tracking",
     "tags": [
       "Compositing & Tracking",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Camera Motion)",
     "views": 266806,
     "upload_date": "2017-08-11",
     "latent_x": -3.2100000381469727,
@@ -2784,9 +2784,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Compositing & Tracking",
     "tags": [
       "Compositing & Tracking",
-      "Text Effects & Kinetic Typography"
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, Kinetic Typography)",
     "views": 259774,
     "upload_date": "2011-08-13",
     "latent_x": -4.659999847412109,
@@ -2801,11 +2801,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Surfaced Studio",
     "titulo": "THE FLOOR IS LAVA!!! After Effects 3D Camera Tracker Tutorial",
     "enlace": "https://www.youtube.com/watch?v=GIRCI-mdYA0",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations)",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion)",
     "views": 256689,
     "upload_date": "2018-08-11",
     "latent_x": -82.47000122070312,
@@ -2839,11 +2839,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "BIGFILMS",
     "titulo": "How to 3D Track in After Effects! (Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=60HZOQebrj0",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations)",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion)",
     "views": 250750,
     "upload_date": "2023-08-10",
     "latent_x": -91.79000091552734,
@@ -2918,9 +2918,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "VFX & Green Screen Keying",
     "tags": [
       "VFX & Green Screen Keying",
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "VFX & Green Screen Keying (VFX & Green Screen Keying, Expressions & Code Automation)",
+    "categoria_descriptores": "VFX & Green Screen Keying (VFX & Green Screen Keying, Expressions & Code)",
     "views": 229845,
     "upload_date": "2020-08-10",
     "latent_x": -64.83999633789062,
@@ -2973,12 +2973,12 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Nijat Ibrahimli",
     "titulo": "Minimalist Motion Graphics in After Effects Tutorial",
     "enlace": "https://www.youtube.com/watch?v=fy3hhfF7YNs",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Motion Graphics",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics, Plugins & Tools)",
     "views": 224747,
     "upload_date": "2021-08-10",
     "latent_x": -0.20999999344348907,
@@ -2993,11 +2993,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Andy Ford Video",
     "titulo": "After Effects Tutorial - Expressions for Animated Number Counter with Slider Control",
     "enlace": "https://www.youtube.com/watch?v=EfoHlj0CKes",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 220106,
     "upload_date": "2020-08-10",
     "latent_x": -24.690000534057617,
@@ -3012,11 +3012,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Adobe Video",
     "titulo": "How to Use Parenting and Null Objects | After Effects Tutorial for Motion Graphics | Adobe Video",
     "enlace": "https://www.youtube.com/watch?v=TP1fEnJkzmQ",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 219428,
     "upload_date": "2021-08-10",
     "latent_x": -63.630001068115234,
@@ -3031,11 +3031,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Animoplex",
     "titulo": "After Effects Expressions 201 - Wiggle Expression",
     "enlace": "https://www.youtube.com/watch?v=AmmXDOFMjz8",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 218282,
     "upload_date": "2017-08-11",
     "latent_x": 19.700000762939453,
@@ -3053,9 +3053,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Compositing & Tracking",
     "tags": [
       "Compositing & Tracking",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Camera Motion)",
     "views": 216697,
     "upload_date": "2023-08-10",
     "latent_x": 1.7899999618530273,
@@ -3074,9 +3074,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "tags": [
       "VFX & Green Screen Keying",
       "Compositing & Tracking",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "VFX & Green Screen Keying (VFX & Green Screen Keying, Compositing & Tracking, 3D Space & Camera Animations)",
+    "categoria_descriptores": "VFX & Green Screen Keying (VFX & Green Screen Keying, Compositing & Tracking, 3D Camera Motion)",
     "views": 213085,
     "upload_date": "2023-08-10",
     "latent_x": -57.779998779296875,
@@ -3110,11 +3110,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Phil Flock",
     "titulo": "GreenScreen Aftereffects/Blender Tutorial",
     "enlace": "https://www.youtube.com/watch?v=iSMKRuOYyfw",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations)",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion)",
     "views": 211120,
     "upload_date": "2023-08-10",
     "latent_x": -119.7300033569336,
@@ -3148,11 +3148,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Smertimba Graphics",
     "titulo": "Character Animation Tutorial in After Effects | Puppet Pin Tool",
     "enlace": "https://www.youtube.com/watch?v=Vu3RHRnoRM4",
-    "categoria_principal": "Plugin Tools (Element 3D/Trapcode)",
+    "categoria_principal": "Plugins & Tools",
     "tags": [
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "Plugin Tools (Element 3D/Trapcode) (Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "Plugins & Tools (Plugins & Tools)",
     "views": 210516,
     "upload_date": "2023-08-10",
     "latent_x": -42.56999969482422,
@@ -3170,9 +3170,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Motion Graphics)",
     "views": 208346,
     "upload_date": "2025-08-09",
     "latent_x": -3.4700000286102295,
@@ -3187,13 +3187,13 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Motion Nations",
     "titulo": "Typography Motion Graphics Animation in After Effects - After Effects Tutorial",
     "enlace": "https://www.youtube.com/watch?v=FbDUBVc1KtI",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers",
-      "Text Effects & Kinetic Typography",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Motion Graphics",
+      "Kinetic Typography",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers, Text Effects & Kinetic Typography, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics, Kinetic Typography, Plugins & Tools)",
     "views": 206415,
     "upload_date": "2025-08-09",
     "latent_x": 10.359999656677246,
@@ -3250,9 +3250,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, 3D Camera Motion)",
     "views": 195049,
     "upload_date": "2019-08-11",
     "latent_x": -41.619998931884766,
@@ -3286,14 +3286,14 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Motion Nations",
     "titulo": "3D Typography Text Animation in After Effects - Motion Graphics Text Animation After Effects",
     "enlace": "https://www.youtube.com/watch?v=Izgn36DLeqA",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers",
-      "3D Space & Camera Animations",
-      "Text Effects & Kinetic Typography",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Motion Graphics",
+      "3D Camera Motion",
+      "Kinetic Typography",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers, 3D Space & Camera Animations, Text Effects & Kinetic Typography, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics, 3D Camera Motion, Kinetic Typography, Plugins & Tools)",
     "views": 192405,
     "upload_date": "2022-08-10",
     "latent_x": -14.460000038146973,
@@ -3308,11 +3308,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Ben Marriott",
     "titulo": "5 Essential Type Animations in After Effects",
     "enlace": "https://www.youtube.com/watch?v=jS1YMWkm4DQ",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 191781,
     "upload_date": "2021-08-10",
     "latent_x": 14.890000343322754,
@@ -3346,11 +3346,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Camp Keyframe",
     "titulo": "Create Text Animations Like Apple - After Effects Tutorial",
     "enlace": "https://www.youtube.com/watch?v=VRb4_kBUOr8",
-    "categoria_principal": "Text Effects & Kinetic Typography",
+    "categoria_principal": "Kinetic Typography",
     "tags": [
-      "Text Effects & Kinetic Typography"
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Text Effects & Kinetic Typography (Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Kinetic Typography (Kinetic Typography)",
     "views": 188676,
     "upload_date": "2023-08-10",
     "latent_x": 29.139999389648438,
@@ -3365,11 +3365,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "Make Apple-Style Carousel Motion Graphics in After Effects",
     "enlace": "https://www.youtube.com/watch?v=bj28UpR_5Wc",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 187076,
     "upload_date": "2025-11-12",
     "latent_x": -52.72999954223633,
@@ -3384,13 +3384,13 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Motion Nations",
     "titulo": "Line Motion Graphics Text Animation in After Effects - After Effects Tutorial",
     "enlace": "https://www.youtube.com/watch?v=iRhkAJxr-Dc",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers",
-      "Text Effects & Kinetic Typography",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Motion Graphics",
+      "Kinetic Typography",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers, Text Effects & Kinetic Typography, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics, Kinetic Typography, Plugins & Tools)",
     "views": 186213,
     "upload_date": "2024-08-09",
     "latent_x": -4.940000057220459,
@@ -3405,11 +3405,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Futhark Studios",
     "titulo": "AE Lazy Tuts - Rotate camera around point of interest",
     "enlace": "https://www.youtube.com/watch?v=Ukhp32zz9oM",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations)",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion)",
     "views": 185977,
     "upload_date": "2020-08-10",
     "latent_x": -103.48999786376953,
@@ -3444,11 +3444,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "Master Motion Graphics to Make You a Pro in After Effects",
     "enlace": "https://www.youtube.com/watch?v=VtgBVimMv-E",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 181344,
     "upload_date": "2024-08-09",
     "latent_x": -70.88999938964844,
@@ -3539,11 +3539,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Graphic Tools Lab 툴즈랩",
     "titulo": "Water Drops - Warp, Distort in After Effects | Kinetic Typography | Tutorial 💧",
     "enlace": "https://www.youtube.com/watch?v=D4mwNRTdUEs",
-    "categoria_principal": "Text Effects & Kinetic Typography",
+    "categoria_principal": "Kinetic Typography",
     "tags": [
-      "Text Effects & Kinetic Typography"
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Text Effects & Kinetic Typography (Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Kinetic Typography (Kinetic Typography)",
     "views": 174888,
     "upload_date": "2019-08-11",
     "latent_x": -5.230000019073486,
@@ -3580,9 +3580,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Compositing & Tracking",
     "tags": [
       "Compositing & Tracking",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Camera Motion)",
     "views": 172296,
     "upload_date": "2023-08-10",
     "latent_x": -20.889999389648438,
@@ -3693,11 +3693,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "Create 3 Great Circle Burst Motion Graphics in After Effects | Tutorial",
     "enlace": "https://www.youtube.com/watch?v=4UtNW5FFXT8",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 167519,
     "upload_date": "2022-08-10",
     "latent_x": -13.899999618530273,
@@ -3773,9 +3773,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Text Effects & Kinetic Typography"
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Kinetic Typography)",
     "views": 164041,
     "upload_date": "2023-08-10",
     "latent_x": 36.18000030517578,
@@ -3790,11 +3790,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Bart_VFX",
     "titulo": "Learn Apple Style Motion Graphics in 20 minutes | After Effects",
     "enlace": "https://www.youtube.com/watch?v=cpQzSKuEAkM",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 163615,
     "upload_date": "2026-03-12",
     "latent_x": -38.369998931884766,
@@ -3813,9 +3813,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Compositing & Tracking",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Compositing & Tracking, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Compositing & Tracking, 3D Camera Motion)",
     "views": 162811,
     "upload_date": "2012-08-12",
     "latent_x": -50.38999938964844,
@@ -3871,9 +3871,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Plugins & Tools)",
     "views": 161597,
     "upload_date": "2024-08-09",
     "latent_x": -28.8700008392334,
@@ -3907,11 +3907,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "P A N T E R",
     "titulo": "How to Stretch Kinetic Typography with Slit Scan Effect | After Effects Tutorial",
     "enlace": "https://www.youtube.com/watch?v=c13_lUSzX2I",
-    "categoria_principal": "Text Effects & Kinetic Typography",
+    "categoria_principal": "Kinetic Typography",
     "tags": [
-      "Text Effects & Kinetic Typography"
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Text Effects & Kinetic Typography (Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Kinetic Typography (Kinetic Typography)",
     "views": 156674,
     "upload_date": "2022-08-10",
     "latent_x": -16.510000228881836,
@@ -3964,11 +3964,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "MDMZ",
     "titulo": "How To Create Apple’s Liquid Glass in After Effects (100% No Plugins!)",
     "enlace": "https://www.youtube.com/watch?v=Czh7wbRtv2Y",
-    "categoria_principal": "Plugin Tools (Element 3D/Trapcode)",
+    "categoria_principal": "Plugins & Tools",
     "tags": [
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "Plugin Tools (Element 3D/Trapcode) (Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "Plugins & Tools (Plugins & Tools)",
     "views": 153649,
     "upload_date": "2025-08-09",
     "latent_x": -33.63999938964844,
@@ -4005,9 +4005,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Expressions & Code Automation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Expressions & Code)",
     "views": 151638,
     "upload_date": "2018-08-11",
     "latent_x": -40.040000915527344,
@@ -4025,9 +4025,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "VFX & Green Screen Keying",
     "tags": [
       "VFX & Green Screen Keying",
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "VFX & Green Screen Keying (VFX & Green Screen Keying, Expressions & Code Automation)",
+    "categoria_descriptores": "VFX & Green Screen Keying (VFX & Green Screen Keying, Expressions & Code)",
     "views": 150528,
     "upload_date": "2020-08-10",
     "latent_x": -67.0199966430664,
@@ -4061,11 +4061,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "jayd3nfx",
     "titulo": "3D Camera Typography Tunnel | After Effects Tutorial",
     "enlace": "https://www.youtube.com/watch?v=dQhMNN2Ku0Q",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations)",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion)",
     "views": 146813,
     "upload_date": "2025-08-09",
     "latent_x": -100.2699966430664,
@@ -4080,11 +4080,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "MediaWorkbench",
     "titulo": "After Effects Tutorial - Easing (Motion Design Techniques)",
     "enlace": "https://www.youtube.com/watch?v=AlXEzbhfZJM",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 144569,
     "upload_date": "2019-08-11",
     "latent_x": -38.93000030517578,
@@ -4195,13 +4195,13 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Motion Nations",
     "titulo": "3D Camera Text Animation in After Effects - After Effects Tutorial | Text Animation - No Plugins",
     "enlace": "https://www.youtube.com/watch?v=VW8nK_G0UJo",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations",
-      "Text Effects & Kinetic Typography",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "3D Camera Motion",
+      "Kinetic Typography",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations, Text Effects & Kinetic Typography, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion, Kinetic Typography, Plugins & Tools)",
     "views": 125572,
     "upload_date": "2025-08-09",
     "latent_x": -42.5,
@@ -4219,9 +4219,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Text Effects & Kinetic Typography"
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Kinetic Typography)",
     "views": 125507,
     "upload_date": "2025-08-09",
     "latent_x": 19.239999771118164,
@@ -4256,13 +4256,13 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Smertimba Graphics",
     "titulo": "Camera Fly Through 3D Text Tutorial in After Effects",
     "enlace": "https://www.youtube.com/watch?v=kzAfU_0dylo",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations",
-      "Text Effects & Kinetic Typography",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "3D Camera Motion",
+      "Kinetic Typography",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations, Text Effects & Kinetic Typography, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion, Kinetic Typography, Plugins & Tools)",
     "views": 124976,
     "upload_date": "2023-08-10",
     "latent_x": -57.61000061035156,
@@ -4315,12 +4315,12 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "Create the Best 3D Motion Graphics in After Effects 2026",
     "enlace": "https://www.youtube.com/watch?v=2bi5YcnOGkA",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers",
-      "3D Space & Camera Animations"
+      "Motion Graphics",
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics, 3D Camera Motion)",
     "views": 121576,
     "upload_date": "2026-02-10",
     "latent_x": -43.7400016784668,
@@ -4373,12 +4373,12 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "Make Hyper Cinematic 3D Motion Graphics in After Effects",
     "enlace": "https://www.youtube.com/watch?v=EEs0YY4wE6M",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers",
-      "3D Space & Camera Animations"
+      "Motion Graphics",
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics, 3D Camera Motion)",
     "views": 118205,
     "upload_date": "2025-08-09",
     "latent_x": -56.939998626708984,
@@ -4412,11 +4412,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "Create Hollywood Cinematic Visual Motion Graphics in After Effects",
     "enlace": "https://www.youtube.com/watch?v=JHeMJ_l2iNA",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 117928,
     "upload_date": "2026-02-10",
     "latent_x": -52.18000030517578,
@@ -4450,11 +4450,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Animoplex",
     "titulo": "After Effects Expressions 202 - Time Expression",
     "enlace": "https://www.youtube.com/watch?v=YLapbNyYxLs",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 116197,
     "upload_date": "2017-08-11",
     "latent_x": -5.619999885559082,
@@ -4489,12 +4489,12 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Pixflow",
     "titulo": "Top 10 Typography Plugins For After Effects | Text Animation and Kinetic Typography (2022)",
     "enlace": "https://www.youtube.com/watch?v=Sx7hTXTI6JU",
-    "categoria_principal": "Text Effects & Kinetic Typography",
+    "categoria_principal": "Kinetic Typography",
     "tags": [
-      "Text Effects & Kinetic Typography",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Kinetic Typography",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "Text Effects & Kinetic Typography (Text Effects & Kinetic Typography, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "Kinetic Typography (Kinetic Typography, Plugins & Tools)",
     "views": 114397,
     "upload_date": "2022-08-10",
     "latent_x": -22.770000457763672,
@@ -4512,9 +4512,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Compositing & Tracking",
     "tags": [
       "Compositing & Tracking",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, Plugins & Tools)",
     "views": 113651,
     "upload_date": "2023-08-10",
     "latent_x": 20.690000534057617,
@@ -4533,9 +4533,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "tags": [
       "VFX & Green Screen Keying",
       "Compositing & Tracking",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "VFX & Green Screen Keying (VFX & Green Screen Keying, Compositing & Tracking, 3D Space & Camera Animations)",
+    "categoria_descriptores": "VFX & Green Screen Keying (VFX & Green Screen Keying, Compositing & Tracking, 3D Camera Motion)",
     "views": 112937,
     "upload_date": "2020-08-10",
     "latent_x": -67.75,
@@ -4550,13 +4550,13 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Motion Nations",
     "titulo": "Lyrics Kinetic Typography Animation in After Effects - After Effects Tutorial | Motion Graphics Text",
     "enlace": "https://www.youtube.com/watch?v=cumF26fTp2E",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers",
-      "Text Effects & Kinetic Typography",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Motion Graphics",
+      "Kinetic Typography",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers, Text Effects & Kinetic Typography, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics, Kinetic Typography, Plugins & Tools)",
     "views": 112723,
     "upload_date": "2025-08-09",
     "latent_x": 4.659999847412109,
@@ -4571,11 +4571,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "Create Motion Graphics Just Like Apple in After Effects",
     "enlace": "https://www.youtube.com/watch?v=Vpt08KkCeVU",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 111225,
     "upload_date": "2025-09-13",
     "latent_x": -33.630001068115234,
@@ -4590,12 +4590,12 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "mahicg",
     "titulo": "Nebula 3D Plugins || Videocopilot || NAB SHOW 2020|| Andrew Kramer",
     "enlace": "https://www.youtube.com/watch?v=4qcXBcXxYrI",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "3D Camera Motion",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion, Plugins & Tools)",
     "views": 109910,
     "upload_date": "2020-08-10",
     "latent_x": -59.209999084472656,
@@ -4630,11 +4630,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "wideopenreviews",
     "titulo": "After Effects CS6 - 3D Camera Tracker Tutorial",
     "enlace": "https://www.youtube.com/watch?v=cP3yEunU0cE",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations)",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion)",
     "views": 109573,
     "upload_date": "2012-08-12",
     "latent_x": -70.33999633789062,
@@ -4649,11 +4649,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "Create REAL Cinematic Visual Motion Graphics in After Effects",
     "enlace": "https://www.youtube.com/watch?v=0X_sChSL9ag",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 108919,
     "upload_date": "2024-08-09",
     "latent_x": -46.36000061035156,
@@ -4668,11 +4668,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Move Shapes",
     "titulo": "Stretching Kinetic Typography - Easy Text Animation in After Effects Tutorial",
     "enlace": "https://www.youtube.com/watch?v=2FzMqyOj0dk",
-    "categoria_principal": "Text Effects & Kinetic Typography",
+    "categoria_principal": "Kinetic Typography",
     "tags": [
-      "Text Effects & Kinetic Typography"
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Text Effects & Kinetic Typography (Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Kinetic Typography (Kinetic Typography)",
     "views": 107665,
     "upload_date": "2020-08-10",
     "latent_x": -1.909999966621399,
@@ -4706,11 +4706,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "Make Hyper Visual Motion Graphics in After Effects",
     "enlace": "https://www.youtube.com/watch?v=sfCAy92OKQk",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 107307,
     "upload_date": "2024-08-09",
     "latent_x": -59.88999938964844,
@@ -4728,10 +4728,10 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Compositing & Tracking",
     "tags": [
       "Compositing & Tracking",
-      "3D Space & Camera Animations",
-      "Text Effects & Kinetic Typography"
+      "3D Camera Motion",
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Space & Camera Animations, Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Camera Motion, Kinetic Typography)",
     "views": 107043,
     "upload_date": "2012-08-12",
     "latent_x": -18.18000030517578,
@@ -4784,12 +4784,12 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "Make the Best Cinematic Motion Graphics in After Effects",
     "enlace": "https://www.youtube.com/watch?v=8JIb73zsIiw",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers",
-      "3D Space & Camera Animations"
+      "Motion Graphics",
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics, 3D Camera Motion)",
     "views": 105210,
     "upload_date": "2025-08-09",
     "latent_x": -43.209999084472656,
@@ -4807,9 +4807,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Compositing & Tracking",
     "tags": [
       "Compositing & Tracking",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Camera Motion)",
     "views": 104412,
     "upload_date": "2019-08-11",
     "latent_x": -32.470001220703125,
@@ -4824,12 +4824,12 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Lambodar Motion",
     "titulo": "The SECRET to Smooth Text Animation in After Effects (No plugins)",
     "enlace": "https://www.youtube.com/watch?v=Ph91d0Mb9sQ",
-    "categoria_principal": "Text Effects & Kinetic Typography",
+    "categoria_principal": "Kinetic Typography",
     "tags": [
-      "Text Effects & Kinetic Typography",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Kinetic Typography",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "Text Effects & Kinetic Typography (Text Effects & Kinetic Typography, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "Kinetic Typography (Kinetic Typography, Plugins & Tools)",
     "views": 103613,
     "upload_date": "2025-12-12",
     "latent_x": -16.90999984741211,
@@ -4844,11 +4844,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Joshua M Kerr",
     "titulo": "After Effects to Unreal Engine 5 (THE EASY WAY)",
     "enlace": "https://www.youtube.com/watch?v=r7IW5te_3ZI",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations)",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion)",
     "views": 102904,
     "upload_date": "2023-08-10",
     "latent_x": -100.20999908447266,
@@ -4863,12 +4863,12 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "Create Hyper 3D Visuals & Physics in After Effects",
     "enlace": "https://www.youtube.com/watch?v=FSK9lHHy2R0",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers",
-      "3D Space & Camera Animations"
+      "Motion Graphics",
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics, 3D Camera Motion)",
     "views": 101954,
     "upload_date": "2025-08-09",
     "latent_x": -59.529998779296875,
@@ -4883,11 +4883,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "Morph Logos & Objects Into Anything in After Effects",
     "enlace": "https://www.youtube.com/watch?v=xvCTlEIvC8U",
-    "categoria_principal": "Text Effects & Kinetic Typography",
+    "categoria_principal": "Kinetic Typography",
     "tags": [
-      "Text Effects & Kinetic Typography"
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Text Effects & Kinetic Typography (Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Kinetic Typography (Kinetic Typography)",
     "views": 99483,
     "upload_date": "2025-09-13",
     "latent_x": 19.959999084472656,
@@ -4902,11 +4902,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Ben Marriott",
     "titulo": "Why They're Not Hiring You... | Creative Career Tips",
     "enlace": "https://www.youtube.com/watch?v=ONV_9bMInCk",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 99058,
     "upload_date": "2022-08-10",
     "latent_x": 29.559999465942383,
@@ -4962,9 +4962,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "VFX & Green Screen Keying",
     "tags": [
       "VFX & Green Screen Keying",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "VFX & Green Screen Keying (VFX & Green Screen Keying, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "VFX & Green Screen Keying (VFX & Green Screen Keying, Plugins & Tools)",
     "views": 96674,
     "upload_date": "2025-08-09",
     "latent_x": -75.76000213623047,
@@ -4979,11 +4979,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "Make Documentary Style Motion Graphic Stories in After Effects",
     "enlace": "https://www.youtube.com/watch?v=Br_BS5I4E9Y",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 95465,
     "upload_date": "2026-06-10",
     "latent_x": -92.70999908447266,
@@ -5001,9 +5001,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Expressions & Code Automation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Expressions & Code)",
     "views": 92912,
     "upload_date": "2021-08-10",
     "latent_x": -36.2400016784668,
@@ -5021,9 +5021,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Compositing & Tracking",
     "tags": [
       "Compositing & Tracking",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Camera Motion)",
     "views": 87880,
     "upload_date": "2025-08-09",
     "latent_x": -33.95000076293945,
@@ -5076,11 +5076,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Jake In Motion",
     "titulo": "3D Camera Tracker | Effects of After Effects",
     "enlace": "https://www.youtube.com/watch?v=yaT3YwIK-BI",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations)",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion)",
     "views": 83189,
     "upload_date": "2022-08-10",
     "latent_x": -87.83999633789062,
@@ -5117,9 +5117,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, 3D Camera Motion)",
     "views": 82402,
     "upload_date": "2023-08-10",
     "latent_x": -49.04999923706055,
@@ -5134,13 +5134,13 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Motion Nations",
     "titulo": "Typography Motion Graphics Animation in After Effects - After Effects Tutorial Kinetic Typography #3",
     "enlace": "https://www.youtube.com/watch?v=uAp5qNvF1MU",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers",
-      "Text Effects & Kinetic Typography",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Motion Graphics",
+      "Kinetic Typography",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers, Text Effects & Kinetic Typography, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics, Kinetic Typography, Plugins & Tools)",
     "views": 81159,
     "upload_date": "2025-08-09",
     "latent_x": 4.170000076293945,
@@ -5196,9 +5196,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Text Effects & Kinetic Typography"
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Kinetic Typography)",
     "views": 77637,
     "upload_date": "2022-08-10",
     "latent_x": 24.43000030517578,
@@ -5254,9 +5254,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Compositing & Tracking",
     "tags": [
       "Compositing & Tracking",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Camera Motion)",
     "views": 75210,
     "upload_date": "2025-08-09",
     "latent_x": -7.099999904632568,
@@ -5271,12 +5271,12 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Philipp Dreier",
     "titulo": "Andrew Kramer present the new AE Plug-in Element 3D",
     "enlace": "https://www.youtube.com/watch?v=MI6_ZgrBxo4",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "3D Camera Motion",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion, Plugins & Tools)",
     "views": 74156,
     "upload_date": "2012-08-12",
     "latent_x": -66.43000030517578,
@@ -5313,9 +5313,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Expressions & Code Automation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Expressions & Code)",
     "views": 72054,
     "upload_date": "2014-08-12",
     "latent_x": -21.989999771118164,
@@ -5349,12 +5349,12 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Nawaz Alamgir",
     "titulo": "Kinetic Typography Motion Posters | After Effects Tutorial",
     "enlace": "https://www.youtube.com/watch?v=u4Y84MBFM-Q",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation",
-      "Text Effects & Kinetic Typography"
+      "Expressions & Code",
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation, Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code, Kinetic Typography)",
     "views": 69046,
     "upload_date": "2021-08-10",
     "latent_x": -29.729999542236328,
@@ -5407,11 +5407,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "vfx world",
     "titulo": "After Effects to unreal engine 5 | 3D camera track | Tutorial in ENGLISH",
     "enlace": "https://www.youtube.com/watch?v=I6KeIFgPvcw",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations)",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion)",
     "views": 68016,
     "upload_date": "2022-08-10",
     "latent_x": -82.41000366210938,
@@ -5426,11 +5426,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Academy Of Edits",
     "titulo": "3 wiggle expression tips you should know — after effects expression tutorial",
     "enlace": "https://www.youtube.com/watch?v=cpZmb8FH5Zo",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 66971,
     "upload_date": "2020-08-10",
     "latent_x": 31.389999389648438,
@@ -5448,10 +5448,10 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Expressions & Code Automation",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Expressions & Code",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Expressions & Code Automation, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Expressions & Code, Plugins & Tools)",
     "views": 66054,
     "upload_date": "2021-08-10",
     "latent_x": -29.75,
@@ -5466,11 +5466,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "Make Hyper-Visual Motion Graphics in After Effects",
     "enlace": "https://www.youtube.com/watch?v=Os7zeLqIfAY",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 65803,
     "upload_date": "2026-03-12",
     "latent_x": -59.88999938964844,
@@ -5504,11 +5504,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "MotionXP",
     "titulo": "The only 4 After Effects Expressions you need to know",
     "enlace": "https://www.youtube.com/watch?v=Ob1X6uXu-dk",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 64886,
     "upload_date": "2024-08-09",
     "latent_x": -9.25,
@@ -5561,11 +5561,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "Make Cinematic Minimalist Motion Graphics in After Effects",
     "enlace": "https://www.youtube.com/watch?v=kuScUNhb248",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 64088,
     "upload_date": "2025-08-09",
     "latent_x": -81.58000183105469,
@@ -5618,11 +5618,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Motion Caddy",
     "titulo": "How to Animate Font Weight in After Effects | Kinetic Typography Pro Tip",
     "enlace": "https://www.youtube.com/watch?v=uP5joFUSrrw",
-    "categoria_principal": "Text Effects & Kinetic Typography",
+    "categoria_principal": "Kinetic Typography",
     "tags": [
-      "Text Effects & Kinetic Typography"
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Text Effects & Kinetic Typography (Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Kinetic Typography (Kinetic Typography)",
     "views": 62273,
     "upload_date": "2025-08-09",
     "latent_x": -4.570000171661377,
@@ -5637,11 +5637,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Animoplex",
     "titulo": "After Effects Expressions 203 - Value Expression",
     "enlace": "https://www.youtube.com/watch?v=6TKEcTHdGK8",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 62249,
     "upload_date": "2017-08-11",
     "latent_x": 4.940000057220459,
@@ -5699,9 +5699,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Compositing & Tracking",
     "tags": [
       "Compositing & Tracking",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Camera Motion)",
     "views": 58038,
     "upload_date": "2025-08-09",
     "latent_x": -32.220001220703125,
@@ -5738,9 +5738,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "VFX & Green Screen Keying",
     "tags": [
       "VFX & Green Screen Keying",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "VFX & Green Screen Keying (VFX & Green Screen Keying, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "VFX & Green Screen Keying (VFX & Green Screen Keying, Plugins & Tools)",
     "views": 57816,
     "upload_date": "2023-08-10",
     "latent_x": -62.349998474121094,
@@ -5755,11 +5755,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Motion By Scott",
     "titulo": "10 Amazing Expressions You NEED To Know In After Effects",
     "enlace": "https://www.youtube.com/watch?v=6nsKeUUlg4o",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 56289,
     "upload_date": "2023-08-10",
     "latent_x": 5.670000076293945,
@@ -5815,9 +5815,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Compositing & Tracking",
     "tags": [
       "Compositing & Tracking",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Camera Motion)",
     "views": 53921,
     "upload_date": "2025-08-09",
     "latent_x": -21.690000534057617,
@@ -5832,11 +5832,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "Create Hollywood Documentary Motion Graphics in After Effects",
     "enlace": "https://www.youtube.com/watch?v=I4ZJRV88jZ8",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 53099,
     "upload_date": "2026-05-11",
     "latent_x": -37.290000915527344,
@@ -5854,9 +5854,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Expressions & Code Automation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Expressions & Code)",
     "views": 52657,
     "upload_date": "2017-08-11",
     "latent_x": -27.190000534057617,
@@ -5912,9 +5912,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Compositing & Tracking",
     "tags": [
       "Compositing & Tracking",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Camera Motion)",
     "views": 51300,
     "upload_date": "2024-08-09",
     "latent_x": -33.68000030517578,
@@ -5929,12 +5929,12 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "Create Ultra Visual 3D Motion Graphics in After Effects",
     "enlace": "https://www.youtube.com/watch?v=UpHP8KdQbOE",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers",
-      "3D Space & Camera Animations"
+      "Motion Graphics",
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics, 3D Camera Motion)",
     "views": 50654,
     "upload_date": "2025-11-12",
     "latent_x": -55.83000183105469,
@@ -5968,11 +5968,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "GraFeeXa",
     "titulo": "After Effect Like Typography Motion Graphics Animation in Canva",
     "enlace": "https://www.youtube.com/watch?v=UDr-Gf3qNws",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 49272,
     "upload_date": "2025-09-13",
     "latent_x": -34.95000076293945,
@@ -5987,11 +5987,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Animoplex",
     "titulo": "After Effects Expressions 403 - Triggers Using Markers",
     "enlace": "https://www.youtube.com/watch?v=B_3XS2-VWOM",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 48742,
     "upload_date": "2018-08-11",
     "latent_x": -8.739999771118164,
@@ -6006,11 +6006,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "5 Cinematic Motion Graphics You Should Know in After Effects",
     "enlace": "https://www.youtube.com/watch?v=HkRZ4C_PWrQ",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 48326,
     "upload_date": "2026-07-10",
     "latent_x": -64.44999694824219,
@@ -6025,11 +6025,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "5 Trendy Line Motion Graphics To Know In After Effects",
     "enlace": "https://www.youtube.com/watch?v=3Uk99zkf9iM",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 47601,
     "upload_date": "2025-10-13",
     "latent_x": -72.43000030517578,
@@ -6044,11 +6044,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Jake In Motion",
     "titulo": "if/else Conditional Statements | After Effects Expressions",
     "enlace": "https://www.youtube.com/watch?v=k4QqLpxbEKI",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 47264,
     "upload_date": "2018-08-11",
     "latent_x": 21.200000762939453,
@@ -6063,11 +6063,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Manuel does Motion",
     "titulo": "Basic Expressions in After Effects Part 1 | Tutorial",
     "enlace": "https://www.youtube.com/watch?v=m6N13ENrSkU",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 46896,
     "upload_date": "2023-08-10",
     "latent_x": 6.429999828338623,
@@ -6104,9 +6104,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Compositing & Tracking",
     "tags": [
       "Compositing & Tracking",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Camera Motion)",
     "views": 43303,
     "upload_date": "2024-08-09",
     "latent_x": -21.690000534057617,
@@ -6125,9 +6125,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Compositing & Tracking",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Compositing & Tracking, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Compositing & Tracking, 3D Camera Motion)",
     "views": 43161,
     "upload_date": "2021-08-10",
     "latent_x": -43.79999923706055,
@@ -6142,11 +6142,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "goffnett",
     "titulo": "Andrew Kramer 3d-picture effect Tutorial from Video Copilot",
     "enlace": "https://www.youtube.com/watch?v=fpuQL1AUkm8",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations)",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion)",
     "views": 42138,
     "upload_date": "2011-08-13",
     "latent_x": -120.0,
@@ -6161,11 +6161,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "Make Trendy Carousel Motion Graphics in After Effects",
     "enlace": "https://www.youtube.com/watch?v=ZqRE3ho8iP4",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 41977,
     "upload_date": "2026-03-12",
     "latent_x": -68.08999633789062,
@@ -6199,11 +6199,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Legends Know It",
     "titulo": "Master Text Animation in Under 6 Minutes (After Effects 2025)",
     "enlace": "https://www.youtube.com/watch?v=1zX-MHQ9u60",
-    "categoria_principal": "Text Effects & Kinetic Typography",
+    "categoria_principal": "Kinetic Typography",
     "tags": [
-      "Text Effects & Kinetic Typography"
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Text Effects & Kinetic Typography (Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Kinetic Typography (Kinetic Typography)",
     "views": 39993,
     "upload_date": "2025-08-09",
     "latent_x": 13.3100004196167,
@@ -6218,13 +6218,13 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Motion Nations",
     "titulo": "Typography Motion Graphics Animation in After Effects - After Effects Tutorial Kinetic Typography #5",
     "enlace": "https://www.youtube.com/watch?v=Yw_L8MCfwZ8",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers",
-      "Text Effects & Kinetic Typography",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Motion Graphics",
+      "Kinetic Typography",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers, Text Effects & Kinetic Typography, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics, Kinetic Typography, Plugins & Tools)",
     "views": 39737,
     "upload_date": "2026-04-11",
     "latent_x": 4.170000076293945,
@@ -6239,11 +6239,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "5 Trending Motion Graphic Styles To Know in After Effects 2026",
     "enlace": "https://www.youtube.com/watch?v=fB7IGnAPBkA",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 37957,
     "upload_date": "2026-02-10",
     "latent_x": -33.5099983215332,
@@ -6261,9 +6261,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Compositing & Tracking",
     "tags": [
       "Compositing & Tracking",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Camera Motion)",
     "views": 36978,
     "upload_date": "2024-08-09",
     "latent_x": -42.599998474121094,
@@ -6278,11 +6278,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "Top 5 Best Expressions in After Effects",
     "enlace": "https://www.youtube.com/watch?v=2Pyqh4hKby4",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 36223,
     "upload_date": "2021-08-10",
     "latent_x": 19.360000610351562,
@@ -6297,13 +6297,13 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Motion Nations",
     "titulo": "Minimal Line Motion Graphics Text Animation in After Effects - After Effects Tutorial | No Plugins",
     "enlace": "https://www.youtube.com/watch?v=pQXoGGpCYeg",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers",
-      "Text Effects & Kinetic Typography",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Motion Graphics",
+      "Kinetic Typography",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers, Text Effects & Kinetic Typography, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics, Kinetic Typography, Plugins & Tools)",
     "views": 35687,
     "upload_date": "2026-03-12",
     "latent_x": 14.069999694824219,
@@ -6318,12 +6318,12 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Freak Motions",
     "titulo": "After Effects Tutorial - Circle Kinetic Typography Animation in After Effects - No Plugins",
     "enlace": "https://www.youtube.com/watch?v=uK7fwZJD8B0",
-    "categoria_principal": "Text Effects & Kinetic Typography",
+    "categoria_principal": "Kinetic Typography",
     "tags": [
-      "Text Effects & Kinetic Typography",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Kinetic Typography",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "Text Effects & Kinetic Typography (Text Effects & Kinetic Typography, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "Kinetic Typography (Kinetic Typography, Plugins & Tools)",
     "views": 35321,
     "upload_date": "2022-08-10",
     "latent_x": -33.88999938964844,
@@ -6338,11 +6338,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "synthymental",
     "titulo": "New Kinetic Typography v.1 | After Effect tutorial",
     "enlace": "https://www.youtube.com/watch?v=oH-WvVDjCCs",
-    "categoria_principal": "Text Effects & Kinetic Typography",
+    "categoria_principal": "Kinetic Typography",
     "tags": [
-      "Text Effects & Kinetic Typography"
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Text Effects & Kinetic Typography (Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Kinetic Typography (Kinetic Typography)",
     "views": 35297,
     "upload_date": "2025-08-09",
     "latent_x": -11.949999809265137,
@@ -6357,11 +6357,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "Create Visual Motion Graphics With Light & Physics in After Effects",
     "enlace": "https://www.youtube.com/watch?v=3qtxzm-INHI",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 33489,
     "upload_date": "2026-03-12",
     "latent_x": -66.7300033569336,
@@ -6395,11 +6395,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Animoplex",
     "titulo": "After Effects Expressions 405 - External Code & JSON",
     "enlace": "https://www.youtube.com/watch?v=Wkr_XOpsAFU",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 32867,
     "upload_date": "2018-08-11",
     "latent_x": 9.609999656677246,
@@ -6433,11 +6433,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "Make Ultra Sleek Motion Graphics in After Effects",
     "enlace": "https://www.youtube.com/watch?v=nLrBo3Vx1jw",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 32217,
     "upload_date": "2026-05-11",
     "latent_x": -78.0,
@@ -6471,11 +6471,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "After Effects Basics",
     "titulo": "Learn Everything About EXPRESSIONS! (After Effects Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=5L3rFxE_2ug",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 31839,
     "upload_date": "2025-08-09",
     "latent_x": -14.229999542236328,
@@ -6509,12 +6509,12 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Sanji Nai-Chien",
     "titulo": "Motion Graphics Without Plugins: The New Claude Method",
     "enlace": "https://www.youtube.com/watch?v=9XvKyoz6Nmo",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Motion Graphics",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics, Plugins & Tools)",
     "views": 30756,
     "upload_date": "2026-08-05",
     "latent_x": 13.529999732971191,
@@ -6532,9 +6532,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Compositing & Tracking",
     "tags": [
       "Compositing & Tracking",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Camera Motion)",
     "views": 30543,
     "upload_date": "2023-08-10",
     "latent_x": -3.130000114440918,
@@ -6549,11 +6549,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "5 Motion Graphics Every After Effects User Should Know!",
     "enlace": "https://www.youtube.com/watch?v=u702HOX81e4",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 29712,
     "upload_date": "2026-07-10",
     "latent_x": -56.0,
@@ -6587,11 +6587,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "Create Modern SaaS Motion Graphics Like a Pro in After Effects",
     "enlace": "https://www.youtube.com/watch?v=SoZNDzxfRao",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 28878,
     "upload_date": "2026-01-11",
     "latent_x": -39.779998779296875,
@@ -6606,11 +6606,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Animoplex",
     "titulo": "After Effects Expressions 301 - Numbers",
     "enlace": "https://www.youtube.com/watch?v=aIxnJBOhdBw",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 28668,
     "upload_date": "2018-08-11",
     "latent_x": -0.09000000357627869,
@@ -6625,11 +6625,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "VerticDesigns",
     "titulo": "3D Motion Track Videos & Pictures in After Effects | Tutorial 🎥 3D Camera Tracker",
     "enlace": "https://www.youtube.com/watch?v=UORlWkECMtc",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations)",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion)",
     "views": 28648,
     "upload_date": "2024-08-09",
     "latent_x": -74.11000061035156,
@@ -6720,11 +6720,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Manuel does Motion",
     "titulo": "Animating with the Index expression in After Effects | Tutorial",
     "enlace": "https://www.youtube.com/watch?v=max21XTKGj0",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 24832,
     "upload_date": "2023-08-10",
     "latent_x": 14.4399995803833,
@@ -6739,11 +6739,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "The Best Trending Collage Motion Graphics in After Effects",
     "enlace": "https://www.youtube.com/watch?v=pLYMa77h97w",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 24309,
     "upload_date": "2025-09-13",
     "latent_x": -33.130001068115234,
@@ -6815,11 +6815,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "The Video Shop",
     "titulo": "Broadcast Graphics Kinetic Type | After Effects Tutorial",
     "enlace": "https://www.youtube.com/watch?v=qJbV27ic1Wk",
-    "categoria_principal": "Text Effects & Kinetic Typography",
+    "categoria_principal": "Kinetic Typography",
     "tags": [
-      "Text Effects & Kinetic Typography"
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Text Effects & Kinetic Typography (Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Kinetic Typography (Kinetic Typography)",
     "views": 22699,
     "upload_date": "2023-08-10",
     "latent_x": 4.900000095367432,
@@ -6834,11 +6834,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "Make Any Motion Graphic Hyper-3D in After Effects",
     "enlace": "https://www.youtube.com/watch?v=o0-xy2pb_G8",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations)",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion)",
     "views": 22065,
     "upload_date": "2025-12-12",
     "latent_x": -86.55999755859375,
@@ -6872,11 +6872,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Envato Video",
     "titulo": "After Effects for Beginners | Made EASY by a Pro!",
     "enlace": "https://www.youtube.com/watch?v=6DC187p6UHA",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 21823,
     "upload_date": "2025-08-09",
     "latent_x": -62.34000015258789,
@@ -6891,12 +6891,12 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "P A N T E R",
     "titulo": "How to Stretch Kinetic Text With Expressions in After Effects",
     "enlace": "https://www.youtube.com/watch?v=7D03gpcHQJQ",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation",
-      "Text Effects & Kinetic Typography"
+      "Expressions & Code",
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation, Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code, Kinetic Typography)",
     "views": 21550,
     "upload_date": "2025-08-09",
     "latent_x": -38.439998626708984,
@@ -6911,12 +6911,12 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Worldo Adobe",
     "titulo": "Handwriting Text Animation in After Effects – Easy Write-On Effect Tutorial",
     "enlace": "https://www.youtube.com/watch?v=kscowTVML34",
-    "categoria_principal": "Text Effects & Kinetic Typography",
+    "categoria_principal": "Kinetic Typography",
     "tags": [
-      "Text Effects & Kinetic Typography",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Kinetic Typography",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "Text Effects & Kinetic Typography (Text Effects & Kinetic Typography, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "Kinetic Typography (Kinetic Typography, Plugins & Tools)",
     "views": 21010,
     "upload_date": "2025-08-09",
     "latent_x": -15.600000381469727,
@@ -6931,11 +6931,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "Make Hyper-Real Motion Graphics in After Effects",
     "enlace": "https://www.youtube.com/watch?v=41JSCHJ9-10",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 20993,
     "upload_date": "2026-07-26",
     "latent_x": -54.849998474121094,
@@ -6972,9 +6972,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Compositing & Tracking",
     "tags": [
       "Compositing & Tracking",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Camera Motion)",
     "views": 20529,
     "upload_date": "2024-08-09",
     "latent_x": -16.690000534057617,
@@ -6989,11 +6989,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Envato Video",
     "titulo": "How to Animate Text in After Effects | Kinetic Typography",
     "enlace": "https://www.youtube.com/watch?v=lzQwR5Gaz1A",
-    "categoria_principal": "Text Effects & Kinetic Typography",
+    "categoria_principal": "Kinetic Typography",
     "tags": [
-      "Text Effects & Kinetic Typography"
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Text Effects & Kinetic Typography (Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Kinetic Typography (Kinetic Typography)",
     "views": 19993,
     "upload_date": "2025-08-09",
     "latent_x": 11.9399995803833,
@@ -7027,11 +7027,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "Make Motion Graphics Look Ultra-Realistic in After Effects",
     "enlace": "https://www.youtube.com/watch?v=2aGEW7vxihU",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 19697,
     "upload_date": "2026-04-11",
     "latent_x": -85.16000366210938,
@@ -7084,11 +7084,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "7 Minute AE Tutorials",
     "titulo": "Revolutionize Your Workflow with These 10 After Effects Expressions! - Tutorial",
     "enlace": "https://www.youtube.com/watch?v=wzg9ARFHu3E",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 17470,
     "upload_date": "2023-08-10",
     "latent_x": 5.590000152587891,
@@ -7103,11 +7103,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "School of Motion",
     "titulo": "After Effects 3D Camera into Unreal Engine!",
     "enlace": "https://www.youtube.com/watch?v=DTiNqqGIhmA",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations)",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion)",
     "views": 17184,
     "upload_date": "2025-08-09",
     "latent_x": -96.58999633789062,
@@ -7126,10 +7126,10 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "tags": [
       "VFX & Green Screen Keying",
       "Compositing & Tracking",
-      "3D Space & Camera Animations",
-      "Text Effects & Kinetic Typography"
+      "3D Camera Motion",
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "VFX & Green Screen Keying (VFX & Green Screen Keying, Compositing & Tracking, 3D Space & Camera Animations, Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "VFX & Green Screen Keying (VFX & Green Screen Keying, Compositing & Tracking, 3D Camera Motion, Kinetic Typography)",
     "views": 15561,
     "upload_date": "2025-08-09",
     "latent_x": -71.12000274658203,
@@ -7144,11 +7144,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Alli and Will",
     "titulo": "LEARN AFTER EFFECTS EXPRESSIONS For Beginners Tutorial",
     "enlace": "https://www.youtube.com/watch?v=MaBIx0gQXec",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 15292,
     "upload_date": "2020-08-10",
     "latent_x": -9.9399995803833,
@@ -7224,9 +7224,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Compositing & Tracking",
     "tags": [
       "Compositing & Tracking",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Camera Motion)",
     "views": 14246,
     "upload_date": "2025-08-09",
     "latent_x": -15.369999885559082,
@@ -7241,11 +7241,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "Make Cinematic Motion Graphics With Light in After Effects",
     "enlace": "https://www.youtube.com/watch?v=2xXl_vFoRcM",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 14168,
     "upload_date": "2026-07-28",
     "latent_x": -70.6500015258789,
@@ -7260,11 +7260,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "Create the Best Motion Graphics in After Effects Latest Update",
     "enlace": "https://www.youtube.com/watch?v=CAg-D8JH18I",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers"
+      "Motion Graphics"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics)",
     "views": 13868,
     "upload_date": "2026-07-10",
     "latent_x": -29.729999542236328,
@@ -7279,12 +7279,12 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "Make Hyper-Visual Cartoon 3D Animations in After Effects",
     "enlace": "https://www.youtube.com/watch?v=bkZ2wgH1KKk",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers",
-      "3D Space & Camera Animations"
+      "Motion Graphics",
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics, 3D Camera Motion)",
     "views": 13805,
     "upload_date": "2026-08-04",
     "latent_x": -68.80000305175781,
@@ -7337,11 +7337,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Jake In Motion",
     "titulo": "This After Effects Expressions Technique Changes Everything",
     "enlace": "https://www.youtube.com/watch?v=yzYz242kAzU",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 13057,
     "upload_date": "2026-01-11",
     "latent_x": -33.119998931884766,
@@ -7356,13 +7356,13 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Vane Motion",
     "titulo": "Create a 3D Kinetic Typography Animation in After Effects | Motion Graphics Tutorial",
     "enlace": "https://www.youtube.com/watch?v=lagkEwi4sfs",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers",
-      "3D Space & Camera Animations",
-      "Text Effects & Kinetic Typography"
+      "Motion Graphics",
+      "3D Camera Motion",
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers, 3D Space & Camera Animations, Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics, 3D Camera Motion, Kinetic Typography)",
     "views": 12705,
     "upload_date": "2026-07-31",
     "latent_x": -20.770000457763672,
@@ -7419,9 +7419,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "VFX & Green Screen Keying",
     "tags": [
       "VFX & Green Screen Keying",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "VFX & Green Screen Keying (VFX & Green Screen Keying, 3D Space & Camera Animations)",
+    "categoria_descriptores": "VFX & Green Screen Keying (VFX & Green Screen Keying, 3D Camera Motion)",
     "views": 11612,
     "upload_date": "2025-08-09",
     "latent_x": -62.790000915527344,
@@ -7436,11 +7436,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Plainly",
     "titulo": "3 expressions that saved me 100+ hours in After Effects",
     "enlace": "https://www.youtube.com/watch?v=bdcSxwfKcXs",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 11332,
     "upload_date": "2025-08-09",
     "latent_x": -6.590000152587891,
@@ -7458,9 +7458,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Compositing & Tracking",
     "tags": [
       "Compositing & Tracking",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Camera Motion)",
     "views": 11270,
     "upload_date": "2025-08-09",
     "latent_x": -42.810001373291016,
@@ -7480,10 +7480,10 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
       "Beginner Guides",
       "VFX & Green Screen Keying",
       "Compositing & Tracking",
-      "Expressions & Code Automation",
-      "3D Space & Camera Animations"
+      "Expressions & Code",
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, VFX & Green Screen Keying, Compositing & Tracking, Expressions & Code Automation, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, VFX & Green Screen Keying, Compositing & Tracking, Expressions & Code, 3D Camera Motion)",
     "views": 10807,
     "upload_date": "2025-12-12",
     "latent_x": -50.33000183105469,
@@ -7501,9 +7501,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Expressions & Code Automation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Expressions & Code)",
     "views": 10283,
     "upload_date": "2017-08-11",
     "latent_x": -21.989999771118164,
@@ -7538,11 +7538,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Plainly",
     "titulo": "How to write any After Effects script using ChatGPT",
     "enlace": "https://www.youtube.com/watch?v=N_42-DTDuHI",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 10094,
     "upload_date": "2025-08-09",
     "latent_x": -19.709999084472656,
@@ -7557,11 +7557,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Manuel does Motion",
     "titulo": "Animating with the Index Expression | After Effects Tutorial",
     "enlace": "https://www.youtube.com/watch?v=AkQiZtgfkPk",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 9845,
     "upload_date": "2024-08-09",
     "latent_x": 14.4399995803833,
@@ -7615,11 +7615,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "mamoworld.com",
     "titulo": "After Effects Tutorial: Looping Animations with Expressions and no Code",
     "enlace": "https://www.youtube.com/watch?v=05tHNj1Mh14",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 9341,
     "upload_date": "2015-08-12",
     "latent_x": 6.420000076293945,
@@ -7637,9 +7637,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Compositing & Tracking",
     "tags": [
       "Compositing & Tracking",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Camera Motion)",
     "views": 9190,
     "upload_date": "2017-08-11",
     "latent_x": -21.690000534057617,
@@ -7673,11 +7673,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Effect For You",
     "titulo": "Kinetic Typography tutorial After Effects | Adobe After Effect tutorial | Effect for You",
     "enlace": "https://www.youtube.com/watch?v=vpN4oB8iYyU",
-    "categoria_principal": "Text Effects & Kinetic Typography",
+    "categoria_principal": "Kinetic Typography",
     "tags": [
-      "Text Effects & Kinetic Typography"
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Text Effects & Kinetic Typography (Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Kinetic Typography (Kinetic Typography)",
     "views": 8767,
     "upload_date": "2018-08-11",
     "latent_x": -4.320000171661377,
@@ -7692,12 +7692,12 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Smertimba Graphics",
     "titulo": "Stacked Typography Animation in After Effects 2021 | Kinetic Typography Tutorial",
     "enlace": "https://www.youtube.com/watch?v=sXSj8gjfRmc",
-    "categoria_principal": "Text Effects & Kinetic Typography",
+    "categoria_principal": "Kinetic Typography",
     "tags": [
-      "Text Effects & Kinetic Typography",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Kinetic Typography",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "Text Effects & Kinetic Typography (Text Effects & Kinetic Typography, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "Kinetic Typography (Kinetic Typography, Plugins & Tools)",
     "views": 8741,
     "upload_date": "2021-08-10",
     "latent_x": -24.729999542236328,
@@ -7731,11 +7731,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "AdobeMasters",
     "titulo": "How to Use the 3D Camera Tracker Tool in Adobe After Effects CC (2017)",
     "enlace": "https://www.youtube.com/watch?v=dxHNla55pmo",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations)",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion)",
     "views": 7397,
     "upload_date": "2017-08-11",
     "latent_x": -78.41999816894531,
@@ -7769,12 +7769,12 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Motion Science",
     "titulo": "Effects Compositing with Masking in After Effects",
     "enlace": "https://www.youtube.com/watch?v=WH_G6SFZGvA",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers",
+      "Motion Graphics",
       "Compositing & Tracking"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers, Compositing & Tracking)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics, Compositing & Tracking)",
     "views": 7186,
     "upload_date": "2020-08-10",
     "latent_x": -45.27000045776367,
@@ -7792,9 +7792,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Compositing & Tracking",
     "tags": [
       "Compositing & Tracking",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Camera Motion)",
     "views": 7060,
     "upload_date": "2025-12-12",
     "latent_x": -8.920000076293945,
@@ -7813,9 +7813,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "tags": [
       "VFX & Green Screen Keying",
       "Compositing & Tracking",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "VFX & Green Screen Keying (VFX & Green Screen Keying, Compositing & Tracking, 3D Space & Camera Animations)",
+    "categoria_descriptores": "VFX & Green Screen Keying (VFX & Green Screen Keying, Compositing & Tracking, 3D Camera Motion)",
     "views": 6333,
     "upload_date": "2025-09-13",
     "latent_x": -71.69000244140625,
@@ -7830,11 +7830,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "After Effects Tutorials w/ Mikey",
     "titulo": "Marker Based Wiggle expression in After Effects",
     "enlace": "https://www.youtube.com/watch?v=RLVCAbLlwCA",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 6007,
     "upload_date": "2019-08-11",
     "latent_x": 21.989999771118164,
@@ -7868,11 +7868,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Plainly",
     "titulo": "5 After Effects Expressions That Look Complicated but Aren't",
     "enlace": "https://www.youtube.com/watch?v=eVIls2dnjVM",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 5611,
     "upload_date": "2024-08-09",
     "latent_x": -17.059999465942383,
@@ -7890,9 +7890,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Compositing & Tracking",
     "tags": [
       "Compositing & Tracking",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Camera Motion)",
     "views": 5556,
     "upload_date": "2022-08-10",
     "latent_x": -43.650001525878906,
@@ -7907,13 +7907,13 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Motion Nations",
     "titulo": "Typography Motion Graphics Animation in After Effects - After Effects Tutorial | Kinetic Typography",
     "enlace": "https://www.youtube.com/watch?v=tC_p4mz5xfE",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers",
-      "Text Effects & Kinetic Typography",
-      "Plugin Tools (Element 3D/Trapcode)"
+      "Motion Graphics",
+      "Kinetic Typography",
+      "Plugins & Tools"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers, Text Effects & Kinetic Typography, Plugin Tools (Element 3D/Trapcode))",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics, Kinetic Typography, Plugins & Tools)",
     "views": 5535,
     "upload_date": "2026-07-26",
     "latent_x": 4.170000076293945,
@@ -7928,11 +7928,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "MediaWorkbench",
     "titulo": "After Effects Expressions - The Linear Expression",
     "enlace": "https://www.youtube.com/watch?v=bjzW_rqMWaQ",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 5174,
     "upload_date": "2019-08-11",
     "latent_x": 4.940000057220459,
@@ -7966,11 +7966,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "mamoworld.com",
     "titulo": "After Effects Expressions Nerd Tip 1: Building your own Expressions Library (1 minute tutorial)",
     "enlace": "https://www.youtube.com/watch?v=sMxQawzvPXI",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 4976,
     "upload_date": "2018-08-11",
     "latent_x": 6.199999809265137,
@@ -8007,9 +8007,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Expressions & Code Automation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Expressions & Code)",
     "views": 4680,
     "upload_date": "2016-08-11",
     "latent_x": -39.4900016784668,
@@ -8028,9 +8028,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Compositing & Tracking",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Compositing & Tracking, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Compositing & Tracking, 3D Camera Motion)",
     "views": 4600,
     "upload_date": "2026-01-11",
     "latent_x": -35.810001373291016,
@@ -8045,11 +8045,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "mamoworld.com",
     "titulo": "First Steps with After Effects Expressions (Expressions Tutorial 1)",
     "enlace": "https://www.youtube.com/watch?v=v7Fo7Hm_WNs",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 4420,
     "upload_date": "2018-08-11",
     "latent_x": -11.289999961853027,
@@ -8067,10 +8067,10 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Compositing & Tracking",
     "tags": [
       "Compositing & Tracking",
-      "Expressions & Code Automation",
-      "3D Space & Camera Animations"
+      "Expressions & Code",
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, Expressions & Code Automation, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, Expressions & Code, 3D Camera Motion)",
     "views": 4350,
     "upload_date": "2026-03-12",
     "latent_x": -54.34000015258789,
@@ -8085,11 +8085,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Ekin Yalgin",
     "titulo": "Animate Each Letter Independently: Kinetic Typography Techniques in After Effects",
     "enlace": "https://www.youtube.com/watch?v=XJWJ2zb0Who",
-    "categoria_principal": "Text Effects & Kinetic Typography",
+    "categoria_principal": "Kinetic Typography",
     "tags": [
-      "Text Effects & Kinetic Typography"
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Text Effects & Kinetic Typography (Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Kinetic Typography (Kinetic Typography)",
     "views": 4241,
     "upload_date": "2023-08-10",
     "latent_x": 3.3499999046325684,
@@ -8104,11 +8104,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Plainly",
     "titulo": "How to PROPERLY write After Effects expressions with AI",
     "enlace": "https://www.youtube.com/watch?v=xRUjaQghMdg",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 3811,
     "upload_date": "2025-08-09",
     "latent_x": -27.6299991607666,
@@ -8123,11 +8123,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Sparksight",
     "titulo": "After Effects Expression for Dynamic Echo Animation",
     "enlace": "https://www.youtube.com/watch?v=4qFVlViDr3w",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 3695,
     "upload_date": "2020-08-10",
     "latent_x": 18.979999542236328,
@@ -8142,12 +8142,12 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "7 Minute AE Tutorials",
     "titulo": "LOOPING After Effects Expressions YOU MUST KNOW! | Motion Graphics Tutorial",
     "enlace": "https://www.youtube.com/watch?v=Bx9HkbjunS4",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers",
-      "Expressions & Code Automation"
+      "Motion Graphics",
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers, Expressions & Code Automation)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics, Expressions & Code)",
     "views": 3537,
     "upload_date": "2022-08-10",
     "latent_x": -89.56999969482422,
@@ -8257,13 +8257,13 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Adobe Video",
     "titulo": "How to Use 3D Camera Tracking In After Effects | Essential Workflows with Cinecom | Adobe Video",
     "enlace": "https://www.youtube.com/watch?v=1zcAKRcs_gA",
-    "categoria_principal": "Motion Graphics & Shape Layers",
+    "categoria_principal": "Motion Graphics",
     "tags": [
-      "Motion Graphics & Shape Layers",
+      "Motion Graphics",
       "Compositing & Tracking",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Motion Graphics & Shape Layers (Motion Graphics & Shape Layers, Compositing & Tracking, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Motion Graphics (Motion Graphics, Compositing & Tracking, 3D Camera Motion)",
     "views": 2279,
     "upload_date": "2021-08-10",
     "latent_x": -66.38999938964844,
@@ -8278,11 +8278,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "MotionSpark",
     "titulo": "After Effects 3D Camera Tracker Tutorial – Add 3D Models, HDRI Lighting & Shadow Catcher",
     "enlace": "https://www.youtube.com/watch?v=_k41k5_aYzM",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations)",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion)",
     "views": 2098,
     "upload_date": "2026-03-12",
     "latent_x": -74.11000061035156,
@@ -8297,11 +8297,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "graymachine",
     "titulo": "After Effects Expressions Lesson 5: Expression Control",
     "enlace": "https://www.youtube.com/watch?v=G-z-yo2Kxok",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 1659,
     "upload_date": "2016-08-11",
     "latent_x": -2.430000066757202,
@@ -8357,9 +8357,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Expressions & Code Automation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Expressions & Code)",
     "views": 1402,
     "upload_date": "2023-08-10",
     "latent_x": -24.540000915527344,
@@ -8374,11 +8374,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Plainly",
     "titulo": "The 3 After Effects Expressions You Didn't Know You Needed",
     "enlace": "https://www.youtube.com/watch?v=joZaaiMfDoU",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 1306,
     "upload_date": "2025-11-12",
     "latent_x": 0.6800000071525574,
@@ -8393,11 +8393,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Cameron Perry",
     "titulo": "Top 5 Best Expressions To Use with Adobe After Effects!",
     "enlace": "https://www.youtube.com/watch?v=xV2jSjU3PwE",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 1296,
     "upload_date": "2021-08-10",
     "latent_x": 28.770000457763672,
@@ -8412,11 +8412,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "CrazyKev Productions",
     "titulo": "3D Camera Tracker tutorial After Effects 2019",
     "enlace": "https://www.youtube.com/watch?v=Zqs14L0DBus",
-    "categoria_principal": "3D Space & Camera Animations",
+    "categoria_principal": "3D Camera Motion",
     "tags": [
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "3D Space & Camera Animations (3D Space & Camera Animations)",
+    "categoria_descriptores": "3D Camera Motion (3D Camera Motion)",
     "views": 1264,
     "upload_date": "2019-08-11",
     "latent_x": -82.47000122070312,
@@ -8434,9 +8434,9 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Compositing & Tracking",
     "tags": [
       "Compositing & Tracking",
-      "3D Space & Camera Animations"
+      "3D Camera Motion"
     ],
-    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Space & Camera Animations)",
+    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Camera Motion)",
     "views": 1198,
     "upload_date": "2016-08-11",
     "latent_x": -34.40999984741211,
@@ -8470,11 +8470,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Motion Routes",
     "titulo": "Wiggle Expression | Adobe After Effects Tutorial",
     "enlace": "https://www.youtube.com/watch?v=CrMQtVsdz0A",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 868,
     "upload_date": "2023-08-10",
     "latent_x": 34.529998779296875,
@@ -8508,11 +8508,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Ycraft",
     "titulo": "Expression Kit - Full Tutorial | After Effects Expression Toolkit",
     "enlace": "https://www.youtube.com/watch?v=M6esvyMAzbE",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 773,
     "upload_date": "2026-04-11",
     "latent_x": 11.390000343322754,
@@ -8527,11 +8527,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Lucid Reels",
     "titulo": "How to Use ChatGPT to Write After Effects Expressions (Step-by-Step Guide)",
     "enlace": "https://www.youtube.com/watch?v=UXJvpB2YOeg",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 731,
     "upload_date": "2025-08-09",
     "latent_x": -22.049999237060547,
@@ -8546,12 +8546,12 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "HengVFX",
     "titulo": "Easy Text Animation Using Expressions – After Effects Tutorial",
     "enlace": "https://www.youtube.com/watch?v=twOFWmnoj_c",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation",
-      "Text Effects & Kinetic Typography"
+      "Expressions & Code",
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation, Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code, Kinetic Typography)",
     "views": 518,
     "upload_date": "2025-08-09",
     "latent_x": -37.040000915527344,
@@ -8585,11 +8585,11 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "autor": "Kirtan FX",
     "titulo": "Top 5 EXPRESSIONS For After Effects YOU Need to Know!",
     "enlace": "https://www.youtube.com/watch?v=QhHY3Nznr6A",
-    "categoria_principal": "Expressions & Code Automation",
+    "categoria_principal": "Expressions & Code",
     "tags": [
-      "Expressions & Code Automation"
+      "Expressions & Code"
     ],
-    "categoria_descriptores": "Expressions & Code Automation (Expressions & Code Automation)",
+    "categoria_descriptores": "Expressions & Code (Expressions & Code)",
     "views": 419,
     "upload_date": "2025-12-12",
     "latent_x": -9.25,
@@ -8722,10 +8722,10 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "categoria_principal": "Compositing & Tracking",
     "tags": [
       "Compositing & Tracking",
-      "3D Space & Camera Animations",
-      "Text Effects & Kinetic Typography"
+      "3D Camera Motion",
+      "Kinetic Typography"
     ],
-    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Space & Camera Animations, Text Effects & Kinetic Typography)",
+    "categoria_descriptores": "Compositing & Tracking (Compositing & Tracking, 3D Camera Motion, Kinetic Typography)",
     "views": 11,
     "upload_date": "2023-06-15",
     "latent_x": -18.139999389648438,
@@ -8735,4 +8735,3 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "duracion": "21:15"
   }
 ];
-window.AFTEREFFECTS_DATA = AFTEREFFECTS_TUTORIALS_DATA;

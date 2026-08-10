@@ -2462,9 +2462,9 @@ const REAPER_TUTORIALS_DATA = [
       "JSFX & Plugin DSP",
       "Audio Mixing & Routing",
       "MIDI & VST",
-      "Control Surfaces & Hardware"
+      "Control Surfaces"
     ],
-    "categoria_descriptores": "JSFX & Plugin DSP (JSFX & Plugin DSP, Audio Mixing & Routing, MIDI & VST, Control Surfaces & Hardware)",
+    "categoria_descriptores": "JSFX & Plugin DSP (JSFX & Plugin DSP, Audio Mixing & Routing, MIDI & VST, Control Surfaces)",
     "views": 29480,
     "upload_date": "2022-08-10",
     "latent_x": 62.400001525878906,

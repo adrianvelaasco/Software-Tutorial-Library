@@ -2333,9 +2333,9 @@
       "JSFX & Plugin DSP",
       "Audio Mixing & Routing",
       "MIDI Editing & Virtual Instruments",
-      "Control Surfaces & Hardware"
+      "Control Surfaces"
     ],
-    "categoria_descriptores": "JSFX & Plugin DSP (JSFX & Plugin DSP, Audio Mixing & Routing, MIDI Editing & Virtual Instruments, Control Surfaces & Hardware)",
+    "categoria_descriptores": "JSFX & Plugin DSP (JSFX & Plugin DSP, Audio Mixing & Routing, MIDI Editing & Virtual Instruments, Control Surfaces)",
     "vistas_reales": 29480,
     "fecha_publicacion": "2022-08-10",
     "latent_x": 62.400001525878906,

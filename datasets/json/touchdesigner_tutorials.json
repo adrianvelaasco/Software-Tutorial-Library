@@ -7,10 +7,10 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Generative Art & Graphics",
+      "Generative Art",
       "GLSL & Shader Programming"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Art & Graphics, GLSL & Shader Programming)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Art, GLSL & Shader Programming)",
     "vistas_reales": 1277578,
     "fecha_publicacion": "2023-08-10",
     "latent_x": -30.459999084472656,
@@ -81,12 +81,12 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "GLSL & Shader Programming",
       "Projection Mapping",
       "Python Scripting & System"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators, GLSL & Shader Programming, Projection Mapping, Python Scripting & System)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals, GLSL & Shader Programming, Projection Mapping, Python Scripting & System)",
     "vistas_reales": 321354,
     "fecha_publicacion": "2026-01-11",
     "latent_x": 8.880000114440918,
@@ -123,9 +123,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals)",
     "vistas_reales": 296557,
     "fecha_publicacion": "2020-08-10",
     "latent_x": 52.810001373291016,
@@ -196,9 +196,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals)",
     "vistas_reales": 261492,
     "fecha_publicacion": "2022-08-10",
     "latent_x": 52.459999084472656,
@@ -269,9 +269,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals)",
     "vistas_reales": 208594,
     "fecha_publicacion": "2020-08-10",
     "latent_x": 51.45000076293945,
@@ -288,9 +288,9 @@
     "categoria_principal": "Point Clouds & Instancing",
     "tags": [
       "Point Clouds & Instancing",
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Point Clouds & Instancing (Point Clouds & Instancing, Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Point Clouds & Instancing (Point Clouds & Instancing, Sensors & Tracking)",
     "vistas_reales": 206800,
     "fecha_publicacion": "2021-08-10",
     "latent_x": -98.91000366210938,
@@ -307,9 +307,9 @@
     "categoria_principal": "Point Clouds & Instancing",
     "tags": [
       "Point Clouds & Instancing",
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Point Clouds & Instancing (Point Clouds & Instancing, Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Point Clouds & Instancing (Point Clouds & Instancing, Sensors & Tracking)",
     "vistas_reales": 200849,
     "fecha_publicacion": "2023-08-10",
     "latent_x": -93.5999984741211,
@@ -345,10 +345,10 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Generative Art & Graphics",
+      "Generative Art",
       "Audio Reactivity"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Art & Graphics, Audio Reactivity)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Art, Audio Reactivity)",
     "vistas_reales": 200598,
     "fecha_publicacion": "2023-08-10",
     "latent_x": 25.170000076293945,
@@ -399,11 +399,11 @@
     "autor": "Alexander Miller",
     "titulo": "How we made an interactive, projection-mapped topographic installation",
     "enlace": "https://www.youtube.com/watch?v=07hiEtggHXw",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals)",
     "vistas_reales": 164865,
     "fecha_publicacion": "2018-08-11",
     "latent_x": -67.7300033569336,
@@ -417,11 +417,11 @@
     "autor": "Torin Blankensmith",
     "titulo": "Free Motion Tracking plugin for TouchDesigner: Face, Hand, Pose Tracking with MediaPipe Plugin",
     "enlace": "https://www.youtube.com/watch?v=Cx4Ellaj6kk",
-    "categoria_principal": "Sensors, Tracking & Hardware",
+    "categoria_principal": "Sensors & Tracking",
     "tags": [
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Sensors, Tracking & Hardware (Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Sensors & Tracking (Sensors & Tracking)",
     "vistas_reales": 162264,
     "fecha_publicacion": "2024-08-09",
     "latent_x": -51.849998474121094,
@@ -492,9 +492,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals)",
     "vistas_reales": 153708,
     "fecha_publicacion": "2022-08-10",
     "latent_x": 47.36000061035156,
@@ -526,11 +526,11 @@
     "autor": "Dean Cheesman",
     "titulo": "Trace and Blob Tracking Effect with TouchDesigner",
     "enlace": "https://www.youtube.com/watch?v=ioSVh06MySc",
-    "categoria_principal": "Sensors, Tracking & Hardware",
+    "categoria_principal": "Sensors & Tracking",
     "tags": [
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Sensors, Tracking & Hardware (Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Sensors & Tracking (Sensors & Tracking)",
     "vistas_reales": 149622,
     "fecha_publicacion": "2024-08-09",
     "latent_x": -41.150001525878906,
@@ -565,9 +565,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Generative Art & Graphics"
+      "Generative Art"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Art & Graphics)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Art)",
     "vistas_reales": 145929,
     "fecha_publicacion": "2024-08-09",
     "latent_x": 19.56999969482422,
@@ -599,12 +599,12 @@
     "autor": "Acrylicode",
     "titulo": "Audio reactive visuals | TouchDesigner Tutorial",
     "enlace": "https://www.youtube.com/watch?v=G4wyR-Nxyzo",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics",
+      "Generative Art",
       "Audio Reactivity"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics, Audio Reactivity)",
+    "categoria_descriptores": "Generative Art (Generative Art, Audio Reactivity)",
     "vistas_reales": 136875,
     "fecha_publicacion": "2023-08-10",
     "latent_x": -18.81999969482422,
@@ -639,9 +639,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Generative Art & Graphics"
+      "Generative Art"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Art & Graphics)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Art)",
     "vistas_reales": 133021,
     "fecha_publicacion": "2023-08-10",
     "latent_x": 13.84000015258789,
@@ -655,13 +655,13 @@
     "autor": "bileam tschepe (elekktronaut)",
     "titulo": "Aurora Audio Spectrum – TouchDesigner Tutorial 2",
     "enlace": "https://www.youtube.com/watch?v=NJE48IVzNVc",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics",
+      "Generative Art",
       "Audio Reactivity",
       "Point Clouds & Instancing"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics, Audio Reactivity, Point Clouds & Instancing)",
+    "categoria_descriptores": "Generative Art (Generative Art, Audio Reactivity, Point Clouds & Instancing)",
     "vistas_reales": 132746,
     "fecha_publicacion": "2019-08-11",
     "latent_x": -23.200000762939453,
@@ -711,11 +711,11 @@
     "autor": "Torin Blankensmith",
     "titulo": "Hand Tracking in TouchDesigner - Master Class Part 1",
     "enlace": "https://www.youtube.com/watch?v=e2FtkufeErY",
-    "categoria_principal": "Sensors, Tracking & Hardware",
+    "categoria_principal": "Sensors & Tracking",
     "tags": [
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Sensors, Tracking & Hardware (Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Sensors & Tracking (Sensors & Tracking)",
     "vistas_reales": 123327,
     "fecha_publicacion": "2025-08-09",
     "latent_x": -49.08000183105469,
@@ -750,9 +750,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals)",
     "vistas_reales": 119046,
     "fecha_publicacion": "2020-08-10",
     "latent_x": 75.63999938964844,
@@ -769,9 +769,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals)",
     "vistas_reales": 113434,
     "fecha_publicacion": "2020-08-10",
     "latent_x": 58.20000076293945,
@@ -785,12 +785,12 @@
     "autor": "Torin Blankensmith",
     "titulo": "Audio-Reactive Visuals in TouchDesigner",
     "enlace": "https://www.youtube.com/watch?v=R7sAomk2vR4",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics",
+      "Generative Art",
       "Audio Reactivity"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics, Audio Reactivity)",
+    "categoria_descriptores": "Generative Art (Generative Art, Audio Reactivity)",
     "vistas_reales": 108457,
     "fecha_publicacion": "2022-08-10",
     "latent_x": -18.68000030517578,
@@ -804,13 +804,13 @@
     "autor": "supermarket sallad",
     "titulo": "Collapsing Noise - Particles, Instancing, Audio-Reactive TOUCHDESIGNER TUTORIAL",
     "enlace": "https://www.youtube.com/watch?v=qLebV9rjqb4",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics",
+      "Generative Art",
       "Audio Reactivity",
       "Point Clouds & Instancing"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics, Audio Reactivity, Point Clouds & Instancing)",
+    "categoria_descriptores": "Generative Art (Generative Art, Audio Reactivity, Point Clouds & Instancing)",
     "vistas_reales": 108073,
     "fecha_publicacion": "2025-08-09",
     "latent_x": -22.31999969482422,
@@ -824,13 +824,13 @@
     "autor": "CutMod",
     "titulo": "TouchDesigner Kinect TOP Tutorial 1 (uncut recording)",
     "enlace": "https://www.youtube.com/watch?v=r-EOtQhdJxg",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "Audio Reactivity",
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Audio Reactivity, Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Audio Reactivity, Sensors & Tracking)",
     "vistas_reales": 107258,
     "fecha_publicacion": "2017-08-11",
     "latent_x": -67.05999755859375,
@@ -862,14 +862,14 @@
     "autor": "bileam tschepe (elekktronaut)",
     "titulo": "Abstract 3D Sculpture – TouchDesigner Tutorial 43",
     "enlace": "https://www.youtube.com/watch?v=heNlC53o40s",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
-      "Generative Art & Graphics",
+      "Core Fundamentals",
+      "Generative Art",
       "3D & Geometry (SOPs)",
       "Point Clouds & Instancing"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Generative Art & Graphics, 3D & Geometry (SOPs), Point Clouds & Instancing)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Generative Art, 3D & Geometry (SOPs), Point Clouds & Instancing)",
     "vistas_reales": 103543,
     "fecha_publicacion": "2022-08-10",
     "latent_x": -93.41999816894531,
@@ -883,12 +883,12 @@
     "autor": "supermarket sallad",
     "titulo": "Particle Clouds and Pseudo-Plexus TOUCHDESIGNER TUTORIAL",
     "enlace": "https://www.youtube.com/watch?v=ZgYxo6o-o9s",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
-      "Generative Art & Graphics"
+      "Core Fundamentals",
+      "Generative Art"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Generative Art & Graphics)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Generative Art)",
     "vistas_reales": 102800,
     "fecha_publicacion": "2024-08-09",
     "latent_x": -103.58000183105469,
@@ -920,11 +920,11 @@
     "autor": "bileam tschepe (elekktronaut)",
     "titulo": "Simple Motion Visualisation – TouchDesigner Tutorial 55",
     "enlace": "https://www.youtube.com/watch?v=QGuquFiInqY",
-    "categoria_principal": "Sensors, Tracking & Hardware",
+    "categoria_principal": "Sensors & Tracking",
     "tags": [
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Sensors, Tracking & Hardware (Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Sensors & Tracking (Sensors & Tracking)",
     "vistas_reales": 102219,
     "fecha_publicacion": "2022-08-10",
     "latent_x": -59.150001525878906,
@@ -938,12 +938,12 @@
     "autor": "bileam tschepe (elekktronaut)",
     "titulo": "Collages – TouchDesigner Tutorial 52",
     "enlace": "https://www.youtube.com/watch?v=jDYtJ1HyJ8U",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "Point Clouds & Instancing"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Point Clouds & Instancing)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Point Clouds & Instancing)",
     "vistas_reales": 101061,
     "fecha_publicacion": "2022-08-10",
     "latent_x": -67.3499984741211,
@@ -994,11 +994,11 @@
     "autor": "Alvie Starr (森 大地)",
     "titulo": "Interactive Fluid Simulation - TouchDesigner + Kinect",
     "enlace": "https://www.youtube.com/watch?v=PaJhKxqBh9o",
-    "categoria_principal": "Sensors, Tracking & Hardware",
+    "categoria_principal": "Sensors & Tracking",
     "tags": [
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Sensors, Tracking & Hardware (Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Sensors & Tracking (Sensors & Tracking)",
     "vistas_reales": 99389,
     "fecha_publicacion": "2023-08-10",
     "latent_x": -65.06999969482422,
@@ -1015,9 +1015,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals)",
     "vistas_reales": 99144,
     "fecha_publicacion": "2022-08-10",
     "latent_x": 57.369998931884766,
@@ -1049,12 +1049,12 @@
     "autor": "noones img",
     "titulo": "Morphing between objects - Instancing (Touchdesigner tutorial)",
     "enlace": "https://www.youtube.com/watch?v=2EwQSCZ0Hs8",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "Point Clouds & Instancing"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Point Clouds & Instancing)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Point Clouds & Instancing)",
     "vistas_reales": 96227,
     "fecha_publicacion": "2021-08-10",
     "latent_x": -66.93000030517578,
@@ -1086,13 +1086,13 @@
     "autor": "bileam tschepe (elekktronaut)",
     "titulo": "Image Instancing – TouchDesigner Tutorial 26",
     "enlace": "https://www.youtube.com/watch?v=dCWUiyBYeho",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "3D & Geometry (SOPs)",
       "Point Clouds & Instancing"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, 3D & Geometry (SOPs), Point Clouds & Instancing)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, 3D & Geometry (SOPs), Point Clouds & Instancing)",
     "vistas_reales": 94165,
     "fecha_publicacion": "2021-08-10",
     "latent_x": -74.83999633789062,
@@ -1109,9 +1109,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Generative Art & Graphics"
+      "Generative Art"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Art & Graphics)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Art)",
     "vistas_reales": 92545,
     "fecha_publicacion": "2024-08-09",
     "latent_x": 21.469999313354492,
@@ -1146,11 +1146,11 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators",
-      "Generative Art & Graphics",
+      "Core Fundamentals",
+      "Generative Art",
       "Audio Reactivity"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators, Generative Art & Graphics, Audio Reactivity)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals, Generative Art, Audio Reactivity)",
     "vistas_reales": 90590,
     "fecha_publicacion": "2024-08-09",
     "latent_x": 27.43000030517578,
@@ -1164,11 +1164,11 @@
     "autor": "Pao Olea",
     "titulo": "[TD Drop #01] Stars - TouchDesigner Tutorial",
     "enlace": "https://www.youtube.com/watch?v=WCPv27M_LLE",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals)",
     "vistas_reales": 87913,
     "fecha_publicacion": "2023-08-10",
     "latent_x": -79.80999755859375,
@@ -1200,12 +1200,12 @@
     "autor": "Okamirufu Vizualizer",
     "titulo": "TouchDesigner Tutorial: Video to ParticlesGPU - Turn Any Video into Organic Particles",
     "enlace": "https://www.youtube.com/watch?v=hrxn_ouFyV0",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "Point Clouds & Instancing"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Point Clouds & Instancing)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Point Clouds & Instancing)",
     "vistas_reales": 85331,
     "fecha_publicacion": "2025-08-09",
     "latent_x": -59.099998474121094,
@@ -1219,13 +1219,13 @@
     "autor": "pwnisher",
     "titulo": "How I Create Audio-Reactive Art | Touch Designer Crash Course",
     "enlace": "https://www.youtube.com/watch?v=12J2XH2UxDc",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
-      "Generative Art & Graphics",
+      "Core Fundamentals",
+      "Generative Art",
       "Audio Reactivity"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Generative Art & Graphics, Audio Reactivity)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Generative Art, Audio Reactivity)",
     "vistas_reales": 85284,
     "fecha_publicacion": "2025-09-13",
     "latent_x": -101.62999725341797,
@@ -1242,9 +1242,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals)",
     "vistas_reales": 84834,
     "fecha_publicacion": "2020-08-10",
     "latent_x": 44.779998779296875,
@@ -1276,13 +1276,13 @@
     "autor": "noones img",
     "titulo": "Superfast 3d mapping (touchdesigner tutorial)",
     "enlace": "https://www.youtube.com/watch?v=chLpe-Il-6A",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "Projection Mapping",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Projection Mapping, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Projection Mapping, 3D & Geometry (SOPs))",
     "vistas_reales": 82983,
     "fecha_publicacion": "2021-08-10",
     "latent_x": -64.37000274658203,
@@ -1315,12 +1315,12 @@
     "autor": "bileam tschepe (elekktronaut)",
     "titulo": "Abstract Speech Visualisation – TouchDesigner Tutorial 45",
     "enlace": "https://www.youtube.com/watch?v=1FgJ842dyr4",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics",
+      "Generative Art",
       "Audio Reactivity"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics, Audio Reactivity)",
+    "categoria_descriptores": "Generative Art (Generative Art, Audio Reactivity)",
     "vistas_reales": 80509,
     "fecha_publicacion": "2022-08-10",
     "latent_x": -24.90999984741211,
@@ -1337,9 +1337,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals)",
     "vistas_reales": 78272,
     "fecha_publicacion": "2020-08-10",
     "latent_x": 69.9800033569336,
@@ -1353,12 +1353,12 @@
     "autor": "bileam tschepe (elekktronaut)",
     "titulo": "Generative Shapes – TouchDesigner Tutorial 51",
     "enlace": "https://www.youtube.com/watch?v=vzi-ktOsxJo",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics",
+      "Generative Art",
       "Point Clouds & Instancing"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics, Point Clouds & Instancing)",
+    "categoria_descriptores": "Generative Art (Generative Art, Point Clouds & Instancing)",
     "vistas_reales": 78190,
     "fecha_publicacion": "2022-08-10",
     "latent_x": -38.59000015258789,
@@ -1411,9 +1411,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals)",
     "vistas_reales": 75358,
     "fecha_publicacion": "2020-08-10",
     "latent_x": 57.40999984741211,
@@ -1427,14 +1427,14 @@
     "autor": "Outsanda",
     "titulo": "Hand attracted particles - touchdesigner tutorial",
     "enlace": "https://www.youtube.com/watch?v=0agyZ8gVZ1E",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "3D & Geometry (SOPs)",
       "Point Clouds & Instancing",
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, 3D & Geometry (SOPs), Point Clouds & Instancing, Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, 3D & Geometry (SOPs), Point Clouds & Instancing, Sensors & Tracking)",
     "vistas_reales": 75090,
     "fecha_publicacion": "2023-08-10",
     "latent_x": -78.83999633789062,
@@ -1448,12 +1448,12 @@
     "autor": "The Interactive & Immersive HQ",
     "titulo": "Generative Geometric Design in TouchDesigner - TouchDesigner Tutorial 020",
     "enlace": "https://www.youtube.com/watch?v=coS_lvjnD4w",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
-      "Generative Art & Graphics"
+      "Core Fundamentals",
+      "Generative Art"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Generative Art & Graphics)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Generative Art)",
     "vistas_reales": 74698,
     "fecha_publicacion": "2021-08-10",
     "latent_x": -104.97000122070312,
@@ -1507,9 +1507,9 @@
     "categoria_principal": "3D & Geometry (SOPs)",
     "tags": [
       "3D & Geometry (SOPs)",
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "3D & Geometry (SOPs) (3D & Geometry (SOPs), Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "3D & Geometry (SOPs) (3D & Geometry (SOPs), Sensors & Tracking)",
     "vistas_reales": 73573,
     "fecha_publicacion": "2020-08-10",
     "latent_x": -16.040000915527344,
@@ -1526,9 +1526,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals)",
     "vistas_reales": 73538,
     "fecha_publicacion": "2022-08-10",
     "latent_x": 68.51000213623047,
@@ -1545,9 +1545,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals)",
     "vistas_reales": 72169,
     "fecha_publicacion": "2020-08-10",
     "latent_x": 58.349998474121094,
@@ -1561,11 +1561,11 @@
     "autor": "Maurizio Orlando",
     "titulo": "Touchdesigner - Kinect - Psychedelic shape in 5 minutes (tutorial)",
     "enlace": "https://www.youtube.com/watch?v=PNr_owSi50o",
-    "categoria_principal": "Sensors, Tracking & Hardware",
+    "categoria_principal": "Sensors & Tracking",
     "tags": [
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Sensors, Tracking & Hardware (Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Sensors & Tracking (Sensors & Tracking)",
     "vistas_reales": 71797,
     "fecha_publicacion": "2020-08-10",
     "latent_x": -46.95000076293945,
@@ -1582,9 +1582,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Generative Art & Graphics"
+      "Generative Art"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Art & Graphics)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Art)",
     "vistas_reales": 71534,
     "fecha_publicacion": "2021-08-10",
     "latent_x": 13.8100004196167,
@@ -1601,11 +1601,11 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "3D & Geometry (SOPs)",
       "Point Clouds & Instancing"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators, 3D & Geometry (SOPs), Point Clouds & Instancing)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals, 3D & Geometry (SOPs), Point Clouds & Instancing)",
     "vistas_reales": 71134,
     "fecha_publicacion": "2020-08-10",
     "latent_x": 2.069999933242798,
@@ -1622,10 +1622,10 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators",
-      "Generative Art & Graphics"
+      "Core Fundamentals",
+      "Generative Art"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators, Generative Art & Graphics)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals, Generative Art)",
     "vistas_reales": 70868,
     "fecha_publicacion": "2020-08-10",
     "latent_x": 29.969999313354492,
@@ -1639,11 +1639,11 @@
     "autor": "bileam tschepe (elekktronaut)",
     "titulo": "Descending Feedback – TouchDesigner Tutorial 68",
     "enlace": "https://www.youtube.com/watch?v=_DmFzN_FhGY",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics"
+      "Generative Art"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics)",
+    "categoria_descriptores": "Generative Art (Generative Art)",
     "vistas_reales": 70721,
     "fecha_publicacion": "2024-08-09",
     "latent_x": -39.15999984741211,
@@ -1657,11 +1657,11 @@
     "autor": "bileam tschepe (elekktronaut)",
     "titulo": "Fractals – TouchDesigner Tutorial 38",
     "enlace": "https://www.youtube.com/watch?v=h6U-RVpG5X8",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics"
+      "Generative Art"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics)",
+    "categoria_descriptores": "Generative Art (Generative Art)",
     "vistas_reales": 69861,
     "fecha_publicacion": "2021-08-10",
     "latent_x": -47.529998779296875,
@@ -1675,11 +1675,11 @@
     "autor": "Function Store",
     "titulo": "Directional Motion Detection and Tracking using Webcam in TouchDesigner #touchdesigner #tutorial",
     "enlace": "https://www.youtube.com/watch?v=ju4F1cGhE6Q",
-    "categoria_principal": "Sensors, Tracking & Hardware",
+    "categoria_principal": "Sensors & Tracking",
     "tags": [
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Sensors, Tracking & Hardware (Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Sensors & Tracking (Sensors & Tracking)",
     "vistas_reales": 65617,
     "fecha_publicacion": "2023-08-10",
     "latent_x": -50.599998474121094,
@@ -1693,12 +1693,12 @@
     "autor": "anya maryina",
     "titulo": "Interactive Particles with Slamtec LiDAR | TouchDesigner Tutorial (Part I)",
     "enlace": "https://www.youtube.com/watch?v=Jz-irdEYUZM",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics",
+      "Generative Art",
       "Point Clouds & Instancing"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics, Point Clouds & Instancing)",
+    "categoria_descriptores": "Generative Art (Generative Art, Point Clouds & Instancing)",
     "vistas_reales": 64648,
     "fecha_publicacion": "2025-08-09",
     "latent_x": -38.29999923706055,
@@ -1730,11 +1730,11 @@
     "autor": "bileam tschepe (elekktronaut)",
     "titulo": "Watercolors – TouchDesigner Tutorial 23",
     "enlace": "https://www.youtube.com/watch?v=0nI8V7XZ7yk",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics"
+      "Generative Art"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics)",
+    "categoria_descriptores": "Generative Art (Generative Art)",
     "vistas_reales": 62972,
     "fecha_publicacion": "2020-08-10",
     "latent_x": -37.380001068115234,
@@ -1788,9 +1788,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals)",
     "vistas_reales": 62040,
     "fecha_publicacion": "2022-08-10",
     "latent_x": 54.38999938964844,
@@ -1807,9 +1807,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals)",
     "vistas_reales": 61886,
     "fecha_publicacion": "2022-08-10",
     "latent_x": 41.099998474121094,
@@ -1880,9 +1880,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals)",
     "vistas_reales": 59976,
     "fecha_publicacion": "2022-08-10",
     "latent_x": 73.55000305175781,
@@ -1933,11 +1933,11 @@
     "autor": "PPPANIK",
     "titulo": "GENERATIVE ORGANIC STRUCTURE - TOUCHDESIGNER TUTORIAL",
     "enlace": "https://www.youtube.com/watch?v=cnIK7aGHf6o",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics"
+      "Generative Art"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics)",
+    "categoria_descriptores": "Generative Art (Generative Art)",
     "vistas_reales": 57838,
     "fecha_publicacion": "2024-08-09",
     "latent_x": -49.939998626708984,
@@ -1954,9 +1954,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals)",
     "vistas_reales": 57776,
     "fecha_publicacion": "2022-08-10",
     "latent_x": 40.04999923706055,
@@ -1973,9 +1973,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals)",
     "vistas_reales": 57186,
     "fecha_publicacion": "2020-08-10",
     "latent_x": 46.97999954223633,
@@ -1989,12 +1989,12 @@
     "autor": "Outsanda",
     "titulo": "Hand tracking using mediapipe - touchdesigner tutorial",
     "enlace": "https://www.youtube.com/watch?v=vooxlhcVSTc",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
-      "Sensors, Tracking & Hardware"
+      "Core Fundamentals",
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Sensors & Tracking)",
     "vistas_reales": 56770,
     "fecha_publicacion": "2024-08-09",
     "latent_x": -71.48999786376953,
@@ -2047,11 +2047,11 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "3D & Geometry (SOPs)",
       "Point Clouds & Instancing"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators, 3D & Geometry (SOPs), Point Clouds & Instancing)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals, 3D & Geometry (SOPs), Point Clouds & Instancing)",
     "vistas_reales": 53366,
     "fecha_publicacion": "2019-08-11",
     "latent_x": 0.6100000143051147,
@@ -2068,10 +2068,10 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "Audio Reactivity"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators, Audio Reactivity)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals, Audio Reactivity)",
     "vistas_reales": 53267,
     "fecha_publicacion": "2020-08-10",
     "latent_x": 47.41999816894531,
@@ -2085,12 +2085,12 @@
     "autor": "noones img",
     "titulo": "Basic particle system with GLSL TOP (Touchdesigner tutorial)",
     "enlace": "https://www.youtube.com/watch?v=IDyDc3kAUzI",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "GLSL & Shader Programming"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, GLSL & Shader Programming)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, GLSL & Shader Programming)",
     "vistas_reales": 52751,
     "fecha_publicacion": "2021-08-10",
     "latent_x": -70.12999725341797,
@@ -2124,12 +2124,12 @@
     "autor": "bileam tschepe (elekktronaut)",
     "titulo": "Moving Through Shapes – TouchDesigner Tutorial 5",
     "enlace": "https://www.youtube.com/watch?v=uKrA3nZSK4k",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "Point Clouds & Instancing"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Point Clouds & Instancing)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Point Clouds & Instancing)",
     "vistas_reales": 51161,
     "fecha_publicacion": "2019-08-11",
     "latent_x": -63.130001068115234,
@@ -2143,14 +2143,14 @@
     "autor": "The Interactive & Immersive HQ",
     "titulo": "Generative Visuals with Particles & Kinect: TouchDesigner Tutorial 028",
     "enlace": "https://www.youtube.com/watch?v=mY7DavB0z2c",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
-      "Generative Art & Graphics",
+      "Core Fundamentals",
+      "Generative Art",
       "Point Clouds & Instancing",
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Generative Art & Graphics, Point Clouds & Instancing, Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Generative Art, Point Clouds & Instancing, Sensors & Tracking)",
     "vistas_reales": 51158,
     "fecha_publicacion": "2021-08-10",
     "latent_x": -85.27999877929688,
@@ -2222,9 +2222,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals)",
     "vistas_reales": 48565,
     "fecha_publicacion": "2022-08-10",
     "latent_x": 53.29999923706055,
@@ -2241,10 +2241,10 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals, 3D & Geometry (SOPs))",
     "vistas_reales": 48090,
     "fecha_publicacion": "2020-08-10",
     "latent_x": 23.459999084472656,
@@ -2258,12 +2258,12 @@
     "autor": "bileam tschepe (elekktronaut)",
     "titulo": "Deeper Into Noise – TouchDesigner Tutorial 30",
     "enlace": "https://www.youtube.com/watch?v=PIoq2BFtMAc",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
-      "Generative Art & Graphics"
+      "Core Fundamentals",
+      "Generative Art"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Generative Art & Graphics)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Generative Art)",
     "vistas_reales": 47059,
     "fecha_publicacion": "2021-08-10",
     "latent_x": -101.91999816894531,
@@ -2277,11 +2277,11 @@
     "autor": "nicholaspjm",
     "titulo": "Webcam / Video Wispy PointClouds in Touchdesigner (No Kinect required)",
     "enlace": "https://www.youtube.com/watch?v=Eztrogwaq0w",
-    "categoria_principal": "Sensors, Tracking & Hardware",
+    "categoria_principal": "Sensors & Tracking",
     "tags": [
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Sensors, Tracking & Hardware (Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Sensors & Tracking (Sensors & Tracking)",
     "vistas_reales": 46212,
     "fecha_publicacion": "2025-08-09",
     "latent_x": -58.91999816894531,
@@ -2313,11 +2313,11 @@
     "autor": "Maurizio Orlando",
     "titulo": "Touchdesigner - Tutorial  - ENG - Flow emitter - Burning shape (Kinect)",
     "enlace": "https://www.youtube.com/watch?v=uhQOoyum1xU",
-    "categoria_principal": "Sensors, Tracking & Hardware",
+    "categoria_principal": "Sensors & Tracking",
     "tags": [
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Sensors, Tracking & Hardware (Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Sensors & Tracking (Sensors & Tracking)",
     "vistas_reales": 45395,
     "fecha_publicacion": "2019-08-11",
     "latent_x": -51.25,
@@ -2350,11 +2350,11 @@
     "autor": "bileam tschepe (elekktronaut)",
     "titulo": "Feedback Textures – TouchDesigner Tutorial 47",
     "enlace": "https://www.youtube.com/watch?v=NMvx_icZUhY",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics"
+      "Generative Art"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics)",
+    "categoria_descriptores": "Generative Art (Generative Art)",
     "vistas_reales": 45200,
     "fecha_publicacion": "2022-08-10",
     "latent_x": -43.939998626708984,
@@ -2386,11 +2386,11 @@
     "autor": "The Interactive & Immersive HQ",
     "titulo": "Easy Person Detection with Blob Tracking - TouchDesigner Tutorial 033",
     "enlace": "https://www.youtube.com/watch?v=ZplOrM6G6JI",
-    "categoria_principal": "Sensors, Tracking & Hardware",
+    "categoria_principal": "Sensors & Tracking",
     "tags": [
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Sensors, Tracking & Hardware (Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Sensors & Tracking (Sensors & Tracking)",
     "vistas_reales": 44864,
     "fecha_publicacion": "2021-08-10",
     "latent_x": -43.779998779296875,
@@ -2422,11 +2422,11 @@
     "autor": "Torin Blankensmith",
     "titulo": "Tutorial 1/3 - New Body Tracking Plugin for TouchDesigner - No Kinect Needed",
     "enlace": "https://www.youtube.com/watch?v=83StND-y4fY",
-    "categoria_principal": "Sensors, Tracking & Hardware",
+    "categoria_principal": "Sensors & Tracking",
     "tags": [
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Sensors, Tracking & Hardware (Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Sensors & Tracking (Sensors & Tracking)",
     "vistas_reales": 44216,
     "fecha_publicacion": "2023-08-10",
     "latent_x": -56.86000061035156,
@@ -2459,11 +2459,11 @@
     "autor": "bileam tschepe (elekktronaut)",
     "titulo": "Reaction Diffusion Material –  TouchDesigner Tutorial 4",
     "enlace": "https://www.youtube.com/watch?v=PF1bHg8IbMI",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics"
+      "Generative Art"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics)",
+    "categoria_descriptores": "Generative Art (Generative Art)",
     "vistas_reales": 43363,
     "fecha_publicacion": "2019-08-11",
     "latent_x": -48.09000015258789,
@@ -2477,12 +2477,12 @@
     "autor": "Tender World",
     "titulo": "Generate shapes from an image with TouchDesigner",
     "enlace": "https://www.youtube.com/watch?v=98xNOgU1zeI",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, 3D & Geometry (SOPs))",
     "vistas_reales": 42822,
     "fecha_publicacion": "2024-08-09",
     "latent_x": -84.69999694824219,
@@ -2515,13 +2515,13 @@
     "autor": "bileam tschepe (elekktronaut)",
     "titulo": "Feedback Particles – TouchDesigner Tutorial 63",
     "enlace": "https://www.youtube.com/watch?v=6bQE0BTvurQ",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
-      "Generative Art & Graphics",
+      "Core Fundamentals",
+      "Generative Art",
       "Point Clouds & Instancing"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Generative Art & Graphics, Point Clouds & Instancing)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Generative Art, Point Clouds & Instancing)",
     "vistas_reales": 42721,
     "fecha_publicacion": "2023-08-10",
     "latent_x": -89.44000244140625,
@@ -2575,10 +2575,10 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals, 3D & Geometry (SOPs))",
     "vistas_reales": 41257,
     "fecha_publicacion": "2020-08-10",
     "latent_x": 24.3700008392334,
@@ -2610,12 +2610,12 @@
     "autor": "reflekkt",
     "titulo": "AI Projection Mapping Tutorial",
     "enlace": "https://www.youtube.com/watch?v=AUbPWesO3KU",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "Projection Mapping"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Projection Mapping)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Projection Mapping)",
     "vistas_reales": 41106,
     "fecha_publicacion": "2024-08-09",
     "latent_x": -51.0099983215332,
@@ -2647,12 +2647,12 @@
     "autor": "reflekkt",
     "titulo": "Interactive Eye Projection with Webcam or Kinect - TouchDesigner Tutorial 009",
     "enlace": "https://www.youtube.com/watch?v=ZAdEsJGvf5U",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
-      "Sensors, Tracking & Hardware"
+      "Core Fundamentals",
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Sensors & Tracking)",
     "vistas_reales": 40983,
     "fecha_publicacion": "2024-08-09",
     "latent_x": -70.94000244140625,
@@ -2666,11 +2666,11 @@
     "autor": "bileam tschepe (elekktronaut)",
     "titulo": "Feedback Mold – TouchDesigner Tutorial 41",
     "enlace": "https://www.youtube.com/watch?v=8mWauvn2Gb4",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics"
+      "Generative Art"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics)",
+    "categoria_descriptores": "Generative Art (Generative Art)",
     "vistas_reales": 40882,
     "fecha_publicacion": "2021-08-10",
     "latent_x": -39.15999984741211,
@@ -2721,14 +2721,14 @@
     "autor": "bileam tschepe (elekktronaut)",
     "titulo": "MIDI Keyboard Visualisation – TouchDesigner Tutorial 29",
     "enlace": "https://www.youtube.com/watch?v=ZR_rDmdHVdw",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
-      "Generative Art & Graphics",
+      "Core Fundamentals",
+      "Generative Art",
       "Point Clouds & Instancing",
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Generative Art & Graphics, Point Clouds & Instancing, Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Generative Art, Point Clouds & Instancing, Sensors & Tracking)",
     "vistas_reales": 38428,
     "fecha_publicacion": "2021-08-10",
     "latent_x": -84.62000274658203,
@@ -2763,9 +2763,9 @@
     "categoria_principal": "Point Clouds & Instancing",
     "tags": [
       "Point Clouds & Instancing",
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Point Clouds & Instancing (Point Clouds & Instancing, Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Point Clouds & Instancing (Point Clouds & Instancing, Sensors & Tracking)",
     "vistas_reales": 36744,
     "fecha_publicacion": "2025-08-09",
     "latent_x": -105.08999633789062,
@@ -2801,9 +2801,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals)",
     "vistas_reales": 35318,
     "fecha_publicacion": "2020-08-10",
     "latent_x": 67.18000030517578,
@@ -2820,9 +2820,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals)",
     "vistas_reales": 35144,
     "fecha_publicacion": "2020-08-10",
     "latent_x": 48.04999923706055,
@@ -2836,13 +2836,13 @@
     "autor": "reflekkt",
     "titulo": "3D Projection Mapping Tutorial with Photogrammetry and TouchDesigner",
     "enlace": "https://www.youtube.com/watch?v=_yhea1RO6kU",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "Projection Mapping",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Projection Mapping, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Projection Mapping, 3D & Geometry (SOPs))",
     "vistas_reales": 34724,
     "fecha_publicacion": "2025-08-09",
     "latent_x": -62.86000061035156,
@@ -2896,10 +2896,10 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Generative Art & Graphics",
-      "Sensors, Tracking & Hardware"
+      "Generative Art",
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Art & Graphics, Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Art, Sensors & Tracking)",
     "vistas_reales": 33038,
     "fecha_publicacion": "2024-08-09",
     "latent_x": -29.3700008392334,
@@ -2931,12 +2931,12 @@
     "autor": "bileam tschepe (elekktronaut)",
     "titulo": "Feedback & Lens Distort – TouchDesigner Tutorial 66",
     "enlace": "https://www.youtube.com/watch?v=Q510XDohlaE",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
-      "Generative Art & Graphics"
+      "Core Fundamentals",
+      "Generative Art"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Generative Art & Graphics)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Generative Art)",
     "vistas_reales": 32933,
     "fecha_publicacion": "2023-08-10",
     "latent_x": -99.3499984741211,
@@ -2987,12 +2987,12 @@
     "autor": "Yu Fujishiro",
     "titulo": "Kinect Interactive Installation Masterclass | Unreal Engine & TouchDesigner",
     "enlace": "https://www.youtube.com/watch?v=VTyU6rq6hrM",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
-      "Sensors, Tracking & Hardware"
+      "Core Fundamentals",
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Sensors & Tracking)",
     "vistas_reales": 32033,
     "fecha_publicacion": "2025-08-09",
     "latent_x": -71.87000274658203,
@@ -3006,11 +3006,11 @@
     "autor": "bileam tschepe (elekktronaut)",
     "titulo": "Custom Components & Parameters – TouchDesigner Tips, Tricks and FAQs 8",
     "enlace": "https://www.youtube.com/watch?v=oTFZXL2xbvw",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals)",
     "vistas_reales": 32019,
     "fecha_publicacion": "2020-08-10",
     "latent_x": -87.41000366210938,
@@ -3027,10 +3027,10 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals, 3D & Geometry (SOPs))",
     "vistas_reales": 31333,
     "fecha_publicacion": "2022-08-10",
     "latent_x": 23.739999771118164,
@@ -3083,9 +3083,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals)",
     "vistas_reales": 30968,
     "fecha_publicacion": "2020-08-10",
     "latent_x": 60.849998474121094,
@@ -3138,9 +3138,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Sensors & Tracking)",
     "vistas_reales": 29620,
     "fecha_publicacion": "2025-08-09",
     "latent_x": -30.280000686645508,
@@ -3157,9 +3157,9 @@
     "categoria_principal": "Point Clouds & Instancing",
     "tags": [
       "Point Clouds & Instancing",
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Point Clouds & Instancing (Point Clouds & Instancing, Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Point Clouds & Instancing (Point Clouds & Instancing, Sensors & Tracking)",
     "vistas_reales": 29568,
     "fecha_publicacion": "2022-08-10",
     "latent_x": -106.54000091552734,
@@ -3194,9 +3194,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals)",
     "vistas_reales": 29265,
     "fecha_publicacion": "2020-08-10",
     "latent_x": 60.220001220703125,
@@ -3210,11 +3210,11 @@
     "autor": "uisato",
     "titulo": "[Release] Audioreactive Video Playhead - Definitive Edition | TouchDesigner + Google's VEO COMP",
     "enlace": "https://www.youtube.com/watch?v=D0EIxRJcIo4",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals)",
     "vistas_reales": 29194,
     "fecha_publicacion": "2025-08-09",
     "latent_x": -66.30999755859375,
@@ -3246,11 +3246,11 @@
     "autor": "bileam tschepe (elekktronaut)",
     "titulo": "Playing Drums With Kinect – TouchDesigner + Kinect Tutorial 3",
     "enlace": "https://www.youtube.com/watch?v=7vR6DLl5G4o",
-    "categoria_principal": "Sensors, Tracking & Hardware",
+    "categoria_principal": "Sensors & Tracking",
     "tags": [
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Sensors, Tracking & Hardware (Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Sensors & Tracking (Sensors & Tracking)",
     "vistas_reales": 27588,
     "fecha_publicacion": "2021-08-10",
     "latent_x": -58.04999923706055,
@@ -3267,10 +3267,10 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "GLSL & Shader Programming"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators, GLSL & Shader Programming)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals, GLSL & Shader Programming)",
     "vistas_reales": 27251,
     "fecha_publicacion": "2019-08-11",
     "latent_x": -40.290000915527344,
@@ -3284,11 +3284,11 @@
     "autor": "Acrylicode",
     "titulo": "Easy audioreactive visuals | TouchDesigner Step by Step Tutorial",
     "enlace": "https://www.youtube.com/watch?v=_8c4l-RdRYo",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics"
+      "Generative Art"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics)",
+    "categoria_descriptores": "Generative Art (Generative Art)",
     "vistas_reales": 26937,
     "fecha_publicacion": "2022-08-10",
     "latent_x": -41.5099983215332,
@@ -3320,11 +3320,11 @@
     "autor": "Tolch Design",
     "titulo": "Sensor Kinect  - Touchdesigner tutorial Español",
     "enlace": "https://www.youtube.com/watch?v=utCdwhvR8WI",
-    "categoria_principal": "Sensors, Tracking & Hardware",
+    "categoria_principal": "Sensors & Tracking",
     "tags": [
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Sensors, Tracking & Hardware (Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Sensors & Tracking (Sensors & Tracking)",
     "vistas_reales": 25945,
     "fecha_publicacion": "2020-08-10",
     "latent_x": -52.310001373291016,
@@ -3341,10 +3341,10 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals, 3D & Geometry (SOPs))",
     "vistas_reales": 25868,
     "fecha_publicacion": "2020-08-10",
     "latent_x": 24.540000915527344,
@@ -3379,11 +3379,11 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "3D & Geometry (SOPs)",
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators, 3D & Geometry (SOPs), Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals, 3D & Geometry (SOPs), Sensors & Tracking)",
     "vistas_reales": 25428,
     "fecha_publicacion": "2017-08-11",
     "latent_x": 20.209999084472656,
@@ -3451,11 +3451,11 @@
     "autor": "The Interactive & Immersive HQ",
     "titulo": "Unreal Engine + Kinect for Immersive Experiences",
     "enlace": "https://www.youtube.com/watch?v=e_X_ehYpulk",
-    "categoria_principal": "Sensors, Tracking & Hardware",
+    "categoria_principal": "Sensors & Tracking",
     "tags": [
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Sensors, Tracking & Hardware (Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Sensors & Tracking (Sensors & Tracking)",
     "vistas_reales": 24997,
     "fecha_publicacion": "2024-08-09",
     "latent_x": -49.88999938964844,
@@ -3508,9 +3508,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals)",
     "vistas_reales": 24154,
     "fecha_publicacion": "2020-08-10",
     "latent_x": 57.7599983215332,
@@ -3528,9 +3528,9 @@
     "tags": [
       "Audio Reactivity",
       "3D & Geometry (SOPs)",
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Audio Reactivity (Audio Reactivity, 3D & Geometry (SOPs), Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Audio Reactivity (Audio Reactivity, 3D & Geometry (SOPs), Sensors & Tracking)",
     "vistas_reales": 23936,
     "fecha_publicacion": "2024-08-09",
     "latent_x": 35.9900016784668,
@@ -3563,11 +3563,11 @@
     "autor": "Torin Blankensmith",
     "titulo": "Body Tracking with No Kinect in TouchDesigner 2022",
     "enlace": "https://www.youtube.com/watch?v=DpGHWa2gOcc",
-    "categoria_principal": "Sensors, Tracking & Hardware",
+    "categoria_principal": "Sensors & Tracking",
     "tags": [
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Sensors, Tracking & Hardware (Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Sensors & Tracking (Sensors & Tracking)",
     "vistas_reales": 22597,
     "fecha_publicacion": "2023-08-10",
     "latent_x": -51.220001220703125,
@@ -3581,11 +3581,11 @@
     "autor": "The Interactive & Immersive HQ",
     "titulo": "Kinect 2 vs Kinect Azure in TouchDesigner - TouchDesigner Tutorial 123",
     "enlace": "https://www.youtube.com/watch?v=Fv35hjl4qRI",
-    "categoria_principal": "Sensors, Tracking & Hardware",
+    "categoria_principal": "Sensors & Tracking",
     "tags": [
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Sensors, Tracking & Hardware (Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Sensors & Tracking (Sensors & Tracking)",
     "vistas_reales": 22033,
     "fecha_publicacion": "2023-08-10",
     "latent_x": -61.619998931884766,
@@ -3617,12 +3617,12 @@
     "autor": "Programming for People",
     "titulo": "Touchdesigner  - Shadertoy GLSL integration",
     "enlace": "https://www.youtube.com/watch?v=2JDR5l5UjRU",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "GLSL & Shader Programming"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, GLSL & Shader Programming)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, GLSL & Shader Programming)",
     "vistas_reales": 21896,
     "fecha_publicacion": "2018-08-11",
     "latent_x": -77.02999877929688,
@@ -3639,10 +3639,10 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals, 3D & Geometry (SOPs))",
     "vistas_reales": 21682,
     "fecha_publicacion": "2025-12-12",
     "latent_x": 23.34000015258789,
@@ -3693,11 +3693,11 @@
     "autor": "bileam tschepe (elekktronaut)",
     "titulo": "Generative Blueprints – TouchDesigner Tutorial 28",
     "enlace": "https://www.youtube.com/watch?v=Ms6_vBn0XQQ",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics"
+      "Generative Art"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics)",
+    "categoria_descriptores": "Generative Art (Generative Art)",
     "vistas_reales": 21451,
     "fecha_publicacion": "2021-08-10",
     "latent_x": -43.16999816894531,
@@ -3730,12 +3730,12 @@
     "autor": "Etch-01",
     "titulo": "TouchDesigner tutorial 05 - 3D Gaussian splatting Training/Refining/Manipulating (+ PostShot)",
     "enlace": "https://www.youtube.com/watch?v=cF3qxYcNegI",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, 3D & Geometry (SOPs))",
     "vistas_reales": 21187,
     "fecha_publicacion": "2025-08-09",
     "latent_x": -90.23999786376953,
@@ -3785,11 +3785,11 @@
     "autor": "Alvie Starr (森 大地)",
     "titulo": "Interactive Lines Test 01 - TouchDesigner + Kinect",
     "enlace": "https://www.youtube.com/watch?v=oPZMb7hLJGY",
-    "categoria_principal": "Sensors, Tracking & Hardware",
+    "categoria_principal": "Sensors & Tracking",
     "tags": [
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Sensors, Tracking & Hardware (Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Sensors & Tracking (Sensors & Tracking)",
     "vistas_reales": 20928,
     "fecha_publicacion": "2023-08-10",
     "latent_x": -61.119998931884766,
@@ -3821,13 +3821,13 @@
     "autor": "reflekkt",
     "titulo": "Audio Reactive Instancing - TouchDesigner Tutorial 008",
     "enlace": "https://www.youtube.com/watch?v=SSSSbq2YZcA",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "Audio Reactivity",
       "Point Clouds & Instancing"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Audio Reactivity, Point Clouds & Instancing)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Audio Reactivity, Point Clouds & Instancing)",
     "vistas_reales": 20418,
     "fecha_publicacion": "2024-08-09",
     "latent_x": -55.22999954223633,
@@ -3841,11 +3841,11 @@
     "autor": "The Interactive & Immersive HQ",
     "titulo": "Generative Geometric Patterns in TouchDesigner - TouchDesigner Tutorial 168",
     "enlace": "https://www.youtube.com/watch?v=FWoQwz17pcI",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics"
+      "Generative Art"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics)",
+    "categoria_descriptores": "Generative Art (Generative Art)",
     "vistas_reales": 20250,
     "fecha_publicacion": "2024-08-09",
     "latent_x": -41.83000183105469,
@@ -3880,9 +3880,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals)",
     "vistas_reales": 19956,
     "fecha_publicacion": "2020-08-10",
     "latent_x": 61.40999984741211,
@@ -3932,11 +3932,11 @@
     "autor": "The Interactive & Immersive HQ",
     "titulo": "Generative Point Clouds in TouchDesigner - TouchDesigner Tutorial 126",
     "enlace": "https://www.youtube.com/watch?v=__dHYGe9bQs",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics"
+      "Generative Art"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics)",
+    "categoria_descriptores": "Generative Art (Generative Art)",
     "vistas_reales": 19096,
     "fecha_publicacion": "2023-08-10",
     "latent_x": -39.77000045776367,
@@ -3950,13 +3950,13 @@
     "autor": "nicholaspjm",
     "titulo": "FREE Audio Reactive Particles in Touchdesigner - Project File Download",
     "enlace": "https://www.youtube.com/watch?v=HS10IYP0168",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "Audio Reactivity",
       "Point Clouds & Instancing"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Audio Reactivity, Point Clouds & Instancing)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Audio Reactivity, Point Clouds & Instancing)",
     "vistas_reales": 19059,
     "fecha_publicacion": "2025-08-09",
     "latent_x": -52.45000076293945,
@@ -3970,11 +3970,11 @@
     "autor": "The Interactive & Immersive HQ",
     "titulo": "Custom Depth Map from Kinect & RealSense Point Clouds in TouchDesigner - TouchDesigner Tutorial 077",
     "enlace": "https://www.youtube.com/watch?v=p-lhmCMxn2g",
-    "categoria_principal": "Sensors, Tracking & Hardware",
+    "categoria_principal": "Sensors & Tracking",
     "tags": [
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Sensors, Tracking & Hardware (Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Sensors & Tracking (Sensors & Tracking)",
     "vistas_reales": 18768,
     "fecha_publicacion": "2022-08-10",
     "latent_x": -67.51000213623047,
@@ -3988,11 +3988,11 @@
     "autor": "The Interactive & Immersive HQ",
     "titulo": "Motion Visualization with Kinect v2 in TouchDesigner - TouchDesigner Tutorial 141",
     "enlace": "https://www.youtube.com/watch?v=9RArP9FovQo",
-    "categoria_principal": "Sensors, Tracking & Hardware",
+    "categoria_principal": "Sensors & Tracking",
     "tags": [
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Sensors, Tracking & Hardware (Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Sensors & Tracking (Sensors & Tracking)",
     "vistas_reales": 18112,
     "fecha_publicacion": "2024-08-09",
     "latent_x": -56.900001525878906,
@@ -4009,9 +4009,9 @@
     "categoria_principal": "Point Clouds & Instancing",
     "tags": [
       "Point Clouds & Instancing",
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Point Clouds & Instancing (Point Clouds & Instancing, Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Point Clouds & Instancing (Point Clouds & Instancing, Sensors & Tracking)",
     "vistas_reales": 17840,
     "fecha_publicacion": "2020-08-10",
     "latent_x": -98.0999984741211,
@@ -4043,12 +4043,12 @@
     "autor": "Xtal",
     "titulo": "Audio Reactive Noise Visuals [TOUCHDESIGNER TUTORIAL]",
     "enlace": "https://www.youtube.com/watch?v=LDUwIHXTX8Y",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics",
+      "Generative Art",
       "Audio Reactivity"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics, Audio Reactivity)",
+    "categoria_descriptores": "Generative Art (Generative Art, Audio Reactivity)",
     "vistas_reales": 17804,
     "fecha_publicacion": "2025-11-12",
     "latent_x": -16.81999969482422,
@@ -4062,11 +4062,11 @@
     "autor": "LUMOplay",
     "titulo": "How to make an interactive wall - a complete guide",
     "enlace": "https://www.youtube.com/watch?v=qKe4ULQKJ8U",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals)",
     "vistas_reales": 17794,
     "fecha_publicacion": "2025-09-13",
     "latent_x": -65.37000274658203,
@@ -4137,10 +4137,10 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators",
-      "Generative Art & Graphics"
+      "Core Fundamentals",
+      "Generative Art"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators, Generative Art & Graphics)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals, Generative Art)",
     "vistas_reales": 16684,
     "fecha_publicacion": "2026-02-10",
     "latent_x": 25.549999237060547,
@@ -4211,11 +4211,11 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Generative Art & Graphics",
+      "Generative Art",
       "Audio Reactivity",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Art & Graphics, Audio Reactivity, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Art, Audio Reactivity, 3D & Geometry (SOPs))",
     "vistas_reales": 15810,
     "fecha_publicacion": "2022-08-10",
     "latent_x": 20.989999771118164,
@@ -4247,12 +4247,12 @@
     "autor": "The Interactive & Immersive HQ",
     "titulo": "TouchDesigner & StreamDiffusion: Real-Time Audio-Reactive AI Art - TouchDesigner Tutorial 216",
     "enlace": "https://www.youtube.com/watch?v=M2U1hvTqzU0",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics",
+      "Generative Art",
       "Audio Reactivity"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics, Audio Reactivity)",
+    "categoria_descriptores": "Generative Art (Generative Art, Audio Reactivity)",
     "vistas_reales": 15349,
     "fecha_publicacion": "2025-08-09",
     "latent_x": -16.610000610351562,
@@ -4269,9 +4269,9 @@
     "categoria_principal": "Point Clouds & Instancing",
     "tags": [
       "Point Clouds & Instancing",
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Point Clouds & Instancing (Point Clouds & Instancing, Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Point Clouds & Instancing (Point Clouds & Instancing, Sensors & Tracking)",
     "vistas_reales": 15308,
     "fecha_publicacion": "2021-08-10",
     "latent_x": -100.27999877929688,
@@ -4306,10 +4306,10 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals, 3D & Geometry (SOPs))",
     "vistas_reales": 15213,
     "fecha_publicacion": "2019-08-11",
     "latent_x": 23.8700008392334,
@@ -4341,12 +4341,12 @@
     "autor": "Pao Olea",
     "titulo": "[TD Drop #08] Audio Reactive – TouchDesigner Tutorial",
     "enlace": "https://www.youtube.com/watch?v=R7U_0zz4nmU",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics",
+      "Generative Art",
       "Audio Reactivity"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics, Audio Reactivity)",
+    "categoria_descriptores": "Generative Art (Generative Art, Audio Reactivity)",
     "vistas_reales": 14982,
     "fecha_publicacion": "2024-08-09",
     "latent_x": -17.6200008392334,
@@ -4360,12 +4360,12 @@
     "autor": "Jascha Süss",
     "titulo": "Creating GLSL Shaders in Touchdesigner with Cursor AI",
     "enlace": "https://www.youtube.com/watch?v=iZT5Lu1FW6U",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "GLSL & Shader Programming"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, GLSL & Shader Programming)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, GLSL & Shader Programming)",
     "vistas_reales": 14976,
     "fecha_publicacion": "2025-08-09",
     "latent_x": -74.02999877929688,
@@ -4418,9 +4418,9 @@
     "categoria_principal": "3D & Geometry (SOPs)",
     "tags": [
       "3D & Geometry (SOPs)",
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "3D & Geometry (SOPs) (3D & Geometry (SOPs), Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "3D & Geometry (SOPs) (3D & Geometry (SOPs), Sensors & Tracking)",
     "vistas_reales": 14654,
     "fecha_publicacion": "2025-08-09",
     "latent_x": -17.489999771118164,
@@ -4455,9 +4455,9 @@
     "categoria_principal": "Point Clouds & Instancing",
     "tags": [
       "Point Clouds & Instancing",
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Point Clouds & Instancing (Point Clouds & Instancing, Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Point Clouds & Instancing (Point Clouds & Instancing, Sensors & Tracking)",
     "vistas_reales": 14245,
     "fecha_publicacion": "2025-08-09",
     "latent_x": -94.12999725341797,
@@ -4492,10 +4492,10 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "GLSL & Shader Programming"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators, GLSL & Shader Programming)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals, GLSL & Shader Programming)",
     "vistas_reales": 14243,
     "fecha_publicacion": "2015-08-12",
     "latent_x": -39.650001525878906,
@@ -4509,11 +4509,11 @@
     "autor": "alwayscodingsomething",
     "titulo": "Turn Your Hands Into a Digital Web (TouchDesigner Tutorial with POPs)",
     "enlace": "https://www.youtube.com/watch?v=pEJ89K5W960",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals)",
     "vistas_reales": 14083,
     "fecha_publicacion": "2026-01-11",
     "latent_x": -80.41999816894531,
@@ -4527,12 +4527,12 @@
     "autor": "bileam tschepe (elekktronaut)",
     "titulo": "Face Tracking Prism – TouchDesigner Tutorial 69",
     "enlace": "https://www.youtube.com/watch?v=ath64YOxds8",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
-      "Sensors, Tracking & Hardware"
+      "Core Fundamentals",
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Sensors & Tracking)",
     "vistas_reales": 13902,
     "fecha_publicacion": "2024-08-09",
     "latent_x": -71.04000091552734,
@@ -4549,10 +4549,10 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Generative Art & Graphics",
+      "Generative Art",
       "Projection Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Art & Graphics, Projection Mapping)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Art, Projection Mapping)",
     "vistas_reales": 13669,
     "fecha_publicacion": "2021-08-10",
     "latent_x": -0.550000011920929,
@@ -4569,9 +4569,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals)",
     "vistas_reales": 13438,
     "fecha_publicacion": "2020-08-10",
     "latent_x": 70.69999694824219,
@@ -4603,12 +4603,12 @@
     "autor": "Okamirufu Vizualizer",
     "titulo": "TouchDesigner POPs Tutorial: Create a 3D Spirograph Mandala Shapes Using Noise and Revolve",
     "enlace": "https://www.youtube.com/watch?v=X1KfoD8pKPQ",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics",
+      "Generative Art",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Generative Art (Generative Art, 3D & Geometry (SOPs))",
     "vistas_reales": 13243,
     "fecha_publicacion": "2025-10-13",
     "latent_x": -53.349998474121094,
@@ -4622,12 +4622,12 @@
     "autor": "noones img",
     "titulo": "GLSL - Data Types (Touchdesigner tutorial)",
     "enlace": "https://www.youtube.com/watch?v=VOyZRRv7PNc",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "GLSL & Shader Programming"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, GLSL & Shader Programming)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, GLSL & Shader Programming)",
     "vistas_reales": 12948,
     "fecha_publicacion": "2022-08-10",
     "latent_x": -71.83000183105469,
@@ -4659,11 +4659,11 @@
     "autor": "The Interactive & Immersive HQ",
     "titulo": "Mastering Blob Tracking in TouchDesigner - TouchDesigner Tutorial 193",
     "enlace": "https://www.youtube.com/watch?v=wJMjTZ2A3Jk",
-    "categoria_principal": "Sensors, Tracking & Hardware",
+    "categoria_principal": "Sensors & Tracking",
     "tags": [
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Sensors, Tracking & Hardware (Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Sensors & Tracking (Sensors & Tracking)",
     "vistas_reales": 12850,
     "fecha_publicacion": "2025-08-09",
     "latent_x": -43.130001068115234,
@@ -4695,13 +4695,13 @@
     "autor": "Okamirufu Vizualizer",
     "titulo": "Displace Everything in TouchDesigner using SOP Instances and Noise TOP as Z-axis Displacer",
     "enlace": "https://www.youtube.com/watch?v=uc_2JO4iHjk",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
-      "Generative Art & Graphics",
+      "Core Fundamentals",
+      "Generative Art",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Generative Art & Graphics, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Generative Art, 3D & Geometry (SOPs))",
     "vistas_reales": 12636,
     "fecha_publicacion": "2025-08-09",
     "latent_x": -105.27999877929688,
@@ -4733,11 +4733,11 @@
     "autor": "tekt",
     "titulo": "TouchDesigner VJ Performance Rig",
     "enlace": "https://www.youtube.com/watch?v=2mgyZV49rRc",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals)",
     "vistas_reales": 12506,
     "fecha_publicacion": "2025-08-09",
     "latent_x": -75.22000122070312,
@@ -4769,11 +4769,11 @@
     "autor": "uisato",
     "titulo": "Kinect-Controlled Synth - Kinect + TouchDesigner + Ableton Live",
     "enlace": "https://www.youtube.com/watch?v=sm1SVHGA4Sc",
-    "categoria_principal": "Sensors, Tracking & Hardware",
+    "categoria_principal": "Sensors & Tracking",
     "tags": [
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Sensors, Tracking & Hardware (Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Sensors & Tracking (Sensors & Tracking)",
     "vistas_reales": 12229,
     "fecha_publicacion": "2021-08-10",
     "latent_x": -60.41999816894531,
@@ -4808,10 +4808,10 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Generative Art & Graphics",
+      "Generative Art",
       "Point Clouds & Instancing"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Art & Graphics, Point Clouds & Instancing)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Art, Point Clouds & Instancing)",
     "vistas_reales": 12167,
     "fecha_publicacion": "2024-08-09",
     "latent_x": -4.860000133514404,
@@ -4865,9 +4865,9 @@
     "categoria_principal": "Point Clouds & Instancing",
     "tags": [
       "Point Clouds & Instancing",
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Point Clouds & Instancing (Point Clouds & Instancing, Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Point Clouds & Instancing (Point Clouds & Instancing, Sensors & Tracking)",
     "vistas_reales": 11921,
     "fecha_publicacion": "2025-08-09",
     "latent_x": -107.38999938964844,
@@ -4953,12 +4953,12 @@
     "autor": "Okamirufu Vizualizer",
     "titulo": "TouchDesigner Tutorial: Mosaic Mask Effect with Time Machine TOP (Easy Level)",
     "enlace": "https://www.youtube.com/watch?v=lD77CY9bCBg",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, 3D & Geometry (SOPs))",
     "vistas_reales": 11502,
     "fecha_publicacion": "2026-02-10",
     "latent_x": -98.54000091552734,
@@ -4972,11 +4972,11 @@
     "autor": "alphamoonbase.berlin",
     "titulo": "[TouchDesigner - Rubberduck] 20.04.2020 Battle of Kinect: XBOX vs AZURE",
     "enlace": "https://www.youtube.com/watch?v=tI8ri4XsFdQ",
-    "categoria_principal": "Sensors, Tracking & Hardware",
+    "categoria_principal": "Sensors & Tracking",
     "tags": [
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Sensors, Tracking & Hardware (Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Sensors & Tracking (Sensors & Tracking)",
     "vistas_reales": 10797,
     "fecha_publicacion": "2020-08-10",
     "latent_x": -58.43000030517578,
@@ -4993,9 +4993,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals)",
     "vistas_reales": 10617,
     "fecha_publicacion": "2025-08-09",
     "latent_x": 56.4900016784668,
@@ -5027,12 +5027,12 @@
     "autor": "Hou2Touch | Stanislav Glazov",
     "titulo": "Demystifying TouchDesigner SOPs 01. Add, Limit, CHOP to, DAT to.",
     "enlace": "https://www.youtube.com/watch?v=kqXNH43sO68",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, 3D & Geometry (SOPs))",
     "vistas_reales": 10477,
     "fecha_publicacion": "2024-08-09",
     "latent_x": -93.23999786376953,
@@ -5046,11 +5046,11 @@
     "autor": "anya maryina",
     "titulo": "How to learn TouchDesigner?",
     "enlace": "https://www.youtube.com/watch?v=s6zNKYLxwq8",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals)",
     "vistas_reales": 10282,
     "fecha_publicacion": "2026-02-10",
     "latent_x": -75.69999694824219,
@@ -5192,13 +5192,13 @@
     "autor": "Hou2Touch | Stanislav Glazov",
     "titulo": "SOP on GPU - Geometry Shaders in TouchDesigner 099 Workshop - Day 1 Preview",
     "enlace": "https://www.youtube.com/watch?v=WMrJktov7yw",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "GLSL & Shader Programming",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, GLSL & Shader Programming, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, GLSL & Shader Programming, 3D & Geometry (SOPs))",
     "vistas_reales": 9487,
     "fecha_publicacion": "2019-08-11",
     "latent_x": -87.9000015258789,
@@ -5248,11 +5248,11 @@
     "autor": "The Interactive & Immersive HQ",
     "titulo": "Body Tracking Interactive Triggers in TouchDesigner - TouchDesigner Tutorial 201",
     "enlace": "https://www.youtube.com/watch?v=Zgm5PuBzmGY",
-    "categoria_principal": "Sensors, Tracking & Hardware",
+    "categoria_principal": "Sensors & Tracking",
     "tags": [
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Sensors, Tracking & Hardware (Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Sensors & Tracking (Sensors & Tracking)",
     "vistas_reales": 8905,
     "fecha_publicacion": "2025-08-09",
     "latent_x": -51.709999084472656,
@@ -5266,12 +5266,12 @@
     "autor": "Dean Cheesman",
     "titulo": "Audio Reactive Kaleidoscope Visuals with TouchDesigner Tutorial",
     "enlace": "https://www.youtube.com/watch?v=BiamWUjnBoY",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics",
+      "Generative Art",
       "Audio Reactivity"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics, Audio Reactivity)",
+    "categoria_descriptores": "Generative Art (Generative Art, Audio Reactivity)",
     "vistas_reales": 8900,
     "fecha_publicacion": "2024-08-09",
     "latent_x": -18.81999969482422,
@@ -5325,10 +5325,10 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "GLSL & Shader Programming"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators, GLSL & Shader Programming)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals, GLSL & Shader Programming)",
     "vistas_reales": 8710,
     "fecha_publicacion": "2021-08-10",
     "latent_x": -42.31999969482422,
@@ -5361,11 +5361,11 @@
     "autor": "jack dilaura",
     "titulo": "Building a Kinect Drawing Program 🎨 🖌 - Another TouchDesigner Tutorial",
     "enlace": "https://www.youtube.com/watch?v=kpme2WSvGP0",
-    "categoria_principal": "Sensors, Tracking & Hardware",
+    "categoria_principal": "Sensors & Tracking",
     "tags": [
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Sensors, Tracking & Hardware (Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Sensors & Tracking (Sensors & Tracking)",
     "vistas_reales": 8592,
     "fecha_publicacion": "2021-08-10",
     "latent_x": -47.18000030517578,
@@ -5397,12 +5397,12 @@
     "autor": "Okamirufu Vizualizer",
     "titulo": "Spectral Point Cloud CTR Effect & Color Aberration RGB Cache - TouchDesigner POPs",
     "enlace": "https://www.youtube.com/watch?v=asLR7U6twVM",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics",
+      "Generative Art",
       "Point Clouds & Instancing"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics, Point Clouds & Instancing)",
+    "categoria_descriptores": "Generative Art (Generative Art, Point Clouds & Instancing)",
     "vistas_reales": 8374,
     "fecha_publicacion": "2026-02-10",
     "latent_x": -39.810001373291016,
@@ -5416,13 +5416,13 @@
     "autor": "rey nbows",
     "titulo": "Instancing in TouchDesigner 1/3: Drawing from SOPs, Coloring by Points, Basic Animation",
     "enlace": "https://www.youtube.com/watch?v=SVs3Gcqoplk",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "3D & Geometry (SOPs)",
       "Point Clouds & Instancing"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, 3D & Geometry (SOPs), Point Clouds & Instancing)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, 3D & Geometry (SOPs), Point Clouds & Instancing)",
     "vistas_reales": 8147,
     "fecha_publicacion": "2020-08-10",
     "latent_x": -76.5199966430664,
@@ -5581,11 +5581,11 @@
     "autor": "reflekkt",
     "titulo": "Immersive Space Previsualization - TouchDesigner Tutorial 1/2",
     "enlace": "https://www.youtube.com/watch?v=hTyUYooPVn0",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals)",
     "vistas_reales": 7448,
     "fecha_publicacion": "2024-08-09",
     "latent_x": -83.2699966430664,
@@ -5599,12 +5599,12 @@
     "autor": "Lake Heckaman",
     "titulo": "TouchDesigner Quick Tips: Shadertoy Port to TouchDesigner",
     "enlace": "https://www.youtube.com/watch?v=IFycGdOv9oU",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "GLSL & Shader Programming"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, GLSL & Shader Programming)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, GLSL & Shader Programming)",
     "vistas_reales": 7369,
     "fecha_publicacion": "2023-08-10",
     "latent_x": -78.02999877929688,
@@ -5638,12 +5638,12 @@
     "autor": "Vincent Houzé",
     "titulo": "GLSL in Touch Designer - Lesson 2",
     "enlace": "https://www.youtube.com/watch?v=863TeJRaxbc",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "GLSL & Shader Programming"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, GLSL & Shader Programming)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, GLSL & Shader Programming)",
     "vistas_reales": 7188,
     "fecha_publicacion": "2015-08-12",
     "latent_x": -69.52999877929688,
@@ -5694,12 +5694,12 @@
     "autor": "Lake Heckaman",
     "titulo": "Mastering GLSL in TouchDesigner, Lesson 1: Writing your First Shader in TouchDesigner!",
     "enlace": "https://www.youtube.com/watch?v=kfI56H9bjLA",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "GLSL & Shader Programming"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, GLSL & Shader Programming)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, GLSL & Shader Programming)",
     "vistas_reales": 6889,
     "fecha_publicacion": "2025-08-09",
     "latent_x": -71.22000122070312,
@@ -5716,11 +5716,11 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators",
-      "Generative Art & Graphics",
+      "Core Fundamentals",
+      "Generative Art",
       "Audio Reactivity"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators, Generative Art & Graphics, Audio Reactivity)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals, Generative Art, Audio Reactivity)",
     "vistas_reales": 6629,
     "fecha_publicacion": "2025-08-09",
     "latent_x": 27.280000686645508,
@@ -5734,11 +5734,11 @@
     "autor": "bileam tschepe (elekktronaut)",
     "titulo": "elekktronaut x Chronica Luma – Atmo Light Wobbles",
     "enlace": "https://www.youtube.com/watch?v=fnlPDFGoi0U",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics"
+      "Generative Art"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics)",
+    "categoria_descriptores": "Generative Art (Generative Art)",
     "vistas_reales": 6417,
     "fecha_publicacion": "2021-08-10",
     "latent_x": -38.900001525878906,
@@ -5791,13 +5791,13 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators",
-      "Generative Art & Graphics",
+      "Core Fundamentals",
+      "Generative Art",
       "GLSL & Shader Programming",
       "3D & Geometry (SOPs)",
       "Point Clouds & Instancing"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators, Generative Art & Graphics, GLSL & Shader Programming, 3D & Geometry (SOPs), Point Clouds & Instancing)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals, Generative Art, GLSL & Shader Programming, 3D & Geometry (SOPs), Point Clouds & Instancing)",
     "vistas_reales": 6250,
     "fecha_publicacion": "2024-08-09",
     "latent_x": -8.239999771118164,
@@ -5811,12 +5811,12 @@
     "autor": "caro villeneuve",
     "titulo": "TouchDesigner Tutorial : Audio-Reactive L-System",
     "enlace": "https://www.youtube.com/watch?v=hUjExmNbgbs",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "Audio Reactivity"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Audio Reactivity)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Audio Reactivity)",
     "vistas_reales": 6201,
     "fecha_publicacion": "2025-12-12",
     "latent_x": -55.27000045776367,
@@ -5852,9 +5852,9 @@
     "categoria_principal": "3D & Geometry (SOPs)",
     "tags": [
       "3D & Geometry (SOPs)",
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "3D & Geometry (SOPs) (3D & Geometry (SOPs), Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "3D & Geometry (SOPs) (3D & Geometry (SOPs), Sensors & Tracking)",
     "vistas_reales": 6017,
     "fecha_publicacion": "2013-08-12",
     "latent_x": -16.479999542236328,
@@ -5977,12 +5977,12 @@
     "autor": "Okamirufu Vizualizer",
     "titulo": "Install Python Libraries in TouchDesigner  |  Successful Python Installation in Less Than 2 Minutes",
     "enlace": "https://www.youtube.com/watch?v=jUouJcGDRPk",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "Python Scripting & System"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Python Scripting & System)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Python Scripting & System)",
     "vistas_reales": 5369,
     "fecha_publicacion": "2024-08-09",
     "latent_x": -31.649999618530273,
@@ -6017,11 +6017,11 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "GLSL & Shader Programming",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators, GLSL & Shader Programming, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals, GLSL & Shader Programming, 3D & Geometry (SOPs))",
     "vistas_reales": 5252,
     "fecha_publicacion": "2019-08-11",
     "latent_x": -41.630001068115234,
@@ -6053,12 +6053,12 @@
     "autor": "Okamirufu Vizualizer",
     "titulo": "TouchDesigner Tutorial: Create a Synthetic Structure using TOP to POP (Easy)",
     "enlace": "https://www.youtube.com/watch?v=CGxj8BZstMM",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, 3D & Geometry (SOPs))",
     "vistas_reales": 5194,
     "fecha_publicacion": "2026-03-12",
     "latent_x": -98.0,
@@ -6108,12 +6108,12 @@
     "autor": "TouchDesigner",
     "titulo": "GPU Implementation of SOP to TOP - Quentin Bleton",
     "enlace": "https://www.youtube.com/watch?v=6n1xT83FvuU",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, 3D & Geometry (SOPs))",
     "vistas_reales": 5025,
     "fecha_publicacion": "2020-08-10",
     "latent_x": -86.11000061035156,
@@ -6127,12 +6127,12 @@
     "autor": "Hou2Touch | Stanislav Glazov",
     "titulo": "Demystifying TouchDesigner SOPs 06.  Basic Modeling Tools: Extrude, Revolve, Skin, Sweep SOPs",
     "enlace": "https://www.youtube.com/watch?v=70oq_GbkcCE",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, 3D & Geometry (SOPs))",
     "vistas_reales": 4972,
     "fecha_publicacion": "2024-08-09",
     "latent_x": -85.9000015258789,
@@ -6182,12 +6182,12 @@
     "autor": "Yea Chen",
     "titulo": "TouchDesigner experiment :  sharing texture from TOP to OpenCV -  workflow testing.",
     "enlace": "https://www.youtube.com/watch?v=9g6SBwNlw7E",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "Python Scripting & System"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Python Scripting & System)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Python Scripting & System)",
     "vistas_reales": 4540,
     "fecha_publicacion": "2018-08-11",
     "latent_x": -40.650001525878906,
@@ -6242,9 +6242,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Generative Art & Graphics"
+      "Generative Art"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Art & Graphics)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Art)",
     "vistas_reales": 4214,
     "fecha_publicacion": "2022-08-10",
     "latent_x": 12.739999771118164,
@@ -6276,13 +6276,13 @@
     "autor": "The Interactive & Immersive HQ",
     "titulo": "TouchDesigner Audio Reactive Visuals with GLSL",
     "enlace": "https://www.youtube.com/watch?v=1pO8rA-vvUo",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics",
+      "Generative Art",
       "GLSL & Shader Programming",
       "Audio Reactivity"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics, GLSL & Shader Programming, Audio Reactivity)",
+    "categoria_descriptores": "Generative Art (Generative Art, GLSL & Shader Programming, Audio Reactivity)",
     "vistas_reales": 4138,
     "fecha_publicacion": "2025-11-12",
     "latent_x": -20.110000610351562,
@@ -6296,12 +6296,12 @@
     "autor": "Programming for People",
     "titulo": "Projection Mapping Toolkit - Episode 2 - Simulating Projection in Touchdesigner - FREE EPISODE",
     "enlace": "https://www.youtube.com/watch?v=npcrh6Go8cI",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "Projection Mapping"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Projection Mapping)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Projection Mapping)",
     "vistas_reales": 4059,
     "fecha_publicacion": "2019-08-11",
     "latent_x": -49.36000061035156,
@@ -6391,9 +6391,9 @@
     "categoria_principal": "3D & Geometry (SOPs)",
     "tags": [
       "3D & Geometry (SOPs)",
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "3D & Geometry (SOPs) (3D & Geometry (SOPs), Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "3D & Geometry (SOPs) (3D & Geometry (SOPs), Sensors & Tracking)",
     "vistas_reales": 3912,
     "fecha_publicacion": "2020-08-10",
     "latent_x": -16.399999618530273,
@@ -6462,11 +6462,11 @@
     "autor": "Okamirufu Vizualizer",
     "titulo": "TouchDesigner Tutorial: Hand-Tracked Interactive Orbit Gallery (Easy)",
     "enlace": "https://www.youtube.com/watch?v=9WL-sOtpAXI",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals)",
     "vistas_reales": 3619,
     "fecha_publicacion": "2026-05-11",
     "latent_x": -71.48999786376953,
@@ -6501,9 +6501,9 @@
     "categoria_principal": "Point Clouds & Instancing",
     "tags": [
       "Point Clouds & Instancing",
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Point Clouds & Instancing (Point Clouds & Instancing, Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Point Clouds & Instancing (Point Clouds & Instancing, Sensors & Tracking)",
     "vistas_reales": 3560,
     "fecha_publicacion": "2021-08-10",
     "latent_x": -106.48999786376953,
@@ -6589,12 +6589,12 @@
     "autor": "Hou2Touch | Stanislav Glazov",
     "titulo": "Demystifying TouchDesigner SOPs 9. Subdivide Geometry",
     "enlace": "https://www.youtube.com/watch?v=EyFQXs6QXYY",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, 3D & Geometry (SOPs))",
     "vistas_reales": 3255,
     "fecha_publicacion": "2024-08-09",
     "latent_x": -88.98999786376953,
@@ -6648,9 +6648,9 @@
     "categoria_principal": "Projection Mapping",
     "tags": [
       "Projection Mapping",
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Projection Mapping (Projection Mapping, Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, Sensors & Tracking)",
     "vistas_reales": 3181,
     "fecha_publicacion": "2019-08-11",
     "latent_x": -24.59000015258789,
@@ -6664,11 +6664,11 @@
     "autor": "paketa12",
     "titulo": "noisecream in TouchDesigner",
     "enlace": "https://www.youtube.com/watch?v=olsWPtokt5s",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics"
+      "Generative Art"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics)",
+    "categoria_descriptores": "Generative Art (Generative Art)",
     "vistas_reales": 3157,
     "fecha_publicacion": "2023-08-10",
     "latent_x": -38.040000915527344,
@@ -6759,13 +6759,13 @@
     "autor": "The Interactive & Immersive HQ",
     "titulo": "GLSL Shaders for Generative Visuals (TouchDesigner + Claude Code)",
     "enlace": "https://www.youtube.com/watch?v=KwWr-pgW-tY",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics",
+      "Generative Art",
       "GLSL & Shader Programming",
       "Python Scripting & System"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics, GLSL & Shader Programming, Python Scripting & System)",
+    "categoria_descriptores": "Generative Art (Generative Art, GLSL & Shader Programming, Python Scripting & System)",
     "vistas_reales": 2935,
     "fecha_publicacion": "2026-06-10",
     "latent_x": -29.959999084472656,
@@ -6779,12 +6779,12 @@
     "autor": "Tim Franklin",
     "titulo": "Touchdesigner Tutorial - How To Build Point Sprites in A GLSL Shader",
     "enlace": "https://www.youtube.com/watch?v=4_7jwBOmY-w",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "GLSL & Shader Programming"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, GLSL & Shader Programming)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, GLSL & Shader Programming)",
     "vistas_reales": 2902,
     "fecha_publicacion": "2020-08-10",
     "latent_x": -72.97000122070312,
@@ -6834,13 +6834,13 @@
     "autor": "Hou2Touch | Stanislav Glazov",
     "titulo": "Demystifying TouchDesigner SOPs 05. Deformers. Twist, Noise and Blend SOPs",
     "enlace": "https://www.youtube.com/watch?v=G_n7GNh-KiA",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics",
+      "Generative Art",
       "Projection Mapping",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics, Projection Mapping, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Generative Art (Generative Art, Projection Mapping, 3D & Geometry (SOPs))",
     "vistas_reales": 2826,
     "fecha_publicacion": "2024-08-09",
     "latent_x": -55.029998779296875,
@@ -6946,12 +6946,12 @@
     "autor": "Okamirufu Vizualizer",
     "titulo": "TouchDesigner Tutorial: Create an Animated Stars Orb with POPs (Easy)",
     "enlace": "https://www.youtube.com/watch?v=-W-m5ISGINo",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
-      "Generative Art & Graphics"
+      "Core Fundamentals",
+      "Generative Art"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Generative Art & Graphics)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Generative Art)",
     "vistas_reales": 2696,
     "fecha_publicacion": "2026-07-10",
     "latent_x": -103.83999633789062,
@@ -7056,13 +7056,13 @@
     "autor": "caro villeneuve",
     "titulo": "TouchDesigner Tutorial : Your First GLSL Pattern",
     "enlace": "https://www.youtube.com/watch?v=CW8uP0U_sQc",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics",
+      "Generative Art",
       "GLSL & Shader Programming",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics, GLSL & Shader Programming, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Generative Art (Generative Art, GLSL & Shader Programming, 3D & Geometry (SOPs))",
     "vistas_reales": 2458,
     "fecha_publicacion": "2026-01-11",
     "latent_x": -36.5099983215332,
@@ -7097,10 +7097,10 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals, 3D & Geometry (SOPs))",
     "vistas_reales": 2435,
     "fecha_publicacion": "2024-08-09",
     "latent_x": 15.819999694824219,
@@ -7114,11 +7114,11 @@
     "autor": "paketa12",
     "titulo": "dummy labyrinth in Touchdesigner",
     "enlace": "https://www.youtube.com/watch?v=h0EaLxHvXS0",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics"
+      "Generative Art"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics)",
+    "categoria_descriptores": "Generative Art (Generative Art)",
     "vistas_reales": 2391,
     "fecha_publicacion": "2022-08-10",
     "latent_x": -38.040000915527344,
@@ -7132,12 +7132,12 @@
     "autor": "Hou2Touch | Stanislav Glazov",
     "titulo": "TouchDesigner SOPs Part 8. Cut Splines.  CurveSect, SurfSect, Trim & Project SOPs",
     "enlace": "https://www.youtube.com/watch?v=BeJJHSa5WsE",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, 3D & Geometry (SOPs))",
     "vistas_reales": 2362,
     "fecha_publicacion": "2024-08-09",
     "latent_x": -83.36000061035156,
@@ -7242,13 +7242,13 @@
     "autor": "Nima Gazestani",
     "titulo": "Touchdesigner Text SOP Explosion 3D - PLASMA Version",
     "enlace": "https://www.youtube.com/watch?v=_yEots7eSvI",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "Projection Mapping",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Projection Mapping, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Projection Mapping, 3D & Geometry (SOPs))",
     "vistas_reales": 1962,
     "fecha_publicacion": "2020-08-10",
     "latent_x": -68.54000091552734,
@@ -7280,12 +7280,12 @@
     "autor": "The Interactive & Immersive HQ",
     "titulo": "Projection Mapping with TouchDesigner & MadMapper",
     "enlace": "https://www.youtube.com/watch?v=PPPJjckYifY",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "Projection Mapping"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Projection Mapping)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Projection Mapping)",
     "vistas_reales": 1894,
     "fecha_publicacion": "2026-07-19",
     "latent_x": -51.68000030517578,
@@ -7389,13 +7389,13 @@
     "autor": "Jascha Süss",
     "titulo": "Beat Reactive Visuals - Touchdesigner Tutorial",
     "enlace": "https://www.youtube.com/watch?v=u3KAPEOWYrc",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
-      "Generative Art & Graphics",
+      "Core Fundamentals",
+      "Generative Art",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Generative Art & Graphics, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Generative Art, 3D & Geometry (SOPs))",
     "vistas_reales": 1680,
     "fecha_publicacion": "2026-06-10",
     "latent_x": -100.79000091552734,
@@ -7482,13 +7482,13 @@
     "autor": "Okamirufu Vizualizer",
     "titulo": "TouchDesigner Tutorial: Glossy 3D Abstract Geometry (Easy)",
     "enlace": "https://www.youtube.com/watch?v=07o5RHCDI0M",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
-      "Generative Art & Graphics",
+      "Core Fundamentals",
+      "Generative Art",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Generative Art & Graphics, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Generative Art, 3D & Geometry (SOPs))",
     "vistas_reales": 1613,
     "fecha_publicacion": "2026-05-11",
     "latent_x": -98.33999633789062,
@@ -7557,11 +7557,11 @@
     "autor": "jack dilaura",
     "titulo": "Recreating a Spirograph in TouchDesigner - Another TouchDesigner Tutorial",
     "enlace": "https://www.youtube.com/watch?v=2TFjKU5YgAU",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals)",
     "vistas_reales": 1553,
     "fecha_publicacion": "2021-08-10",
     "latent_x": -76.23999786376953,
@@ -7575,12 +7575,12 @@
     "autor": "Hou2Touch | Stanislav Glazov",
     "titulo": "TouchDesigner 203: Script SOP Videocourse Preview Cuts",
     "enlace": "https://www.youtube.com/watch?v=Io-HWVk_jXc",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, 3D & Geometry (SOPs))",
     "vistas_reales": 1549,
     "fecha_publicacion": "2021-08-10",
     "latent_x": -78.02999877929688,
@@ -7630,11 +7630,11 @@
     "autor": "The Interactive & Immersive HQ",
     "titulo": "Using the Logger COMP in TouchDesigner - TouchDesigner Tutorial 155",
     "enlace": "https://www.youtube.com/watch?v=Koi1g0W5fgY",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals)",
     "vistas_reales": 1446,
     "fecha_publicacion": "2024-08-09",
     "latent_x": -68.44000244140625,
@@ -7648,11 +7648,11 @@
     "autor": "Ruben Papacci",
     "titulo": "Vectorising Instances for TOPs and POPs (re_vec)",
     "enlace": "https://www.youtube.com/watch?v=RscIbcy9QQA",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals)",
     "vistas_reales": 1445,
     "fecha_publicacion": "2025-08-09",
     "latent_x": -80.98999786376953,
@@ -7666,12 +7666,12 @@
     "autor": "Okamirufu Vizualizer",
     "titulo": "TouchDesigner Tutorial: Build Procedural Geometry Arrays with CHOP Logic (Easy)",
     "enlace": "https://www.youtube.com/watch?v=f25Fvc6Sy3M",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, 3D & Geometry (SOPs))",
     "vistas_reales": 1339,
     "fecha_publicacion": "2026-03-12",
     "latent_x": -99.56999969482422,
@@ -7760,9 +7760,9 @@
     "categoria_principal": "Point Clouds & Instancing",
     "tags": [
       "Point Clouds & Instancing",
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Point Clouds & Instancing (Point Clouds & Instancing, Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Point Clouds & Instancing (Point Clouds & Instancing, Sensors & Tracking)",
     "vistas_reales": 1178,
     "fecha_publicacion": "2025-08-09",
     "latent_x": -98.7300033569336,
@@ -7779,9 +7779,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Generative Art & Graphics"
+      "Generative Art"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Art & Graphics)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Art)",
     "vistas_reales": 1126,
     "fecha_publicacion": "2021-08-10",
     "latent_x": 1.6399999856948853,
@@ -7795,12 +7795,12 @@
     "autor": "Akenbak",
     "titulo": "TouchDesigner Tutorial 20 - Parametric Equations: Nephroid (CHOP's,TOP's & Python)",
     "enlace": "https://www.youtube.com/watch?v=PRy-1SdpxbI",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "Python Scripting & System"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Python Scripting & System)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Python Scripting & System)",
     "vistas_reales": 1107,
     "fecha_publicacion": "2022-08-10",
     "latent_x": -36.88999938964844,
@@ -7817,10 +7817,10 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals, 3D & Geometry (SOPs))",
     "vistas_reales": 1102,
     "fecha_publicacion": "2023-08-10",
     "latent_x": 32.099998474121094,
@@ -7837,11 +7837,11 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Generative Art & Graphics",
+      "Generative Art",
       "3D & Geometry (SOPs)",
       "Point Clouds & Instancing"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Art & Graphics, 3D & Geometry (SOPs), Point Clouds & Instancing)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Art, 3D & Geometry (SOPs), Point Clouds & Instancing)",
     "vistas_reales": 1100,
     "fecha_publicacion": "2024-08-09",
     "latent_x": -5.269999980926514,
@@ -7855,12 +7855,12 @@
     "autor": "Akenbak",
     "titulo": "TouchDesigner Tutorial 8 - Parametric Equations: Eight Curve (CHOP's,TOP's & Python)",
     "enlace": "https://www.youtube.com/watch?v=7lXs_Imgz04",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "Python Scripting & System"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Python Scripting & System)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Python Scripting & System)",
     "vistas_reales": 1057,
     "fecha_publicacion": "2021-08-10",
     "latent_x": -36.84000015258789,
@@ -7874,12 +7874,12 @@
     "autor": "Scott Allen Visual Art",
     "titulo": "Rectangle SOP in TouchDesigner",
     "enlace": "https://www.youtube.com/watch?v=JwA8sFI7Z2I",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, 3D & Geometry (SOPs))",
     "vistas_reales": 1053,
     "fecha_publicacion": "2023-08-10",
     "latent_x": -86.41000366210938,
@@ -7896,9 +7896,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals)",
     "vistas_reales": 1035,
     "fecha_publicacion": "2023-08-10",
     "latent_x": 83.02999877929688,
@@ -8038,12 +8038,12 @@
     "autor": "Akenbak",
     "titulo": "TouchDesigner Tutorial 12 - Parametric Equations: Trifolium (CHOP's,TOP's & Python)",
     "enlace": "https://www.youtube.com/watch?v=BEIxzroL-Hc",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "Python Scripting & System"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Python Scripting & System)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Python Scripting & System)",
     "vistas_reales": 950,
     "fecha_publicacion": "2021-08-10",
     "latent_x": -36.880001068115234,
@@ -8057,12 +8057,12 @@
     "autor": "Pao Olea",
     "titulo": "[TD Drop #30] Wings Effect  - TouchDesigner Tutorial",
     "enlace": "https://www.youtube.com/watch?v=ls7k41ND2UY",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, 3D & Geometry (SOPs))",
     "vistas_reales": 943,
     "fecha_publicacion": "2026-07-19",
     "latent_x": -88.48999786376953,
@@ -8166,11 +8166,11 @@
     "autor": "Pao Olea",
     "titulo": "[TD Drop #26] Twister Sculpting - TouchDesigner Tutorial",
     "enlace": "https://www.youtube.com/watch?v=QEvjo8kXBjA",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics"
+      "Generative Art"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics)",
+    "categoria_descriptores": "Generative Art (Generative Art)",
     "vistas_reales": 835,
     "fecha_publicacion": "2026-06-10",
     "latent_x": -34.0,
@@ -8184,13 +8184,13 @@
     "autor": "reflekkt",
     "titulo": "Turn ANY Object into Art with AI Projection Mapping (Free Workflow)",
     "enlace": "https://www.youtube.com/watch?v=pojsBrRqKgw",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
-      "Generative Art & Graphics",
+      "Core Fundamentals",
+      "Generative Art",
       "Projection Mapping"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Generative Art & Graphics, Projection Mapping)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Generative Art, Projection Mapping)",
     "vistas_reales": 809,
     "fecha_publicacion": "2026-07-26",
     "latent_x": -45.58000183105469,
@@ -8277,12 +8277,12 @@
     "autor": "Lake Heckaman",
     "titulo": "GLSL for POPs in TouchDesigner: Lesson 3 (Interference Patterns + Multiple Inputs)",
     "enlace": "https://www.youtube.com/watch?v=Fbgye7-j-Wg",
-    "categoria_principal": "Generative Art & Graphics",
+    "categoria_principal": "Generative Art",
     "tags": [
-      "Generative Art & Graphics",
+      "Generative Art",
       "GLSL & Shader Programming"
     ],
-    "categoria_descriptores": "Generative Art & Graphics (Generative Art & Graphics, GLSL & Shader Programming)",
+    "categoria_descriptores": "Generative Art (Generative Art, GLSL & Shader Programming)",
     "vistas_reales": 750,
     "fecha_publicacion": "2025-11-12",
     "latent_x": -32.900001525878906,
@@ -8350,13 +8350,13 @@
     "autor": "Kousei Ikeda",
     "titulo": "TouchDesigner : Basic SOP Instancing",
     "enlace": "https://www.youtube.com/watch?v=XPB7RgnPMss",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "3D & Geometry (SOPs)",
       "Point Clouds & Instancing"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, 3D & Geometry (SOPs), Point Clouds & Instancing)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, 3D & Geometry (SOPs), Point Clouds & Instancing)",
     "vistas_reales": 677,
     "fecha_publicacion": "2021-08-10",
     "latent_x": -75.97000122070312,
@@ -8409,10 +8409,10 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals, 3D & Geometry (SOPs))",
     "vistas_reales": 610,
     "fecha_publicacion": "2023-08-10",
     "latent_x": 28.270000457763672,
@@ -8462,12 +8462,12 @@
     "autor": "paketa12",
     "titulo": "flying tinsel in Touchdesigner",
     "enlace": "https://www.youtube.com/watch?v=yjZx1RvewLQ",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "Point Clouds & Instancing"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Point Clouds & Instancing)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Point Clouds & Instancing)",
     "vistas_reales": 560,
     "fecha_publicacion": "2025-09-13",
     "latent_x": -67.38999938964844,
@@ -8755,11 +8755,11 @@
     "autor": "liu jack",
     "titulo": "Create MAGIC with TouchDesigner + Kinect! 🎨✨ Interactive Wall Projection Tutorial",
     "enlace": "https://www.youtube.com/watch?v=pi-gCTNmFPM",
-    "categoria_principal": "Sensors, Tracking & Hardware",
+    "categoria_principal": "Sensors & Tracking",
     "tags": [
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Sensors, Tracking & Hardware (Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Sensors & Tracking (Sensors & Tracking)",
     "vistas_reales": 443,
     "fecha_publicacion": "2025-08-09",
     "latent_x": -64.73999786376953,
@@ -8866,9 +8866,9 @@
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals & Operators)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Core Fundamentals)",
     "vistas_reales": 411,
     "fecha_publicacion": "2023-08-10",
     "latent_x": 84.2699966430664,
@@ -8901,11 +8901,11 @@
     "autor": "NC State University Libraries YouTube Channel",
     "titulo": "Procedural Coding in Touch Designer with Ian",
     "enlace": "https://www.youtube.com/watch?v=VC7zo8T4Gl0",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals)",
     "vistas_reales": 395,
     "fecha_publicacion": "2023-08-10",
     "latent_x": -71.41999816894531,
@@ -8975,11 +8975,11 @@
     "autor": "paketa12",
     "titulo": "UV Picking in TouchDesigner",
     "enlace": "https://www.youtube.com/watch?v=twvLEQ7KkpI",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators"
+      "Core Fundamentals"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals)",
     "vistas_reales": 365,
     "fecha_publicacion": "2025-09-13",
     "latent_x": -75.45999908447266,
@@ -8993,12 +8993,12 @@
     "autor": "paketa12",
     "titulo": "conditioned feedback in TouchDesigner",
     "enlace": "https://www.youtube.com/watch?v=oZK3O2QYVWQ",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
-      "Generative Art & Graphics"
+      "Core Fundamentals",
+      "Generative Art"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Generative Art & Graphics)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Generative Art)",
     "vistas_reales": 360,
     "fecha_publicacion": "2025-09-13",
     "latent_x": -99.2699966430664,
@@ -9012,12 +9012,12 @@
     "autor": "Rob Duarte",
     "titulo": "Keypresses (and a bit of Python) in TouchDesigner",
     "enlace": "https://www.youtube.com/watch?v=DOMDHzqn38c",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "Python Scripting & System"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Python Scripting & System)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Python Scripting & System)",
     "vistas_reales": 355,
     "fecha_publicacion": "2025-10-13",
     "latent_x": -36.06999969482422,
@@ -9031,13 +9031,13 @@
     "autor": "sssynthomo",
     "titulo": "Audio Reactive Plexus in TouchDesigner (Python + OpenCV FLANN)",
     "enlace": "https://www.youtube.com/watch?v=3NlV9DcXtnI",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "Audio Reactivity",
       "Python Scripting & System"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Audio Reactivity, Python Scripting & System)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Audio Reactivity, Python Scripting & System)",
     "vistas_reales": 355,
     "fecha_publicacion": "2026-02-10",
     "latent_x": -38.36000061035156,
@@ -9088,12 +9088,12 @@
     "autor": "Hou2Touch | Stanislav Glazov",
     "titulo": "HOU2TOUCH. Level 101. Module 2. Lesson 6. Python in TouchDesigner",
     "enlace": "https://www.youtube.com/watch?v=eCvoVzgipfM",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "Python Scripting & System"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Python Scripting & System)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Python Scripting & System)",
     "vistas_reales": 315,
     "fecha_publicacion": "2022-08-10",
     "latent_x": -36.290000915527344,
@@ -9125,11 +9125,11 @@
     "autor": "sara rueda",
     "titulo": "Kinect 360 + TouchDesigner",
     "enlace": "https://www.youtube.com/watch?v=vcwCxmOHjJw",
-    "categoria_principal": "Sensors, Tracking & Hardware",
+    "categoria_principal": "Sensors & Tracking",
     "tags": [
-      "Sensors, Tracking & Hardware"
+      "Sensors & Tracking"
     ],
-    "categoria_descriptores": "Sensors, Tracking & Hardware (Sensors, Tracking & Hardware)",
+    "categoria_descriptores": "Sensors & Tracking (Sensors & Tracking)",
     "vistas_reales": 259,
     "fecha_publicacion": "2020-08-10",
     "latent_x": -55.029998779296875,
@@ -9216,12 +9216,12 @@
     "autor": "Latria",
     "titulo": "Instancing and Point Clouds - First Sketch",
     "enlace": "https://www.youtube.com/watch?v=Jeb2umD8mCI",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "Point Clouds & Instancing"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, Point Clouds & Instancing)",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, Point Clouds & Instancing)",
     "vistas_reales": 205,
     "fecha_publicacion": "2021-08-10",
     "latent_x": -66.45999908447266,
@@ -9235,12 +9235,12 @@
     "autor": "paketa12",
     "titulo": "möbius SOP in Touchdesigner",
     "enlace": "https://www.youtube.com/watch?v=4nEJP31DwM0",
-    "categoria_principal": "Core Fundamentals & Operators",
+    "categoria_principal": "Core Fundamentals",
     "tags": [
-      "Core Fundamentals & Operators",
+      "Core Fundamentals",
       "3D & Geometry (SOPs)"
     ],
-    "categoria_descriptores": "Core Fundamentals & Operators (Core Fundamentals & Operators, 3D & Geometry (SOPs))",
+    "categoria_descriptores": "Core Fundamentals (Core Fundamentals, 3D & Geometry (SOPs))",
     "vistas_reales": 196,
     "fecha_publicacion": "2025-09-13",
     "latent_x": -86.41000366210938,

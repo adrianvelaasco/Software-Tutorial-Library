@@ -66,9 +66,9 @@ const UNREAL_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Nanite & High-Poly Meshes",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Nanite & High-Poly Meshes, Landscape & Environment Creation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Nanite & High-Poly Meshes, Environments)",
     "views": 5986830,
     "upload_date": "2023-08-10",
     "latent_x": 14.220000267028809,
@@ -179,11 +179,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Unreal Engine",
     "titulo": "MetaHuman Creator: High-Fidelity Digital Humans Made Easy | Unreal Engine",
     "enlace": "https://www.youtube.com/watch?v=S3F1vZYpH8c",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 2099101,
     "upload_date": "2021-08-10",
     "latent_x": -68.6500015258789,
@@ -198,11 +198,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "William Faucher",
     "titulo": "Capturing Lofoten in Unreal Engine 5",
     "enlace": "https://www.youtube.com/watch?v=ifryjffUJT8",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 1963752,
     "upload_date": "2023-08-10",
     "latent_x": 63.29999923706055,
@@ -274,11 +274,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Unreal Sensei",
     "titulo": "Why Unreal Engine 5.4 is a Game Changer",
     "enlace": "https://www.youtube.com/watch?v=9aIbo84jhOU",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 1398509,
     "upload_date": "2024-08-09",
     "latent_x": -79.0999984741211,
@@ -312,11 +312,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "UNF Games",
     "titulo": "Unreal Engine 5 Environment Tutorial for Beginners - Creating an Island",
     "enlace": "https://www.youtube.com/watch?v=1cfPiofNy-U",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 1317337,
     "upload_date": "2022-08-10",
     "latent_x": 74.04000091552734,
@@ -412,9 +412,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Nanite & High-Poly Meshes",
     "tags": [
       "Nanite & High-Poly Meshes",
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "Nanite & High-Poly Meshes (Nanite & High-Poly Meshes, MetaHuman & Character Rigging)",
+    "categoria_descriptores": "Nanite & High-Poly Meshes (Nanite & High-Poly Meshes, MetaHuman & Rigging)",
     "views": 1074920,
     "upload_date": "2023-08-10",
     "latent_x": -20.329999923706055,
@@ -467,11 +467,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Threepeat Games",
     "titulo": "Mastering Animation in Unreal - Full Beginners Tutorial",
     "enlace": "https://www.youtube.com/watch?v=NpNOjek7W58",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 918933,
     "upload_date": "2025-08-09",
     "latent_x": -56.18000030517578,
@@ -486,11 +486,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Smart Poly",
     "titulo": "Unreal Engine 5 | Blueprint For Beginners (2023)",
     "enlace": "https://www.youtube.com/watch?v=Xw9QEMFInYU",
-    "categoria_principal": "Blueprints Visual Scripting",
+    "categoria_principal": "Blueprints Scripting",
     "tags": [
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Blueprints Visual Scripting (Blueprints Visual Scripting)",
+    "categoria_descriptores": "Blueprints Scripting (Blueprints Scripting)",
     "views": 829860,
     "upload_date": "2024-08-09",
     "latent_x": -15.0,
@@ -528,9 +528,9 @@ const UNREAL_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Nanite & High-Poly Meshes",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Nanite & High-Poly Meshes, Landscape & Environment Creation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Nanite & High-Poly Meshes, Environments)",
     "views": 795680,
     "upload_date": "2025-12-12",
     "latent_x": 3.1700000762939453,
@@ -643,9 +643,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Nanite & High-Poly Meshes",
     "tags": [
       "Nanite & High-Poly Meshes",
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "Nanite & High-Poly Meshes (Nanite & High-Poly Meshes, MetaHuman & Character Rigging)",
+    "categoria_descriptores": "Nanite & High-Poly Meshes (Nanite & High-Poly Meshes, MetaHuman & Rigging)",
     "views": 633232,
     "upload_date": "2025-08-09",
     "latent_x": -14.84000015258789,
@@ -679,11 +679,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Gabe Tandy",
     "titulo": "Create a Photorealistic Landscape in Unreal Engine 5",
     "enlace": "https://www.youtube.com/watch?v=WhZxDpvxMwY",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 583221,
     "upload_date": "2023-08-10",
     "latent_x": 41.689998626708984,
@@ -720,9 +720,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Visual Scripting)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Scripting)",
     "views": 565338,
     "upload_date": "2015-08-12",
     "latent_x": -2.4200000762939453,
@@ -814,11 +814,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Smart Poly",
     "titulo": "Make An Open World Map in 20 Minutes | Unreal Engine 5 Tutorial",
     "enlace": "https://www.youtube.com/watch?v=6_5_GiYgCis",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 500779,
     "upload_date": "2025-08-09",
     "latent_x": 59.810001373291016,
@@ -890,11 +890,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Unreal Engine",
     "titulo": "Building natural environments in Unreal Engine",
     "enlace": "https://www.youtube.com/watch?v=gbj1qgPOl3E",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 439353,
     "upload_date": "2020-08-10",
     "latent_x": 54.779998779296875,
@@ -970,9 +970,9 @@ const UNREAL_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Nanite & High-Poly Meshes",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Nanite & High-Poly Meshes, Landscape & Environment Creation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Nanite & High-Poly Meshes, Environments)",
     "views": 418606,
     "upload_date": "2024-08-09",
     "latent_x": 10.1899995803833,
@@ -1045,11 +1045,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Stylized Station",
     "titulo": "Let's make some Foliage! - Game Art Breakdown",
     "enlace": "https://www.youtube.com/watch?v=eZutHZDV0yU",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 399842,
     "upload_date": "2022-08-10",
     "latent_x": 72.73999786376953,
@@ -1067,9 +1067,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Landscape & Environment Creation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Environments)",
     "views": 388894,
     "upload_date": "2023-08-10",
     "latent_x": 71.55999755859375,
@@ -1103,11 +1103,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "William Faucher",
     "titulo": "Introducing EasyFog for Unreal Engine 5",
     "enlace": "https://www.youtube.com/watch?v=CyRksVjviwg",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 369877,
     "upload_date": "2023-08-10",
     "latent_x": 28.93000030517578,
@@ -1182,9 +1182,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Landscape & Environment Creation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Environments)",
     "views": 311360,
     "upload_date": "2021-08-10",
     "latent_x": 27.190000534057617,
@@ -1261,9 +1261,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Lumen & Lighting Systems",
     "tags": [
       "Lumen & Lighting Systems",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Lumen & Lighting Systems (Lumen & Lighting Systems, Landscape & Environment Creation)",
+    "categoria_descriptores": "Lumen & Lighting Systems (Lumen & Lighting Systems, Environments)",
     "views": 286427,
     "upload_date": "2023-08-10",
     "latent_x": -56.66999816894531,
@@ -1281,9 +1281,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Landscape & Environment Creation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Environments)",
     "views": 283030,
     "upload_date": "2025-08-09",
     "latent_x": 76.80999755859375,
@@ -1298,11 +1298,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "UNF Games",
     "titulo": "Unreal Engine 5 Environment Tutorial for Beginners - Create a Forest",
     "enlace": "https://www.youtube.com/watch?v=90rv-0g7O_4",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 281573,
     "upload_date": "2022-08-10",
     "latent_x": 55.04999923706055,
@@ -1337,11 +1337,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Ask A Dev",
     "titulo": "Unreal Engine Blueprint Fundamentals |  Class #1",
     "enlace": "https://www.youtube.com/watch?v=IipvT6aGinM",
-    "categoria_principal": "Blueprints Visual Scripting",
+    "categoria_principal": "Blueprints Scripting",
     "tags": [
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Blueprints Visual Scripting (Blueprints Visual Scripting)",
+    "categoria_descriptores": "Blueprints Scripting (Blueprints Scripting)",
     "views": 275573,
     "upload_date": "2023-08-10",
     "latent_x": 2.8399999141693115,
@@ -1435,11 +1435,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Bad Decisions Studio",
     "titulo": "Customise your MetaHuman | Unreal Engine 5 Tutorial",
     "enlace": "https://www.youtube.com/watch?v=b_ZjsUg2XCc",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 246288,
     "upload_date": "2024-08-09",
     "latent_x": -80.08000183105469,
@@ -1476,9 +1476,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Visual Scripting)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Scripting)",
     "views": 237185,
     "upload_date": "2022-08-10",
     "latent_x": -16.399999618530273,
@@ -1512,11 +1512,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Gabe Tandy",
     "titulo": "Create a Photorealistic Mountain Landscape in Unreal Engine 5",
     "enlace": "https://www.youtube.com/watch?v=zJXw8oQcjTU",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 236044,
     "upload_date": "2024-08-09",
     "latent_x": 41.689998626708984,
@@ -1531,11 +1531,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "TUF",
     "titulo": "The Only MetaHuman Tutorial You Need – Outfit, Animation, Your Face & More!",
     "enlace": "https://www.youtube.com/watch?v=9L3rgTvMN0c",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 234699,
     "upload_date": "2025-08-09",
     "latent_x": -43.91999816894531,
@@ -1611,9 +1611,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Landscape & Environment Creation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Environments)",
     "views": 213911,
     "upload_date": "2023-08-10",
     "latent_x": 35.91999816894531,
@@ -1743,11 +1743,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Bad Decisions Studio",
     "titulo": "Ultimate Guide to MetaHuman Creation & Facial Animation | Unreal Engine 5 Tutorial",
     "enlace": "https://www.youtube.com/watch?v=iNfezN4WzZI",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 179764,
     "upload_date": "2025-12-12",
     "latent_x": -64.27999877929688,
@@ -1784,9 +1784,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Landscape & Environment Creation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Environments)",
     "views": 174603,
     "upload_date": "2024-08-09",
     "latent_x": 43.93000030517578,
@@ -1801,11 +1801,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Aziel Arts",
     "titulo": "7 Minute Photoreal Forest!  Procedural Content Generation PCG in Unreal Engine",
     "enlace": "https://www.youtube.com/watch?v=g84cg2KvJxY",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 172106,
     "upload_date": "2023-08-10",
     "latent_x": 44.22999954223633,
@@ -1820,11 +1820,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Joshua M Kerr",
     "titulo": "BOOST Foliage Performance In Unreal Engine",
     "enlace": "https://www.youtube.com/watch?v=fjuLE3Artic",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 171595,
     "upload_date": "2023-08-10",
     "latent_x": 56.54999923706055,
@@ -1839,11 +1839,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Charlie Driscoll - Unreal Engine Filmmaking",
     "titulo": "The EASIEST and CHEAPEST Motion Capture Setup for Metahumans in Unreal Engine 5.6 (No Headrig)",
     "enlace": "https://www.youtube.com/watch?v=M799eoMK4tw",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 168444,
     "upload_date": "2025-11-12",
     "latent_x": -101.0999984741211,
@@ -1899,9 +1899,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Landscape & Environment Creation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Environments)",
     "views": 163947,
     "upload_date": "2023-08-10",
     "latent_x": 39.9900016784668,
@@ -1919,9 +1919,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Landscape & Environment Creation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Environments)",
     "views": 160153,
     "upload_date": "2025-09-13",
     "latent_x": 33.29999923706055,
@@ -1936,11 +1936,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Gorka Games",
     "titulo": "How to Create your Own Metahuman for Unreal Engine 5 Tutorial",
     "enlace": "https://www.youtube.com/watch?v=6GZ2M5j1RC8",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 150789,
     "upload_date": "2022-08-10",
     "latent_x": -65.12999725341797,
@@ -2016,9 +2016,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Visual Scripting)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Scripting)",
     "views": 146844,
     "upload_date": "2026-07-10",
     "latent_x": -27.940000534057617,
@@ -2090,11 +2090,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Aziel Arts",
     "titulo": "Save hours! Procedural Foliage in Unreal Engine 5 - Photoreal Landscape Tutorial",
     "enlace": "https://www.youtube.com/watch?v=JpbWi95Bz20",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 137116,
     "upload_date": "2023-08-10",
     "latent_x": 36.779998779296875,
@@ -2150,9 +2150,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Visual Scripting)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Scripting)",
     "views": 136420,
     "upload_date": "2022-08-10",
     "latent_x": -11.600000381469727,
@@ -2189,9 +2189,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Landscape & Environment Creation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Environments)",
     "views": 132201,
     "upload_date": "2025-08-09",
     "latent_x": 59.119998931884766,
@@ -2266,9 +2266,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Visual Scripting)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Scripting)",
     "views": 119052,
     "upload_date": "2024-08-09",
     "latent_x": -17.459999084472656,
@@ -2283,11 +2283,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Marpy",
     "titulo": "Simple Foliage Tutorial (Unreal Engine)",
     "enlace": "https://www.youtube.com/watch?v=PXK4tvlSsuo",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 118785,
     "upload_date": "2022-08-10",
     "latent_x": 58.709999084472656,
@@ -2302,11 +2302,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "William Faucher",
     "titulo": "Unreal Engine 5.7 MEGAPLANTS Crash Course",
     "enlace": "https://www.youtube.com/watch?v=3f7miRB9_Eo",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 115875,
     "upload_date": "2025-12-12",
     "latent_x": 67.19000244140625,
@@ -2512,11 +2512,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "AeonShaper",
     "titulo": "Unreal Engine Stylized Environment | Stylized Nature Vol. 1 Setup/Workflow",
     "enlace": "https://www.youtube.com/watch?v=iRvhJCBfX_A",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 100281,
     "upload_date": "2024-08-09",
     "latent_x": 89.66999816894531,
@@ -2531,11 +2531,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Muller Digital",
     "titulo": "Unreal Engine 5 Tutorial Make a Playable Metahuman in Just 5 Minutes!",
     "enlace": "https://www.youtube.com/watch?v=gmHYtlg1hyM",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 98195,
     "upload_date": "2023-08-10",
     "latent_x": -100.61000061035156,
@@ -2589,11 +2589,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "TUF",
     "titulo": "The Only MetaHuman Tutorial You Need – Outfit, Animation, Your Face & More!",
     "enlace": "https://www.youtube.com/watch?v=kwHDKPgqGWc",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 95847,
     "upload_date": "2025-08-09",
     "latent_x": -43.91999816894531,
@@ -2650,9 +2650,9 @@ const UNREAL_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Nanite & High-Poly Meshes",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Nanite & High-Poly Meshes, Landscape & Environment Creation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Nanite & High-Poly Meshes, Environments)",
     "views": 95232,
     "upload_date": "2026-07-10",
     "latent_x": 10.890000343322754,
@@ -2667,11 +2667,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "WorldofLevelDesign",
     "titulo": "UE4: Complete Guide to Spawning Foliage on Landscapes Using Grass Node Output",
     "enlace": "https://www.youtube.com/watch?v=G6pACRjxLzY",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 95055,
     "upload_date": "2021-08-10",
     "latent_x": 43.18000030517578,
@@ -2689,9 +2689,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Visual Scripting)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Scripting)",
     "views": 91448,
     "upload_date": "2024-08-09",
     "latent_x": -45.56999969482422,
@@ -2768,9 +2768,9 @@ const UNREAL_TUTORIALS_DATA = [
     "tags": [
       "Nanite & High-Poly Meshes",
       "Niagara VFX & Particles",
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "Nanite & High-Poly Meshes (Nanite & High-Poly Meshes, Niagara VFX & Particles, MetaHuman & Character Rigging)",
+    "categoria_descriptores": "Nanite & High-Poly Meshes (Nanite & High-Poly Meshes, Niagara VFX & Particles, MetaHuman & Rigging)",
     "views": 88312,
     "upload_date": "2024-08-09",
     "latent_x": -37.650001525878906,
@@ -2785,11 +2785,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Unreal Production",
     "titulo": "How To Create A Hyper Realistic Metahuman (Full Step by Step Guide!)",
     "enlace": "https://www.youtube.com/watch?v=dZI5OPmsr6k",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 87275,
     "upload_date": "2025-08-09",
     "latent_x": -93.41000366210938,
@@ -2807,9 +2807,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Landscape & Environment Creation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Environments)",
     "views": 86577,
     "upload_date": "2021-08-10",
     "latent_x": 15.300000190734863,
@@ -2827,9 +2827,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Landscape & Environment Creation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Environments)",
     "views": 86071,
     "upload_date": "2022-08-10",
     "latent_x": 24.079999923706055,
@@ -2901,11 +2901,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Hamed Tayebi",
     "titulo": "How to Create Your Own MetaHuman with Your Real Face Texture in Unreal Engine 5.6",
     "enlace": "https://www.youtube.com/watch?v=mvFEiPsiw3g",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 83810,
     "upload_date": "2025-08-09",
     "latent_x": -47.45000076293945,
@@ -2923,9 +2923,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Landscape & Environment Creation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Environments)",
     "views": 81952,
     "upload_date": "2026-02-10",
     "latent_x": 66.66999816894531,
@@ -2943,9 +2943,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Landscape & Environment Creation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Environments)",
     "views": 79724,
     "upload_date": "2024-08-09",
     "latent_x": 49.31999969482422,
@@ -2963,9 +2963,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Visual Scripting)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Scripting)",
     "views": 79625,
     "upload_date": "2022-08-10",
     "latent_x": 0.10999999940395355,
@@ -3041,9 +3041,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Niagara VFX & Particles",
     "tags": [
       "Niagara VFX & Particles",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Niagara VFX & Particles (Niagara VFX & Particles, Landscape & Environment Creation)",
+    "categoria_descriptores": "Niagara VFX & Particles (Niagara VFX & Particles, Environments)",
     "views": 77193,
     "upload_date": "2023-08-10",
     "latent_x": -35.630001068115234,
@@ -3077,11 +3077,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Charlie Driscoll - Unreal Engine Filmmaking",
     "titulo": "How to Generate Custom Metahuman Creatures with AI - YVO3D, Faceform Wrap, Unreal Engine 5.6 -Part I",
     "enlace": "https://www.youtube.com/watch?v=PEObW2odtXI",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 76628,
     "upload_date": "2025-08-09",
     "latent_x": -115.91999816894531,
@@ -3115,11 +3115,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Smart Poly",
     "titulo": "NEW Unreal Engine 5.8 MetaHuman Markerless Mocap Tutorial",
     "enlace": "https://www.youtube.com/watch?v=b2i1aZbhxAU",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 74069,
     "upload_date": "2026-07-10",
     "latent_x": -57.45000076293945,
@@ -3328,11 +3328,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Royal Skies",
     "titulo": "Unreal 5 - Foliage Mode Explained (2 MINUTES!!)",
     "enlace": "https://www.youtube.com/watch?v=lFXOnCea728",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 63759,
     "upload_date": "2023-08-10",
     "latent_x": 64.54000091552734,
@@ -3369,9 +3369,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Landscape & Environment Creation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Environments)",
     "views": 62456,
     "upload_date": "2026-02-10",
     "latent_x": 59.369998931884766,
@@ -3467,9 +3467,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Niagara VFX & Particles",
     "tags": [
       "Niagara VFX & Particles",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Niagara VFX & Particles (Niagara VFX & Particles, Landscape & Environment Creation)",
+    "categoria_descriptores": "Niagara VFX & Particles (Niagara VFX & Particles, Environments)",
     "views": 59482,
     "upload_date": "2024-08-09",
     "latent_x": -46.79999923706055,
@@ -3522,11 +3522,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Dr Hippo",
     "titulo": "RPG Character Creator Using MetaHumans! - DevLog #4",
     "enlace": "https://www.youtube.com/watch?v=uWbQ0NCzomk",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 58901,
     "upload_date": "2021-08-10",
     "latent_x": -81.73999786376953,
@@ -3541,11 +3541,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Gorka Games",
     "titulo": "The Easiest Way to Make a Metahuman in Unreal Engine 5.6",
     "enlace": "https://www.youtube.com/watch?v=MOIi9mJfhYo",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 55196,
     "upload_date": "2025-08-09",
     "latent_x": -98.80999755859375,
@@ -3621,9 +3621,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Landscape & Environment Creation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Environments)",
     "views": 52585,
     "upload_date": "2025-11-12",
     "latent_x": 59.119998931884766,
@@ -3657,11 +3657,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "CIVAR",
     "titulo": "Foliage 101: Tips and Tricks for Adding Grass to Your Unreal Engine 5 Projects",
     "enlace": "https://www.youtube.com/watch?v=6DKqE0I0tR4",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 49768,
     "upload_date": "2023-08-10",
     "latent_x": 34.84000015258789,
@@ -3676,11 +3676,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Ask A Dev",
     "titulo": "UE Blueprint Fundamentals | Visual Scripting Class #2 | Variables",
     "enlace": "https://www.youtube.com/watch?v=Tnd5WB5tqSc",
-    "categoria_principal": "Blueprints Visual Scripting",
+    "categoria_principal": "Blueprints Scripting",
     "tags": [
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Blueprints Visual Scripting (Blueprints Visual Scripting)",
+    "categoria_descriptores": "Blueprints Scripting (Blueprints Scripting)",
     "views": 48601,
     "upload_date": "2023-08-10",
     "latent_x": 4.25,
@@ -3695,11 +3695,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Gorka Games",
     "titulo": "How to Spawn Grass Procedurally on your Landscape Layers in Unreal Engine 5",
     "enlace": "https://www.youtube.com/watch?v=gqnIvsmVup4",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 48390,
     "upload_date": "2023-08-10",
     "latent_x": 25.010000228881836,
@@ -3714,12 +3714,12 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Jobutsu",
     "titulo": "Combine Face and Body Animations - Metahumans  in Unreal Engine 5.2",
     "enlace": "https://www.youtube.com/watch?v=ddQKMTKGpTE",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging",
+      "MetaHuman & Rigging",
       "Cinematics & Sequencer"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging, Cinematics & Sequencer)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging, Cinematics & Sequencer)",
     "views": 48242,
     "upload_date": "2023-08-10",
     "latent_x": -91.41999816894531,
@@ -3737,9 +3737,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Nanite & High-Poly Meshes",
     "tags": [
       "Nanite & High-Poly Meshes",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Nanite & High-Poly Meshes (Nanite & High-Poly Meshes, Landscape & Environment Creation)",
+    "categoria_descriptores": "Nanite & High-Poly Meshes (Nanite & High-Poly Meshes, Environments)",
     "views": 45350,
     "upload_date": "2023-08-10",
     "latent_x": 0.8799999952316284,
@@ -3773,11 +3773,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Smart Penguins",
     "titulo": "What is Faster? Unreal Blueprints or Unity Visual Scripting",
     "enlace": "https://www.youtube.com/watch?v=FxfMABA9eBI",
-    "categoria_principal": "Blueprints Visual Scripting",
+    "categoria_principal": "Blueprints Scripting",
     "tags": [
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Blueprints Visual Scripting (Blueprints Visual Scripting)",
+    "categoria_descriptores": "Blueprints Scripting (Blueprints Scripting)",
     "views": 42256,
     "upload_date": "2022-08-10",
     "latent_x": -41.619998931884766,
@@ -3812,11 +3812,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Gatyh Interactive",
     "titulo": "Epic's Unreal Engine Foliage Optimization | Best Guide For Grass Optimizing !",
     "enlace": "https://www.youtube.com/watch?v=hdJGm_8I_ec",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 41760,
     "upload_date": "2025-08-09",
     "latent_x": 19.940000534057617,
@@ -3831,11 +3831,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "PrismaticaDev",
     "titulo": "Landscape & Foliage Interaction for UE4 [For 100+ Actors] (Part 1 of 3)",
     "enlace": "https://www.youtube.com/watch?v=HXaeNtYoRHw",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 41545,
     "upload_date": "2021-08-10",
     "latent_x": 49.04999923706055,
@@ -3850,11 +3850,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Unreal Engine",
     "titulo": "A Look at MetaHuman in Unreal Engine",
     "enlace": "https://www.youtube.com/watch?v=doax4FU1-t0",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 40943,
     "upload_date": "2026-01-11",
     "latent_x": -67.5,
@@ -3888,11 +3888,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Deli Productions",
     "titulo": "NEW Unreal Engine 5.6 Metahuman To Maya Workflow!",
     "enlace": "https://www.youtube.com/watch?v=RL_ALXl331I",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 40554,
     "upload_date": "2025-08-09",
     "latent_x": -59.209999084472656,
@@ -3929,9 +3929,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Landscape & Environment Creation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Environments)",
     "views": 40105,
     "upload_date": "2022-08-10",
     "latent_x": 50.72999954223633,
@@ -3946,11 +3946,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Pitchfork Academy",
     "titulo": "How To Replace The Mannequin With A Metahuman - Unreal Engine 5.6 Metahuman Tutorial",
     "enlace": "https://www.youtube.com/watch?v=o23kQRj3zd4",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 38885,
     "upload_date": "2025-08-09",
     "latent_x": -66.36000061035156,
@@ -3965,11 +3965,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "KarltyDEV",
     "titulo": "How to Create Huge Open World Landscapes in Under 2 Minutes",
     "enlace": "https://www.youtube.com/watch?v=BC5uFs88BKg",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 38800,
     "upload_date": "2025-08-09",
     "latent_x": 41.47999954223633,
@@ -4023,12 +4023,12 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Hoj Dee",
     "titulo": "Unreal Engine 5 Tutorial | Create a Forest Road Environment",
     "enlace": "https://www.youtube.com/watch?v=WTJsG9rgxOg",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation",
-      "MetaHuman & Character Rigging"
+      "Environments",
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation, MetaHuman & Character Rigging)",
+    "categoria_descriptores": "Environments (Environments, MetaHuman & Rigging)",
     "views": 37792,
     "upload_date": "2023-08-10",
     "latent_x": 48.790000915527344,
@@ -4062,11 +4062,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "EZ Unreal",
     "titulo": "Unreal Engine 5 Tutorial for Beginners: Create Forest Lake Scene Environment",
     "enlace": "https://www.youtube.com/watch?v=DU42h7Dk4rI",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 37404,
     "upload_date": "2023-08-10",
     "latent_x": 70.19000244140625,
@@ -4084,9 +4084,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Landscape & Environment Creation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Environments)",
     "views": 37356,
     "upload_date": "2026-07-19",
     "latent_x": 51.20000076293945,
@@ -4120,11 +4120,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Unreal Guide",
     "titulo": "Unreal Engine 5.6 Tutorial: Build Your First Environment",
     "enlace": "https://www.youtube.com/watch?v=05XyKbicjfg",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 36748,
     "upload_date": "2025-09-13",
     "latent_x": 66.23999786376953,
@@ -4139,11 +4139,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Code Things",
     "titulo": "How to use a Metahuman as a Realistic First Person Character (Fixed Foot IK) in Unreal Engine 5",
     "enlace": "https://www.youtube.com/watch?v=BI815wgXzUM",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 36197,
     "upload_date": "2024-08-09",
     "latent_x": -93.08999633789062,
@@ -4198,11 +4198,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Olar Krjukov",
     "titulo": "Create MetaHuman Clothes from ANY 3D Model | Unreal Engine 5.6 (No extra plugins or software needed)",
     "enlace": "https://www.youtube.com/watch?v=-lK4hKoL9vU",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 35542,
     "upload_date": "2025-11-12",
     "latent_x": -64.56999969482422,
@@ -4256,12 +4256,12 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Unreal in 5 Minutes!",
     "titulo": "Set up ANIMATIONS for Beginners in Unreal Engine 5!",
     "enlace": "https://www.youtube.com/watch?v=I3uiXmGTJMw",
-    "categoria_principal": "Blueprints Visual Scripting",
+    "categoria_principal": "Blueprints Scripting",
     "tags": [
-      "Blueprints Visual Scripting",
-      "MetaHuman & Character Rigging"
+      "Blueprints Scripting",
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "Blueprints Visual Scripting (Blueprints Visual Scripting, MetaHuman & Character Rigging)",
+    "categoria_descriptores": "Blueprints Scripting (Blueprints Scripting, MetaHuman & Rigging)",
     "views": 34348,
     "upload_date": "2025-08-09",
     "latent_x": -41.86000061035156,
@@ -4357,9 +4357,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, MetaHuman & Character Rigging)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, MetaHuman & Rigging)",
     "views": 31245,
     "upload_date": "2025-08-09",
     "latent_x": -49.22999954223633,
@@ -4412,11 +4412,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Tomi",
     "titulo": "Unreal Engine 5 Blueprints Best Practices: Inheritance, Composition using Components, and Interfaces",
     "enlace": "https://www.youtube.com/watch?v=i_7p8-DE15g",
-    "categoria_principal": "Blueprints Visual Scripting",
+    "categoria_principal": "Blueprints Scripting",
     "tags": [
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Blueprints Visual Scripting (Blueprints Visual Scripting)",
+    "categoria_descriptores": "Blueprints Scripting (Blueprints Scripting)",
     "views": 29904,
     "upload_date": "2025-08-09",
     "latent_x": -14.229999542236328,
@@ -4469,11 +4469,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "CodeLikeMe",
     "titulo": "Unreal Blending Foliage Meshes With Landscape - UE4 Tutorials #309",
     "enlace": "https://www.youtube.com/watch?v=HXF0bIkDOz0",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 29449,
     "upload_date": "2020-08-10",
     "latent_x": 41.599998474121094,
@@ -4488,13 +4488,13 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "SoftTofuVFX",
     "titulo": "Unreal Niagara Static Mesh Particles Tutorial | download files",
     "enlace": "https://www.youtube.com/watch?v=Amk28ALebeg",
-    "categoria_principal": "Blueprints Visual Scripting",
+    "categoria_principal": "Blueprints Scripting",
     "tags": [
-      "Blueprints Visual Scripting",
+      "Blueprints Scripting",
       "Nanite & High-Poly Meshes",
       "Niagara VFX & Particles"
     ],
-    "categoria_descriptores": "Blueprints Visual Scripting (Blueprints Visual Scripting, Nanite & High-Poly Meshes, Niagara VFX & Particles)",
+    "categoria_descriptores": "Blueprints Scripting (Blueprints Scripting, Nanite & High-Poly Meshes, Niagara VFX & Particles)",
     "views": 28731,
     "upload_date": "2023-08-10",
     "latent_x": -61.290000915527344,
@@ -4567,11 +4567,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "jimmyXR",
     "titulo": "How to Make Custom Metahuman Clothes in  Unreal Engine 5 & Blender (No Marvelous Designer | FREE)",
     "enlace": "https://www.youtube.com/watch?v=y8228NM-GHs",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 26784,
     "upload_date": "2025-12-12",
     "latent_x": -85.01000213623047,
@@ -4589,9 +4589,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Visual Scripting)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Scripting)",
     "views": 26466,
     "upload_date": "2025-08-09",
     "latent_x": -18.739999771118164,
@@ -4666,9 +4666,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Nanite & High-Poly Meshes",
     "tags": [
       "Nanite & High-Poly Meshes",
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "Nanite & High-Poly Meshes (Nanite & High-Poly Meshes, MetaHuman & Character Rigging)",
+    "categoria_descriptores": "Nanite & High-Poly Meshes (Nanite & High-Poly Meshes, MetaHuman & Rigging)",
     "views": 25382,
     "upload_date": "2026-06-10",
     "latent_x": -39.91999816894531,
@@ -4724,11 +4724,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Charlie Driscoll - Unreal Engine Filmmaking",
     "titulo": "How to Generate Custom Metahuman Bodies with AI - YVO3D, Faceform Wrap, 2DNAX - Unreal Engine 5",
     "enlace": "https://www.youtube.com/watch?v=5j6wwCsWpD0",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 23848,
     "upload_date": "2025-09-13",
     "latent_x": -118.4800033569336,
@@ -4919,11 +4919,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Pitchfork Academy",
     "titulo": "How To Replace The Mannequin With A Metahuman - Unreal Engine 5.7 Metahuman Animation Tutorial",
     "enlace": "https://www.youtube.com/watch?v=wJKrIHWRTco",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 18883,
     "upload_date": "2025-12-12",
     "latent_x": -59.45000076293945,
@@ -4938,11 +4938,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Unreal Engine",
     "titulo": "Switching to Unreal | Deciding What to Move to Unreal Engine Blueprint versus C++",
     "enlace": "https://www.youtube.com/watch?v=IhdobKXv_vY",
-    "categoria_principal": "Blueprints Visual Scripting",
+    "categoria_principal": "Blueprints Scripting",
     "tags": [
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Blueprints Visual Scripting (Blueprints Visual Scripting)",
+    "categoria_descriptores": "Blueprints Scripting (Blueprints Scripting)",
     "views": 18823,
     "upload_date": "2025-08-09",
     "latent_x": -39.189998626708984,
@@ -4960,9 +4960,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Visual Scripting)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Scripting)",
     "views": 18571,
     "upload_date": "2025-08-09",
     "latent_x": -26.65999984741211,
@@ -5038,9 +5038,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Landscape & Environment Creation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Environments)",
     "views": 18133,
     "upload_date": "2025-09-13",
     "latent_x": 57.900001525878906,
@@ -5074,11 +5074,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Unreal - X - Tutorials",
     "titulo": "Unreal Engine 5.6 - Motion Matching In Any Project With Your Own Metahuman - Tutorial",
     "enlace": "https://www.youtube.com/watch?v=yduaC6IMp54",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 17525,
     "upload_date": "2025-11-12",
     "latent_x": -81.3499984741211,
@@ -5134,9 +5134,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Niagara VFX & Particles",
     "tags": [
       "Niagara VFX & Particles",
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "Niagara VFX & Particles (Niagara VFX & Particles, MetaHuman & Character Rigging)",
+    "categoria_descriptores": "Niagara VFX & Particles (Niagara VFX & Particles, MetaHuman & Rigging)",
     "views": 16501,
     "upload_date": "2025-08-09",
     "latent_x": -47.59000015258789,
@@ -5190,11 +5190,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Drawcall",
     "titulo": "Should you learn C++ or Blueprint first in  Unreal Engine 5?",
     "enlace": "https://www.youtube.com/watch?v=4rMO4sv9E_k",
-    "categoria_principal": "Blueprints Visual Scripting",
+    "categoria_principal": "Blueprints Scripting",
     "tags": [
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Blueprints Visual Scripting (Blueprints Visual Scripting)",
+    "categoria_descriptores": "Blueprints Scripting (Blueprints Scripting)",
     "views": 16293,
     "upload_date": "2024-08-09",
     "latent_x": -13.420000076293945,
@@ -5248,11 +5248,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "EZ Unreal",
     "titulo": "Unreal Engine 5 Tutorial for Beginners: How to Easily Create Forest Environment",
     "enlace": "https://www.youtube.com/watch?v=srxMZjd8ZwI",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 15733,
     "upload_date": "2023-08-10",
     "latent_x": 55.04999923706055,
@@ -5308,9 +5308,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Nanite & High-Poly Meshes",
     "tags": [
       "Nanite & High-Poly Meshes",
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "Nanite & High-Poly Meshes (Nanite & High-Poly Meshes, MetaHuman & Character Rigging)",
+    "categoria_descriptores": "Nanite & High-Poly Meshes (Nanite & High-Poly Meshes, MetaHuman & Rigging)",
     "views": 15095,
     "upload_date": "2026-07-19",
     "latent_x": -47.20000076293945,
@@ -5325,11 +5325,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "UNF Games",
     "titulo": "How to Make Pretty Characters with MetaHuman Creator in Unreal 5.6",
     "enlace": "https://www.youtube.com/watch?v=qxd0eOfaTY4",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 15054,
     "upload_date": "2025-08-09",
     "latent_x": -92.4000015258789,
@@ -5344,11 +5344,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "ArborianStudio",
     "titulo": "How to: Create a photorealistic landscape in Unreal engine 5",
     "enlace": "https://www.youtube.com/watch?v=aKhDhIve9OI",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 14965,
     "upload_date": "2025-09-13",
     "latent_x": 41.689998626708984,
@@ -5402,11 +5402,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Prasad Uchil",
     "titulo": "How to Create a Custom MetaHuman in Unreal Engine 5.6 (Step-by-Step Guide)",
     "enlace": "https://www.youtube.com/watch?v=wOXup2nw3kc",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 14570,
     "upload_date": "2025-08-09",
     "latent_x": -85.70999908447266,
@@ -5421,11 +5421,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Unreal - X - Tutorials",
     "titulo": "Unreal Engine 5.7 - Turn Your Metahuman Into A Player Character - Tutorial",
     "enlace": "https://www.youtube.com/watch?v=cARn14Ec14w",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 13765,
     "upload_date": "2026-02-10",
     "latent_x": -83.9000015258789,
@@ -5443,9 +5443,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, MetaHuman & Character Rigging)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, MetaHuman & Rigging)",
     "views": 13631,
     "upload_date": "2026-02-10",
     "latent_x": -33.54999923706055,
@@ -5460,11 +5460,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Unreal - X - Tutorials",
     "titulo": "Unreal Engine 5.7 - Metahuman Creator Plugin - New Features - Tutorial",
     "enlace": "https://www.youtube.com/watch?v=pzD68zQ0EDA",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 13549,
     "upload_date": "2025-12-12",
     "latent_x": -45.2400016784668,
@@ -5479,11 +5479,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Hack The Hologram",
     "titulo": "How to Make Your Metahuman Playable in Unreal Engine 5.6 | Step-by-Step Game-Ready Guide",
     "enlace": "https://www.youtube.com/watch?v=NCjNjCcBVZs",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 13114,
     "upload_date": "2025-08-09",
     "latent_x": -104.87000274658203,
@@ -5501,9 +5501,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Visual Scripting)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Scripting)",
     "views": 13070,
     "upload_date": "2026-07-10",
     "latent_x": -21.309999465942383,
@@ -5521,9 +5521,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Nanite & High-Poly Meshes",
     "tags": [
       "Nanite & High-Poly Meshes",
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "Nanite & High-Poly Meshes (Nanite & High-Poly Meshes, MetaHuman & Character Rigging)",
+    "categoria_descriptores": "Nanite & High-Poly Meshes (Nanite & High-Poly Meshes, MetaHuman & Rigging)",
     "views": 12830,
     "upload_date": "2026-06-10",
     "latent_x": -33.77000045776367,
@@ -5561,9 +5561,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Nanite & High-Poly Meshes",
     "tags": [
       "Nanite & High-Poly Meshes",
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "Nanite & High-Poly Meshes (Nanite & High-Poly Meshes, MetaHuman & Character Rigging)",
+    "categoria_descriptores": "Nanite & High-Poly Meshes (Nanite & High-Poly Meshes, MetaHuman & Rigging)",
     "views": 12247,
     "upload_date": "2026-06-10",
     "latent_x": -29.549999237060547,
@@ -5578,12 +5578,12 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Max Novak",
     "titulo": "Easy Guide to Creating Unreal Engine 5.6 Metahuman Cinematics",
     "enlace": "https://www.youtube.com/watch?v=XUio70Awjf0",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging",
+      "MetaHuman & Rigging",
       "Cinematics & Sequencer"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging, Cinematics & Sequencer)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging, Cinematics & Sequencer)",
     "views": 12177,
     "upload_date": "2025-11-12",
     "latent_x": -78.41000366210938,
@@ -5598,11 +5598,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Unreal - X - Tutorials",
     "titulo": "Unreal Engine 5.6 - Metahuman Body Motion Capture AI - Tutorial",
     "enlace": "https://www.youtube.com/watch?v=pHpC3TdZ3jg",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 11639,
     "upload_date": "2025-10-13",
     "latent_x": -81.4000015258789,
@@ -5617,11 +5617,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Unreal Engine",
     "titulo": "Teaching & Learning Blueprints with Marcos Romero  | Unreal Educator Livestream",
     "enlace": "https://www.youtube.com/watch?v=_oeBkRk3XIg",
-    "categoria_principal": "Blueprints Visual Scripting",
+    "categoria_principal": "Blueprints Scripting",
     "tags": [
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Blueprints Visual Scripting (Blueprints Visual Scripting)",
+    "categoria_descriptores": "Blueprints Scripting (Blueprints Scripting)",
     "views": 11591,
     "upload_date": "2021-08-10",
     "latent_x": -38.029998779296875,
@@ -5658,9 +5658,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Visual Scripting)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Scripting)",
     "views": 11125,
     "upload_date": "2025-12-12",
     "latent_x": -3.3299999237060547,
@@ -5695,11 +5695,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Smart Poly",
     "titulo": "Unreal Engine 5 | Blueprint For Beginners (2026)",
     "enlace": "https://www.youtube.com/watch?v=c6qW2NP8TP4",
-    "categoria_principal": "Blueprints Visual Scripting",
+    "categoria_principal": "Blueprints Scripting",
     "tags": [
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Blueprints Visual Scripting (Blueprints Visual Scripting)",
+    "categoria_descriptores": "Blueprints Scripting (Blueprints Scripting)",
     "views": 9979,
     "upload_date": "2026-07-12",
     "latent_x": -30.709999084472656,
@@ -5734,11 +5734,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Mimi Bytes",
     "titulo": "Building a Character Creator in Unreal Engine 5.5 (MetaHuman + Mutable Plugin) - PART 1",
     "enlace": "https://www.youtube.com/watch?v=u1kpbv2JFYs",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 9754,
     "upload_date": "2025-08-09",
     "latent_x": -60.16999816894531,
@@ -5795,9 +5795,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Nanite & High-Poly Meshes",
     "tags": [
       "Nanite & High-Poly Meshes",
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "Nanite & High-Poly Meshes (Nanite & High-Poly Meshes, MetaHuman & Character Rigging)",
+    "categoria_descriptores": "Nanite & High-Poly Meshes (Nanite & High-Poly Meshes, MetaHuman & Rigging)",
     "views": 9132,
     "upload_date": "2026-06-10",
     "latent_x": -34.95000076293945,
@@ -5834,11 +5834,11 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Blueprints Visual Scripting",
-      "Landscape & Environment Creation",
+      "Blueprints Scripting",
+      "Environments",
       "Cinematics & Sequencer"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Visual Scripting, Landscape & Environment Creation, Cinematics & Sequencer)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Scripting, Environments, Cinematics & Sequencer)",
     "views": 8702,
     "upload_date": "2025-08-09",
     "latent_x": 14.279999732971191,
@@ -5856,9 +5856,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Visual Scripting)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Scripting)",
     "views": 8328,
     "upload_date": "2026-01-11",
     "latent_x": 0.2800000011920929,
@@ -5895,9 +5895,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Landscape & Environment Creation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Environments)",
     "views": 7959,
     "upload_date": "2025-09-13",
     "latent_x": 21.969999313354492,
@@ -5932,11 +5932,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "TUF",
     "titulo": "How to Create Custom Metahuman In Unreal Engine 5.8 (Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=-jb8tDvmtso",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 7810,
     "upload_date": "2026-07-19",
     "latent_x": -79.20999908447266,
@@ -5973,9 +5973,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Visual Scripting)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Scripting)",
     "views": 7499,
     "upload_date": "2023-08-10",
     "latent_x": 11.279999732971191,
@@ -6012,9 +6012,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Visual Scripting)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Scripting)",
     "views": 7189,
     "upload_date": "2026-01-11",
     "latent_x": -37.849998474121094,
@@ -6032,9 +6032,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Landscape & Environment Creation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Environments)",
     "views": 7068,
     "upload_date": "2026-06-10",
     "latent_x": 23.969999313354492,
@@ -6150,9 +6150,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Visual Scripting)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Scripting)",
     "views": 6453,
     "upload_date": "2016-08-11",
     "latent_x": -8.949999809265137,
@@ -6206,11 +6206,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "3DTudor",
     "titulo": "Blender 3 | Unreal Engine 5 | Stylized Foliage Ultimate Guide | 3D Environment Tutorial",
     "enlace": "https://www.youtube.com/watch?v=cqIznUSzQn8",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 5716,
     "upload_date": "2022-08-10",
     "latent_x": 78.33000183105469,
@@ -6263,11 +6263,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Muller Digital",
     "titulo": "Unreal Engine 5 Tutorial Make a Playable Metahuman in Just 2 Minutes!",
     "enlace": "https://www.youtube.com/watch?v=YU8bfbH-q8w",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 5348,
     "upload_date": "2025-08-09",
     "latent_x": -100.61000061035156,
@@ -6282,11 +6282,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "-mozidesigner -",
     "titulo": "How to Add Foliage to Landscape - Unreal Engine 4 Tutorial",
     "enlace": "https://www.youtube.com/watch?v=puqG3wRmbL8",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 5263,
     "upload_date": "2021-08-10",
     "latent_x": 46.7400016784668,
@@ -6304,9 +6304,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Visual Scripting)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Scripting)",
     "views": 5209,
     "upload_date": "2026-07-19",
     "latent_x": -38.810001373291016,
@@ -6341,11 +6341,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Thomas Halpin",
     "titulo": "MetaHuman Markerless Mocap To Custom Character Tutorial Unreal Engine 5.8",
     "enlace": "https://www.youtube.com/watch?v=nqqKB6p1PNo",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 4476,
     "upload_date": "2026-07-10",
     "latent_x": -75.41000366210938,
@@ -6443,9 +6443,9 @@ const UNREAL_TUTORIALS_DATA = [
     "tags": [
       "Lumen & Lighting Systems",
       "Nanite & High-Poly Meshes",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Lumen & Lighting Systems (Lumen & Lighting Systems, Nanite & High-Poly Meshes, Landscape & Environment Creation)",
+    "categoria_descriptores": "Lumen & Lighting Systems (Lumen & Lighting Systems, Nanite & High-Poly Meshes, Environments)",
     "views": 3774,
     "upload_date": "2022-08-10",
     "latent_x": -50.689998626708984,
@@ -6460,11 +6460,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Xandra 3D",
     "titulo": "Using Metahumans in Xandra Character Creator | Unreal Engine tutorial",
     "enlace": "https://www.youtube.com/watch?v=XX5EUeU9JWI",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 3606,
     "upload_date": "2026-02-10",
     "latent_x": -77.91000366210938,
@@ -6479,11 +6479,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Unreal Engine",
     "titulo": "Switching to Unreal | How to Transition from Unity Visual Scripting to Unreal Engine Blueprint",
     "enlace": "https://www.youtube.com/watch?v=HkNVy4Z2AR8",
-    "categoria_principal": "Blueprints Visual Scripting",
+    "categoria_principal": "Blueprints Scripting",
     "tags": [
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Blueprints Visual Scripting (Blueprints Visual Scripting)",
+    "categoria_descriptores": "Blueprints Scripting (Blueprints Scripting)",
     "views": 3501,
     "upload_date": "2025-08-09",
     "latent_x": -52.29999923706055,
@@ -6517,11 +6517,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Pluralsight Courses and Tutorials",
     "titulo": "Unreal Engine Tutorial Now Available: Creating Gameplay Systems using Blueprint Features",
     "enlace": "https://www.youtube.com/watch?v=1fbLjecirwY",
-    "categoria_principal": "Blueprints Visual Scripting",
+    "categoria_principal": "Blueprints Scripting",
     "tags": [
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Blueprints Visual Scripting (Blueprints Visual Scripting)",
+    "categoria_descriptores": "Blueprints Scripting (Blueprints Scripting)",
     "views": 3112,
     "upload_date": "2015-08-12",
     "latent_x": -13.9399995803833,
@@ -6558,9 +6558,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, MetaHuman & Character Rigging)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, MetaHuman & Rigging)",
     "views": 2223,
     "upload_date": "2026-07-10",
     "latent_x": -36.11000061035156,
@@ -6616,9 +6616,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Landscape & Environment Creation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Environments)",
     "views": 1471,
     "upload_date": "2021-08-10",
     "latent_x": 30.280000686645508,
@@ -6633,11 +6633,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Unreal Polymath",
     "titulo": "UE 5.7 Landscape Tutorial: Create Realistic Terrain with Grass & Foliage (Full Workflow)",
     "enlace": "https://www.youtube.com/watch?v=Hi2xK19V8VM",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 1248,
     "upload_date": "2026-03-12",
     "latent_x": 23.68000030517578,
@@ -6652,11 +6652,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Broken Arrow Software",
     "titulo": "FULL BODY CUSTOM METAHUMANS in less than 15 minutes using UE 5.8 Character Creator!",
     "enlace": "https://www.youtube.com/watch?v=Mx3z_V3YDfs",
-    "categoria_principal": "MetaHuman & Character Rigging",
+    "categoria_principal": "MetaHuman & Rigging",
     "tags": [
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "MetaHuman & Character Rigging (MetaHuman & Character Rigging)",
+    "categoria_descriptores": "MetaHuman & Rigging (MetaHuman & Rigging)",
     "views": 1196,
     "upload_date": "2026-07-10",
     "latent_x": -96.86000061035156,
@@ -6690,11 +6690,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "UE5 BP GURU",
     "titulo": "Foliage Tool - Unreal Engine 5 Environment Tutorial",
     "enlace": "https://www.youtube.com/watch?v=lUedo3Sa6cg",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 1147,
     "upload_date": "2023-08-10",
     "latent_x": 77.44999694824219,
@@ -6712,9 +6712,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "MetaHuman & Character Rigging"
+      "MetaHuman & Rigging"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, MetaHuman & Character Rigging)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, MetaHuman & Rigging)",
     "views": 1124,
     "upload_date": "2021-08-10",
     "latent_x": -34.36000061035156,
@@ -6770,9 +6770,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Landscape & Environment Creation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Environments)",
     "views": 711,
     "upload_date": "2025-08-09",
     "latent_x": 42.45000076293945,
@@ -6806,11 +6806,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "imagine everything",
     "titulo": "setup and work with UE 5 Tessellation with the best FREE Landscape blend from Unreal Sensei (EASY)",
     "enlace": "https://www.youtube.com/watch?v=Cfwm3Ohp-y4",
-    "categoria_principal": "Landscape & Environment Creation",
+    "categoria_principal": "Environments",
     "tags": [
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Landscape & Environment Creation (Landscape & Environment Creation)",
+    "categoria_descriptores": "Environments (Environments)",
     "views": 587,
     "upload_date": "2025-08-09",
     "latent_x": 44.41999816894531,
@@ -6828,9 +6828,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Visual Scripting)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Scripting)",
     "views": 586,
     "upload_date": "2022-08-10",
     "latent_x": -14.850000381469727,
@@ -6867,9 +6867,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Landscape & Environment Creation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Environments)",
     "views": 508,
     "upload_date": "2025-12-12",
     "latent_x": 27.360000610351562,
@@ -6903,11 +6903,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Unreal Engine Sensei",
     "titulo": "Unreal Engine 5 Blueprints - The Ultimate Developer Course",
     "enlace": "https://www.youtube.com/watch?v=Nu17ZFRLIjg",
-    "categoria_principal": "Blueprints Visual Scripting",
+    "categoria_principal": "Blueprints Scripting",
     "tags": [
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Blueprints Visual Scripting (Blueprints Visual Scripting)",
+    "categoria_descriptores": "Blueprints Scripting (Blueprints Scripting)",
     "views": 407,
     "upload_date": "2025-08-09",
     "latent_x": -21.56999969482422,
@@ -6980,11 +6980,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "ANTIMEDIA-GAMES-STL",
     "titulo": "EPISODE 1 : Unreal Engine 5 Blueprint Visual Scripting - Military First Person Shooter Tutorial",
     "enlace": "https://www.youtube.com/watch?v=afHybhTYJfI",
-    "categoria_principal": "Blueprints Visual Scripting",
+    "categoria_principal": "Blueprints Scripting",
     "tags": [
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Blueprints Visual Scripting (Blueprints Visual Scripting)",
+    "categoria_descriptores": "Blueprints Scripting (Blueprints Scripting)",
     "views": 185,
     "upload_date": "2023-08-10",
     "latent_x": -26.709999084472656,
@@ -7002,9 +7002,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Visual Scripting)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Scripting)",
     "views": 165,
     "upload_date": "2025-09-13",
     "latent_x": -31.440000534057617,
@@ -7041,9 +7041,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Visual Scripting)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Scripting)",
     "views": 142,
     "upload_date": "2023-08-10",
     "latent_x": -34.90999984741211,
@@ -7058,11 +7058,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "MegaByte Entertainment",
     "titulo": "Unreal Engine 5 - Blueprint Tutorial Series 2022",
     "enlace": "https://www.youtube.com/watch?v=PYfJ9WF1AOY",
-    "categoria_principal": "Blueprints Visual Scripting",
+    "categoria_principal": "Blueprints Scripting",
     "tags": [
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Blueprints Visual Scripting (Blueprints Visual Scripting)",
+    "categoria_descriptores": "Blueprints Scripting (Blueprints Scripting)",
     "views": 135,
     "upload_date": "2023-08-10",
     "latent_x": -1.649999976158142,
@@ -7077,11 +7077,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Loutfouz Zaman",
     "titulo": "Exploring Alternatives with Unreal Engine’s Blueprints Visual Scripting System by E.Chu and L Zaman",
     "enlace": "https://www.youtube.com/watch?v=97j-uTlRwes",
-    "categoria_principal": "Blueprints Visual Scripting",
+    "categoria_principal": "Blueprints Scripting",
     "tags": [
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Blueprints Visual Scripting (Blueprints Visual Scripting)",
+    "categoria_descriptores": "Blueprints Scripting (Blueprints Scripting)",
     "views": 118,
     "upload_date": "2021-08-10",
     "latent_x": -23.530000686645508,
@@ -7099,9 +7099,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Visual Scripting)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Scripting)",
     "views": 114,
     "upload_date": "2026-05-11",
     "latent_x": -28.290000915527344,
@@ -7155,11 +7155,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "Akshay Kadam",
     "titulo": "Blueprints Visual Scripting for Unreal Engine: Your Guide to Game Development",
     "enlace": "https://www.youtube.com/watch?v=1jakOKK9Xv4",
-    "categoria_principal": "Blueprints Visual Scripting",
+    "categoria_principal": "Blueprints Scripting",
     "tags": [
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Blueprints Visual Scripting (Blueprints Visual Scripting)",
+    "categoria_descriptores": "Blueprints Scripting (Blueprints Scripting)",
     "views": 90,
     "upload_date": "2025-08-09",
     "latent_x": -36.93000030517578,
@@ -7174,11 +7174,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "ANTIMEDIA-GAMES-STL",
     "titulo": "EPISODE 2 : Unreal Engine 5 Blueprint Visual Scripting - Military First Person Shooter Tutorial",
     "enlace": "https://www.youtube.com/watch?v=Z3t4jDNMhfU",
-    "categoria_principal": "Blueprints Visual Scripting",
+    "categoria_principal": "Blueprints Scripting",
     "tags": [
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Blueprints Visual Scripting (Blueprints Visual Scripting)",
+    "categoria_descriptores": "Blueprints Scripting (Blueprints Scripting)",
     "views": 79,
     "upload_date": "2023-08-10",
     "latent_x": -26.709999084472656,
@@ -7193,11 +7193,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "ANTIMEDIA-GAMES-STL",
     "titulo": "EPISODE 3 : Unreal Engine 5 Blueprint Visual Scripting - Military First Person Shooter Tutorial",
     "enlace": "https://www.youtube.com/watch?v=sMR20d0Q6G4",
-    "categoria_principal": "Blueprints Visual Scripting",
+    "categoria_principal": "Blueprints Scripting",
     "tags": [
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Blueprints Visual Scripting (Blueprints Visual Scripting)",
+    "categoria_descriptores": "Blueprints Scripting (Blueprints Scripting)",
     "views": 71,
     "upload_date": "2023-08-10",
     "latent_x": -26.709999084472656,
@@ -7215,9 +7215,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Visual Scripting)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Scripting)",
     "views": 64,
     "upload_date": "2025-08-09",
     "latent_x": -18.440000534057617,
@@ -7251,11 +7251,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "ANTIMEDIA-GAMES-STL",
     "titulo": "EPISODE 36 : Unreal Engine 5 Blueprint Visual Scripting - Military First Person Shooter Tutorial",
     "enlace": "https://www.youtube.com/watch?v=CnXYENcX3e4",
-    "categoria_principal": "Blueprints Visual Scripting",
+    "categoria_principal": "Blueprints Scripting",
     "tags": [
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Blueprints Visual Scripting (Blueprints Visual Scripting)",
+    "categoria_descriptores": "Blueprints Scripting (Blueprints Scripting)",
     "views": 53,
     "upload_date": "2023-08-10",
     "latent_x": -26.709999084472656,
@@ -7270,11 +7270,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "ChidresTechTutorials",
     "titulo": "What are Blueprints in Unreal Engine | Types of Blueprint | Tutorial 01 | Live Session",
     "enlace": "https://www.youtube.com/watch?v=KxjMqYpjnZo",
-    "categoria_principal": "Blueprints Visual Scripting",
+    "categoria_principal": "Blueprints Scripting",
     "tags": [
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Blueprints Visual Scripting (Blueprints Visual Scripting)",
+    "categoria_descriptores": "Blueprints Scripting (Blueprints Scripting)",
     "views": 51,
     "upload_date": "2026-08-05",
     "latent_x": -11.789999961853027,
@@ -7289,11 +7289,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "ANTIMEDIA-GAMES-STL",
     "titulo": "EPISODE 34 : Unreal Engine 5 Blueprint Visual Scripting - Military First Person Shooter Tutorial",
     "enlace": "https://www.youtube.com/watch?v=Snye-mEZc2s",
-    "categoria_principal": "Blueprints Visual Scripting",
+    "categoria_principal": "Blueprints Scripting",
     "tags": [
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Blueprints Visual Scripting (Blueprints Visual Scripting)",
+    "categoria_descriptores": "Blueprints Scripting (Blueprints Scripting)",
     "views": 43,
     "upload_date": "2023-08-10",
     "latent_x": -26.709999084472656,
@@ -7308,11 +7308,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "ANTIMEDIA-GAMES-STL",
     "titulo": "EPISODE 27 : Unreal Engine 5 Blueprint Visual Scripting - Military First Person Shooter Tutorial",
     "enlace": "https://www.youtube.com/watch?v=QFAves4pFNQ",
-    "categoria_principal": "Blueprints Visual Scripting",
+    "categoria_principal": "Blueprints Scripting",
     "tags": [
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Blueprints Visual Scripting (Blueprints Visual Scripting)",
+    "categoria_descriptores": "Blueprints Scripting (Blueprints Scripting)",
     "views": 24,
     "upload_date": "2023-08-10",
     "latent_x": -39.22999954223633,
@@ -7330,9 +7330,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Landscape & Environment Creation"
+      "Environments"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Landscape & Environment Creation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Environments)",
     "views": 22,
     "upload_date": "2025-08-09",
     "latent_x": 52.970001220703125,
@@ -7366,11 +7366,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "ANTIMEDIA-GAMES-STL",
     "titulo": "EPISODE 23 : Unreal Engine 5 Blueprint Visual Scripting - Military First Person Shooter Tutorial",
     "enlace": "https://www.youtube.com/watch?v=-Oj9lbk9Lns",
-    "categoria_principal": "Blueprints Visual Scripting",
+    "categoria_principal": "Blueprints Scripting",
     "tags": [
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Blueprints Visual Scripting (Blueprints Visual Scripting)",
+    "categoria_descriptores": "Blueprints Scripting (Blueprints Scripting)",
     "views": 18,
     "upload_date": "2023-08-10",
     "latent_x": -26.709999084472656,
@@ -7385,11 +7385,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "ANTIMEDIA-GAMES-STL",
     "titulo": "EPISODE 35 : Unreal Engine 5 Blueprint Visual Scripting - Military First Person Shooter Tutorial",
     "enlace": "https://www.youtube.com/watch?v=vBrgEnull_Y",
-    "categoria_principal": "Blueprints Visual Scripting",
+    "categoria_principal": "Blueprints Scripting",
     "tags": [
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Blueprints Visual Scripting (Blueprints Visual Scripting)",
+    "categoria_descriptores": "Blueprints Scripting (Blueprints Scripting)",
     "views": 12,
     "upload_date": "2023-08-10",
     "latent_x": -26.709999084472656,
@@ -7404,11 +7404,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "ANTIMEDIA-GAMES-STL",
     "titulo": "EPISODE 30 : Unreal Engine 5 Blueprint Visual Scripting - Military First Person Shooter Tutorial",
     "enlace": "https://www.youtube.com/watch?v=ob5MHQbXq60",
-    "categoria_principal": "Blueprints Visual Scripting",
+    "categoria_principal": "Blueprints Scripting",
     "tags": [
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Blueprints Visual Scripting (Blueprints Visual Scripting)",
+    "categoria_descriptores": "Blueprints Scripting (Blueprints Scripting)",
     "views": 12,
     "upload_date": "2023-08-10",
     "latent_x": -15.140000343322754,
@@ -7423,11 +7423,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "ANTIMEDIA-GAMES-STL",
     "titulo": "EPISODE 31 : Unreal Engine 5 Blueprint Visual Scripting - Military First Person Shooter Tutorial",
     "enlace": "https://www.youtube.com/watch?v=_aERmRIlJxo",
-    "categoria_principal": "Blueprints Visual Scripting",
+    "categoria_principal": "Blueprints Scripting",
     "tags": [
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Blueprints Visual Scripting (Blueprints Visual Scripting)",
+    "categoria_descriptores": "Blueprints Scripting (Blueprints Scripting)",
     "views": 11,
     "upload_date": "2023-08-10",
     "latent_x": -26.709999084472656,
@@ -7442,11 +7442,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "ANTIMEDIA-GAMES-STL",
     "titulo": "EPISODE 24 : Unreal Engine 5 Blueprint Visual Scripting - Military First Person Shooter Tutorial",
     "enlace": "https://www.youtube.com/watch?v=LnJjuy_WeQE",
-    "categoria_principal": "Blueprints Visual Scripting",
+    "categoria_principal": "Blueprints Scripting",
     "tags": [
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Blueprints Visual Scripting (Blueprints Visual Scripting)",
+    "categoria_descriptores": "Blueprints Scripting (Blueprints Scripting)",
     "views": 9,
     "upload_date": "2023-08-10",
     "latent_x": -26.709999084472656,
@@ -7464,9 +7464,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Visual Scripting)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Scripting)",
     "views": 9,
     "upload_date": "2023-08-10",
     "latent_x": -27.149999618530273,
@@ -7500,11 +7500,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "ANTIMEDIA-GAMES-STL",
     "titulo": "EPISODE 26 : Unreal Engine 5 Blueprint Visual Scripting - Military First Person Shooter Tutorial",
     "enlace": "https://www.youtube.com/watch?v=L8oRGtlryx8",
-    "categoria_principal": "Blueprints Visual Scripting",
+    "categoria_principal": "Blueprints Scripting",
     "tags": [
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Blueprints Visual Scripting (Blueprints Visual Scripting)",
+    "categoria_descriptores": "Blueprints Scripting (Blueprints Scripting)",
     "views": 8,
     "upload_date": "2023-08-10",
     "latent_x": -48.93000030517578,
@@ -7522,9 +7522,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Visual Scripting)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Scripting)",
     "views": 8,
     "upload_date": "2023-08-10",
     "latent_x": -27.149999618530273,
@@ -7539,11 +7539,11 @@ const UNREAL_TUTORIALS_DATA = [
     "autor": "ANTIMEDIA-GAMES-STL",
     "titulo": "EPISODE 6 : Unreal Engine 5 Blueprint Visual Scripting - Military First Person Shooter Tutorial",
     "enlace": "https://www.youtube.com/watch?v=633_7V8sUrE",
-    "categoria_principal": "Blueprints Visual Scripting",
+    "categoria_principal": "Blueprints Scripting",
     "tags": [
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Blueprints Visual Scripting (Blueprints Visual Scripting)",
+    "categoria_descriptores": "Blueprints Scripting (Blueprints Scripting)",
     "views": 8,
     "upload_date": "2023-08-10",
     "latent_x": -26.709999084472656,
@@ -7561,9 +7561,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Visual Scripting)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Scripting)",
     "views": 7,
     "upload_date": "2023-08-10",
     "latent_x": -27.149999618530273,
@@ -7581,9 +7581,9 @@ const UNREAL_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Blueprints Visual Scripting"
+      "Blueprints Scripting"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Visual Scripting)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Blueprints Scripting)",
     "views": 2,
     "upload_date": "2023-08-10",
     "latent_x": -34.90999984741211,

@@ -140,11 +140,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Peter McKinnon",
     "titulo": "Awesome TRANSITIONS to make your videos BETTER!! Premiere Pro Tutorial",
     "enlace": "https://www.youtube.com/watch?v=oF0tfqIx4cc",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 3499297,
     "upload_date": "2017-08-11",
     "latent_x": -0.8899999856948853,
@@ -257,9 +257,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Transitions & Speed Ramping)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Transitions & Ramping)",
     "views": 2405624,
     "upload_date": "2017-08-11",
     "latent_x": 83.68000030517578,
@@ -294,11 +294,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Gaku Lange",
     "titulo": "Slide Transition TUTORIAL - How to SPEED RAMP Creatively",
     "enlace": "https://www.youtube.com/watch?v=kmnYxvGxLVE",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 2363416,
     "upload_date": "2025-08-09",
     "latent_x": 21.469999313354492,
@@ -427,11 +427,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Adobe Video",
     "titulo": "Premiere Pro For Beginners | 2025 Edition | Valentina Vee x Adobe Video",
     "enlace": "https://www.youtube.com/watch?v=48Fn-PQILIY",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 1689816,
     "upload_date": "2025-08-09",
     "latent_x": -8.970000267028809,
@@ -487,9 +487,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Transitions & Speed Ramping)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Transitions & Ramping)",
     "views": 1564073,
     "upload_date": "2018-08-11",
     "latent_x": 86.08999633789062,
@@ -657,11 +657,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Premiere Gal",
     "titulo": "Slow Motion, Speed Ramp and Freeze Frames | Adobe Premiere Pro CC Tutorial",
     "enlace": "https://www.youtube.com/watch?v=VI2BC45s81g",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 1318465,
     "upload_date": "2018-08-11",
     "latent_x": 22.079999923706055,
@@ -791,11 +791,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Video School",
     "titulo": "Titles and Essential Graphics Tutorial in Adobe Premiere Pro CC",
     "enlace": "https://www.youtube.com/watch?v=WgPC5qum4Zc",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 1153621,
     "upload_date": "2017-08-11",
     "latent_x": -18.780000686645508,
@@ -851,9 +851,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Titles & Essential Graphics)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Titles & Graphics)",
     "views": 1107263,
     "upload_date": "2022-08-10",
     "latent_x": -52.790000915527344,
@@ -928,9 +928,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Exporting & Render Settings)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Render Settings)",
     "views": 1013774,
     "upload_date": "2023-08-10",
     "latent_x": 35.880001068115234,
@@ -987,9 +987,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Transitions & Speed Ramping)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Transitions & Ramping)",
     "views": 1002137,
     "upload_date": "2022-08-10",
     "latent_x": 75.11000061035156,
@@ -1004,11 +1004,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Javier Mercedes",
     "titulo": "Best Video Export Settings Adobe Premiere Pro CC 2020 For Youtube",
     "enlace": "https://www.youtube.com/watch?v=5WAreBd9fpQ",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 1000107,
     "upload_date": "2020-08-10",
     "latent_x": 8.119999885559082,
@@ -1100,11 +1100,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Jamie Fenn",
     "titulo": "Best Speed Ramp Rewind Effect In 60 Seconds - Davinci Resolve",
     "enlace": "https://www.youtube.com/watch?v=Q39Z35w8m84",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 817444,
     "upload_date": "2023-08-10",
     "latent_x": 0.41999998688697815,
@@ -1196,11 +1196,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Justin Odisho",
     "titulo": "SICK Premiere Pro Speed Ramp Transitions Tutorial! (How to Whip Pan & Time Remapping Whoosh Effects)",
     "enlace": "https://www.youtube.com/watch?v=-7tHJh8GGys",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 743281,
     "upload_date": "2017-08-11",
     "latent_x": 32.91999816894531,
@@ -1256,10 +1256,10 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Titles & Essential Graphics",
+      "Titles & Graphics",
       "Multicam Editing"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Titles & Essential Graphics, Multicam Editing)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Titles & Graphics, Multicam Editing)",
     "views": 728150,
     "upload_date": "2017-08-11",
     "latent_x": 57.65999984741211,
@@ -1312,11 +1312,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Adobe in a Minute",
     "titulo": "Smooth Speed Ramp in Premiere Pro!",
     "enlace": "https://www.youtube.com/watch?v=gtrcAKl1Rfs",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 661995,
     "upload_date": "2020-08-10",
     "latent_x": 30.56999969482422,
@@ -1391,9 +1391,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Transitions & Speed Ramping)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Transitions & Ramping)",
     "views": 596189,
     "upload_date": "2021-08-10",
     "latent_x": 64.19000244140625,
@@ -1446,11 +1446,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Brooker Films",
     "titulo": "Export Videos with Small File Sizes in Premiere",
     "enlace": "https://www.youtube.com/watch?v=lwhl4LI4Fq0",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 568508,
     "upload_date": "2020-08-10",
     "latent_x": -14.050000190734863,
@@ -1504,11 +1504,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Peter McKinnon",
     "titulo": "Instantly ANIMATE TITLES in Premiere Pro!",
     "enlace": "https://www.youtube.com/watch?v=s729lhOrD-A",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 514371,
     "upload_date": "2019-08-11",
     "latent_x": -25.559999465942383,
@@ -1561,11 +1561,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Video Editing With Tyler White",
     "titulo": "Premiere Pro 2021 Export Settings - Secret to Amazing Quality",
     "enlace": "https://www.youtube.com/watch?v=r-Ue3sgtj_s",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 460616,
     "upload_date": "2021-08-10",
     "latent_x": -10.15999984741211,
@@ -1580,11 +1580,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Gaku Lange",
     "titulo": "How to Speed Ramp like a PRO",
     "enlace": "https://www.youtube.com/watch?v=lVYQkejspR8",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 457522,
     "upload_date": "2024-08-09",
     "latent_x": 7.78000020980835,
@@ -1660,9 +1660,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Video Editing & Cutting",
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Video Editing & Cutting, Exporting & Render Settings)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Video Editing & Cutting, Render Settings)",
     "views": 427979,
     "upload_date": "2022-08-10",
     "latent_x": -7.739999771118164,
@@ -1677,11 +1677,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Video Editing With Tyler White",
     "titulo": "Best Export Settings for Premiere Pro 2023",
     "enlace": "https://www.youtube.com/watch?v=WYzPXvtAx1g",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 427549,
     "upload_date": "2023-08-10",
     "latent_x": -18.8799991607666,
@@ -1792,11 +1792,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Premiere Gal",
     "titulo": "The NEW Essential Graphics Panel in Adobe Premiere Pro CC 2017 (Spring Update)",
     "enlace": "https://www.youtube.com/watch?v=mAoZme5rOfM",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 373652,
     "upload_date": "2017-08-11",
     "latent_x": -6.239999771118164,
@@ -1811,11 +1811,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Adobe in a Minute",
     "titulo": "How to EXPORT for Youtube | Premiere Pro CC 2020 Tutorial",
     "enlace": "https://www.youtube.com/watch?v=P0QKPSBMIiQ",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 370337,
     "upload_date": "2019-08-11",
     "latent_x": 3.4600000381469727,
@@ -1868,11 +1868,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Adobe Video",
     "titulo": "How to Add Text to Videos in Premiere Pro | Adobe Video x @filmriot",
     "enlace": "https://www.youtube.com/watch?v=6_L3P7PopBg",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 340743,
     "upload_date": "2024-08-09",
     "latent_x": 13.489999771118164,
@@ -1945,11 +1945,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Gaku Lange",
     "titulo": "HOW TO: FPV Speed Ramp Tutorial",
     "enlace": "https://www.youtube.com/watch?v=HKuBqxAnENI",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 314982,
     "upload_date": "2024-08-09",
     "latent_x": 6.869999885559082,
@@ -1987,9 +1987,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Video Editing & Cutting",
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Video Editing & Cutting, Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Video Editing & Cutting, Audio Cleaning)",
     "views": 307534,
     "upload_date": "2023-08-10",
     "latent_x": -3.0899999141693115,
@@ -2023,11 +2023,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Premiere Gal",
     "titulo": "How to Animate Text & Graphics to Music (Kinetic Typography Adobe Premiere Pro CC 2017 Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=8xK_jXwbApo",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 303509,
     "upload_date": "2018-08-11",
     "latent_x": 6.650000095367432,
@@ -2042,11 +2042,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Ervin Golubović",
     "titulo": "How to make Speed Ramp Transitions in Premiere Pro",
     "enlace": "https://www.youtube.com/watch?v=IgfyFoUzyeA",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 298599,
     "upload_date": "2021-08-10",
     "latent_x": 14.390000343322754,
@@ -2081,11 +2081,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Video With Jens",
     "titulo": "Premiere Pro: Export Small File Size (in High Quality)",
     "enlace": "https://www.youtube.com/watch?v=ZPWAZOBPMQs",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 278551,
     "upload_date": "2023-08-10",
     "latent_x": -25.329999923706055,
@@ -2214,11 +2214,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Premiere Basics",
     "titulo": "This TRICK Makes You SPEED RAMP GOD! (Premiere Pro Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=YvNB5f4CMng",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 256081,
     "upload_date": "2024-08-09",
     "latent_x": 24.100000381469727,
@@ -2237,9 +2237,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "tags": [
       "Video Editing & Cutting",
       "Color Grading & Lumetri",
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Color Grading & Lumetri, Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Color Grading & Lumetri, Audio Cleaning)",
     "views": 251576,
     "upload_date": "2020-08-10",
     "latent_x": 50.90999984741211,
@@ -2273,11 +2273,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Roberto Blake",
     "titulo": "Premiere Pro Tutorial: Best Video Export Settings for YouTube | Premiere Pro",
     "enlace": "https://www.youtube.com/watch?v=Om3Hlbzw7gc",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 244120,
     "upload_date": "2015-08-12",
     "latent_x": -8.850000381469727,
@@ -2408,11 +2408,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Vince Opra",
     "titulo": "Adobe Premiere Pro 2023: How To Export 4K Video (Highest Quality Settings)",
     "enlace": "https://www.youtube.com/watch?v=wC1ANluJfqU",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 221332,
     "upload_date": "2023-08-10",
     "latent_x": -32.95000076293945,
@@ -2503,11 +2503,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "edit with rachit",
     "titulo": "Best Premiere Pro Youtube Export Settings | Rachit Singh",
     "enlace": "https://www.youtube.com/watch?v=iuOci7iLz9Q",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 214120,
     "upload_date": "2023-08-10",
     "latent_x": 13.779999732971191,
@@ -2563,9 +2563,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Exporting & Render Settings)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Render Settings)",
     "views": 204178,
     "upload_date": "2017-08-11",
     "latent_x": 31.760000228881836,
@@ -2583,9 +2583,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Exporting & Render Settings)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Render Settings)",
     "views": 203175,
     "upload_date": "2023-08-10",
     "latent_x": 17.100000381469727,
@@ -2619,11 +2619,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Matt WhoisMatt Johnson",
     "titulo": "Best Export Settings For Premiere Pro For YouTube",
     "enlace": "https://www.youtube.com/watch?v=DHSw4yghUZs",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 202350,
     "upload_date": "2025-08-09",
     "latent_x": -3.0299999713897705,
@@ -2638,11 +2638,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Sanjithadesigns",
     "titulo": "12 Amazing Premiere Pro Text Effects | Ultimate Tutorial for Beginners!",
     "enlace": "https://www.youtube.com/watch?v=8gCvENkgUzc",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 195169,
     "upload_date": "2025-08-09",
     "latent_x": -47.91999816894531,
@@ -2657,11 +2657,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "MASV",
     "titulo": "Remove Background Noise and get CLEAN audio in Premiere Pro",
     "enlace": "https://www.youtube.com/watch?v=MjecOkKGgWs",
-    "categoria_principal": "Audio Cleaning & Essential Sound",
+    "categoria_principal": "Audio Cleaning",
     "tags": [
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Audio Cleaning & Essential Sound (Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Audio Cleaning (Audio Cleaning)",
     "views": 194669,
     "upload_date": "2022-08-10",
     "latent_x": 58.029998779296875,
@@ -2733,11 +2733,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Adobe in a Minute",
     "titulo": "Premiere Pro Best Export Settings (2022)",
     "enlace": "https://www.youtube.com/watch?v=gXhMWlTG7N0",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 185958,
     "upload_date": "2022-08-10",
     "latent_x": -29.3799991607666,
@@ -2790,11 +2790,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Vince Opra",
     "titulo": "Best Video Export Settings Adobe Premiere Pro CC 2022 For Youtube Videos (fast & easy)",
     "enlace": "https://www.youtube.com/watch?v=vAy6XBbA9I0",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 185021,
     "upload_date": "2022-08-10",
     "latent_x": 12.319999694824219,
@@ -2809,11 +2809,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Justin Serran",
     "titulo": "The EASIEST Way to Speed Ramp in Premiere Pro (2025 Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=U2TukFGyqew",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 184003,
     "upload_date": "2025-08-09",
     "latent_x": -7.920000076293945,
@@ -2831,9 +2831,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Transitions & Speed Ramping)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Transitions & Ramping)",
     "views": 183706,
     "upload_date": "2025-08-09",
     "latent_x": 72.30000305175781,
@@ -2848,11 +2848,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "SoftwareGeek",
     "titulo": "Export 1080p, 1440p, 4K 60FPS Videos for YouTube in Premiere Pro (BEST RENDER SETTINGS)",
     "enlace": "https://www.youtube.com/watch?v=cqlNPAatPuA",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 180302,
     "upload_date": "2022-08-10",
     "latent_x": 3.009999990463257,
@@ -2867,11 +2867,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "DON CYR",
     "titulo": "HOW TO SLOW-MO/TIME REMAPPING/SPEED RAMP CSGO TUTORIAL (PREMIERE PRO)",
     "enlace": "https://www.youtube.com/watch?v=A-VIBvrgL_U",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 172800,
     "upload_date": "2021-08-10",
     "latent_x": 26.139999389648438,
@@ -2889,9 +2889,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Audio Cleaning)",
     "views": 164971,
     "upload_date": "2024-08-09",
     "latent_x": 29.3700008392334,
@@ -2944,11 +2944,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Premiere Gal",
     "titulo": "How to Create Titles in Adobe Premiere Pro",
     "enlace": "https://www.youtube.com/watch?v=cEL_Bdw3uZk",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 159904,
     "upload_date": "2023-08-10",
     "latent_x": -32.75,
@@ -3062,9 +3062,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Titles & Essential Graphics)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Titles & Graphics)",
     "views": 152492,
     "upload_date": "2017-08-11",
     "latent_x": 18.65999984741211,
@@ -3121,9 +3121,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Titles & Essential Graphics)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Titles & Graphics)",
     "views": 150133,
     "upload_date": "2016-08-11",
     "latent_x": 17.219999313354492,
@@ -3195,11 +3195,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Jakob",
     "titulo": "FAST Transitions YOU NEED in Premiere Pro!",
     "enlace": "https://www.youtube.com/watch?v=hIjtNMg893A",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 143402,
     "upload_date": "2024-08-09",
     "latent_x": 9.850000381469727,
@@ -3233,11 +3233,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Practical Tech Fixes",
     "titulo": "Missing Essential Graphics Panel in Premiere Pro",
     "enlace": "https://www.youtube.com/watch?v=P9KxZwUdI7g",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 141814,
     "upload_date": "2025-08-09",
     "latent_x": -11.8100004196167,
@@ -3271,11 +3271,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Premiere Basics",
     "titulo": "Make AMAZING Lower Thirds in Premiere (must know technique)",
     "enlace": "https://www.youtube.com/watch?v=o-H2PMFj8_M",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 139165,
     "upload_date": "2023-08-10",
     "latent_x": -44.90999984741211,
@@ -3290,11 +3290,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "D4Darious",
     "titulo": "BEST Export Settings For Film and Video // Premiere Pro CC",
     "enlace": "https://www.youtube.com/watch?v=jDUueALcXa8",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 138622,
     "upload_date": "2019-08-11",
     "latent_x": 1.0399999618530273,
@@ -3385,11 +3385,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "theletterisb",
     "titulo": "Learn How To Do EPIC Speed Ramping TRANSITIONS - VEGAS Pro Tutorial",
     "enlace": "https://www.youtube.com/watch?v=GyRBwenQq3k",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 131207,
     "upload_date": "2019-08-11",
     "latent_x": 29.18000030517578,
@@ -3442,11 +3442,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "DesignerHow",
     "titulo": "Speed Ramp Effect: Smooth and CINEMATIC Transitions - Premiere Pro",
     "enlace": "https://www.youtube.com/watch?v=CqTeb7qKoGs",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 128527,
     "upload_date": "2023-08-10",
     "latent_x": 30.40999984741211,
@@ -3484,9 +3484,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Video Editing & Cutting",
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Video Editing & Cutting, Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Video Editing & Cutting, Audio Cleaning)",
     "views": 123280,
     "upload_date": "2021-08-10",
     "latent_x": -4.889999866485596,
@@ -3542,9 +3542,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Audio Cleaning)",
     "views": 119106,
     "upload_date": "2022-08-10",
     "latent_x": 18.280000686645508,
@@ -3579,11 +3579,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Adobe Video",
     "titulo": "Remove Background Noise in Premiere Pro",
     "enlace": "https://www.youtube.com/watch?v=aCEZMnZZ1ns",
-    "categoria_principal": "Audio Cleaning & Essential Sound",
+    "categoria_principal": "Audio Cleaning",
     "tags": [
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Audio Cleaning & Essential Sound (Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Audio Cleaning (Audio Cleaning)",
     "views": 116762,
     "upload_date": "2025-08-09",
     "latent_x": 60.15999984741211,
@@ -3636,11 +3636,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "FilterGrade",
     "titulo": "How to Use the Essential Graphics Panel in Premiere Pro",
     "enlace": "https://www.youtube.com/watch?v=ZjZdJZMgr84",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 114646,
     "upload_date": "2020-08-10",
     "latent_x": -28.440000534057617,
@@ -3674,11 +3674,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Mike Russell",
     "titulo": "How to Improve Your Audio in Adobe Premiere Pro? | 3 Easy Effects to Enhance Your Audio",
     "enlace": "https://www.youtube.com/watch?v=wiGNWPwcqPk",
-    "categoria_principal": "Audio Cleaning & Essential Sound",
+    "categoria_principal": "Audio Cleaning",
     "tags": [
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Audio Cleaning & Essential Sound (Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Audio Cleaning (Audio Cleaning)",
     "views": 114004,
     "upload_date": "2023-08-10",
     "latent_x": 44.56999969482422,
@@ -3696,9 +3696,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Audio Cleaning)",
     "views": 108780,
     "upload_date": "2023-08-10",
     "latent_x": 35.7599983215332,
@@ -3717,9 +3717,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Video Editing & Cutting",
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Video Editing & Cutting, Titles & Essential Graphics)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Video Editing & Cutting, Titles & Graphics)",
     "views": 108507,
     "upload_date": "2022-08-10",
     "latent_x": -30.15999984741211,
@@ -3756,9 +3756,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Audio Cleaning)",
     "views": 103452,
     "upload_date": "2021-08-10",
     "latent_x": 38.619998931884766,
@@ -3773,11 +3773,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Adobe Video",
     "titulo": "Export Settings & Using Media Encoder w/ Roberto Blake | Premiere Pro Tutorial | Adobe Video",
     "enlace": "https://www.youtube.com/watch?v=T6fjmf18oa4",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 101522,
     "upload_date": "2021-08-10",
     "latent_x": -39.61000061035156,
@@ -3852,9 +3852,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Exporting & Render Settings)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Render Settings)",
     "views": 96167,
     "upload_date": "2024-08-09",
     "latent_x": 49.59000015258789,
@@ -3888,11 +3888,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Ur · FastEditor",
     "titulo": "how to make smooth speed ramping premiere pro 2023",
     "enlace": "https://www.youtube.com/watch?v=w0cyUcPS_-8",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 95060,
     "upload_date": "2024-08-09",
     "latent_x": -4.860000133514404,
@@ -3907,11 +3907,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Video Editing With Tyler White",
     "titulo": "Premiere Pro 2020 Export Settings - Secret to Amazing Quality",
     "enlace": "https://www.youtube.com/watch?v=jpJe5Wc73DA",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 93057,
     "upload_date": "2020-08-10",
     "latent_x": -3.119999885559082,
@@ -3983,12 +3983,12 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Javier Mercedes",
     "titulo": "How To Export Video in Premiere Pro - Best YouTube Settings",
     "enlace": "https://www.youtube.com/watch?v=4PtrudQ4hVE",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping",
-      "Exporting & Render Settings"
+      "Transitions & Ramping",
+      "Render Settings"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping, Exporting & Render Settings)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping, Render Settings)",
     "views": 88603,
     "upload_date": "2023-08-10",
     "latent_x": 52.220001220703125,
@@ -4041,11 +4041,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Forty Frames Learning",
     "titulo": "Import And Install Essential Graphics in Premiere Pro",
     "enlace": "https://www.youtube.com/watch?v=LJWhXnTTQ8A",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 85542,
     "upload_date": "2020-08-10",
     "latent_x": -13.6899995803833,
@@ -4060,11 +4060,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Mike Russell",
     "titulo": "Audio Mastering Explained - Premiere Pro Tutorial You Wish You Watched Years Ago!",
     "enlace": "https://www.youtube.com/watch?v=RCE64LXh4W4",
-    "categoria_principal": "Audio Cleaning & Essential Sound",
+    "categoria_principal": "Audio Cleaning",
     "tags": [
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Audio Cleaning & Essential Sound (Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Audio Cleaning (Audio Cleaning)",
     "views": 85465,
     "upload_date": "2025-08-09",
     "latent_x": 41.279998779296875,
@@ -4101,9 +4101,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Exporting & Render Settings)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Render Settings)",
     "views": 85115,
     "upload_date": "2024-08-09",
     "latent_x": 36.36000061035156,
@@ -4118,11 +4118,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Premiere Gal",
     "titulo": "Circle Mask Picture in Picture Video Effect in Adobe Premiere Pro",
     "enlace": "https://www.youtube.com/watch?v=LB8gkVSv33A",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 84218,
     "upload_date": "2022-08-10",
     "latent_x": 18.3799991607666,
@@ -4137,11 +4137,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Miracamp",
     "titulo": "How to get PERFECT Speed Ramp Transitions in Premiere Pro 2025",
     "enlace": "https://www.youtube.com/watch?v=kfsSIapzdN0",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 83007,
     "upload_date": "2025-09-13",
     "latent_x": -3.2699999809265137,
@@ -4175,12 +4175,12 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Ivisualpro (Adobe Premiere Pro, After Effects)",
     "titulo": "How to EXPORT AUDIO Only  in Premiere Pro",
     "enlace": "https://www.youtube.com/watch?v=txXrXnf3ffQ",
-    "categoria_principal": "Audio Cleaning & Essential Sound",
+    "categoria_principal": "Audio Cleaning",
     "tags": [
-      "Audio Cleaning & Essential Sound",
-      "Exporting & Render Settings"
+      "Audio Cleaning",
+      "Render Settings"
     ],
-    "categoria_descriptores": "Audio Cleaning & Essential Sound (Audio Cleaning & Essential Sound, Exporting & Render Settings)",
+    "categoria_descriptores": "Audio Cleaning (Audio Cleaning, Render Settings)",
     "views": 81218,
     "upload_date": "2024-08-09",
     "latent_x": 50.13999938964844,
@@ -4198,9 +4198,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Audio Cleaning)",
     "views": 80356,
     "upload_date": "2022-08-10",
     "latent_x": 44.83000183105469,
@@ -4218,9 +4218,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Audio Cleaning)",
     "views": 77153,
     "upload_date": "2020-08-10",
     "latent_x": 31.3799991607666,
@@ -4254,11 +4254,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Mission Creek Style",
     "titulo": "Creating a Title: Premiere Pro CC Title Tool & Essential Graphics Panel",
     "enlace": "https://www.youtube.com/watch?v=yfcl5FHVhVw",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 74974,
     "upload_date": "2017-08-11",
     "latent_x": -18.229999542236328,
@@ -4314,9 +4314,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Transitions & Speed Ramping)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Transitions & Ramping)",
     "views": 73116,
     "upload_date": "2025-08-09",
     "latent_x": 73.37000274658203,
@@ -4334,9 +4334,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Titles & Essential Graphics)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Titles & Graphics)",
     "views": 71864,
     "upload_date": "2018-08-11",
     "latent_x": -47.88999938964844,
@@ -4392,9 +4392,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Audio Cleaning)",
     "views": 71039,
     "upload_date": "2025-08-09",
     "latent_x": 25.010000228881836,
@@ -4412,9 +4412,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Exporting & Render Settings)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Render Settings)",
     "views": 69393,
     "upload_date": "2025-08-09",
     "latent_x": 19.829999923706055,
@@ -4467,11 +4467,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "tutvid",
     "titulo": "Lower Thirds and Video Titles with NEW Titler & Essential Graphics Panel | Premiere Pro Tutorial",
     "enlace": "https://www.youtube.com/watch?v=47rCmyfJF2w",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 66608,
     "upload_date": "2017-08-11",
     "latent_x": -27.049999237060547,
@@ -4489,9 +4489,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Titles & Essential Graphics)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Titles & Graphics)",
     "views": 64179,
     "upload_date": "2021-08-10",
     "latent_x": 36.06999969482422,
@@ -4509,9 +4509,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Exporting & Render Settings)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Render Settings)",
     "views": 64113,
     "upload_date": "2024-08-09",
     "latent_x": 45.38999938964844,
@@ -4545,11 +4545,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Motion Array Tutorials",
     "titulo": "How To Create The Speed Ramp Effect In Ae",
     "enlace": "https://www.youtube.com/watch?v=dEeuVk6K_Ck",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 61769,
     "upload_date": "2025-08-09",
     "latent_x": 11.460000038146973,
@@ -4583,11 +4583,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Trentorials",
     "titulo": "Give your Text, Titles, and Graphics the \"Film Look\" | Premiere CC Tutorial",
     "enlace": "https://www.youtube.com/watch?v=fDWzwCnxQ4k",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 58934,
     "upload_date": "2024-08-09",
     "latent_x": -7.289999961853027,
@@ -4717,11 +4717,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Adobe Creative Cloud",
     "titulo": "Learn from the Pros | The Essential Sound Panel with Becki & Chris | Premiere Pro Tutorial | Adobe",
     "enlace": "https://www.youtube.com/watch?v=OZy41yVt8S8",
-    "categoria_principal": "Audio Cleaning & Essential Sound",
+    "categoria_principal": "Audio Cleaning",
     "tags": [
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Audio Cleaning & Essential Sound (Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Audio Cleaning (Audio Cleaning)",
     "views": 52121,
     "upload_date": "2020-08-10",
     "latent_x": 18.540000915527344,
@@ -4774,11 +4774,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Premiere Gal",
     "titulo": "Improve Your Sound with these 5 Audio Tips!",
     "enlace": "https://www.youtube.com/watch?v=PTz2N1W4-Rk",
-    "categoria_principal": "Audio Cleaning & Essential Sound",
+    "categoria_principal": "Audio Cleaning",
     "tags": [
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Audio Cleaning & Essential Sound (Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Audio Cleaning (Audio Cleaning)",
     "views": 49492,
     "upload_date": "2024-08-09",
     "latent_x": 40.470001220703125,
@@ -4796,9 +4796,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Titles & Essential Graphics)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Titles & Graphics)",
     "views": 49137,
     "upload_date": "2015-08-12",
     "latent_x": 29.75,
@@ -4908,11 +4908,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Tech Biporit",
     "titulo": "ফ্রি Text এনিমেশন Presets | Free Text Animation ( Motion Graphics Template )  | Premiere Pro CC 2020",
     "enlace": "https://www.youtube.com/watch?v=ysMCoFULP48",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 46332,
     "upload_date": "2020-08-10",
     "latent_x": 16.56999969482422,
@@ -4965,11 +4965,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Jason Levine",
     "titulo": "How to Use the Essential Sound Panel in Premiere Pro CC 2017",
     "enlace": "https://www.youtube.com/watch?v=0CkRhly_Fb0",
-    "categoria_principal": "Audio Cleaning & Essential Sound",
+    "categoria_principal": "Audio Cleaning",
     "tags": [
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Audio Cleaning & Essential Sound (Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Audio Cleaning (Audio Cleaning)",
     "views": 44383,
     "upload_date": "2017-08-11",
     "latent_x": 32.68000030517578,
@@ -4987,9 +4987,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Audio Cleaning)",
     "views": 43796,
     "upload_date": "2020-08-10",
     "latent_x": 28.3700008392334,
@@ -5007,9 +5007,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Titles & Essential Graphics)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Titles & Graphics)",
     "views": 43026,
     "upload_date": "2019-08-11",
     "latent_x": 29.3799991607666,
@@ -5024,11 +5024,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "AdobeMasters",
     "titulo": "How to Use Essential Sound Window in Premiere Pro CC",
     "enlace": "https://www.youtube.com/watch?v=lmv6sxQf-GU",
-    "categoria_principal": "Audio Cleaning & Essential Sound",
+    "categoria_principal": "Audio Cleaning",
     "tags": [
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Audio Cleaning & Essential Sound (Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Audio Cleaning (Audio Cleaning)",
     "views": 42327,
     "upload_date": "2017-08-11",
     "latent_x": 48.900001525878906,
@@ -5084,9 +5084,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Audio Cleaning)",
     "views": 40383,
     "upload_date": "2022-08-10",
     "latent_x": 33.650001525878906,
@@ -5101,11 +5101,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Matt WhoisMatt Johnson",
     "titulo": "Best Export Settings For Instagram Reels in Adobe Premiere Pro 2026",
     "enlace": "https://www.youtube.com/watch?v=4rG_ZxpjIKs",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 40144,
     "upload_date": "2026-03-12",
     "latent_x": -19.1200008392334,
@@ -5139,11 +5139,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Tutorials with GS",
     "titulo": "Premiere Pro New Essential Sound – How to Match Audio Levels, Mix Music and Dialogue + More!",
     "enlace": "https://www.youtube.com/watch?v=Z36F4bZx7a8",
-    "categoria_principal": "Audio Cleaning & Essential Sound",
+    "categoria_principal": "Audio Cleaning",
     "tags": [
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Audio Cleaning & Essential Sound (Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Audio Cleaning (Audio Cleaning)",
     "views": 38921,
     "upload_date": "2017-08-11",
     "latent_x": 59.02000045776367,
@@ -5177,11 +5177,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Adobe in a Minute",
     "titulo": "Speed Ramp Transition Tutorial | Premiere Pro",
     "enlace": "https://www.youtube.com/watch?v=tQYtWNNa3m4",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 38248,
     "upload_date": "2022-08-10",
     "latent_x": 22.709999084472656,
@@ -5199,9 +5199,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Titles & Essential Graphics)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Titles & Graphics)",
     "views": 37110,
     "upload_date": "2025-08-09",
     "latent_x": 19.84000015258789,
@@ -5370,11 +5370,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Joe Allam",
     "titulo": "How to make motion graphics templates for Premiere Pro, with After Effects (MOGRT)",
     "enlace": "https://www.youtube.com/watch?v=FWHPT9Dx2kQ",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 31560,
     "upload_date": "2020-08-10",
     "latent_x": -30.729999542236328,
@@ -5408,11 +5408,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Delaney Media",
     "titulo": "Best Export Settings for Social Media (Premiere Pro)",
     "enlace": "https://www.youtube.com/watch?v=9urKANJ5frs",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 30686,
     "upload_date": "2023-08-10",
     "latent_x": -30.860000610351562,
@@ -5427,11 +5427,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Video Editing With Tyler White",
     "titulo": "The Best Way to Export 4K Video in Premiere Pro 2025",
     "enlace": "https://www.youtube.com/watch?v=4n2tEFGNXms",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 30634,
     "upload_date": "2025-08-09",
     "latent_x": 2.700000047683716,
@@ -5446,11 +5446,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Inside Real Estate Photography",
     "titulo": "Speed Ramp Zoom Transitions for Real Estate Videos",
     "enlace": "https://www.youtube.com/watch?v=VyGkilcMq5Q",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 30491,
     "upload_date": "2024-08-09",
     "latent_x": -1.399999976158142,
@@ -5564,9 +5564,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Transitions & Speed Ramping)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Transitions & Ramping)",
     "views": 27166,
     "upload_date": "2023-08-10",
     "latent_x": 57.79999923706055,
@@ -5581,11 +5581,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Premiere Basics",
     "titulo": "ESSENTIAL SOUND - Everything You Need To Know! (Premiere Pro Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=13OCb1gMDUs",
-    "categoria_principal": "Audio Cleaning & Essential Sound",
+    "categoria_principal": "Audio Cleaning",
     "tags": [
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Audio Cleaning & Essential Sound (Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Audio Cleaning (Audio Cleaning)",
     "views": 27092,
     "upload_date": "2024-08-09",
     "latent_x": 22.229999542236328,
@@ -5600,11 +5600,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Jordan Dueck",
     "titulo": "How To Export In Pro Premiere Pro - BEST Settings 2025",
     "enlace": "https://www.youtube.com/watch?v=AY5K5aPxxZk",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 27070,
     "upload_date": "2025-08-09",
     "latent_x": -11.039999961853027,
@@ -5619,11 +5619,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Mike Russell",
     "titulo": "5 Audio Tricks You Wish You Knew Sooner! - Premiere Pro 2025",
     "enlace": "https://www.youtube.com/watch?v=ylY6hCKCjHk",
-    "categoria_principal": "Audio Cleaning & Essential Sound",
+    "categoria_principal": "Audio Cleaning",
     "tags": [
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Audio Cleaning & Essential Sound (Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Audio Cleaning (Audio Cleaning)",
     "views": 26948,
     "upload_date": "2025-08-09",
     "latent_x": 28.420000076293945,
@@ -5657,12 +5657,12 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Jakob",
     "titulo": "the BEST Music Video Export Settings *UPDATED* (HIGHEST QUALITY) Premiere Pro",
     "enlace": "https://www.youtube.com/watch?v=Ajljs6Fy13Q",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping",
-      "Exporting & Render Settings"
+      "Transitions & Ramping",
+      "Render Settings"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping, Exporting & Render Settings)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping, Render Settings)",
     "views": 25233,
     "upload_date": "2023-08-10",
     "latent_x": 53.650001525878906,
@@ -5677,11 +5677,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Premiere Gal",
     "titulo": "How to Export HD Video to YouTube in Premiere Pro CC",
     "enlace": "https://www.youtube.com/watch?v=3qilhh5NWpc",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 24410,
     "upload_date": "2017-08-11",
     "latent_x": -12.819999694824219,
@@ -5696,11 +5696,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "John The Video Guy",
     "titulo": "Speed Ramp Transition Preset For Premiere Pro - 1k Celebration 🎉",
     "enlace": "https://www.youtube.com/watch?v=6sNgvx5FRdM",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 24308,
     "upload_date": "2023-08-10",
     "latent_x": 37.630001068115234,
@@ -5753,11 +5753,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "John The Video Guy",
     "titulo": "Create An AWESOME Lower Third For Premiere Pro!",
     "enlace": "https://www.youtube.com/watch?v=sZ6k8AmIYp4",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 22424,
     "upload_date": "2025-08-09",
     "latent_x": -30.31999969482422,
@@ -5772,11 +5772,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Adobe Video",
     "titulo": "How to Export Video in Premiere Pro | Adobe Video x @filmriot",
     "enlace": "https://www.youtube.com/watch?v=A3n2tvKfQxA",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 22420,
     "upload_date": "2024-08-09",
     "latent_x": -38.06999969482422,
@@ -5794,9 +5794,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Titles & Essential Graphics)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Titles & Graphics)",
     "views": 22295,
     "upload_date": "2021-08-10",
     "latent_x": 28.110000610351562,
@@ -5814,9 +5814,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Transitions & Speed Ramping)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Transitions & Ramping)",
     "views": 22060,
     "upload_date": "2023-08-10",
     "latent_x": 62.189998626708984,
@@ -5831,11 +5831,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "KYLER HOLLAND",
     "titulo": "Speed Ramping TRICK in Premiere Pro",
     "enlace": "https://www.youtube.com/watch?v=pEyrU90sV6M",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 21686,
     "upload_date": "2025-11-12",
     "latent_x": 31.229999542236328,
@@ -5850,11 +5850,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Adobe Creative Cloud",
     "titulo": "Creating Effective Sound Design In Premiere Pro | Essential Workflows with Cinecom | Creative Cloud",
     "enlace": "https://www.youtube.com/watch?v=78X4zxrNLQY",
-    "categoria_principal": "Audio Cleaning & Essential Sound",
+    "categoria_principal": "Audio Cleaning",
     "tags": [
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Audio Cleaning & Essential Sound (Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Audio Cleaning (Audio Cleaning)",
     "views": 21582,
     "upload_date": "2019-08-11",
     "latent_x": 5.630000114440918,
@@ -5873,9 +5873,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Video Editing & Cutting",
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Video Editing & Cutting, Titles & Essential Graphics)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Video Editing & Cutting, Titles & Graphics)",
     "views": 21462,
     "upload_date": "2017-08-11",
     "latent_x": -49.84000015258789,
@@ -5893,9 +5893,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Exporting & Render Settings)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Render Settings)",
     "views": 20718,
     "upload_date": "2023-08-10",
     "latent_x": 35.880001068115234,
@@ -5933,9 +5933,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Color Grading & Lumetri",
     "tags": [
       "Color Grading & Lumetri",
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Color Grading & Lumetri (Color Grading & Lumetri, Transitions & Speed Ramping)",
+    "categoria_descriptores": "Color Grading & Lumetri (Color Grading & Lumetri, Transitions & Ramping)",
     "views": 19516,
     "upload_date": "2024-08-09",
     "latent_x": 22.459999084472656,
@@ -5953,9 +5953,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Audio Cleaning)",
     "views": 19464,
     "upload_date": "2025-08-09",
     "latent_x": -4.639999866485596,
@@ -6030,9 +6030,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Titles & Essential Graphics)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Titles & Graphics)",
     "views": 18113,
     "upload_date": "2021-08-10",
     "latent_x": 33.45000076293945,
@@ -6066,11 +6066,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Adobe Video",
     "titulo": "Improve Your Sound Design in Five Minutes Using Premiere Pro | @filmriot x Adobe Video",
     "enlace": "https://www.youtube.com/watch?v=lad6AfCPRnI",
-    "categoria_principal": "Audio Cleaning & Essential Sound",
+    "categoria_principal": "Audio Cleaning",
     "tags": [
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Audio Cleaning & Essential Sound (Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Audio Cleaning (Audio Cleaning)",
     "views": 17850,
     "upload_date": "2025-11-12",
     "latent_x": 21.209999084472656,
@@ -6085,11 +6085,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Matt WhoisMatt Johnson",
     "titulo": "Best 4K Export Settings For Premiere Pro 2026",
     "enlace": "https://www.youtube.com/watch?v=iyZMmEIoX9E",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 16848,
     "upload_date": "2026-05-11",
     "latent_x": -12.390000343322754,
@@ -6123,11 +6123,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "BVC Co.",
     "titulo": "THIS is best video export settings for Premiere Pro 2022 (NEW UPDATE)",
     "enlace": "https://www.youtube.com/watch?v=mPFWhqTO6Xs",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 15738,
     "upload_date": "2022-08-10",
     "latent_x": -39.79999923706055,
@@ -6161,11 +6161,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "After Framing",
     "titulo": "Amazing Transitions with Masking & Speed Ramping - Premiere Pro Tutorial",
     "enlace": "https://www.youtube.com/watch?v=Htx6P-snJU0",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 14577,
     "upload_date": "2023-08-10",
     "latent_x": 20.020000457763672,
@@ -6180,11 +6180,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Justin Odisho",
     "titulo": "How to Build Better Titles & Text with the Essential Graphics Panel (Adobe Premiere Pro CC Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=GYp2uBLqr0A",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 14532,
     "upload_date": "2020-08-10",
     "latent_x": -11.359999656677246,
@@ -6202,9 +6202,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Titles & Essential Graphics)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Titles & Graphics)",
     "views": 14266,
     "upload_date": "2023-08-10",
     "latent_x": 22.020000457763672,
@@ -6223,9 +6223,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Video Editing & Cutting",
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Video Editing & Cutting, Exporting & Render Settings)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Video Editing & Cutting, Render Settings)",
     "views": 13690,
     "upload_date": "2026-01-11",
     "latent_x": -0.6000000238418579,
@@ -6298,11 +6298,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Editors Keys",
     "titulo": "Best export settings for CINEMA - Premiere Pro EASY",
     "enlace": "https://www.youtube.com/watch?v=kULkZ-dlGhY",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 12203,
     "upload_date": "2025-08-09",
     "latent_x": -19.809999465942383,
@@ -6374,11 +6374,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "SonduckFilm",
     "titulo": "Create High-End Titles In Minutes With Premiere Pro | MOGRT Review",
     "enlace": "https://www.youtube.com/watch?v=VIbaZSuI2mM",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 11085,
     "upload_date": "2018-08-11",
     "latent_x": -46.650001525878906,
@@ -6393,11 +6393,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Property Vids Productions",
     "titulo": "Speed Ramp Tutorial | Premiere Pro | Real Estate Videography",
     "enlace": "https://www.youtube.com/watch?v=f6QfrSDmeCg",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 10834,
     "upload_date": "2022-08-10",
     "latent_x": 4.769999980926514,
@@ -6412,11 +6412,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "MASV",
     "titulo": "Export Videos for Broadcast TV in Premiere Pro",
     "enlace": "https://www.youtube.com/watch?v=TucSIZTYnws",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 10826,
     "upload_date": "2024-08-09",
     "latent_x": -22.940000534057617,
@@ -6434,9 +6434,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Transitions & Speed Ramping)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Transitions & Ramping)",
     "views": 10584,
     "upload_date": "2025-08-09",
     "latent_x": -5.260000228881836,
@@ -6473,9 +6473,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Titles & Essential Graphics)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Titles & Graphics)",
     "views": 10107,
     "upload_date": "2017-08-11",
     "latent_x": -36.959999084472656,
@@ -6567,11 +6567,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Premiere Basics",
     "titulo": "How to EXPORT your VIDEO (Premiere Pro Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=6vmrVZx2W3E",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 9675,
     "upload_date": "2020-08-10",
     "latent_x": -25.290000915527344,
@@ -6589,9 +6589,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Titles & Essential Graphics)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Titles & Graphics)",
     "views": 9641,
     "upload_date": "2017-08-11",
     "latent_x": -32.29999923706055,
@@ -6606,11 +6606,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Adobe Creative Cloud",
     "titulo": "New in the Essential Sound Panel (April 2017) | Adobe Creative Cloud",
     "enlace": "https://www.youtube.com/watch?v=nYevGgTLWUc",
-    "categoria_principal": "Audio Cleaning & Essential Sound",
+    "categoria_principal": "Audio Cleaning",
     "tags": [
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Audio Cleaning & Essential Sound (Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Audio Cleaning (Audio Cleaning)",
     "views": 9308,
     "upload_date": "2017-08-11",
     "latent_x": 26.690000534057617,
@@ -6644,11 +6644,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "chinfat",
     "titulo": "E41 - NEW UPDATE: Essentials Sound - Adobe Premiere Pro CC 2017",
     "enlace": "https://www.youtube.com/watch?v=v-RfLOJouDI",
-    "categoria_principal": "Audio Cleaning & Essential Sound",
+    "categoria_principal": "Audio Cleaning",
     "tags": [
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Audio Cleaning & Essential Sound (Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Audio Cleaning (Audio Cleaning)",
     "views": 9186,
     "upload_date": "2017-08-11",
     "latent_x": 44.88999938964844,
@@ -6683,11 +6683,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Edit Like PRO",
     "titulo": "Best Export Setting for Premiere Pro 2025 Malayalam | How to Export Video From Premiere Pro 2025",
     "enlace": "https://www.youtube.com/watch?v=4CypHVQ9b-g",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 8911,
     "upload_date": "2025-08-09",
     "latent_x": -13.119999885559082,
@@ -6702,11 +6702,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Envato",
     "titulo": "10 Best Essential Graphics Templates for Premiere Pro",
     "enlace": "https://www.youtube.com/watch?v=IIWuA0BZ940",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 7846,
     "upload_date": "2021-08-10",
     "latent_x": -21.75,
@@ -6740,11 +6740,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Adobe Tips & Tricks",
     "titulo": "Best Export Settings For YouTube Videos In Adobe Premiere Pro 2026",
     "enlace": "https://www.youtube.com/watch?v=FEuN6OsbLTs",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 7309,
     "upload_date": "2024-08-09",
     "latent_x": -4.21999979019165,
@@ -6781,9 +6781,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Transitions & Speed Ramping)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Transitions & Ramping)",
     "views": 6437,
     "upload_date": "2021-08-10",
     "latent_x": 57.220001220703125,
@@ -6855,11 +6855,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Sanjithadesigns",
     "titulo": "Smooth SPEED RAMP Transition in Premiere Pro – Full Tutorial",
     "enlace": "https://www.youtube.com/watch?v=5-HTPj-tS54",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 6177,
     "upload_date": "2025-08-09",
     "latent_x": 37.189998626708984,
@@ -6874,11 +6874,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "We Are Film",
     "titulo": "Get Better Audio: Essential Sound Panel Tutorial Premiere Pro 2017",
     "enlace": "https://www.youtube.com/watch?v=Vigg2WjEdI4",
-    "categoria_principal": "Audio Cleaning & Essential Sound",
+    "categoria_principal": "Audio Cleaning",
     "tags": [
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Audio Cleaning & Essential Sound (Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Audio Cleaning (Audio Cleaning)",
     "views": 6168,
     "upload_date": "2017-08-11",
     "latent_x": 40.9900016784668,
@@ -6893,11 +6893,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Gabe Dennis",
     "titulo": "The BEST Export setting for Social Media | Adobe Premiere Pro",
     "enlace": "https://www.youtube.com/watch?v=Q3_gsNcqb5s",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 6078,
     "upload_date": "2025-08-09",
     "latent_x": -31.84000015258789,
@@ -6931,11 +6931,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Dylans Guides",
     "titulo": "How To Improve Audio Quality in Adobe Premiere Pro 2026 | MASTER AUDIO IN Premiere Pro",
     "enlace": "https://www.youtube.com/watch?v=CuzeHpChyNc",
-    "categoria_principal": "Audio Cleaning & Essential Sound",
+    "categoria_principal": "Audio Cleaning",
     "tags": [
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Audio Cleaning & Essential Sound (Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Audio Cleaning (Audio Cleaning)",
     "views": 5917,
     "upload_date": "2026-04-11",
     "latent_x": 32.29999923706055,
@@ -6988,11 +6988,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Stan Arthur",
     "titulo": "Premiere Pro: Animate a Title Line By Line in the Essential Graphics Panel",
     "enlace": "https://www.youtube.com/watch?v=z-52Ib7BXH4",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 5701,
     "upload_date": "2021-08-10",
     "latent_x": -9.479999542236328,
@@ -7011,9 +7011,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Video Editing & Cutting",
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Video Editing & Cutting, Titles & Essential Graphics)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Video Editing & Cutting, Titles & Graphics)",
     "views": 5695,
     "upload_date": "2023-08-10",
     "latent_x": -43.720001220703125,
@@ -7028,11 +7028,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Shaun Notcutt",
     "titulo": "How To Reverse Speed Ramp in Premiere Pro",
     "enlace": "https://www.youtube.com/watch?v=E-f3QCyc8-8",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 5668,
     "upload_date": "2025-08-09",
     "latent_x": 15.720000267028809,
@@ -7047,11 +7047,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "chinfat",
     "titulo": "E37 - Mixing Dialogue with Essential Sound - Adobe Premiere Pro CC 2018",
     "enlace": "https://www.youtube.com/watch?v=x2oja8ZHkjE",
-    "categoria_principal": "Audio Cleaning & Essential Sound",
+    "categoria_principal": "Audio Cleaning",
     "tags": [
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Audio Cleaning & Essential Sound (Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Audio Cleaning (Audio Cleaning)",
     "views": 5654,
     "upload_date": "2019-08-11",
     "latent_x": 46.0099983215332,
@@ -7088,9 +7088,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Exporting & Render Settings)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Render Settings)",
     "views": 5416,
     "upload_date": "2025-09-13",
     "latent_x": -5.96999979019165,
@@ -7105,11 +7105,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Streaming Media",
     "titulo": "Tutorial: Adobe Essential Graphics for After Effects and Premiere Pro",
     "enlace": "https://www.youtube.com/watch?v=Jxa7jBqEvT0",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 4842,
     "upload_date": "2020-08-10",
     "latent_x": -29.100000381469727,
@@ -7124,11 +7124,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Maxwell Ridgeway",
     "titulo": "How to make a Premiere Pro Text Template - Essential Graphics Tutorial",
     "enlace": "https://www.youtube.com/watch?v=C4H8EkOEOzs",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 4808,
     "upload_date": "2018-08-11",
     "latent_x": 3.6500000953674316,
@@ -7162,11 +7162,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Video With Jens",
     "titulo": "Best EXPORT SETTINGS for YouTube in Premiere Pro (2026)",
     "enlace": "https://www.youtube.com/watch?v=Yiz_8PfWpOM",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 4609,
     "upload_date": "2025-10-13",
     "latent_x": -13.260000228881836,
@@ -7181,11 +7181,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "THAT ICELANDIC GUY.",
     "titulo": "Best EXPORT Settings for YOUTUBE Adobe Premiere Pro Tutorial",
     "enlace": "https://www.youtube.com/watch?v=0VRFtvECuiw",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 4609,
     "upload_date": "2020-08-10",
     "latent_x": -4.25,
@@ -7200,11 +7200,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Mike Russell",
     "titulo": "Premiere Pro Essential Sound Tutorial",
     "enlace": "https://www.youtube.com/watch?v=TbfwlIJOuLg",
-    "categoria_principal": "Audio Cleaning & Essential Sound",
+    "categoria_principal": "Audio Cleaning",
     "tags": [
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Audio Cleaning & Essential Sound (Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Audio Cleaning (Audio Cleaning)",
     "views": 4586,
     "upload_date": "2017-08-11",
     "latent_x": 31.190000534057617,
@@ -7222,9 +7222,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Audio Cleaning)",
     "views": 4414,
     "upload_date": "2022-08-10",
     "latent_x": 19.059999465942383,
@@ -7239,11 +7239,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Spencer Torok",
     "titulo": "Peter McKinnon Style Title in Premiere Pro",
     "enlace": "https://www.youtube.com/watch?v=BGBKUFzMrnw",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 4305,
     "upload_date": "2021-08-10",
     "latent_x": -32.540000915527344,
@@ -7258,11 +7258,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "JASHIKO",
     "titulo": "Add Essential Graphics to Premiere Pro (2021)",
     "enlace": "https://www.youtube.com/watch?v=Sa6qGxSl9ZI",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 4152,
     "upload_date": "2021-08-10",
     "latent_x": -2.240000009536743,
@@ -7277,11 +7277,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Jakob",
     "titulo": "Export Like a Pro: Music Video Render Settings for Maximum Quality (Premiere Pro)",
     "enlace": "https://www.youtube.com/watch?v=hmRawGCFX0g",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 4029,
     "upload_date": "2026-01-11",
     "latent_x": -24.700000762939453,
@@ -7296,11 +7296,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Josh Russell",
     "titulo": "Teaching Peter Mckinnon a faster way to speed ramp!",
     "enlace": "https://www.youtube.com/watch?v=gQIF02h9CHY",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 3944,
     "upload_date": "2018-08-11",
     "latent_x": -23.149999618530273,
@@ -7334,11 +7334,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Shortcut Academy",
     "titulo": "How to Speed Ramp in Premiere Pro [2026 Full Guide]",
     "enlace": "https://www.youtube.com/watch?v=h_YpVF46Zuk",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 3592,
     "upload_date": "2026-01-11",
     "latent_x": -4.039999961853027,
@@ -7356,9 +7356,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Transitions & Speed Ramping)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Transitions & Ramping)",
     "views": 3540,
     "upload_date": "2022-08-10",
     "latent_x": 74.58999633789062,
@@ -7373,11 +7373,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Bestoo",
     "titulo": "Essential Graphics and Title Texts Complete Tutorial in Adobe Premiere Pro",
     "enlace": "https://www.youtube.com/watch?v=3kc7HqaPeZY",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 3497,
     "upload_date": "2022-08-10",
     "latent_x": -16.780000686645508,
@@ -7395,9 +7395,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Audio Cleaning)",
     "views": 3477,
     "upload_date": "2025-08-09",
     "latent_x": 34.45000076293945,
@@ -7412,11 +7412,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "James Prince EN",
     "titulo": "How to make an Essential Graphics Title in Premiere Pro | EP 52",
     "enlace": "https://www.youtube.com/watch?v=rwGbBisuLI4",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 3317,
     "upload_date": "2023-08-10",
     "latent_x": -11.75,
@@ -7435,9 +7435,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Video Editing & Cutting",
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Video Editing & Cutting, Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Video Editing & Cutting, Audio Cleaning)",
     "views": 3179,
     "upload_date": "2018-08-11",
     "latent_x": 4.320000171661377,
@@ -7452,11 +7452,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Holmes Motion",
     "titulo": "Essential Graphics - After Effects and Premiere Pro tutorial",
     "enlace": "https://www.youtube.com/watch?v=jYBcm5zSvZo",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 3167,
     "upload_date": "2021-08-10",
     "latent_x": -27.8700008392334,
@@ -7471,11 +7471,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Premiere Gal",
     "titulo": "#AskGAL LIVE: How to Use The Essential Sound Panel in Adobe Premiere Pro CC",
     "enlace": "https://www.youtube.com/watch?v=2ICdyLnPLb8",
-    "categoria_principal": "Audio Cleaning & Essential Sound",
+    "categoria_principal": "Audio Cleaning",
     "tags": [
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Audio Cleaning & Essential Sound (Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Audio Cleaning (Audio Cleaning)",
     "views": 3092,
     "upload_date": "2018-08-11",
     "latent_x": 36.40999984741211,
@@ -7548,11 +7548,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Libsyn",
     "titulo": "The Essential Sound Panel — Fast Audio Processing For Podcasters! | Adobe Premiere Pro",
     "enlace": "https://www.youtube.com/watch?v=M-nTbQNtnHI",
-    "categoria_principal": "Audio Cleaning & Essential Sound",
+    "categoria_principal": "Audio Cleaning",
     "tags": [
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Audio Cleaning & Essential Sound (Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Audio Cleaning (Audio Cleaning)",
     "views": 2753,
     "upload_date": "2025-08-09",
     "latent_x": 41.61000061035156,
@@ -7567,11 +7567,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Your Fix Guide",
     "titulo": "How To Fix Essential Graphics Missing in Premiere Pro",
     "enlace": "https://www.youtube.com/watch?v=68PbKM3sKsI",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 2472,
     "upload_date": "2025-08-09",
     "latent_x": -15.979999542236328,
@@ -7586,11 +7586,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Bavegung",
     "titulo": "Repair Voice with the Essential Sound Panel - Premiere Pro TUTORIAL",
     "enlace": "https://www.youtube.com/watch?v=qvttNzbBlgg",
-    "categoria_principal": "Audio Cleaning & Essential Sound",
+    "categoria_principal": "Audio Cleaning",
     "tags": [
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Audio Cleaning & Essential Sound (Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Audio Cleaning (Audio Cleaning)",
     "views": 2238,
     "upload_date": "2022-08-10",
     "latent_x": 24.030000686645508,
@@ -7624,11 +7624,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Thrive Media",
     "titulo": "How To Export Videos In Premiere Pro (2026) Full Guide",
     "enlace": "https://www.youtube.com/watch?v=jdyw9kuhyEI",
-    "categoria_principal": "Exporting & Render Settings",
+    "categoria_principal": "Render Settings",
     "tags": [
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Exporting & Render Settings (Exporting & Render Settings)",
+    "categoria_descriptores": "Render Settings (Render Settings)",
     "views": 2036,
     "upload_date": "2025-11-12",
     "latent_x": -22.799999237060547,
@@ -7662,11 +7662,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Raj's Creator Catalyst",
     "titulo": "How to Speed Ramp Videos in Adobe Premiere Pro? (Beginners Guide)",
     "enlace": "https://www.youtube.com/watch?v=jsM4bY9m_nI",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 1875,
     "upload_date": "2026-02-10",
     "latent_x": -9.229999542236328,
@@ -7703,9 +7703,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Transitions & Speed Ramping)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Transitions & Ramping)",
     "views": 1852,
     "upload_date": "2024-08-09",
     "latent_x": -1.9800000190734863,
@@ -7742,9 +7742,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Audio Cleaning)",
     "views": 1847,
     "upload_date": "2021-08-10",
     "latent_x": 46.560001373291016,
@@ -7759,11 +7759,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Packt",
     "titulo": "Hands-On Adobe Premiere Pro 2020: Titles & Text in the Essential Graphics Panel | packtpub.com",
     "enlace": "https://www.youtube.com/watch?v=PezucQL7GcU",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 1842,
     "upload_date": "2020-08-10",
     "latent_x": -2.4700000286102295,
@@ -7781,9 +7781,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Transitions & Speed Ramping)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Transitions & Ramping)",
     "views": 1818,
     "upload_date": "2022-08-10",
     "latent_x": 70.69999694824219,
@@ -7798,11 +7798,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "That Media Prof",
     "titulo": "Bad Audio Destroying Your Videos? Try This Premiere Pro Trick",
     "enlace": "https://www.youtube.com/watch?v=RRQLpiwC3wI",
-    "categoria_principal": "Audio Cleaning & Essential Sound",
+    "categoria_principal": "Audio Cleaning",
     "tags": [
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Audio Cleaning & Essential Sound (Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Audio Cleaning (Audio Cleaning)",
     "views": 1730,
     "upload_date": "2025-12-12",
     "latent_x": 56.86000061035156,
@@ -7836,11 +7836,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Laubster Media",
     "titulo": "How to Create Smooth Speed Ramp Transitions in Premiere Pro | 2 Methods",
     "enlace": "https://www.youtube.com/watch?v=adTYDITcWVI",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 1609,
     "upload_date": "2022-08-10",
     "latent_x": 23.3799991607666,
@@ -7855,11 +7855,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Jack Cole",
     "titulo": "How to make SPEED RAMP Transitions in Adobe Premiere Pro | Tutorial",
     "enlace": "https://www.youtube.com/watch?v=NxHJVVYMLKI",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 1593,
     "upload_date": "2018-08-11",
     "latent_x": 9.380000114440918,
@@ -7893,11 +7893,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Ivisualpro (Adobe Premiere Pro, After Effects)",
     "titulo": "Legacy Titles & Essential Graphics Explained - premiere pro Tutorial",
     "enlace": "https://www.youtube.com/watch?v=ROqCFV5G2Yc",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 1333,
     "upload_date": "2022-08-10",
     "latent_x": -33.68000030517578,
@@ -7915,9 +7915,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Color Grading & Lumetri",
     "tags": [
       "Color Grading & Lumetri",
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Color Grading & Lumetri (Color Grading & Lumetri, Transitions & Speed Ramping)",
+    "categoria_descriptores": "Color Grading & Lumetri (Color Grading & Lumetri, Transitions & Ramping)",
     "views": 1292,
     "upload_date": "2025-08-09",
     "latent_x": 9.930000305175781,
@@ -7932,11 +7932,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "PostFocus",
     "titulo": "Stunning SPEED RAMP in Premiere Pro (1 minute tutorial)",
     "enlace": "https://www.youtube.com/watch?v=cqxvuIw5_EM",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 1255,
     "upload_date": "2022-08-10",
     "latent_x": 7.099999904632568,
@@ -7951,11 +7951,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Hdesigntutorials",
     "titulo": "The Ultimate Titles Pack for Premiere Pro Essential Graphics",
     "enlace": "https://www.youtube.com/watch?v=iTnbkJPYOsg",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 1186,
     "upload_date": "2020-08-10",
     "latent_x": -46.0099983215332,
@@ -7970,11 +7970,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "TechEdge Wave",
     "titulo": "✅ How to Create Titles in Adobe Premiere Pro (2026 Tutorial for US Creators) 📝",
     "enlace": "https://www.youtube.com/watch?v=9k-VXDAO-mE",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 1145,
     "upload_date": "2026-01-11",
     "latent_x": -26.959999084472656,
@@ -7989,11 +7989,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "EditsInMinutes",
     "titulo": "Create SPEED RAMP transitions in Premiere Pro! [2024]",
     "enlace": "https://www.youtube.com/watch?v=tg5LOSWbkF8",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 1125,
     "upload_date": "2025-08-09",
     "latent_x": 6.130000114440918,
@@ -8027,11 +8027,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "HEARTNESS",
     "titulo": "Premiere Pro Speed Ramp Tutorial | Fast and Easy Tips",
     "enlace": "https://www.youtube.com/watch?v=ZtDxQU8KZsM",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 1052,
     "upload_date": "2025-08-09",
     "latent_x": 8.619999885559082,
@@ -8084,11 +8084,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Maxwell Ridgeway",
     "titulo": "How to Instantly Improve Audio in Premiere Pro (Essential Sound)",
     "enlace": "https://www.youtube.com/watch?v=BZy-LT9bg04",
-    "categoria_principal": "Audio Cleaning & Essential Sound",
+    "categoria_principal": "Audio Cleaning",
     "tags": [
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Audio Cleaning & Essential Sound (Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Audio Cleaning (Audio Cleaning)",
     "views": 887,
     "upload_date": "2025-08-09",
     "latent_x": 36.18000030517578,
@@ -8122,11 +8122,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Adobe Video",
     "titulo": "Creating Effective Sound Design In Premiere Pro | Essential Workflows with Cinecom | Adobe Video",
     "enlace": "https://www.youtube.com/watch?v=QtcZZXkUgDk",
-    "categoria_principal": "Audio Cleaning & Essential Sound",
+    "categoria_principal": "Audio Cleaning",
     "tags": [
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Audio Cleaning & Essential Sound (Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Audio Cleaning (Audio Cleaning)",
     "views": 714,
     "upload_date": "2021-08-10",
     "latent_x": 7.150000095367432,
@@ -8144,9 +8144,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Exporting & Render Settings)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Render Settings)",
     "views": 695,
     "upload_date": "2026-05-11",
     "latent_x": 35.849998474121094,
@@ -8164,9 +8164,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Exporting & Render Settings)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Render Settings)",
     "views": 672,
     "upload_date": "2017-08-11",
     "latent_x": 28.059999465942383,
@@ -8181,11 +8181,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Forty Frames Learning",
     "titulo": "Using Essential Graphics for Text in Premiere Pro CC",
     "enlace": "https://www.youtube.com/watch?v=D5H0TYjNJjQ",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 656,
     "upload_date": "2021-08-10",
     "latent_x": -2.5299999713897705,
@@ -8203,9 +8203,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Exporting & Render Settings"
+      "Render Settings"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Exporting & Render Settings)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Render Settings)",
     "views": 467,
     "upload_date": "2026-07-26",
     "latent_x": -9.359999656677246,
@@ -8220,11 +8220,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "SoftTalk",
     "titulo": "QuickTip 39| Creating titles templates with the Essential Graphics panel in After Effects",
     "enlace": "https://www.youtube.com/watch?v=A7B0zc8H-5M",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 442,
     "upload_date": "2017-08-11",
     "latent_x": -39.959999084472656,
@@ -8278,11 +8278,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Blue Cube",
     "titulo": "ESSENTIAL SOUND | Tricks No One Tells You in Premiere Pro",
     "enlace": "https://www.youtube.com/watch?v=bKYS7Np75BE",
-    "categoria_principal": "Audio Cleaning & Essential Sound",
+    "categoria_principal": "Audio Cleaning",
     "tags": [
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Audio Cleaning & Essential Sound (Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Audio Cleaning (Audio Cleaning)",
     "views": 393,
     "upload_date": "2026-04-11",
     "latent_x": 24.899999618530273,
@@ -8316,11 +8316,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Media Stock",
     "titulo": "Advance title : Premiere Pro tutorial (Essential graphics template)",
     "enlace": "https://www.youtube.com/watch?v=ECBOkXFRr2U",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 332,
     "upload_date": "2018-08-11",
     "latent_x": -0.8199999928474426,
@@ -8338,9 +8338,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Audio Cleaning)",
     "views": 324,
     "upload_date": "2021-08-10",
     "latent_x": 23.219999313354492,
@@ -8355,11 +8355,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Graded Picture Playground",
     "titulo": "ADOBE PREMIERE PRO TUTORIAL- ESSENTIAL GRAPHICS PANEL",
     "enlace": "https://www.youtube.com/watch?v=JwvQH8jSjrg",
-    "categoria_principal": "Titles & Essential Graphics",
+    "categoria_principal": "Titles & Graphics",
     "tags": [
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Titles & Essential Graphics (Titles & Essential Graphics)",
+    "categoria_descriptores": "Titles & Graphics (Titles & Graphics)",
     "views": 217,
     "upload_date": "2021-08-10",
     "latent_x": -18.56999969482422,
@@ -8393,11 +8393,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "How To Solve Pro",
     "titulo": "How to Speed Ramp in Premiere Pro Full Guide 2026",
     "enlace": "https://www.youtube.com/watch?v=2-Mrdj5YBt8",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 202,
     "upload_date": "2026-06-10",
     "latent_x": -4.039999961853027,
@@ -8435,9 +8435,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Titles & Essential Graphics"
+      "Titles & Graphics"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Titles & Essential Graphics)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Titles & Graphics)",
     "views": 163,
     "upload_date": "2021-08-10",
     "latent_x": -47.02000045776367,
@@ -8455,9 +8455,9 @@ const PREMIERE_TUTORIALS_DATA = [
     "categoria_principal": "Video Editing & Cutting",
     "tags": [
       "Video Editing & Cutting",
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Transitions & Speed Ramping)",
+    "categoria_descriptores": "Video Editing & Cutting (Video Editing & Cutting, Transitions & Ramping)",
     "views": 153,
     "upload_date": "2026-04-11",
     "latent_x": 76.45999908447266,
@@ -8472,11 +8472,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Streaming Media",
     "titulo": "First Look: Premiere Pro's New Essential Sound Panel",
     "enlace": "https://www.youtube.com/watch?v=w9JcppjWlUg",
-    "categoria_principal": "Audio Cleaning & Essential Sound",
+    "categoria_principal": "Audio Cleaning",
     "tags": [
-      "Audio Cleaning & Essential Sound"
+      "Audio Cleaning"
     ],
-    "categoria_descriptores": "Audio Cleaning & Essential Sound (Audio Cleaning & Essential Sound)",
+    "categoria_descriptores": "Audio Cleaning (Audio Cleaning)",
     "views": 132,
     "upload_date": "2017-08-11",
     "latent_x": 17.3700008392334,
@@ -8491,11 +8491,11 @@ const PREMIERE_TUTORIALS_DATA = [
     "autor": "Highlights Templates",
     "titulo": "Cine Ramp Pro – Cinematic Speed Ramp Toolkit for After Effects & Premiere Pro",
     "enlace": "https://www.youtube.com/watch?v=YxDAA6rk4mY",
-    "categoria_principal": "Transitions & Speed Ramping",
+    "categoria_principal": "Transitions & Ramping",
     "tags": [
-      "Transitions & Speed Ramping"
+      "Transitions & Ramping"
     ],
-    "categoria_descriptores": "Transitions & Speed Ramping (Transitions & Speed Ramping)",
+    "categoria_descriptores": "Transitions & Ramping (Transitions & Ramping)",
     "views": 60,
     "upload_date": "2025-12-12",
     "latent_x": 21.950000762939453,
@@ -8524,4 +8524,3 @@ const PREMIERE_TUTORIALS_DATA = [
     "duracion": "13:01"
   }
 ];
-window.PREMIERE_DATA = PREMIERE_TUTORIALS_DATA;

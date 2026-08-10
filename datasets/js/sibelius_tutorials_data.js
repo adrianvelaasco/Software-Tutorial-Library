@@ -43,11 +43,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Adam Neely",
     "titulo": "10 minutes of writing music in Sibelius 6 (...and that's basically it...)",
     "enlace": "https://www.youtube.com/watch?v=ikY5ht-gnwQ",
-    "categoria_principal": "Keyboard Shortcuts & Speed",
+    "categoria_principal": "Keyboard Shortcuts",
     "tags": [
-      "Keyboard Shortcuts & Speed"
+      "Keyboard Shortcuts"
     ],
-    "categoria_descriptores": "Keyboard Shortcuts & Speed (Keyboard Shortcuts & Speed)",
+    "categoria_descriptores": "Keyboard Shortcuts (Keyboard Shortcuts)",
     "views": 290294,
     "upload_date": "2016-08-11",
     "latent_x": -103.7300033569336,
@@ -62,11 +62,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Midnight Music",
     "titulo": "Sibelius Tutorial: Drum parts from scratch",
     "enlace": "https://www.youtube.com/watch?v=3AsWCqx2yB8",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup)",
+    "categoria_descriptores": "Score Formatting (Score Formatting)",
     "views": 160458,
     "upload_date": "2010-08-13",
     "latent_x": 37.09000015258789,
@@ -81,12 +81,12 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Sebastián Pugliese OST",
     "titulo": "SIBELIUS for Beginners - Music notation, functions and shortcuts",
     "enlace": "https://www.youtube.com/watch?v=DQpY-u4sSYo",
-    "categoria_principal": "Keyboard Shortcuts & Speed",
+    "categoria_principal": "Keyboard Shortcuts",
     "tags": [
-      "Keyboard Shortcuts & Speed",
+      "Keyboard Shortcuts",
       "Lyrics & Text Annotations"
     ],
-    "categoria_descriptores": "Keyboard Shortcuts & Speed (Keyboard Shortcuts & Speed, Lyrics & Text Annotations)",
+    "categoria_descriptores": "Keyboard Shortcuts (Keyboard Shortcuts, Lyrics & Text Annotations)",
     "views": 152236,
     "upload_date": "2018-08-11",
     "latent_x": -97.33999633789062,
@@ -142,9 +142,9 @@ const SIBELIUS_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Score Formatting & Page Setup)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Score Formatting)",
     "views": 131142,
     "upload_date": "2014-08-12",
     "latent_x": -51.310001373291016,
@@ -163,9 +163,9 @@ const SIBELIUS_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Note Input Methods",
-      "Keyboard Shortcuts & Speed"
+      "Keyboard Shortcuts"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Note Input Methods, Keyboard Shortcuts & Speed)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Note Input Methods, Keyboard Shortcuts)",
     "views": 109250,
     "upload_date": "2017-08-11",
     "latent_x": -41.189998626708984,
@@ -183,11 +183,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Score Formatting & Page Setup",
+      "Score Formatting",
       "Playback",
       "Arranging & Orchestration"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Score Formatting & Page Setup, Playback, Arranging & Orchestration)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Score Formatting, Playback, Arranging & Orchestration)",
     "views": 104583,
     "upload_date": "2014-08-12",
     "latent_x": -72.97000122070312,
@@ -280,11 +280,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Berklee Online",
     "titulo": "How to Manually Adjust the Layout of a Score in Sibelius | Music Notation Software | Berklee Online",
     "enlace": "https://www.youtube.com/watch?v=VkIPCQwceWk",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup)",
+    "categoria_descriptores": "Score Formatting (Score Formatting)",
     "views": 61028,
     "upload_date": "2021-08-10",
     "latent_x": 14.829999923706055,
@@ -299,11 +299,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "MrActuarialPianist",
     "titulo": "Sibelius 7 Tutorial for Composers Part I",
     "enlace": "https://www.youtube.com/watch?v=I-WuQc-72TY",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup)",
+    "categoria_descriptores": "Score Formatting (Score Formatting)",
     "views": 60714,
     "upload_date": "2012-08-12",
     "latent_x": -23.520000457763672,
@@ -490,11 +490,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Andrey Stolyarov",
     "titulo": "🎵3 Tips for Making Your Score Layout Perfect - 🎼 Sibelius Ultimate Tutorial",
     "enlace": "https://www.youtube.com/watch?v=HFaAA6uPSo4",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup)",
+    "categoria_descriptores": "Score Formatting (Score Formatting)",
     "views": 29844,
     "upload_date": "2020-08-10",
     "latent_x": -19.5,
@@ -509,12 +509,12 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Avid",
     "titulo": "Sibelius Tips & Tricks: Using NotePerformer",
     "enlace": "https://www.youtube.com/watch?v=tNlsAjLjdhI",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup",
+      "Score Formatting",
       "Playback"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup, Playback)",
+    "categoria_descriptores": "Score Formatting (Score Formatting, Playback)",
     "views": 29761,
     "upload_date": "2019-08-11",
     "latent_x": 39.119998931884766,
@@ -548,11 +548,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Sibelius Prático",
     "titulo": "Sibelius First - Tutorial for Beginners",
     "enlace": "https://www.youtube.com/watch?v=5ns0SlEGCUo",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup)",
+    "categoria_descriptores": "Score Formatting (Score Formatting)",
     "views": 27393,
     "upload_date": "2022-08-10",
     "latent_x": -17.299999237060547,
@@ -587,11 +587,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Midnight Music",
     "titulo": "How to Create Short Pieces on One Page in Sibelius",
     "enlace": "https://www.youtube.com/watch?v=iDUF6UkI3T4",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup)",
+    "categoria_descriptores": "Score Formatting (Score Formatting)",
     "views": 24763,
     "upload_date": "2014-08-12",
     "latent_x": -41.619998931884766,
@@ -644,11 +644,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "xlfph",
     "titulo": "Sibelius System & Page Formatting",
     "enlace": "https://www.youtube.com/watch?v=LkSjx2f7kX4",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup)",
+    "categoria_descriptores": "Score Formatting (Score Formatting)",
     "views": 23020,
     "upload_date": "2020-08-10",
     "latent_x": 2.069999933242798,
@@ -666,9 +666,9 @@ const SIBELIUS_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Score Formatting & Page Setup)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Score Formatting)",
     "views": 23003,
     "upload_date": "2018-08-11",
     "latent_x": -47.22999954223633,
@@ -683,12 +683,12 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Avid",
     "titulo": "Avid Support: Improving Avid Sibelius 7 Playback",
     "enlace": "https://www.youtube.com/watch?v=9W6NMXt3zf0",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup",
+      "Score Formatting",
       "Playback"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup, Playback)",
+    "categoria_descriptores": "Score Formatting (Score Formatting, Playback)",
     "views": 22370,
     "upload_date": "2013-08-12",
     "latent_x": -33.619998931884766,
@@ -837,12 +837,12 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "John Montgomery",
     "titulo": "Sibelius 6 - Chord Symbols  & Guitar Diagrams | SOFTPLANET LTD",
     "enlace": "https://www.youtube.com/watch?v=sipNf3Wgzq0",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup",
+      "Score Formatting",
       "Lead Sheets"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup, Lead Sheets)",
+    "categoria_descriptores": "Score Formatting (Score Formatting, Lead Sheets)",
     "views": 18506,
     "upload_date": "2011-08-13",
     "latent_x": 40.43000030517578,
@@ -914,11 +914,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "David MacDonald",
     "titulo": "Graphic Notation Workflow with Sibelius and Adobe Illustrator",
     "enlace": "https://www.youtube.com/watch?v=BemOuHbgFr8",
-    "categoria_principal": "Keyboard Shortcuts & Speed",
+    "categoria_principal": "Keyboard Shortcuts",
     "tags": [
-      "Keyboard Shortcuts & Speed"
+      "Keyboard Shortcuts"
     ],
-    "categoria_descriptores": "Keyboard Shortcuts & Speed (Keyboard Shortcuts & Speed)",
+    "categoria_descriptores": "Keyboard Shortcuts (Keyboard Shortcuts)",
     "views": 15947,
     "upload_date": "2018-08-11",
     "latent_x": -64.87999725341797,
@@ -971,11 +971,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Music Hacks with Meg",
     "titulo": "10 Essential Keyboard Shortcuts for Sibelius",
     "enlace": "https://www.youtube.com/watch?v=j9tAiu484kc",
-    "categoria_principal": "Keyboard Shortcuts & Speed",
+    "categoria_principal": "Keyboard Shortcuts",
     "tags": [
-      "Keyboard Shortcuts & Speed"
+      "Keyboard Shortcuts"
     ],
-    "categoria_descriptores": "Keyboard Shortcuts & Speed (Keyboard Shortcuts & Speed)",
+    "categoria_descriptores": "Keyboard Shortcuts (Keyboard Shortcuts)",
     "views": 15749,
     "upload_date": "2020-08-10",
     "latent_x": -94.66999816894531,
@@ -1180,11 +1180,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Score Circuit",
     "titulo": "Fast Sibelius Layout Tips",
     "enlace": "https://www.youtube.com/watch?v=9h6Qps4l6EU",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup)",
+    "categoria_descriptores": "Score Formatting (Score Formatting)",
     "views": 13439,
     "upload_date": "2023-08-10",
     "latent_x": -3.809999942779541,
@@ -1374,9 +1374,9 @@ const SIBELIUS_TUTORIALS_DATA = [
     "categoria_principal": "Note Input Methods",
     "tags": [
       "Note Input Methods",
-      "Keyboard Shortcuts & Speed"
+      "Keyboard Shortcuts"
     ],
-    "categoria_descriptores": "Note Input Methods (Note Input Methods, Keyboard Shortcuts & Speed)",
+    "categoria_descriptores": "Note Input Methods (Note Input Methods, Keyboard Shortcuts)",
     "views": 11750,
     "upload_date": "2023-08-10",
     "latent_x": -10.800000190734863,
@@ -1486,11 +1486,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Andrey Stolyarov",
     "titulo": "Must-Know Shortcuts for Fast Workflow! (Sibelius Ultimate Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=vdEhkX4Jc88",
-    "categoria_principal": "Keyboard Shortcuts & Speed",
+    "categoria_principal": "Keyboard Shortcuts",
     "tags": [
-      "Keyboard Shortcuts & Speed"
+      "Keyboard Shortcuts"
     ],
-    "categoria_descriptores": "Keyboard Shortcuts & Speed (Keyboard Shortcuts & Speed)",
+    "categoria_descriptores": "Keyboard Shortcuts (Keyboard Shortcuts)",
     "views": 10933,
     "upload_date": "2021-08-10",
     "latent_x": -76.25,
@@ -1505,13 +1505,13 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "macProVideoDotCom",
     "titulo": "Sibelius 7 102: Piano Score Project - 23. Document Setup and Layout",
     "enlace": "https://www.youtube.com/watch?v=GKSGCIa0g4E",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup",
+      "Score Formatting",
       "Arranging & Orchestration",
       "Lyrics & Text Annotations"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup, Arranging & Orchestration, Lyrics & Text Annotations)",
+    "categoria_descriptores": "Score Formatting (Score Formatting, Arranging & Orchestration, Lyrics & Text Annotations)",
     "views": 10703,
     "upload_date": "2012-08-12",
     "latent_x": -9.670000076293945,
@@ -1529,10 +1529,10 @@ const SIBELIUS_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Score Formatting & Page Setup",
+      "Score Formatting",
       "Lyrics & Text Annotations"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Score Formatting & Page Setup, Lyrics & Text Annotations)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Score Formatting, Lyrics & Text Annotations)",
     "views": 10239,
     "upload_date": "2020-08-10",
     "latent_x": -13.819999694824219,
@@ -1681,12 +1681,12 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Jazzy Jorge",
     "titulo": "Changing chord symbols in Sibelius 7",
     "enlace": "https://www.youtube.com/watch?v=FRPdTHfXp94",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup",
+      "Score Formatting",
       "Lead Sheets"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup, Lead Sheets)",
+    "categoria_descriptores": "Score Formatting (Score Formatting, Lead Sheets)",
     "views": 8472,
     "upload_date": "2014-08-12",
     "latent_x": 36.59000015258789,
@@ -1739,11 +1739,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Tim Poulin",
     "titulo": "Sibelius Roman Numerals Shortcuts",
     "enlace": "https://www.youtube.com/watch?v=Ay8PCGpHH6k",
-    "categoria_principal": "Keyboard Shortcuts & Speed",
+    "categoria_principal": "Keyboard Shortcuts",
     "tags": [
-      "Keyboard Shortcuts & Speed"
+      "Keyboard Shortcuts"
     ],
-    "categoria_descriptores": "Keyboard Shortcuts & Speed (Keyboard Shortcuts & Speed)",
+    "categoria_descriptores": "Keyboard Shortcuts (Keyboard Shortcuts)",
     "views": 8261,
     "upload_date": "2012-08-12",
     "latent_x": -80.22000122070312,
@@ -1758,11 +1758,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Score Circuit",
     "titulo": "Quickly Clean Up a Sibelius Score",
     "enlace": "https://www.youtube.com/watch?v=dQoBwDi3KpI",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup)",
+    "categoria_descriptores": "Score Formatting (Score Formatting)",
     "views": 8059,
     "upload_date": "2023-08-10",
     "latent_x": -10.920000076293945,
@@ -1777,11 +1777,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Andrey Stolyarov",
     "titulo": "How To Create Custom Score Templates in Sibelius Ultimate (Sibelius Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=7DzTjj4awpY",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup)",
+    "categoria_descriptores": "Score Formatting (Score Formatting)",
     "views": 7892,
     "upload_date": "2022-08-10",
     "latent_x": -39.79999923706055,
@@ -1796,11 +1796,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Score Circuit",
     "titulo": "Sibelius Parts - part 1",
     "enlace": "https://www.youtube.com/watch?v=d-2GCEVKp3Y",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup)",
+    "categoria_descriptores": "Score Formatting (Score Formatting)",
     "views": 7818,
     "upload_date": "2023-08-10",
     "latent_x": 18.219999313354492,
@@ -1853,12 +1853,12 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Score Circuit",
     "titulo": "Sibelius Select Like a Pro",
     "enlace": "https://www.youtube.com/watch?v=CGkvEwXmd1g",
-    "categoria_principal": "Keyboard Shortcuts & Speed",
+    "categoria_principal": "Keyboard Shortcuts",
     "tags": [
-      "Keyboard Shortcuts & Speed",
-      "Score Formatting & Page Setup"
+      "Keyboard Shortcuts",
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Keyboard Shortcuts & Speed (Keyboard Shortcuts & Speed, Score Formatting & Page Setup)",
+    "categoria_descriptores": "Keyboard Shortcuts (Keyboard Shortcuts, Score Formatting)",
     "views": 7236,
     "upload_date": "2023-08-10",
     "latent_x": -105.0199966430664,
@@ -1930,11 +1930,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "LoNoteMusic",
     "titulo": "Sibelius 7.5 Tutorial Series - Working with PARTS",
     "enlace": "https://www.youtube.com/watch?v=HZzr3a2EndE",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup)",
+    "categoria_descriptores": "Score Formatting (Score Formatting)",
     "views": 6532,
     "upload_date": "2022-08-10",
     "latent_x": 18.75,
@@ -2006,11 +2006,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "İlkay Bora Öder",
     "titulo": "Lightning Sibelius - How to Prepare Orchestral Parts",
     "enlace": "https://www.youtube.com/watch?v=gv8KFgLZXeQ",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup)",
+    "categoria_descriptores": "Score Formatting (Score Formatting)",
     "views": 6190,
     "upload_date": "2023-08-10",
     "latent_x": 15.270000457763672,
@@ -2025,11 +2025,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Berklee Online",
     "titulo": "How to Use Engraving Rules in Sibelius | Music Notation Software | Berklee Online",
     "enlace": "https://www.youtube.com/watch?v=ZnvYxFbnEus",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup)",
+    "categoria_descriptores": "Score Formatting (Score Formatting)",
     "views": 6126,
     "upload_date": "2021-08-10",
     "latent_x": 35.459999084472656,
@@ -2063,11 +2063,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Avid",
     "titulo": "The New Sibelius — Power and Performance for Your Music",
     "enlace": "https://www.youtube.com/watch?v=ClRv22fcrwQ",
-    "categoria_principal": "Keyboard Shortcuts & Speed",
+    "categoria_principal": "Keyboard Shortcuts",
     "tags": [
-      "Keyboard Shortcuts & Speed"
+      "Keyboard Shortcuts"
     ],
-    "categoria_descriptores": "Keyboard Shortcuts & Speed (Keyboard Shortcuts & Speed)",
+    "categoria_descriptores": "Keyboard Shortcuts (Keyboard Shortcuts)",
     "views": 6011,
     "upload_date": "2020-08-10",
     "latent_x": -80.81999969482422,
@@ -2330,14 +2330,14 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "macProVideoDotCom",
     "titulo": "Sibelius 7 102: Piano Score Project - 14. Enharmonic Notes and Chords",
     "enlace": "https://www.youtube.com/watch?v=UuHPzLbSiz0",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup",
+      "Score Formatting",
       "Arranging & Orchestration",
       "Lead Sheets",
       "Lyrics & Text Annotations"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup, Arranging & Orchestration, Lead Sheets, Lyrics & Text Annotations)",
+    "categoria_descriptores": "Score Formatting (Score Formatting, Arranging & Orchestration, Lead Sheets, Lyrics & Text Annotations)",
     "views": 5269,
     "upload_date": "2012-08-12",
     "latent_x": 9.739999771118164,
@@ -2371,11 +2371,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "İlkay Bora Öder",
     "titulo": "Lightning Sibelius - How to Prepare Multiple Movement Music Piece Layout?",
     "enlace": "https://www.youtube.com/watch?v=MkAu-yZxo9Y",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup)",
+    "categoria_descriptores": "Score Formatting (Score Formatting)",
     "views": 5204,
     "upload_date": "2023-08-10",
     "latent_x": 4.559999942779541,
@@ -2466,12 +2466,12 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Graphical MIDI Tools",
     "titulo": "Realistic guitar strumming in Sibelius",
     "enlace": "https://www.youtube.com/watch?v=mXYygqTwNnE",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup",
+      "Score Formatting",
       "Lead Sheets"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup, Lead Sheets)",
+    "categoria_descriptores": "Score Formatting (Score Formatting, Lead Sheets)",
     "views": 4704,
     "upload_date": "2023-08-10",
     "latent_x": 26.809999465942383,
@@ -2486,11 +2486,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Score Circuit",
     "titulo": "Sibelius Pro Document Setup",
     "enlace": "https://www.youtube.com/watch?v=nWulHxk8HEk",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup)",
+    "categoria_descriptores": "Score Formatting (Score Formatting)",
     "views": 4669,
     "upload_date": "2023-08-10",
     "latent_x": -26.899999618530273,
@@ -2620,11 +2620,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Score Circuit",
     "titulo": "Sibelius House Styles",
     "enlace": "https://www.youtube.com/watch?v=BH9uZbbTsuY",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup)",
+    "categoria_descriptores": "Score Formatting (Score Formatting)",
     "views": 4237,
     "upload_date": "2023-08-10",
     "latent_x": 18.020000457763672,
@@ -2696,11 +2696,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "souzamusicvideos",
     "titulo": "Sibelius - how to create a usable keyboard or guitar part",
     "enlace": "https://www.youtube.com/watch?v=q10w36Wan_s",
-    "categoria_principal": "Keyboard Shortcuts & Speed",
+    "categoria_principal": "Keyboard Shortcuts",
     "tags": [
-      "Keyboard Shortcuts & Speed"
+      "Keyboard Shortcuts"
     ],
-    "categoria_descriptores": "Keyboard Shortcuts & Speed (Keyboard Shortcuts & Speed)",
+    "categoria_descriptores": "Keyboard Shortcuts (Keyboard Shortcuts)",
     "views": 3864,
     "upload_date": "2011-08-13",
     "latent_x": -84.22000122070312,
@@ -2734,12 +2734,12 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Hilary Burt Music",
     "titulo": "Sibelius Page Layout - top tips for making your lead sheet look super professional!",
     "enlace": "https://www.youtube.com/watch?v=pXYOgvz9BF8",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup",
+      "Score Formatting",
       "Lead Sheets"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup, Lead Sheets)",
+    "categoria_descriptores": "Score Formatting (Score Formatting, Lead Sheets)",
     "views": 3730,
     "upload_date": "2024-08-09",
     "latent_x": 24.920000076293945,
@@ -2793,12 +2793,12 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Avid",
     "titulo": "Get Started Fast with Sibelius: Creating Score Subsets",
     "enlace": "https://www.youtube.com/watch?v=snbzapuo2rw",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup",
+      "Score Formatting",
       "Arranging & Orchestration"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup, Arranging & Orchestration)",
+    "categoria_descriptores": "Score Formatting (Score Formatting, Arranging & Orchestration)",
     "views": 3536,
     "upload_date": "2023-08-10",
     "latent_x": -37.02000045776367,
@@ -2871,12 +2871,12 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Avid",
     "titulo": "Sibelius for Mobile on iPad: AI-Powered Chord Symbols",
     "enlace": "https://www.youtube.com/watch?v=ASJjoaxFtwo",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup",
+      "Score Formatting",
       "Lead Sheets"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup, Lead Sheets)",
+    "categoria_descriptores": "Score Formatting (Score Formatting, Lead Sheets)",
     "views": 3195,
     "upload_date": "2024-08-09",
     "latent_x": 32.369998931884766,
@@ -2913,10 +2913,10 @@ const SIBELIUS_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Score Formatting & Page Setup",
+      "Score Formatting",
       "Arranging & Orchestration"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Score Formatting & Page Setup, Arranging & Orchestration)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Score Formatting, Arranging & Orchestration)",
     "views": 3151,
     "upload_date": "2021-08-10",
     "latent_x": -54.779998779296875,
@@ -3009,11 +3009,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "xlfph",
     "titulo": "Sibelius Parts",
     "enlace": "https://www.youtube.com/watch?v=jswi5Ta06_0",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup)",
+    "categoria_descriptores": "Score Formatting (Score Formatting)",
     "views": 2791,
     "upload_date": "2020-08-10",
     "latent_x": 18.219999313354492,
@@ -3066,12 +3066,12 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Avid",
     "titulo": "Sibelius Quick Tips: Adding Titles",
     "enlace": "https://www.youtube.com/watch?v=SkfEJNKgv8Y",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup",
+      "Score Formatting",
       "Lyrics & Text Annotations"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup, Lyrics & Text Annotations)",
+    "categoria_descriptores": "Score Formatting (Score Formatting, Lyrics & Text Annotations)",
     "views": 2484,
     "upload_date": "2025-08-09",
     "latent_x": -2.059999942779541,
@@ -3257,11 +3257,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "LoNoteMusic",
     "titulo": "Sibelius 7.5 Tutorial Series - Writing for Video",
     "enlace": "https://www.youtube.com/watch?v=1QtTdaVCuSo",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup)",
+    "categoria_descriptores": "Score Formatting (Score Formatting)",
     "views": 2001,
     "upload_date": "2022-08-10",
     "latent_x": -46.81999969482422,
@@ -3314,11 +3314,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Avi Blum Music",
     "titulo": "5 Sibelius Shortcuts I Use to Write Efficiently | Music Notation Software",
     "enlace": "https://www.youtube.com/watch?v=bl0fTV2epbo",
-    "categoria_principal": "Keyboard Shortcuts & Speed",
+    "categoria_principal": "Keyboard Shortcuts",
     "tags": [
-      "Keyboard Shortcuts & Speed"
+      "Keyboard Shortcuts"
     ],
-    "categoria_descriptores": "Keyboard Shortcuts & Speed (Keyboard Shortcuts & Speed)",
+    "categoria_descriptores": "Keyboard Shortcuts (Keyboard Shortcuts)",
     "views": 1920,
     "upload_date": "2021-08-10",
     "latent_x": -110.91000366210938,
@@ -3431,9 +3431,9 @@ const SIBELIUS_TUTORIALS_DATA = [
     "categoria_principal": "Note Input Methods",
     "tags": [
       "Note Input Methods",
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Note Input Methods (Note Input Methods, Score Formatting & Page Setup)",
+    "categoria_descriptores": "Note Input Methods (Note Input Methods, Score Formatting)",
     "views": 1695,
     "upload_date": "2025-08-09",
     "latent_x": -6.480000019073486,
@@ -3451,9 +3451,9 @@ const SIBELIUS_TUTORIALS_DATA = [
     "categoria_principal": "Note Input Methods",
     "tags": [
       "Note Input Methods",
-      "Keyboard Shortcuts & Speed"
+      "Keyboard Shortcuts"
     ],
-    "categoria_descriptores": "Note Input Methods (Note Input Methods, Keyboard Shortcuts & Speed)",
+    "categoria_descriptores": "Note Input Methods (Note Input Methods, Keyboard Shortcuts)",
     "views": 1689,
     "upload_date": "2019-08-11",
     "latent_x": -26.989999771118164,
@@ -3488,11 +3488,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Ruth Almgill",
     "titulo": "Sibelius tutorial: inputting notes",
     "enlace": "https://www.youtube.com/watch?v=wB1hw9vcgAE",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup)",
+    "categoria_descriptores": "Score Formatting (Score Formatting)",
     "views": 1647,
     "upload_date": "2013-08-12",
     "latent_x": -22.219999313354492,
@@ -3605,10 +3605,10 @@ const SIBELIUS_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Score Formatting & Page Setup",
+      "Score Formatting",
       "Playback"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Score Formatting & Page Setup, Playback)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Score Formatting, Playback)",
     "views": 1439,
     "upload_date": "2022-08-10",
     "latent_x": -73.36000061035156,
@@ -3623,11 +3623,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Educator.com",
     "titulo": "Sibelius: Formatting",
     "enlace": "https://www.youtube.com/watch?v=4LrceVekoiI",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup)",
+    "categoria_descriptores": "Score Formatting (Score Formatting)",
     "views": 1435,
     "upload_date": "2013-08-12",
     "latent_x": -3.130000114440918,
@@ -3737,11 +3737,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "David McCoy",
     "titulo": "Sibelius Tutorial 12 - Preparing a score for performance by virtual choir/band/ensemble",
     "enlace": "https://www.youtube.com/watch?v=VX6_MkyHa_E",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup)",
+    "categoria_descriptores": "Score Formatting (Score Formatting)",
     "views": 1297,
     "upload_date": "2020-08-10",
     "latent_x": 2.6600000858306885,
@@ -3775,12 +3775,12 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "DrPreeceMusic",
     "titulo": "How to Input Chord Symbols into Sibelius",
     "enlace": "https://www.youtube.com/watch?v=WtmcBrCbaJM",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup",
+      "Score Formatting",
       "Lead Sheets"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup, Lead Sheets)",
+    "categoria_descriptores": "Score Formatting (Score Formatting, Lead Sheets)",
     "views": 1184,
     "upload_date": "2023-08-10",
     "latent_x": 20.34000015258789,
@@ -3910,11 +3910,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Dr.K Studio",
     "titulo": "Sibelius Shortcuts",
     "enlace": "https://www.youtube.com/watch?v=d8zTY7CTqwI",
-    "categoria_principal": "Keyboard Shortcuts & Speed",
+    "categoria_principal": "Keyboard Shortcuts",
     "tags": [
-      "Keyboard Shortcuts & Speed"
+      "Keyboard Shortcuts"
     ],
-    "categoria_descriptores": "Keyboard Shortcuts & Speed (Keyboard Shortcuts & Speed)",
+    "categoria_descriptores": "Keyboard Shortcuts (Keyboard Shortcuts)",
     "views": 1038,
     "upload_date": "2019-08-11",
     "latent_x": -87.12999725341797,
@@ -4100,11 +4100,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Don Freund",
     "titulo": "Don Freund's Sibelius score formatting tips",
     "enlace": "https://www.youtube.com/watch?v=AlkabAgF-Ks",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup)",
+    "categoria_descriptores": "Score Formatting (Score Formatting)",
     "views": 837,
     "upload_date": "2025-08-09",
     "latent_x": -6.340000152587891,
@@ -4255,11 +4255,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Eric Galluzzo",
     "titulo": "Basic Usage of Sibelius, Decondensing and Reduction (Notation Software Showdown: Sibelius, Part 1)",
     "enlace": "https://www.youtube.com/watch?v=64qJ7gJ5Uws",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup)",
+    "categoria_descriptores": "Score Formatting (Score Formatting)",
     "views": 669,
     "upload_date": "2025-10-13",
     "latent_x": 8.75,
@@ -4483,12 +4483,12 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Knut Rygnestad",
     "titulo": "Knut's Sibelius Tips, pt. 5: Layout | a cappella composition, arranging, orchestrating",
     "enlace": "https://www.youtube.com/watch?v=QciR0OzIeuo",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup",
+      "Score Formatting",
       "Arranging & Orchestration"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup, Arranging & Orchestration)",
+    "categoria_descriptores": "Score Formatting (Score Formatting, Arranging & Orchestration)",
     "views": 556,
     "upload_date": "2019-08-11",
     "latent_x": -20.6299991607666,
@@ -4523,11 +4523,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Luqman Aziz",
     "titulo": "The Importance of Score Layout | Sibelius",
     "enlace": "https://www.youtube.com/watch?v=wJ1rm4WR5Aw",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup)",
+    "categoria_descriptores": "Score Formatting (Score Formatting)",
     "views": 545,
     "upload_date": "2020-08-10",
     "latent_x": -23.559999465942383,
@@ -4599,12 +4599,12 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Richie Vitale's Channel",
     "titulo": "Creating a Lead Sheet in Sibelius - Part 3 by Richie Vitale",
     "enlace": "https://www.youtube.com/watch?v=h9OKizSzMt8",
-    "categoria_principal": "Keyboard Shortcuts & Speed",
+    "categoria_principal": "Keyboard Shortcuts",
     "tags": [
-      "Keyboard Shortcuts & Speed",
+      "Keyboard Shortcuts",
       "Lead Sheets"
     ],
-    "categoria_descriptores": "Keyboard Shortcuts & Speed (Keyboard Shortcuts & Speed, Lead Sheets)",
+    "categoria_descriptores": "Keyboard Shortcuts (Keyboard Shortcuts, Lead Sheets)",
     "views": 508,
     "upload_date": "2019-08-11",
     "latent_x": -96.30999755859375,
@@ -4638,11 +4638,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Joseph Wong",
     "titulo": "Sibelius Tutorial - Episode 1: Create New Score and Inputing Notes",
     "enlace": "https://www.youtube.com/watch?v=5YROPNfxQN4",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup)",
+    "categoria_descriptores": "Score Formatting (Score Formatting)",
     "views": 494,
     "upload_date": "2020-08-10",
     "latent_x": -43.91999816894531,
@@ -4676,11 +4676,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Alexica Adams",
     "titulo": "How to set a score for Steel Orchestra using Sibelius - Lesson 1",
     "enlace": "https://www.youtube.com/watch?v=dtI2jJaSMqs",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup)",
+    "categoria_descriptores": "Score Formatting (Score Formatting)",
     "views": 440,
     "upload_date": "2021-08-10",
     "latent_x": -23.459999084472656,
@@ -4714,11 +4714,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Matthew Ehler",
     "titulo": "How to Install Ehler's Sibelius Keyboard Shortcuts",
     "enlace": "https://www.youtube.com/watch?v=QM19IbYcF28",
-    "categoria_principal": "Keyboard Shortcuts & Speed",
+    "categoria_principal": "Keyboard Shortcuts",
     "tags": [
-      "Keyboard Shortcuts & Speed"
+      "Keyboard Shortcuts"
     ],
-    "categoria_descriptores": "Keyboard Shortcuts & Speed (Keyboard Shortcuts & Speed)",
+    "categoria_descriptores": "Keyboard Shortcuts (Keyboard Shortcuts)",
     "views": 422,
     "upload_date": "2018-08-11",
     "latent_x": -72.86000061035156,
@@ -4775,9 +4775,9 @@ const SIBELIUS_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Note Input Methods",
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Note Input Methods, Score Formatting & Page Setup)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Note Input Methods, Score Formatting)",
     "views": 340,
     "upload_date": "2016-08-11",
     "latent_x": -28.43000030517578,
@@ -4795,9 +4795,9 @@ const SIBELIUS_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Keyboard Shortcuts & Speed"
+      "Keyboard Shortcuts"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Keyboard Shortcuts & Speed)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Keyboard Shortcuts)",
     "views": 315,
     "upload_date": "2019-08-11",
     "latent_x": -52.959999084472656,
@@ -4850,11 +4850,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Bill Fulton Music",
     "titulo": "Expand Big Band Sketches to Full Score (Avid Sibelius Arrange Styles)",
     "enlace": "https://www.youtube.com/watch?v=mj8gpwbGA4Y",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup)",
+    "categoria_descriptores": "Score Formatting (Score Formatting)",
     "views": 243,
     "upload_date": "2025-08-09",
     "latent_x": -23.3700008392334,
@@ -4945,12 +4945,12 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Eric Galluzzo",
     "titulo": "Playback, MusicXML, Part and Score Prep in Sibelius (Notation Software Showdown: Sibelius Part 3)",
     "enlace": "https://www.youtube.com/watch?v=wP94mS03pMk",
-    "categoria_principal": "Score Formatting & Page Setup",
+    "categoria_principal": "Score Formatting",
     "tags": [
-      "Score Formatting & Page Setup",
+      "Score Formatting",
       "Playback"
     ],
-    "categoria_descriptores": "Score Formatting & Page Setup (Score Formatting & Page Setup, Playback)",
+    "categoria_descriptores": "Score Formatting (Score Formatting, Playback)",
     "views": 210,
     "upload_date": "2025-11-12",
     "latent_x": -10.479999542236328,
@@ -4987,9 +4987,9 @@ const SIBELIUS_TUTORIALS_DATA = [
     "categoria_principal": "Note Input Methods",
     "tags": [
       "Note Input Methods",
-      "Score Formatting & Page Setup"
+      "Score Formatting"
     ],
-    "categoria_descriptores": "Note Input Methods (Note Input Methods, Score Formatting & Page Setup)",
+    "categoria_descriptores": "Note Input Methods (Note Input Methods, Score Formatting)",
     "views": 207,
     "upload_date": "2013-08-12",
     "latent_x": -24.40999984741211,
@@ -5046,10 +5046,10 @@ const SIBELIUS_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Score Formatting & Page Setup",
+      "Score Formatting",
       "Arranging & Orchestration"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Score Formatting & Page Setup, Arranging & Orchestration)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Score Formatting, Arranging & Orchestration)",
     "views": 192,
     "upload_date": "2020-08-10",
     "latent_x": -52.790000915527344,
@@ -5084,11 +5084,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Lexana Music",
     "titulo": "SIBELIUS: Must know basic shortcuts in Sibelius software",
     "enlace": "https://www.youtube.com/watch?v=ZQ9u3GIIhjs",
-    "categoria_principal": "Keyboard Shortcuts & Speed",
+    "categoria_principal": "Keyboard Shortcuts",
     "tags": [
-      "Keyboard Shortcuts & Speed"
+      "Keyboard Shortcuts"
     ],
-    "categoria_descriptores": "Keyboard Shortcuts & Speed (Keyboard Shortcuts & Speed)",
+    "categoria_descriptores": "Keyboard Shortcuts (Keyboard Shortcuts)",
     "views": 173,
     "upload_date": "2023-08-10",
     "latent_x": -69.70999908447266,
@@ -5160,11 +5160,11 @@ const SIBELIUS_TUTORIALS_DATA = [
     "autor": "Educator.com",
     "titulo": "Sibelius - Shortcuts",
     "enlace": "https://www.youtube.com/watch?v=koiBwUOAzOc",
-    "categoria_principal": "Keyboard Shortcuts & Speed",
+    "categoria_principal": "Keyboard Shortcuts",
     "tags": [
-      "Keyboard Shortcuts & Speed"
+      "Keyboard Shortcuts"
     ],
-    "categoria_descriptores": "Keyboard Shortcuts & Speed (Keyboard Shortcuts & Speed)",
+    "categoria_descriptores": "Keyboard Shortcuts (Keyboard Shortcuts)",
     "views": 142,
     "upload_date": "2013-08-12",
     "latent_x": -87.12999725341797,
@@ -5307,4 +5307,3 @@ const SIBELIUS_TUTORIALS_DATA = [
     "duracion": "02:18"
   }
 ];
-window.SIBELIUS_DATA = SIBELIUS_TUTORIALS_DATA;

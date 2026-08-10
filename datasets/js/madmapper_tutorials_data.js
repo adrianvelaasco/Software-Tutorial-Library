@@ -8,9 +8,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, 3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping)",
     "views": 741452,
     "upload_date": "2014-08-12",
     "latent_x": 85.33999633789062,
@@ -25,11 +25,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "FX Projections",
     "titulo": "Projection Mapping Tutorial",
     "enlace": "https://www.youtube.com/watch?v=B9lpe_RQxYg",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 410541,
     "upload_date": "2023-08-10",
     "latent_x": 8.619999885559082,
@@ -47,9 +47,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, 3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping)",
     "views": 321354,
     "upload_date": "2026-01-11",
     "latent_x": 57.849998474121094,
@@ -67,9 +67,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, 3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping)",
     "views": 302830,
     "upload_date": "2020-08-10",
     "latent_x": 86.58000183105469,
@@ -84,11 +84,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Interactive solution Expert",
     "titulo": "How to use projection mapping software to create an immersive room?",
     "enlace": "https://www.youtube.com/watch?v=osYL-BCwYWU",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 248158,
     "upload_date": "2024-08-09",
     "latent_x": -1.4199999570846558,
@@ -106,9 +106,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 216572,
     "upload_date": "2014-08-12",
     "latent_x": -101.87000274658203,
@@ -123,11 +123,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Luma Box",
     "titulo": "Projection Mapping Tutorial - 3d Mapping with MadMapper",
     "enlace": "https://www.youtube.com/watch?v=1Typv7KxBRM",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 214473,
     "upload_date": "2019-08-11",
     "latent_x": -8.170000076293945,
@@ -145,9 +145,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, 3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping)",
     "views": 174124,
     "upload_date": "2024-08-09",
     "latent_x": 66.75,
@@ -203,9 +203,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, 3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping)",
     "views": 101784,
     "upload_date": "2025-08-09",
     "latent_x": 91.5999984741211,
@@ -223,9 +223,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 100807,
     "upload_date": "2021-08-10",
     "latent_x": -108.0999984741211,
@@ -240,11 +240,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Luma Box",
     "titulo": "MadMapper Scenes & Cues Projection Mapping Tutorial | Cake Mapping Examples",
     "enlace": "https://www.youtube.com/watch?v=rXennwOHXXQ",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 99890,
     "upload_date": "2019-08-11",
     "latent_x": -10.3100004196167,
@@ -278,11 +278,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Luma Box",
     "titulo": "MadMapper House Projection Mapping Walkthrough",
     "enlace": "https://www.youtube.com/watch?v=YVgUWpfaRNU",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 85182,
     "upload_date": "2022-08-10",
     "latent_x": 7.25,
@@ -297,11 +297,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "The Interactive & Immersive HQ",
     "titulo": "Projection Mapping Tools in TouchDesigner - TouchDesigner Tutorial 046",
     "enlace": "https://www.youtube.com/watch?v=mTH7ZB4x47Q",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 83935,
     "upload_date": "2021-08-10",
     "latent_x": -24.399999618530273,
@@ -316,11 +316,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Zunayed Sabbir Ahmed and All About Stage Shows!",
     "titulo": "Projection Mapping for Beginners – Complete Starter Guide [Full Documentary]",
     "enlace": "https://www.youtube.com/watch?v=FEZuE9Til78",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 78578,
     "upload_date": "2024-08-09",
     "latent_x": 32.529998779296875,
@@ -335,11 +335,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Luma Box",
     "titulo": "Make House Projection Mapping Outlines (QUICK Technique)",
     "enlace": "https://www.youtube.com/watch?v=tYV0R515rwk",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 72659,
     "upload_date": "2022-08-10",
     "latent_x": 4.019999980926514,
@@ -354,11 +354,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Shanks FX",
     "titulo": "PROJECTION MAPPING tutorial: Part 1 | Mad Mapper",
     "enlace": "https://www.youtube.com/watch?v=BkCktjryKUk",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 71051,
     "upload_date": "2014-08-12",
     "latent_x": -16.8799991607666,
@@ -414,9 +414,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 52914,
     "upload_date": "2022-08-10",
     "latent_x": -100.0,
@@ -434,9 +434,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 50665,
     "upload_date": "2020-08-10",
     "latent_x": -50.529998779296875,
@@ -451,12 +451,12 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Luma Box",
     "titulo": "Cake Projection Mapping Tutorial with Two Projectors using Qlab & MadMapper",
     "enlace": "https://www.youtube.com/watch?v=lR-vcXF6QoI",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration",
-      "Syphon, Spout & NDI Video Routing"
+      "Projection Mapping",
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration, Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, Spout & NDI Routing)",
     "views": 49790,
     "upload_date": "2019-08-11",
     "latent_x": 18.440000534057617,
@@ -471,11 +471,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Buskirk Creative",
     "titulo": "MadMapper: 3D Calibration (Advanced Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=nJa0xTkTUx4",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 45296,
     "upload_date": "2018-08-11",
     "latent_x": -26.389999389648438,
@@ -493,10 +493,10 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Surface Creation & Masking",
-      "3D Projection Mapping & Calibration"
+      "Surface Masking",
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Surface Creation & Masking, 3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Surface Masking, Projection Mapping)",
     "views": 44399,
     "upload_date": "2023-08-10",
     "latent_x": 39.81999969482422,
@@ -514,9 +514,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Spatial Scanner 3D Reconstruction"
+      "3D Scanning"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Spatial Scanner 3D Reconstruction)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, 3D Scanning)",
     "views": 42853,
     "upload_date": "2017-08-11",
     "latent_x": 32.59000015258789,
@@ -531,11 +531,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Zunayed Sabbir Ahmed and All About Stage Shows!",
     "titulo": "MadMapper Projection Mapping – In-Depth Full Tutorial | VJ Tips",
     "enlace": "https://www.youtube.com/watch?v=ytwvo7xBfDs",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 40668,
     "upload_date": "2025-10-13",
     "latent_x": 27.190000534057617,
@@ -591,9 +591,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 34564,
     "upload_date": "2021-08-10",
     "latent_x": -78.33000183105469,
@@ -608,12 +608,12 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "MadMapper The Mapping Software",
     "titulo": "MeshWarping -- MADTutorial Advanced",
     "enlace": "https://www.youtube.com/watch?v=zVZXT0oiZYU",
-    "categoria_principal": "Surface Creation & Masking",
+    "categoria_principal": "Surface Masking",
     "tags": [
-      "Surface Creation & Masking",
-      "3D Projection Mapping & Calibration"
+      "Surface Masking",
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Surface Creation & Masking (Surface Creation & Masking, 3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Surface Masking (Surface Masking, Projection Mapping)",
     "views": 34202,
     "upload_date": "2017-08-11",
     "latent_x": 15.010000228881836,
@@ -628,11 +628,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "reflekkt",
     "titulo": "Projection Mapping with KantanMapper - TouchDesigner Tutorial",
     "enlace": "https://www.youtube.com/watch?v=QBEtbXtCIcU",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 32635,
     "upload_date": "2025-08-09",
     "latent_x": -9.989999771118164,
@@ -647,11 +647,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Joshua Wolk",
     "titulo": "Projection Mapping Tutorial for Beginners (Free!)",
     "enlace": "https://www.youtube.com/watch?v=y5e5CjNXA9g",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 31363,
     "upload_date": "2026-01-11",
     "latent_x": 13.020000457763672,
@@ -666,11 +666,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Yoshe Li",
     "titulo": "TouchDesigner Tutorial: Projection Mapping with Kantan Mapper",
     "enlace": "https://www.youtube.com/watch?v=E1YMSPLVws0",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 31242,
     "upload_date": "2024-08-09",
     "latent_x": -28.68000030517578,
@@ -743,11 +743,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "MadMapper The Mapping Software",
     "titulo": "Soft Edge — Advanced  MADTutorial",
     "enlace": "https://www.youtube.com/watch?v=kR1fVI4wM2k",
-    "categoria_principal": "Surface Creation & Masking",
+    "categoria_principal": "Surface Masking",
     "tags": [
-      "Surface Creation & Masking"
+      "Surface Masking"
     ],
-    "categoria_descriptores": "Surface Creation & Masking (Surface Creation & Masking)",
+    "categoria_descriptores": "Surface Masking (Surface Masking)",
     "views": 26469,
     "upload_date": "2017-08-11",
     "latent_x": -5.21999979019165,
@@ -762,11 +762,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "MadMapper The Mapping Software",
     "titulo": "3D Calibration - MADTutorial Advanced",
     "enlace": "https://www.youtube.com/watch?v=YblkYxNtGnE",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 26289,
     "upload_date": "2018-08-11",
     "latent_x": -14.420000076293945,
@@ -838,11 +838,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "MadMapper The Mapping Software",
     "titulo": "Bezier Masking / MadMapper 4",
     "enlace": "https://www.youtube.com/watch?v=ow398X-pg20",
-    "categoria_principal": "Surface Creation & Masking",
+    "categoria_principal": "Surface Masking",
     "tags": [
-      "Surface Creation & Masking"
+      "Surface Masking"
     ],
-    "categoria_descriptores": "Surface Creation & Masking (Surface Creation & Masking)",
+    "categoria_descriptores": "Surface Masking (Surface Masking)",
     "views": 24803,
     "upload_date": "2020-08-10",
     "latent_x": 3.130000114440918,
@@ -860,10 +860,10 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Spatial Scanner 3D Reconstruction",
+      "3D Scanning",
       "LED Strip Pixel Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Spatial Scanner 3D Reconstruction, LED Strip Pixel Mapping)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, 3D Scanning, LED Strip Pixel Mapping)",
     "views": 24645,
     "upload_date": "2018-08-11",
     "latent_x": 45.650001525878906,
@@ -878,11 +878,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Phillip Andrews",
     "titulo": "madmapper 8 presets",
     "enlace": "https://www.youtube.com/watch?v=JZJJHCXq5z8",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 24313,
     "upload_date": "2012-08-12",
     "latent_x": -8.050000190734863,
@@ -897,11 +897,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Luma Box",
     "titulo": "Round Cake Projection Mapping MadMapper Tutorial",
     "enlace": "https://www.youtube.com/watch?v=kLqN4vGdVzE",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 23855,
     "upload_date": "2020-08-10",
     "latent_x": 5.510000228881836,
@@ -957,9 +957,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 23363,
     "upload_date": "2021-08-10",
     "latent_x": -104.1500015258789,
@@ -977,9 +977,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, 3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping)",
     "views": 23362,
     "upload_date": "2020-08-10",
     "latent_x": 72.19999694824219,
@@ -994,11 +994,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Benjamin Kuperberg",
     "titulo": "Spout [Syphon for Windows] Unity to Resolume Plugin Demo",
     "enlace": "https://www.youtube.com/watch?v=r-QcMU_uwYA",
-    "categoria_principal": "Syphon, Spout & NDI Video Routing",
+    "categoria_principal": "Spout & NDI Routing",
     "tags": [
-      "Syphon, Spout & NDI Video Routing"
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Syphon, Spout & NDI Video Routing (Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Spout & NDI Routing (Spout & NDI Routing)",
     "views": 22725,
     "upload_date": "2014-08-12",
     "latent_x": -19.350000381469727,
@@ -1035,9 +1035,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, 3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping)",
     "views": 20906,
     "upload_date": "2025-08-09",
     "latent_x": 96.68000030517578,
@@ -1071,11 +1071,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Programming for People",
     "titulo": "Spout for Unity (Texture sharing for other programs) Resolume, Touchdesigner, VVVV",
     "enlace": "https://www.youtube.com/watch?v=iIwcqgAPVWI",
-    "categoria_principal": "Syphon, Spout & NDI Video Routing",
+    "categoria_principal": "Spout & NDI Routing",
     "tags": [
-      "Syphon, Spout & NDI Video Routing"
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Syphon, Spout & NDI Video Routing (Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Spout & NDI Routing (Spout & NDI Routing)",
     "views": 20182,
     "upload_date": "2019-08-11",
     "latent_x": -51.5,
@@ -1131,9 +1131,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 18686,
     "upload_date": "2018-08-11",
     "latent_x": -65.16000366210938,
@@ -1148,11 +1148,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Nanlux Global",
     "titulo": "DMX Control Tutorial with Madmapper | NANLITE & NANLUX",
     "enlace": "https://www.youtube.com/watch?v=PEcbcI4aeUA",
-    "categoria_principal": "DMX & ArtNet Lighting Output",
+    "categoria_principal": "DMX & ArtNet Output",
     "tags": [
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "DMX & ArtNet Lighting Output (DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "DMX & ArtNet Output (DMX & ArtNet Output)",
     "views": 18340,
     "upload_date": "2022-08-10",
     "latent_x": -74.54000091552734,
@@ -1186,12 +1186,12 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Zunayed Sabbir Ahmed",
     "titulo": "Resolume vs MadMapper vs HeavyM – Which Projection Mapping Tool Wins?",
     "enlace": "https://www.youtube.com/watch?v=HNmtwxkLvE0",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration",
-      "Procedural Shaders & ISF Materials"
+      "Projection Mapping",
+      "Procedural Shaders"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration, Procedural Shaders & ISF Materials)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, Procedural Shaders)",
     "views": 16903,
     "upload_date": "2025-08-09",
     "latent_x": -20.489999771118164,
@@ -1361,10 +1361,10 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "3D Projection Mapping & Calibration",
+      "Projection Mapping",
       "LED Strip Pixel Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, 3D Projection Mapping & Calibration, LED Strip Pixel Mapping)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping, LED Strip Pixel Mapping)",
     "views": 14665,
     "upload_date": "2024-08-09",
     "latent_x": 69.26000213623047,
@@ -1401,9 +1401,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, 3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping)",
     "views": 13897,
     "upload_date": "2012-08-12",
     "latent_x": 77.04000091552734,
@@ -1421,9 +1421,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, 3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping)",
     "views": 13822,
     "upload_date": "2025-08-09",
     "latent_x": 67.0999984741211,
@@ -1441,9 +1441,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Procedural Shaders & ISF Materials"
+      "Procedural Shaders"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Procedural Shaders & ISF Materials)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Procedural Shaders)",
     "views": 13448,
     "upload_date": "2017-08-11",
     "latent_x": -18.139999389648438,
@@ -1499,9 +1499,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 13343,
     "upload_date": "2020-08-10",
     "latent_x": -119.81999969482422,
@@ -1538,9 +1538,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 13143,
     "upload_date": "2020-08-10",
     "latent_x": -76.5999984741211,
@@ -1558,9 +1558,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Procedural Shaders & ISF Materials"
+      "Procedural Shaders"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Procedural Shaders & ISF Materials)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Procedural Shaders)",
     "views": 13112,
     "upload_date": "2017-08-11",
     "latent_x": -6.53000020980835,
@@ -1578,10 +1578,10 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Surface Creation & Masking",
-      "3D Projection Mapping & Calibration"
+      "Surface Masking",
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Surface Creation & Masking, 3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Surface Masking, Projection Mapping)",
     "views": 12915,
     "upload_date": "2026-02-10",
     "latent_x": 35.619998931884766,
@@ -1596,12 +1596,12 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Luma Box",
     "titulo": "Qlab to MadMapper via Syphon Cake Mapping Tutorial (Mac)",
     "enlace": "https://www.youtube.com/watch?v=-XljWaAEeT4",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration",
-      "Syphon, Spout & NDI Video Routing"
+      "Projection Mapping",
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration, Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, Spout & NDI Routing)",
     "views": 12699,
     "upload_date": "2020-08-10",
     "latent_x": 34.86000061035156,
@@ -1616,11 +1616,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Kat Sullivan",
     "titulo": "Unreal Engine Tutorial: Spout",
     "enlace": "https://www.youtube.com/watch?v=d84umxYWqPg",
-    "categoria_principal": "Syphon, Spout & NDI Video Routing",
+    "categoria_principal": "Spout & NDI Routing",
     "tags": [
-      "Syphon, Spout & NDI Video Routing"
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Syphon, Spout & NDI Video Routing (Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Spout & NDI Routing (Spout & NDI Routing)",
     "views": 12088,
     "upload_date": "2020-08-10",
     "latent_x": -43.689998626708984,
@@ -1635,11 +1635,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "MIXVIBES",
     "titulo": "Remixvideo tutorial | Syphon output for mapping & streaming",
     "enlace": "https://www.youtube.com/watch?v=fubMo8YTTs0",
-    "categoria_principal": "Syphon, Spout & NDI Video Routing",
+    "categoria_principal": "Spout & NDI Routing",
     "tags": [
-      "Syphon, Spout & NDI Video Routing"
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Syphon, Spout & NDI Video Routing (Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Spout & NDI Routing (Spout & NDI Routing)",
     "views": 11968,
     "upload_date": "2017-08-11",
     "latent_x": -59.5,
@@ -1657,9 +1657,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 11823,
     "upload_date": "2020-08-10",
     "latent_x": -76.58000183105469,
@@ -1712,11 +1712,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Cristhian Lins",
     "titulo": "Spacial Scanner - Mad Mapper.",
     "enlace": "https://www.youtube.com/watch?v=4qILXcqdaPs",
-    "categoria_principal": "Spatial Scanner 3D Reconstruction",
+    "categoria_principal": "3D Scanning",
     "tags": [
-      "Spatial Scanner 3D Reconstruction"
+      "3D Scanning"
     ],
-    "categoria_descriptores": "Spatial Scanner 3D Reconstruction (Spatial Scanner 3D Reconstruction)",
+    "categoria_descriptores": "3D Scanning (3D Scanning)",
     "views": 11621,
     "upload_date": "2014-08-12",
     "latent_x": 17.920000076293945,
@@ -1769,11 +1769,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Benjamin Kuperberg",
     "titulo": "Spout [Syphon on Windows] After Effects Plugin",
     "enlace": "https://www.youtube.com/watch?v=sx_QCC0Y2Ww",
-    "categoria_principal": "Syphon, Spout & NDI Video Routing",
+    "categoria_principal": "Spout & NDI Routing",
     "tags": [
-      "Syphon, Spout & NDI Video Routing"
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Syphon, Spout & NDI Video Routing (Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Spout & NDI Routing (Spout & NDI Routing)",
     "views": 11048,
     "upload_date": "2014-08-12",
     "latent_x": -33.18000030517578,
@@ -1810,9 +1810,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 10816,
     "upload_date": "2016-08-11",
     "latent_x": -96.25,
@@ -1849,9 +1849,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 10473,
     "upload_date": "2020-08-10",
     "latent_x": -83.19999694824219,
@@ -1866,11 +1866,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Live Production Mastery",
     "titulo": "Projection Mapping is Easy! (Learn how Fast - On a Car!)",
     "enlace": "https://www.youtube.com/watch?v=otQlygOaKBw",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 10423,
     "upload_date": "2023-08-10",
     "latent_x": 29.510000228881836,
@@ -1926,9 +1926,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Procedural Shaders & ISF Materials"
+      "Procedural Shaders"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Procedural Shaders & ISF Materials)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Procedural Shaders)",
     "views": 10078,
     "upload_date": "2018-08-11",
     "latent_x": -9.25,
@@ -2038,12 +2038,12 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Matthieu Beghin",
     "titulo": "3D Led Setup Demo With MadMapper Material",
     "enlace": "https://www.youtube.com/watch?v=Deul2yR7nHQ",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration",
+      "Projection Mapping",
       "LED Strip Pixel Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration, LED Strip Pixel Mapping)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, LED Strip Pixel Mapping)",
     "views": 9457,
     "upload_date": "2019-08-11",
     "latent_x": -5.71999979019165,
@@ -2096,11 +2096,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "MadMapper The Mapping Software",
     "titulo": "Bezier MeshWarping part1 / MadMapper 4",
     "enlace": "https://www.youtube.com/watch?v=1JMNen-HMjY",
-    "categoria_principal": "Surface Creation & Masking",
+    "categoria_principal": "Surface Masking",
     "tags": [
-      "Surface Creation & Masking"
+      "Surface Masking"
     ],
-    "categoria_descriptores": "Surface Creation & Masking (Surface Creation & Masking)",
+    "categoria_descriptores": "Surface Masking (Surface Masking)",
     "views": 9076,
     "upload_date": "2020-08-10",
     "latent_x": -7.5,
@@ -2115,12 +2115,12 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "HeavyM Software",
     "titulo": "[HeavyM] Syphon and Spout - Projection mapping tutorial",
     "enlace": "https://www.youtube.com/watch?v=wAxWi7he26w",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration",
-      "Syphon, Spout & NDI Video Routing"
+      "Projection Mapping",
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration, Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, Spout & NDI Routing)",
     "views": 8879,
     "upload_date": "2017-08-11",
     "latent_x": 20.75,
@@ -2135,12 +2135,12 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "RecheTech",
     "titulo": "Flat 3D Optical Illusion using MadMapper",
     "enlace": "https://www.youtube.com/watch?v=rpWuFuxvK7o",
-    "categoria_principal": "Surface Creation & Masking",
+    "categoria_principal": "Surface Masking",
     "tags": [
-      "Surface Creation & Masking",
-      "3D Projection Mapping & Calibration"
+      "Surface Masking",
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Surface Creation & Masking (Surface Creation & Masking, 3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Surface Masking (Surface Masking, Projection Mapping)",
     "views": 8623,
     "upload_date": "2016-08-11",
     "latent_x": 13.779999732971191,
@@ -2155,11 +2155,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "ProjectileObjects",
     "titulo": "Which Live Visuals Software Should You Buy? (Resolume, TouchDesigner, MadMapper, VDMX)",
     "enlace": "https://www.youtube.com/watch?v=LiBv-KWzibU",
-    "categoria_principal": "Procedural Shaders & ISF Materials",
+    "categoria_principal": "Procedural Shaders",
     "tags": [
-      "Procedural Shaders & ISF Materials"
+      "Procedural Shaders"
     ],
-    "categoria_descriptores": "Procedural Shaders & ISF Materials (Procedural Shaders & ISF Materials)",
+    "categoria_descriptores": "Procedural Shaders (Procedural Shaders)",
     "views": 8605,
     "upload_date": "2025-12-12",
     "latent_x": -14.15999984741211,
@@ -2174,11 +2174,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Fake Edge “Fake Edge”",
     "titulo": "Sending OBS video streams to VPT8 Video Mapping using Syphon",
     "enlace": "https://www.youtube.com/watch?v=BH5CsyGJ-4Q",
-    "categoria_principal": "Syphon, Spout & NDI Video Routing",
+    "categoria_principal": "Spout & NDI Routing",
     "tags": [
-      "Syphon, Spout & NDI Video Routing"
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Syphon, Spout & NDI Video Routing (Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Spout & NDI Routing (Spout & NDI Routing)",
     "views": 8542,
     "upload_date": "2018-08-11",
     "latent_x": -54.290000915527344,
@@ -2193,11 +2193,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Acrylicode",
     "titulo": "TouchDesigner and Synesthesia | MIDI, OSC, Syphon/Spout",
     "enlace": "https://www.youtube.com/watch?v=b4SqtQKAm54",
-    "categoria_principal": "Syphon, Spout & NDI Video Routing",
+    "categoria_principal": "Spout & NDI Routing",
     "tags": [
-      "Syphon, Spout & NDI Video Routing"
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Syphon, Spout & NDI Video Routing (Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Spout & NDI Routing (Spout & NDI Routing)",
     "views": 8122,
     "upload_date": "2022-08-10",
     "latent_x": -34.27000045776367,
@@ -2212,11 +2212,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Benjamin Kuperberg",
     "titulo": "Spout [Syphon on Windows] Unity Receiver Demo",
     "enlace": "https://www.youtube.com/watch?v=mBqQIKJ_E9M",
-    "categoria_principal": "Syphon, Spout & NDI Video Routing",
+    "categoria_principal": "Spout & NDI Routing",
     "tags": [
-      "Syphon, Spout & NDI Video Routing"
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Syphon, Spout & NDI Video Routing (Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Spout & NDI Routing (Spout & NDI Routing)",
     "views": 8034,
     "upload_date": "2014-08-12",
     "latent_x": -43.06999969482422,
@@ -2234,9 +2234,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 8014,
     "upload_date": "2017-08-11",
     "latent_x": -98.7300033569336,
@@ -2251,11 +2251,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "ProjectileObjects",
     "titulo": "Quick Madmapper NDI tutorial live video over ethernet Mac to PC to Mac",
     "enlace": "https://www.youtube.com/watch?v=fWykqNJI1yU",
-    "categoria_principal": "Syphon, Spout & NDI Video Routing",
+    "categoria_principal": "Spout & NDI Routing",
     "tags": [
-      "Syphon, Spout & NDI Video Routing"
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Syphon, Spout & NDI Video Routing (Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Spout & NDI Routing (Spout & NDI Routing)",
     "views": 7975,
     "upload_date": "2019-08-11",
     "latent_x": -73.0199966430664,
@@ -2289,11 +2289,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Phillip Andrews",
     "titulo": "Madmapper cues and overview for projection mapping",
     "enlace": "https://www.youtube.com/watch?v=D_5QlrsBp-o",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 7555,
     "upload_date": "2019-08-11",
     "latent_x": 18.239999771118164,
@@ -2308,11 +2308,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Phillip Andrews",
     "titulo": "TRS projection mapping tutorial with Madmapper",
     "enlace": "https://www.youtube.com/watch?v=9u8CgYn6XJ4",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 7413,
     "upload_date": "2013-08-12",
     "latent_x": 7.019999980926514,
@@ -2327,11 +2327,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "OFF WORLD LIVE",
     "titulo": "How to install the Spout plugin for OBS Studio using the zip folder",
     "enlace": "https://www.youtube.com/watch?v=KA-zhxN2L4U",
-    "categoria_principal": "Syphon, Spout & NDI Video Routing",
+    "categoria_principal": "Spout & NDI Routing",
     "tags": [
-      "Syphon, Spout & NDI Video Routing"
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Syphon, Spout & NDI Video Routing (Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Spout & NDI Routing (Spout & NDI Routing)",
     "views": 6865,
     "upload_date": "2022-08-10",
     "latent_x": -41.13999938964844,
@@ -2365,11 +2365,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "MadMapper The Mapping Software",
     "titulo": "Artificial intelligence now in MadMapper !",
     "enlace": "https://www.youtube.com/watch?v=nA_oM8N7Mxw",
-    "categoria_principal": "Procedural Shaders & ISF Materials",
+    "categoria_principal": "Procedural Shaders",
     "tags": [
-      "Procedural Shaders & ISF Materials"
+      "Procedural Shaders"
     ],
-    "categoria_descriptores": "Procedural Shaders & ISF Materials (Procedural Shaders & ISF Materials)",
+    "categoria_descriptores": "Procedural Shaders (Procedural Shaders)",
     "views": 6826,
     "upload_date": "2025-08-09",
     "latent_x": -21.1299991607666,
@@ -2403,11 +2403,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "TMK Interactive",
     "titulo": "Sharing Video Streams BETWEEN APPLICATIONS. (Syphon and Spout)",
     "enlace": "https://www.youtube.com/watch?v=mSYbghpzpVY",
-    "categoria_principal": "Syphon, Spout & NDI Video Routing",
+    "categoria_principal": "Spout & NDI Routing",
     "tags": [
-      "Syphon, Spout & NDI Video Routing"
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Syphon, Spout & NDI Video Routing (Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Spout & NDI Routing (Spout & NDI Routing)",
     "views": 6680,
     "upload_date": "2021-08-10",
     "latent_x": -36.31999969482422,
@@ -2498,11 +2498,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "ArKaos",
     "titulo": "Tutorial GrandVJ NDI in- and outputs",
     "enlace": "https://www.youtube.com/watch?v=DcCknON2bMo",
-    "categoria_principal": "Syphon, Spout & NDI Video Routing",
+    "categoria_principal": "Spout & NDI Routing",
     "tags": [
-      "Syphon, Spout & NDI Video Routing"
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Syphon, Spout & NDI Video Routing (Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Spout & NDI Routing (Spout & NDI Routing)",
     "views": 6160,
     "upload_date": "2020-08-10",
     "latent_x": -49.619998931884766,
@@ -2558,9 +2558,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 5728,
     "upload_date": "2025-08-09",
     "latent_x": -76.23999786376953,
@@ -2616,9 +2616,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 5599,
     "upload_date": "2018-08-11",
     "latent_x": -59.560001373291016,
@@ -2655,9 +2655,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 5527,
     "upload_date": "2014-08-12",
     "latent_x": -78.75,
@@ -2713,9 +2713,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 5390,
     "upload_date": "2025-12-12",
     "latent_x": -88.8499984741211,
@@ -2733,9 +2733,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 5298,
     "upload_date": "2020-08-10",
     "latent_x": -89.13999938964844,
@@ -2788,11 +2788,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "weasis",
     "titulo": "Spatial Calibration",
     "enlace": "https://www.youtube.com/watch?v=v8CgcpYT1r8",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 5250,
     "upload_date": "2012-08-12",
     "latent_x": 7.070000171661377,
@@ -2829,9 +2829,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 5069,
     "upload_date": "2020-08-10",
     "latent_x": -82.02999877929688,
@@ -2884,12 +2884,12 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "jolephoto",
     "titulo": "Wireless Spatial Scanner for MadMapper",
     "enlace": "https://www.youtube.com/watch?v=dtXDwxVTCrY",
-    "categoria_principal": "Spatial Scanner 3D Reconstruction",
+    "categoria_principal": "3D Scanning",
     "tags": [
-      "Spatial Scanner 3D Reconstruction",
-      "Syphon, Spout & NDI Video Routing"
+      "3D Scanning",
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Spatial Scanner 3D Reconstruction (Spatial Scanner 3D Reconstruction, Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "3D Scanning (3D Scanning, Spout & NDI Routing)",
     "views": 4445,
     "upload_date": "2013-08-12",
     "latent_x": 7.460000038146973,
@@ -2904,11 +2904,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Wicked Lasers",
     "titulo": "How to use MadMapper and NDI Video Mapping with LaserOS",
     "enlace": "https://www.youtube.com/watch?v=JaueULO_aNA",
-    "categoria_principal": "Syphon, Spout & NDI Video Routing",
+    "categoria_principal": "Spout & NDI Routing",
     "tags": [
-      "Syphon, Spout & NDI Video Routing"
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Syphon, Spout & NDI Video Routing (Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Spout & NDI Routing (Spout & NDI Routing)",
     "views": 4217,
     "upload_date": "2021-08-10",
     "latent_x": -51.72999954223633,
@@ -2923,11 +2923,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Resolume VJ Software",
     "titulo": "Resolume Arena Tutorial - Syphon",
     "enlace": "https://www.youtube.com/watch?v=kGqTF32cKRE",
-    "categoria_principal": "Syphon, Spout & NDI Video Routing",
+    "categoria_principal": "Spout & NDI Routing",
     "tags": [
-      "Syphon, Spout & NDI Video Routing"
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Syphon, Spout & NDI Video Routing (Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Spout & NDI Routing (Spout & NDI Routing)",
     "views": 4192,
     "upload_date": "2025-08-09",
     "latent_x": -64.33999633789062,
@@ -2961,11 +2961,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "TECHLIFE LAB",
     "titulo": "ScreenCaptureSyphon",
     "enlace": "https://www.youtube.com/watch?v=yQLmxO_eEjU",
-    "categoria_principal": "Syphon, Spout & NDI Video Routing",
+    "categoria_principal": "Spout & NDI Routing",
     "tags": [
-      "Syphon, Spout & NDI Video Routing"
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Syphon, Spout & NDI Video Routing (Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Spout & NDI Routing (Spout & NDI Routing)",
     "views": 4057,
     "upload_date": "2016-08-11",
     "latent_x": -33.7599983215332,
@@ -3018,11 +3018,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "HeavyM Software",
     "titulo": "[HeavyM] Tutoriel Fr - Syphon et Spout",
     "enlace": "https://www.youtube.com/watch?v=TRTHlIiqCE4",
-    "categoria_principal": "Syphon, Spout & NDI Video Routing",
+    "categoria_principal": "Spout & NDI Routing",
     "tags": [
-      "Syphon, Spout & NDI Video Routing"
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Syphon, Spout & NDI Video Routing (Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Spout & NDI Routing (Spout & NDI Routing)",
     "views": 3745,
     "upload_date": "2017-08-11",
     "latent_x": -11.75,
@@ -3037,11 +3037,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Mitsuru Takeuchi",
     "titulo": "MadMapperのspecialscannerからマスクを作成するまで",
     "enlace": "https://www.youtube.com/watch?v=K1dhkCv7n5k",
-    "categoria_principal": "Spatial Scanner 3D Reconstruction",
+    "categoria_principal": "3D Scanning",
     "tags": [
-      "Spatial Scanner 3D Reconstruction"
+      "3D Scanning"
     ],
-    "categoria_descriptores": "Spatial Scanner 3D Reconstruction (Spatial Scanner 3D Reconstruction)",
+    "categoria_descriptores": "3D Scanning (3D Scanning)",
     "views": 3667,
     "upload_date": "2012-08-12",
     "latent_x": 16.989999771118164,
@@ -3078,9 +3078,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 3490,
     "upload_date": "2020-08-10",
     "latent_x": -68.48999786376953,
@@ -3095,12 +3095,12 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "찬기누설",
     "titulo": "[Projection Mapping] Share screen plugins - Spout & Syphon",
     "enlace": "https://www.youtube.com/watch?v=So59wXEhq40",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration",
-      "Syphon, Spout & NDI Video Routing"
+      "Projection Mapping",
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration, Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, Spout & NDI Routing)",
     "views": 3360,
     "upload_date": "2019-08-11",
     "latent_x": 38.88999938964844,
@@ -3115,12 +3115,12 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Etowner",
     "titulo": "Setting up Spout in Processing How to",
     "enlace": "https://www.youtube.com/watch?v=RdcEeH_tfRM",
-    "categoria_principal": "Procedural Shaders & ISF Materials",
+    "categoria_principal": "Procedural Shaders",
     "tags": [
-      "Procedural Shaders & ISF Materials",
-      "Syphon, Spout & NDI Video Routing"
+      "Procedural Shaders",
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Procedural Shaders & ISF Materials (Procedural Shaders & ISF Materials, Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Procedural Shaders (Procedural Shaders, Spout & NDI Routing)",
     "views": 3323,
     "upload_date": "2016-08-11",
     "latent_x": -43.13999938964844,
@@ -3135,11 +3135,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Etowner",
     "titulo": "Free Spout Recorder for Windows",
     "enlace": "https://www.youtube.com/watch?v=AgM7MXLAEUk",
-    "categoria_principal": "Syphon, Spout & NDI Video Routing",
+    "categoria_principal": "Spout & NDI Routing",
     "tags": [
-      "Syphon, Spout & NDI Video Routing"
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Syphon, Spout & NDI Video Routing (Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Spout & NDI Routing (Spout & NDI Routing)",
     "views": 3248,
     "upload_date": "2019-08-11",
     "latent_x": -14.149999618530273,
@@ -3154,12 +3154,12 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Pixel bar Jack",
     "titulo": "DMX 3D metro tubes support Madmapper, Madrix,Arena Resolume, Avolites, Arkaos etc.",
     "enlace": "https://www.youtube.com/watch?v=0FlUUZRLHUQ",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration",
-      "DMX & ArtNet Lighting Output"
+      "Projection Mapping",
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, DMX & ArtNet Output)",
     "views": 3177,
     "upload_date": "2022-08-10",
     "latent_x": -40.439998626708984,
@@ -3174,11 +3174,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Magic Music Visuals",
     "titulo": "Magic 2.5 Tutorial: Easily create visuals and effects with AI Prompting!",
     "enlace": "https://www.youtube.com/watch?v=O54vEDeNgoU",
-    "categoria_principal": "Procedural Shaders & ISF Materials",
+    "categoria_principal": "Procedural Shaders",
     "tags": [
-      "Procedural Shaders & ISF Materials"
+      "Procedural Shaders"
     ],
-    "categoria_descriptores": "Procedural Shaders & ISF Materials (Procedural Shaders & ISF Materials)",
+    "categoria_descriptores": "Procedural Shaders (Procedural Shaders)",
     "views": 3150,
     "upload_date": "2026-04-11",
     "latent_x": -43.22999954223633,
@@ -3231,11 +3231,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Zunayed Sabbir Ahmed",
     "titulo": "MadMapper 6: What’s New, What’s Different, and Why It Changed My Workflow!",
     "enlace": "https://www.youtube.com/watch?v=VX1KA4cUuHI",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 2913,
     "upload_date": "2026-01-11",
     "latent_x": -20.06999969482422,
@@ -3288,11 +3288,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Matthieu Beghin",
     "titulo": "MadMapper 6 DMX & Timeline Demo",
     "enlace": "https://www.youtube.com/watch?v=Zqzs5JVzs20",
-    "categoria_principal": "DMX & ArtNet Lighting Output",
+    "categoria_principal": "DMX & ArtNet Output",
     "tags": [
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "DMX & ArtNet Lighting Output (DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "DMX & ArtNet Output (DMX & ArtNet Output)",
     "views": 2858,
     "upload_date": "2025-12-12",
     "latent_x": -88.91000366210938,
@@ -3345,11 +3345,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Gnomalab Estudio",
     "titulo": "Touchdesigner FX server to VDMX via Syphon or Spout",
     "enlace": "https://www.youtube.com/watch?v=862ebR0Iczs",
-    "categoria_principal": "Syphon, Spout & NDI Video Routing",
+    "categoria_principal": "Spout & NDI Routing",
     "tags": [
-      "Syphon, Spout & NDI Video Routing"
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Syphon, Spout & NDI Video Routing (Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Spout & NDI Routing (Spout & NDI Routing)",
     "views": 2614,
     "upload_date": "2018-08-11",
     "latent_x": -12.449999809265137,
@@ -3364,11 +3364,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Monsuton",
     "titulo": "Spacial Scanner",
     "enlace": "https://www.youtube.com/watch?v=MUxVSu1aRvQ",
-    "categoria_principal": "Spatial Scanner 3D Reconstruction",
+    "categoria_principal": "3D Scanning",
     "tags": [
-      "Spatial Scanner 3D Reconstruction"
+      "3D Scanning"
     ],
-    "categoria_descriptores": "Spatial Scanner 3D Reconstruction (Spatial Scanner 3D Reconstruction)",
+    "categoria_descriptores": "3D Scanning (3D Scanning)",
     "views": 2374,
     "upload_date": "2015-08-12",
     "latent_x": 18.850000381469727,
@@ -3386,9 +3386,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "Syphon, Spout & NDI Video Routing"
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, Spout & NDI Routing)",
     "views": 2371,
     "upload_date": "2019-08-11",
     "latent_x": -87.2300033569336,
@@ -3406,10 +3406,10 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "3D Projection Mapping & Calibration",
-      "Syphon, Spout & NDI Video Routing"
+      "Projection Mapping",
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, 3D Projection Mapping & Calibration, Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping, Spout & NDI Routing)",
     "views": 2367,
     "upload_date": "2023-08-10",
     "latent_x": 14.470000267028809,
@@ -3443,12 +3443,12 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "MadMapper The Mapping Software",
     "titulo": "Use AI to generate a Laser Material",
     "enlace": "https://www.youtube.com/watch?v=KTkepMgTTGU",
-    "categoria_principal": "Procedural Shaders & ISF Materials",
+    "categoria_principal": "Procedural Shaders",
     "tags": [
-      "Procedural Shaders & ISF Materials",
+      "Procedural Shaders",
       "Laser Control & Hardware"
     ],
-    "categoria_descriptores": "Procedural Shaders & ISF Materials (Procedural Shaders & ISF Materials, Laser Control & Hardware)",
+    "categoria_descriptores": "Procedural Shaders (Procedural Shaders, Laser Control & Hardware)",
     "views": 2291,
     "upload_date": "2025-08-09",
     "latent_x": -30.420000076293945,
@@ -3466,9 +3466,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 2240,
     "upload_date": "2019-08-11",
     "latent_x": -91.41999816894531,
@@ -3505,9 +3505,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, 3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping)",
     "views": 2224,
     "upload_date": "2022-08-10",
     "latent_x": 63.650001525878906,
@@ -3522,11 +3522,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Pixel bar Jack",
     "titulo": "Showjockey RGB Pixel strip and pixel ball Matrix Madmapper Resolume dmx lights dmx DMX512 Artnet Box",
     "enlace": "https://www.youtube.com/watch?v=IbhTPxAMq1g",
-    "categoria_principal": "DMX & ArtNet Lighting Output",
+    "categoria_principal": "DMX & ArtNet Output",
     "tags": [
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "DMX & ArtNet Lighting Output (DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "DMX & ArtNet Output (DMX & ArtNet Output)",
     "views": 2196,
     "upload_date": "2023-08-10",
     "latent_x": -70.5,
@@ -3579,11 +3579,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "The Interactive & Immersive HQ",
     "titulo": "Projection Mapping with TouchDesigner & MadMapper",
     "enlace": "https://www.youtube.com/watch?v=PPPJjckYifY",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 1891,
     "upload_date": "2026-07-19",
     "latent_x": -12.850000381469727,
@@ -3636,11 +3636,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Zunayed Sabbir Ahmed",
     "titulo": "Projection Mapping with MadMapper and Depence | Basic to Advanced Level | #madmapper #depence",
     "enlace": "https://www.youtube.com/watch?v=EpEJ0ObQ1_Q",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 1740,
     "upload_date": "2026-01-11",
     "latent_x": -35.97999954223633,
@@ -3674,12 +3674,12 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Giancarlo Vannetti",
     "titulo": "GV:  MAD LASER & MASK OUTPUTS",
     "enlace": "https://www.youtube.com/watch?v=j34P-tJVy9I",
-    "categoria_principal": "Surface Creation & Masking",
+    "categoria_principal": "Surface Masking",
     "tags": [
-      "Surface Creation & Masking",
+      "Surface Masking",
       "Laser Control & Hardware"
     ],
-    "categoria_descriptores": "Surface Creation & Masking (Surface Creation & Masking, Laser Control & Hardware)",
+    "categoria_descriptores": "Surface Masking (Surface Masking, Laser Control & Hardware)",
     "views": 1713,
     "upload_date": "2022-08-10",
     "latent_x": -2.7799999713897705,
@@ -3694,11 +3694,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Giancarlo Vannetti",
     "titulo": "NDI MAD MAPPER & CAPTURE 2022",
     "enlace": "https://www.youtube.com/watch?v=osoRFzHqfnQ",
-    "categoria_principal": "Syphon, Spout & NDI Video Routing",
+    "categoria_principal": "Spout & NDI Routing",
     "tags": [
-      "Syphon, Spout & NDI Video Routing"
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Syphon, Spout & NDI Video Routing (Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Spout & NDI Routing (Spout & NDI Routing)",
     "views": 1670,
     "upload_date": "2022-08-10",
     "latent_x": -58.150001525878906,
@@ -3716,9 +3716,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 1496,
     "upload_date": "2024-08-09",
     "latent_x": -98.5,
@@ -3733,11 +3733,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "lizzie hawes",
     "titulo": "Mask in Madmapper",
     "enlace": "https://www.youtube.com/watch?v=b1dUETN9n0I",
-    "categoria_principal": "Surface Creation & Masking",
+    "categoria_principal": "Surface Masking",
     "tags": [
-      "Surface Creation & Masking"
+      "Surface Masking"
     ],
-    "categoria_descriptores": "Surface Creation & Masking (Surface Creation & Masking)",
+    "categoria_descriptores": "Surface Masking (Surface Masking)",
     "views": 1480,
     "upload_date": "2015-08-12",
     "latent_x": 1.3600000143051147,
@@ -3755,10 +3755,10 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "3D Projection Mapping & Calibration",
-      "Syphon, Spout & NDI Video Routing"
+      "Projection Mapping",
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, 3D Projection Mapping & Calibration, Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping, Spout & NDI Routing)",
     "views": 1455,
     "upload_date": "2023-08-10",
     "latent_x": 18.030000686645508,
@@ -3773,12 +3773,12 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Joey Maguire",
     "titulo": "Virtual 3D Projection Map with Madmapper",
     "enlace": "https://www.youtube.com/watch?v=opRrqzuN-Rg",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration",
-      "Procedural Shaders & ISF Materials"
+      "Projection Mapping",
+      "Procedural Shaders"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration, Procedural Shaders & ISF Materials)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, Procedural Shaders)",
     "views": 1398,
     "upload_date": "2021-08-10",
     "latent_x": -28.469999313354492,
@@ -3793,11 +3793,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Matthieu Beghin",
     "titulo": "Mapping 3D Cube with a Video Loopback in MadMapper",
     "enlace": "https://www.youtube.com/watch?v=zJA3Xq-Gtlc",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 1349,
     "upload_date": "2023-08-10",
     "latent_x": -12.470000267028809,
@@ -3812,12 +3812,12 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Thomas Tucker",
     "titulo": "Robot Projection Mapping Test Using MadMapper Spacial Scanner Tool and MAX Trigger",
     "enlace": "https://www.youtube.com/watch?v=hry55pKnb2U",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration",
-      "Spatial Scanner 3D Reconstruction"
+      "Projection Mapping",
+      "3D Scanning"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration, Spatial Scanner 3D Reconstruction)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, 3D Scanning)",
     "views": 1329,
     "upload_date": "2016-08-11",
     "latent_x": 8.630000114440918,
@@ -3832,11 +3832,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Pixel bar Jack",
     "titulo": "How to control Showjockey's DMX RGB Pixel tubes with Software （madmapper）DMX Lighting Tutorial",
     "enlace": "https://www.youtube.com/watch?v=l0-zXGiU1mE",
-    "categoria_principal": "DMX & ArtNet Lighting Output",
+    "categoria_principal": "DMX & ArtNet Output",
     "tags": [
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "DMX & ArtNet Lighting Output (DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "DMX & ArtNet Output (DMX & ArtNet Output)",
     "views": 1281,
     "upload_date": "2022-08-10",
     "latent_x": -64.22000122070312,
@@ -3854,9 +3854,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 1268,
     "upload_date": "2021-08-10",
     "latent_x": -118.54000091552734,
@@ -3890,11 +3890,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Associazione Mute",
     "titulo": "spacial scanner test1",
     "enlace": "https://www.youtube.com/watch?v=I4ZPDUnXHpA",
-    "categoria_principal": "Spatial Scanner 3D Reconstruction",
+    "categoria_principal": "3D Scanning",
     "tags": [
-      "Spatial Scanner 3D Reconstruction"
+      "3D Scanning"
     ],
-    "categoria_descriptores": "Spatial Scanner 3D Reconstruction (Spatial Scanner 3D Reconstruction)",
+    "categoria_descriptores": "3D Scanning (3D Scanning)",
     "views": 1207,
     "upload_date": "2013-08-12",
     "latent_x": 18.850000381469727,
@@ -3909,11 +3909,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Pixel bar Jack",
     "titulo": "How to control Showjockey's Artnet DMX controller with Madmapper",
     "enlace": "https://www.youtube.com/watch?v=9CDUNo9Z-5c",
-    "categoria_principal": "DMX & ArtNet Lighting Output",
+    "categoria_principal": "DMX & ArtNet Output",
     "tags": [
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "DMX & ArtNet Lighting Output (DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "DMX & ArtNet Output (DMX & ArtNet Output)",
     "views": 1150,
     "upload_date": "2022-08-10",
     "latent_x": -69.7300033569336,
@@ -3950,9 +3950,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, 3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping)",
     "views": 1061,
     "upload_date": "2022-08-10",
     "latent_x": 67.9800033569336,
@@ -3967,11 +3967,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Phillip Andrews",
     "titulo": "Warp Speed projection with Madmapper",
     "enlace": "https://www.youtube.com/watch?v=VJmRfSBcS7Q",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 1041,
     "upload_date": "2018-08-11",
     "latent_x": -7.429999828338623,
@@ -4027,9 +4027,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 998,
     "upload_date": "2023-08-10",
     "latent_x": -80.30999755859375,
@@ -4044,11 +4044,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "academicVids",
     "titulo": "Exportar video de MadMapper",
     "enlace": "https://www.youtube.com/watch?v=hwBBpezOcoI",
-    "categoria_principal": "Syphon, Spout & NDI Video Routing",
+    "categoria_principal": "Spout & NDI Routing",
     "tags": [
-      "Syphon, Spout & NDI Video Routing"
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Syphon, Spout & NDI Video Routing (Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Spout & NDI Routing (Spout & NDI Routing)",
     "views": 994,
     "upload_date": "2020-08-10",
     "latent_x": -32.95000076293945,
@@ -4066,9 +4066,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 948,
     "upload_date": "2022-08-10",
     "latent_x": -60.310001373291016,
@@ -4083,11 +4083,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "lofi beats to study to",
     "titulo": "Tutorial ISF shaders using jit.gl.isf",
     "enlace": "https://www.youtube.com/watch?v=_KG_t4VadK4",
-    "categoria_principal": "Procedural Shaders & ISF Materials",
+    "categoria_principal": "Procedural Shaders",
     "tags": [
-      "Procedural Shaders & ISF Materials"
+      "Procedural Shaders"
     ],
-    "categoria_descriptores": "Procedural Shaders & ISF Materials (Procedural Shaders & ISF Materials)",
+    "categoria_descriptores": "Procedural Shaders (Procedural Shaders)",
     "views": 888,
     "upload_date": "2024-08-09",
     "latent_x": -33.59000015258789,
@@ -4140,12 +4140,12 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Matthieu Beghin",
     "titulo": "Tweaking a Surface FX in MadMapper",
     "enlace": "https://www.youtube.com/watch?v=UOo8gEfHv3Q",
-    "categoria_principal": "Surface Creation & Masking",
+    "categoria_principal": "Surface Masking",
     "tags": [
-      "Surface Creation & Masking",
-      "Procedural Shaders & ISF Materials"
+      "Surface Masking",
+      "Procedural Shaders"
     ],
-    "categoria_descriptores": "Surface Creation & Masking (Surface Creation & Masking, Procedural Shaders & ISF Materials)",
+    "categoria_descriptores": "Surface Masking (Surface Masking, Procedural Shaders)",
     "views": 844,
     "upload_date": "2023-08-10",
     "latent_x": -20.440000534057617,
@@ -4198,11 +4198,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Aperio Insights",
     "titulo": "Projection Mapping Project04 Special Scan+Calibration",
     "enlace": "https://www.youtube.com/watch?v=YwMQmalQuqk",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 738,
     "upload_date": "2018-08-11",
     "latent_x": 27.0,
@@ -4239,9 +4239,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 716,
     "upload_date": "2019-08-11",
     "latent_x": -98.44000244140625,
@@ -4256,11 +4256,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Tina John",
     "titulo": "I Taught Myself Projection Mapping | MadMapper Experiment",
     "enlace": "https://www.youtube.com/watch?v=7iUAQs2sGK0",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 696,
     "upload_date": "2026-01-11",
     "latent_x": 7.21999979019165,
@@ -4275,11 +4275,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "EboSuite",
     "titulo": "EboSuite Quick-tip - How to use ISF in EboSuite",
     "enlace": "https://www.youtube.com/watch?v=wdWbtqTW5Cs",
-    "categoria_principal": "Procedural Shaders & ISF Materials",
+    "categoria_principal": "Procedural Shaders",
     "tags": [
-      "Procedural Shaders & ISF Materials"
+      "Procedural Shaders"
     ],
-    "categoria_descriptores": "Procedural Shaders & ISF Materials (Procedural Shaders & ISF Materials)",
+    "categoria_descriptores": "Procedural Shaders (Procedural Shaders)",
     "views": 693,
     "upload_date": "2020-08-10",
     "latent_x": -38.290000915527344,
@@ -4294,11 +4294,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Pixel bar Jack",
     "titulo": "How to set the madmapper with showjockey‘s DMX tube",
     "enlace": "https://www.youtube.com/watch?v=rOfSFY4BEm0",
-    "categoria_principal": "DMX & ArtNet Lighting Output",
+    "categoria_principal": "DMX & ArtNet Output",
     "tags": [
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "DMX & ArtNet Lighting Output (DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "DMX & ArtNet Output (DMX & ArtNet Output)",
     "views": 674,
     "upload_date": "2022-08-10",
     "latent_x": -86.62000274658203,
@@ -4313,11 +4313,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Games Garden",
     "titulo": "Chrome shader demo - Unity3D",
     "enlace": "https://www.youtube.com/watch?v=j9h5yBCYSC8",
-    "categoria_principal": "Surface Creation & Masking",
+    "categoria_principal": "Surface Masking",
     "tags": [
-      "Surface Creation & Masking"
+      "Surface Masking"
     ],
-    "categoria_descriptores": "Surface Creation & Masking (Surface Creation & Masking)",
+    "categoria_descriptores": "Surface Masking (Surface Masking)",
     "views": 648,
     "upload_date": "2022-08-10",
     "latent_x": 7.300000190734863,
@@ -4332,11 +4332,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Giancarlo Vannetti",
     "titulo": "MAD MAPPER+CAPTURE 2022 NDI    = )",
     "enlace": "https://www.youtube.com/watch?v=1acdx7Mq5s4",
-    "categoria_principal": "Syphon, Spout & NDI Video Routing",
+    "categoria_principal": "Spout & NDI Routing",
     "tags": [
-      "Syphon, Spout & NDI Video Routing"
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Syphon, Spout & NDI Video Routing (Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Spout & NDI Routing (Spout & NDI Routing)",
     "views": 640,
     "upload_date": "2022-08-10",
     "latent_x": -58.150001525878906,
@@ -4351,11 +4351,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "-STFU-",
     "titulo": "3D Mapping MadMapper Modul8 Lumen",
     "enlace": "https://www.youtube.com/watch?v=EwNNYcci5WY",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 593,
     "upload_date": "2017-08-11",
     "latent_x": 4.610000133514404,
@@ -4370,11 +4370,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "LY'sPastfolio",
     "titulo": "Projection mapping (cube)",
     "enlace": "https://www.youtube.com/watch?v=jZ4a31O9U4Q",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 544,
     "upload_date": "2023-08-10",
     "latent_x": 4.190000057220459,
@@ -4389,11 +4389,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Sportske Patike Balkan Gameplays",
     "titulo": "Projection Mapping for beginners using MadMapper 3 - learn Other IT & Software",
     "enlace": "https://www.youtube.com/watch?v=1yNxh_3O4B4",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 539,
     "upload_date": "2022-08-10",
     "latent_x": 28.09000015258789,
@@ -4427,12 +4427,12 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Mechaphoton",
     "titulo": "Led spatial scanner",
     "enlace": "https://www.youtube.com/watch?v=Moddf5Yxqpo",
-    "categoria_principal": "Spatial Scanner 3D Reconstruction",
+    "categoria_principal": "3D Scanning",
     "tags": [
-      "Spatial Scanner 3D Reconstruction",
+      "3D Scanning",
       "LED Strip Pixel Mapping"
     ],
-    "categoria_descriptores": "Spatial Scanner 3D Reconstruction (Spatial Scanner 3D Reconstruction, LED Strip Pixel Mapping)",
+    "categoria_descriptores": "3D Scanning (3D Scanning, LED Strip Pixel Mapping)",
     "views": 530,
     "upload_date": "2018-08-11",
     "latent_x": 34.77000045776367,
@@ -4447,11 +4447,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Videosolid",
     "titulo": "Syphon Two Mac on WiFi Mode Jitnet+Syphon",
     "enlace": "https://www.youtube.com/watch?v=AMJuPYfVVZE",
-    "categoria_principal": "Syphon, Spout & NDI Video Routing",
+    "categoria_principal": "Spout & NDI Routing",
     "tags": [
-      "Syphon, Spout & NDI Video Routing"
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Syphon, Spout & NDI Video Routing (Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Spout & NDI Routing (Spout & NDI Routing)",
     "views": 506,
     "upload_date": "2015-08-12",
     "latent_x": -24.90999984741211,
@@ -4485,11 +4485,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "EboSuite",
     "titulo": "05 - The eISF plug-in",
     "enlace": "https://www.youtube.com/watch?v=ubohGqThesg",
-    "categoria_principal": "Procedural Shaders & ISF Materials",
+    "categoria_principal": "Procedural Shaders",
     "tags": [
-      "Procedural Shaders & ISF Materials"
+      "Procedural Shaders"
     ],
-    "categoria_descriptores": "Procedural Shaders & ISF Materials (Procedural Shaders & ISF Materials)",
+    "categoria_descriptores": "Procedural Shaders (Procedural Shaders)",
     "views": 490,
     "upload_date": "2021-08-10",
     "latent_x": -29.610000610351562,
@@ -4526,10 +4526,10 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "3D Projection Mapping & Calibration",
+      "Projection Mapping",
       "LED Strip Pixel Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, 3D Projection Mapping & Calibration, LED Strip Pixel Mapping)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping, LED Strip Pixel Mapping)",
     "views": 464,
     "upload_date": "2026-07-26",
     "latent_x": 77.12999725341797,
@@ -4566,9 +4566,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 419,
     "upload_date": "2024-08-09",
     "latent_x": -82.37000274658203,
@@ -4583,12 +4583,12 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "JLewVisuials",
     "titulo": "3D model to demonstrate how 3D objects work inside MadMapper.",
     "enlace": "https://www.youtube.com/watch?v=-f8o-EXdIcI",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration",
-      "Procedural Shaders & ISF Materials"
+      "Projection Mapping",
+      "Procedural Shaders"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration, Procedural Shaders & ISF Materials)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, Procedural Shaders)",
     "views": 404,
     "upload_date": "2026-01-11",
     "latent_x": -12.270000457763672,
@@ -4603,11 +4603,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Jay Em",
     "titulo": "MAPPING TEST.  RESOLUME/HEAVYM/SYPHON-SPOUT",
     "enlace": "https://www.youtube.com/watch?v=_t7T6j1zhUg",
-    "categoria_principal": "Syphon, Spout & NDI Video Routing",
+    "categoria_principal": "Spout & NDI Routing",
     "tags": [
-      "Syphon, Spout & NDI Video Routing"
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Syphon, Spout & NDI Video Routing (Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Spout & NDI Routing (Spout & NDI Routing)",
     "views": 394,
     "upload_date": "2017-08-11",
     "latent_x": -16.989999771118164,
@@ -4625,9 +4625,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 392,
     "upload_date": "2022-08-10",
     "latent_x": -71.12000274658203,
@@ -4645,9 +4645,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 389,
     "upload_date": "2022-08-10",
     "latent_x": -53.029998779296875,
@@ -4662,11 +4662,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Pablo Garrido",
     "titulo": "Mapping Fluid WebgL Syphon Firefox Resolume",
     "enlace": "https://www.youtube.com/watch?v=L5861jvmKr8",
-    "categoria_principal": "Syphon, Spout & NDI Video Routing",
+    "categoria_principal": "Spout & NDI Routing",
     "tags": [
-      "Syphon, Spout & NDI Video Routing"
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Syphon, Spout & NDI Video Routing (Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Spout & NDI Routing (Spout & NDI Routing)",
     "views": 383,
     "upload_date": "2015-08-12",
     "latent_x": -22.170000076293945,
@@ -4700,11 +4700,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "academicVids",
     "titulo": "Grabar la salida de MadMapper con OBS-Studio",
     "enlace": "https://www.youtube.com/watch?v=xSDyZLroIes",
-    "categoria_principal": "Syphon, Spout & NDI Video Routing",
+    "categoria_principal": "Spout & NDI Routing",
     "tags": [
-      "Syphon, Spout & NDI Video Routing"
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Syphon, Spout & NDI Video Routing (Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Spout & NDI Routing (Spout & NDI Routing)",
     "views": 379,
     "upload_date": "2021-08-10",
     "latent_x": -25.940000534057617,
@@ -4722,9 +4722,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 372,
     "upload_date": "2024-08-09",
     "latent_x": -70.91000366210938,
@@ -4739,13 +4739,13 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Spatial Acuity",
     "titulo": "Laser Scan to Mesh | Projection Mapping | Spatial Acuity",
     "enlace": "https://www.youtube.com/watch?v=ACuGmptlJ3M",
-    "categoria_principal": "Surface Creation & Masking",
+    "categoria_principal": "Surface Masking",
     "tags": [
-      "Surface Creation & Masking",
-      "3D Projection Mapping & Calibration",
+      "Surface Masking",
+      "Projection Mapping",
       "Laser Control & Hardware"
     ],
-    "categoria_descriptores": "Surface Creation & Masking (Surface Creation & Masking, 3D Projection Mapping & Calibration, Laser Control & Hardware)",
+    "categoria_descriptores": "Surface Masking (Surface Masking, Projection Mapping, Laser Control & Hardware)",
     "views": 364,
     "upload_date": "2019-08-11",
     "latent_x": 17.68000030517578,
@@ -4782,9 +4782,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 352,
     "upload_date": "2020-08-10",
     "latent_x": -101.7300033569336,
@@ -4802,9 +4802,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 338,
     "upload_date": "2023-08-10",
     "latent_x": -46.4900016784668,
@@ -4822,9 +4822,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Procedural Shaders & ISF Materials"
+      "Procedural Shaders"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Procedural Shaders & ISF Materials)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Procedural Shaders)",
     "views": 327,
     "upload_date": "2020-08-10",
     "latent_x": -0.5699999928474426,
@@ -4839,11 +4839,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Introdução ao Video Mapping com MadMapper",
     "titulo": "Tutorial MadMapper 4 - Montando setup, conectando com madmapper, e projetando em superficie 3d",
     "enlace": "https://www.youtube.com/watch?v=QbS2HVN-L5M",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 317,
     "upload_date": "2018-08-11",
     "latent_x": -25.809999465942383,
@@ -4880,9 +4880,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 311,
     "upload_date": "2022-08-10",
     "latent_x": -112.56999969482422,
@@ -4916,11 +4916,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Sophie King",
     "titulo": "Modul8 & MadMapper",
     "enlace": "https://www.youtube.com/watch?v=FKzl4491E5s",
-    "categoria_principal": "Procedural Shaders & ISF Materials",
+    "categoria_principal": "Procedural Shaders",
     "tags": [
-      "Procedural Shaders & ISF Materials"
+      "Procedural Shaders"
     ],
-    "categoria_descriptores": "Procedural Shaders & ISF Materials (Procedural Shaders & ISF Materials)",
+    "categoria_descriptores": "Procedural Shaders (Procedural Shaders)",
     "views": 290,
     "upload_date": "2018-08-11",
     "latent_x": -38.720001220703125,
@@ -4973,11 +4973,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Z_Unity",
     "titulo": "AE to spout to Unity to Resolume",
     "enlace": "https://www.youtube.com/watch?v=uFlR-QDWx-I",
-    "categoria_principal": "Syphon, Spout & NDI Video Routing",
+    "categoria_principal": "Spout & NDI Routing",
     "tags": [
-      "Syphon, Spout & NDI Video Routing"
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Syphon, Spout & NDI Video Routing (Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Spout & NDI Routing (Spout & NDI Routing)",
     "views": 282,
     "upload_date": "2021-08-10",
     "latent_x": -28.56999969482422,
@@ -5030,11 +5030,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Caroline Blanton",
     "titulo": "Projection Mapping Installation (MadMapper)",
     "enlace": "https://www.youtube.com/watch?v=i469j4ozHhs",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 257,
     "upload_date": "2016-08-11",
     "latent_x": 25.290000915527344,
@@ -5049,12 +5049,12 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "IPixelInc",
     "titulo": "Mapping onto 3D cubes with Resolume and Mad mapper",
     "enlace": "https://www.youtube.com/watch?v=K12u0pgzTXk",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration",
-      "DMX & ArtNet Lighting Output"
+      "Projection Mapping",
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, DMX & ArtNet Output)",
     "views": 256,
     "upload_date": "2019-08-11",
     "latent_x": -38.61000061035156,
@@ -5107,11 +5107,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "WayneSablesProject",
     "titulo": "Menu in MadMapper",
     "enlace": "https://www.youtube.com/watch?v=yFgY2W_xwUc",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 249,
     "upload_date": "2021-08-10",
     "latent_x": 7.260000228881836,
@@ -5183,11 +5183,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "UsBpwnzz",
     "titulo": "how to download spout",
     "enlace": "https://www.youtube.com/watch?v=QPZXoMnb4wk",
-    "categoria_principal": "Syphon, Spout & NDI Video Routing",
+    "categoria_principal": "Spout & NDI Routing",
     "tags": [
-      "Syphon, Spout & NDI Video Routing"
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Syphon, Spout & NDI Video Routing (Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Spout & NDI Routing (Spout & NDI Routing)",
     "views": 225,
     "upload_date": "2012-08-12",
     "latent_x": -40.310001373291016,
@@ -5240,11 +5240,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Pixel bar Jack",
     "titulo": "DMX RGB Pixel Tube DMX Super Scenografix Bar DMX 512 madmapper,lep mapping",
     "enlace": "https://www.youtube.com/watch?v=D4q-eTVL8l0",
-    "categoria_principal": "DMX & ArtNet Lighting Output",
+    "categoria_principal": "DMX & ArtNet Output",
     "tags": [
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "DMX & ArtNet Lighting Output (DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "DMX & ArtNet Output (DMX & ArtNet Output)",
     "views": 198,
     "upload_date": "2022-08-10",
     "latent_x": -86.0999984741211,
@@ -5259,12 +5259,12 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "WayneSablesProject",
     "titulo": "Mesh Warping in MadMapper",
     "enlace": "https://www.youtube.com/watch?v=zNoU-uS9Mc4",
-    "categoria_principal": "Surface Creation & Masking",
+    "categoria_principal": "Surface Masking",
     "tags": [
-      "Surface Creation & Masking",
-      "3D Projection Mapping & Calibration"
+      "Surface Masking",
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Surface Creation & Masking (Surface Creation & Masking, 3D Projection Mapping & Calibration)",
+    "categoria_descriptores": "Surface Masking (Surface Masking, Projection Mapping)",
     "views": 193,
     "upload_date": "2026-02-10",
     "latent_x": 21.760000228881836,
@@ -5282,9 +5282,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 183,
     "upload_date": "2023-08-10",
     "latent_x": -120.0,
@@ -5299,11 +5299,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "DoktorAndy",
     "titulo": "ProjectionMapping",
     "enlace": "https://www.youtube.com/watch?v=vC7Ee3rC6Vo",
-    "categoria_principal": "Procedural Shaders & ISF Materials",
+    "categoria_principal": "Procedural Shaders",
     "tags": [
-      "Procedural Shaders & ISF Materials"
+      "Procedural Shaders"
     ],
-    "categoria_descriptores": "Procedural Shaders & ISF Materials (Procedural Shaders & ISF Materials)",
+    "categoria_descriptores": "Procedural Shaders (Procedural Shaders)",
     "views": 148,
     "upload_date": "2015-08-12",
     "latent_x": -29.610000610351562,
@@ -5318,11 +5318,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "KaDanceMix",
     "titulo": "ISF shader rendered with Metal.",
     "enlace": "https://www.youtube.com/watch?v=nGb_wWMPUN8",
-    "categoria_principal": "Procedural Shaders & ISF Materials",
+    "categoria_principal": "Procedural Shaders",
     "tags": [
-      "Procedural Shaders & ISF Materials"
+      "Procedural Shaders"
     ],
-    "categoria_descriptores": "Procedural Shaders & ISF Materials (Procedural Shaders & ISF Materials)",
+    "categoria_descriptores": "Procedural Shaders (Procedural Shaders)",
     "views": 135,
     "upload_date": "2020-08-10",
     "latent_x": -50.79999923706055,
@@ -5337,11 +5337,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Jay Em",
     "titulo": "MAPPING TEST.  RESOLUME/HEAVYM/SYPHON-SPOUT",
     "enlace": "https://www.youtube.com/watch?v=y8DG_ojEuQc",
-    "categoria_principal": "Syphon, Spout & NDI Video Routing",
+    "categoria_principal": "Spout & NDI Routing",
     "tags": [
-      "Syphon, Spout & NDI Video Routing"
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "Syphon, Spout & NDI Video Routing (Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Spout & NDI Routing (Spout & NDI Routing)",
     "views": 128,
     "upload_date": "2017-08-11",
     "latent_x": -16.989999771118164,
@@ -5356,14 +5356,14 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Paul Mortimore",
     "titulo": "Phoebus – Audiovisual installation MadMapper and GarageCube LED",
     "enlace": "https://www.youtube.com/watch?v=2o-loPtPc8s",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration",
+      "Projection Mapping",
       "LED Strip Pixel Mapping",
-      "Procedural Shaders & ISF Materials",
+      "Procedural Shaders",
       "Laser Control & Hardware"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration, LED Strip Pixel Mapping, Procedural Shaders & ISF Materials, Laser Control & Hardware)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, LED Strip Pixel Mapping, Procedural Shaders, Laser Control & Hardware)",
     "views": 127,
     "upload_date": "2020-08-10",
     "latent_x": -17.93000030517578,
@@ -5378,11 +5378,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Zap",
     "titulo": "Spatial Scanner - Collecting Blue Loot",
     "enlace": "https://www.youtube.com/watch?v=l5U-YdBZNRI",
-    "categoria_principal": "Spatial Scanner 3D Reconstruction",
+    "categoria_principal": "3D Scanning",
     "tags": [
-      "Spatial Scanner 3D Reconstruction"
+      "3D Scanning"
     ],
-    "categoria_descriptores": "Spatial Scanner 3D Reconstruction (Spatial Scanner 3D Reconstruction)",
+    "categoria_descriptores": "3D Scanning (3D Scanning)",
     "views": 123,
     "upload_date": "2016-08-11",
     "latent_x": 1.7599999904632568,
@@ -5419,9 +5419,9 @@ const MADMAPPER_TUTORIALS_DATA = [
     "categoria_principal": "LED Strip Pixel Mapping",
     "tags": [
       "LED Strip Pixel Mapping",
-      "DMX & ArtNet Lighting Output"
+      "DMX & ArtNet Output"
     ],
-    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Lighting Output)",
+    "categoria_descriptores": "LED Strip Pixel Mapping (LED Strip Pixel Mapping, DMX & ArtNet Output)",
     "views": 96,
     "upload_date": "2023-08-10",
     "latent_x": -112.05999755859375,
@@ -5474,12 +5474,12 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Cj N2",
     "titulo": "syphon testing",
     "enlace": "https://www.youtube.com/watch?v=Khh7HDkdwNc",
-    "categoria_principal": "3D Projection Mapping & Calibration",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "3D Projection Mapping & Calibration",
-      "Syphon, Spout & NDI Video Routing"
+      "Projection Mapping",
+      "Spout & NDI Routing"
     ],
-    "categoria_descriptores": "3D Projection Mapping & Calibration (3D Projection Mapping & Calibration, Syphon, Spout & NDI Video Routing)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, Spout & NDI Routing)",
     "views": 86,
     "upload_date": "2014-08-12",
     "latent_x": 30.950000762939453,
@@ -5494,12 +5494,12 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Phillip Andrews",
     "titulo": "ART EXHIBIT sculptural projection concept promo",
     "enlace": "https://www.youtube.com/watch?v=bbOlgqmb-wk",
-    "categoria_principal": "Surface Creation & Masking",
+    "categoria_principal": "Surface Masking",
     "tags": [
-      "Surface Creation & Masking",
-      "Procedural Shaders & ISF Materials"
+      "Surface Masking",
+      "Procedural Shaders"
     ],
-    "categoria_descriptores": "Surface Creation & Masking (Surface Creation & Masking, Procedural Shaders & ISF Materials)",
+    "categoria_descriptores": "Surface Masking (Surface Masking, Procedural Shaders)",
     "views": 81,
     "upload_date": "2022-08-10",
     "latent_x": -14.710000038146973,
@@ -5533,11 +5533,11 @@ const MADMAPPER_TUTORIALS_DATA = [
     "autor": "Phoenix Shipyards tF",
     "titulo": "Spatial Scanner demo",
     "enlace": "https://www.youtube.com/watch?v=LXHaaL6n1N8",
-    "categoria_principal": "Spatial Scanner 3D Reconstruction",
+    "categoria_principal": "3D Scanning",
     "tags": [
-      "Spatial Scanner 3D Reconstruction"
+      "3D Scanning"
     ],
-    "categoria_descriptores": "Spatial Scanner 3D Reconstruction (Spatial Scanner 3D Reconstruction)",
+    "categoria_descriptores": "3D Scanning (3D Scanning)",
     "views": 68,
     "upload_date": "2016-08-11",
     "latent_x": 28.8799991607666,
@@ -5680,4 +5680,3 @@ const MADMAPPER_TUTORIALS_DATA = [
     "duracion": "01:26:19"
   }
 ];
-window.MADMAPPER_DATA = MADMAPPER_TUTORIALS_DATA;

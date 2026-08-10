@@ -24,11 +24,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Yes I'm a Designer",
     "titulo": "Learn to Draw Anything with Adobe Illustrator CC",
     "enlace": "https://www.youtube.com/watch?v=RbbQl2sU-ag",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 5158976,
     "upload_date": "2017-08-11",
     "latent_x": 3.700000047683716,
@@ -81,12 +81,12 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "TheVectorLab",
     "titulo": "Illustrator Tutorial: Create a Vector Logo from a Rough Sketch",
     "enlace": "https://www.youtube.com/watch?v=qSkhaLNKdX0",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing",
+      "Vector Drawing",
       "Logo Design & Branding"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing, Logo Design & Branding)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing, Logo Design & Branding)",
     "views": 3766336,
     "upload_date": "2020-08-10",
     "latent_x": -9.699999809265137,
@@ -101,11 +101,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Dom Designs",
     "titulo": "Adobe Illustrator Tutorial: Create a Vector Pizza from Sketch (HD)",
     "enlace": "https://www.youtube.com/watch?v=KZP6RQu_F6U",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 3288325,
     "upload_date": "2021-08-10",
     "latent_x": 16.309999465942383,
@@ -216,11 +216,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "tutvid",
     "titulo": "Glass Planet Vector Illustration – Adobe Illustrator Tutorial",
     "enlace": "https://www.youtube.com/watch?v=Z2SNeH9v-Ug",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 1869179,
     "upload_date": "2018-08-11",
     "latent_x": 11.270000457763672,
@@ -235,11 +235,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Brad Colbow",
     "titulo": "Adobe Illustrator for Beginners - Sketch to Vector Tutorial",
     "enlace": "https://www.youtube.com/watch?v=HeLb0dy81Lc",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 1658245,
     "upload_date": "2022-08-10",
     "latent_x": 16.59000015258789,
@@ -311,11 +311,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Vector Slate | Graphic Design Tutorials",
     "titulo": "Vector Illustration Tutorial for Beginners | Adobe Illustrator Tutorial",
     "enlace": "https://www.youtube.com/watch?v=rSIQJNY1dlI",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 1429700,
     "upload_date": "2018-08-11",
     "latent_x": 5.760000228881836,
@@ -333,9 +333,9 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Vector Illustration & Drawing)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Vector Drawing)",
     "views": 1360415,
     "upload_date": "2021-08-10",
     "latent_x": 18.010000228881836,
@@ -369,11 +369,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Midas Multimedia",
     "titulo": "Step by Step Vector Portrait in Adobe Illustrator | Vector Art | Vector Illustration",
     "enlace": "https://www.youtube.com/watch?v=9EGI-FSr0Ig",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 1340838,
     "upload_date": "2021-08-10",
     "latent_x": -10.510000228881836,
@@ -407,11 +407,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "RiverCityGraphix",
     "titulo": "60 Second Illustrator Tutorial : Slice and Divide Shapes with Pathfinding -HD-",
     "enlace": "https://www.youtube.com/watch?v=4c4bEoT_mwE",
-    "categoria_principal": "Shape Builder & Pathfinder",
+    "categoria_principal": "Pathfinder & Shapes",
     "tags": [
-      "Shape Builder & Pathfinder"
+      "Pathfinder & Shapes"
     ],
-    "categoria_descriptores": "Shape Builder & Pathfinder (Shape Builder & Pathfinder)",
+    "categoria_descriptores": "Pathfinder & Shapes (Pathfinder & Shapes)",
     "views": 1324970,
     "upload_date": "2013-08-12",
     "latent_x": 16.09000015258789,
@@ -448,10 +448,10 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Vector Illustration & Drawing",
-      "Shape Builder & Pathfinder"
+      "Vector Drawing",
+      "Pathfinder & Shapes"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Vector Illustration & Drawing, Shape Builder & Pathfinder)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Vector Drawing, Pathfinder & Shapes)",
     "views": 1290266,
     "upload_date": "2020-08-10",
     "latent_x": 28.989999771118164,
@@ -466,11 +466,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Dom Designs",
     "titulo": "Adobe Illustrator Tutorial- Create a Soda Can Vector (HD)",
     "enlace": "https://www.youtube.com/watch?v=4601QiodeJc",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 1179930,
     "upload_date": "2021-08-10",
     "latent_x": 2.109999895095825,
@@ -542,12 +542,12 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Dom Designs",
     "titulo": "Adobe Illustrator Tutorial: Create a Vector Logo from a Sketch in 2024!",
     "enlace": "https://www.youtube.com/watch?v=8kz0bZQDm60",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing",
+      "Vector Drawing",
       "Logo Design & Branding"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing, Logo Design & Branding)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing, Logo Design & Branding)",
     "views": 1083307,
     "upload_date": "2021-08-10",
     "latent_x": 0.44999998807907104,
@@ -584,9 +584,9 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Shape Builder & Pathfinder"
+      "Pathfinder & Shapes"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Shape Builder & Pathfinder)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Pathfinder & Shapes)",
     "views": 1034959,
     "upload_date": "2020-08-10",
     "latent_x": 55.38999938964844,
@@ -928,9 +928,9 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Vector Illustration & Drawing)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Vector Drawing)",
     "views": 562168,
     "upload_date": "2023-08-10",
     "latent_x": 0.5,
@@ -1136,11 +1136,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Alice Thorpe Designs",
     "titulo": "How To Make A Vector Portrait | Using Adobe Illustrator cc",
     "enlace": "https://www.youtube.com/watch?v=plaNq84wUVA",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 436399,
     "upload_date": "2019-08-11",
     "latent_x": -7.389999866485596,
@@ -1174,11 +1174,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "TheVectorLab",
     "titulo": "Convert Drawings Into VECTOR Graphics • Illustrator & Procreate Tutorial",
     "enlace": "https://www.youtube.com/watch?v=iJ9YwdMncv0",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 415398,
     "upload_date": "2021-08-10",
     "latent_x": 12.5600004196167,
@@ -1368,11 +1368,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Spoon Graphics",
     "titulo": "How to Draw a Retro Mascot Character Design in Illustrator",
     "enlace": "https://www.youtube.com/watch?v=KTh925hn6Yk",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 338000,
     "upload_date": "2019-08-11",
     "latent_x": 50.08000183105469,
@@ -1539,11 +1539,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Pranav Shaj",
     "titulo": "Night sky Vector Illustration with Silhouette Moonlight Illustration - Illustrator Tutorial",
     "enlace": "https://www.youtube.com/watch?v=yVz1NzenOJU",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 287762,
     "upload_date": "2018-08-11",
     "latent_x": -8.0600004196167,
@@ -1615,12 +1615,12 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Spoon Graphics",
     "titulo": "How to Create an Isometric Text Effect in Adobe Illustrator",
     "enlace": "https://www.youtube.com/watch?v=r4i24O_RqLU",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing",
+      "Vector Drawing",
       "Typography & Text Effects"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing, Typography & Text Effects)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing, Typography & Text Effects)",
     "views": 271774,
     "upload_date": "2020-08-10",
     "latent_x": -40.86000061035156,
@@ -1635,13 +1635,13 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Elizafy Creative",
     "titulo": "How to Make a Vector Halftone Dot Effect Inside a 3D Text Effect | Adobe Illustrator Tutorial",
     "enlace": "https://www.youtube.com/watch?v=ApgUxL4o3bo",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing",
+      "Vector Drawing",
       "Typography & Text Effects",
       "3D & Inflation Effects"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing, Typography & Text Effects, 3D & Inflation Effects)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing, Typography & Text Effects, 3D & Inflation Effects)",
     "views": 271201,
     "upload_date": "2022-08-10",
     "latent_x": -35.41999816894531,
@@ -1656,12 +1656,12 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Nobu Design",
     "titulo": "Isometric Text Effect | Adobe Illustrator Tutorial",
     "enlace": "https://www.youtube.com/watch?v=LPVPvwNEj_A",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing",
+      "Vector Drawing",
       "Typography & Text Effects"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing, Typography & Text Effects)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing, Typography & Text Effects)",
     "views": 267603,
     "upload_date": "2020-08-10",
     "latent_x": -54.380001068115234,
@@ -1812,9 +1812,9 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "categoria_principal": "Logo Design & Branding",
     "tags": [
       "Logo Design & Branding",
-      "Shape Builder & Pathfinder"
+      "Pathfinder & Shapes"
     ],
-    "categoria_descriptores": "Logo Design & Branding (Logo Design & Branding, Shape Builder & Pathfinder)",
+    "categoria_descriptores": "Logo Design & Branding (Logo Design & Branding, Pathfinder & Shapes)",
     "views": 243311,
     "upload_date": "2018-08-11",
     "latent_x": 6.610000133514404,
@@ -1886,11 +1886,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Dansky",
     "titulo": "The Best Drawing Tools in Illustrator (and how to use them)",
     "enlace": "https://www.youtube.com/watch?v=c_n1fKN6C7U",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 236824,
     "upload_date": "2024-08-09",
     "latent_x": 3.1500000953674316,
@@ -1962,11 +1962,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Top Tips Graphics",
     "titulo": "Landscape Vector Illustration | Adobe illustrator Tutorials | Speed art",
     "enlace": "https://www.youtube.com/watch?v=pFPFvQ-3xN0",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 222011,
     "upload_date": "2019-08-11",
     "latent_x": -16.270000457763672,
@@ -2138,9 +2138,9 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Vector Illustration & Drawing)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Vector Drawing)",
     "views": 194839,
     "upload_date": "2023-08-10",
     "latent_x": 18.010000228881836,
@@ -2158,9 +2158,9 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "categoria_principal": "Pen Tool & Precise Paths",
     "tags": [
       "Pen Tool & Precise Paths",
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Vector Illustration & Drawing)",
+    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Vector Drawing)",
     "views": 193778,
     "upload_date": "2024-08-09",
     "latent_x": 33.31999969482422,
@@ -2175,11 +2175,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Neda Draws",
     "titulo": "DIGITAL PAINTING PROCESS. Adobe Illustrator Vector Illustration",
     "enlace": "https://www.youtube.com/watch?v=4Ho5PXb6uj8",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 191276,
     "upload_date": "2023-08-10",
     "latent_x": -4.909999847412109,
@@ -2194,11 +2194,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Spoon Graphics",
     "titulo": "How To Create a Fun Vector Illustration in Adobe Illustrator",
     "enlace": "https://www.youtube.com/watch?v=nAH-eq7zgKk",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 190261,
     "upload_date": "2016-08-11",
     "latent_x": -20.639999389648438,
@@ -2330,11 +2330,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "SumitVX",
     "titulo": "Let's Draw Beauty! Vector Portrait Illustration (Free & Easy) in Adobe illustrator 🔥",
     "enlace": "https://www.youtube.com/watch?v=zOnCATnaufk",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 172231,
     "upload_date": "2024-08-09",
     "latent_x": 11.550000190734863,
@@ -2486,12 +2486,12 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Dom Designs",
     "titulo": "Adobe Illustrator Tutorial - Create a Banana Vector (HD)",
     "enlace": "https://www.youtube.com/watch?v=ByGb36WzGgE",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing",
+      "Vector Drawing",
       "Logo Design & Branding"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing, Logo Design & Branding)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing, Logo Design & Branding)",
     "views": 162642,
     "upload_date": "2021-08-10",
     "latent_x": 1.8700000047683716,
@@ -2583,11 +2583,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Vector Slate | Graphic Design Tutorials",
     "titulo": "Sunset Vector Illustration Tutorial for Beginners | Adobe Illustrator Tutorial",
     "enlace": "https://www.youtube.com/watch?v=2anwonP9Rik",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 157481,
     "upload_date": "2020-08-10",
     "latent_x": 5.760000228881836,
@@ -2643,10 +2643,10 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Vector Illustration & Drawing",
+      "Vector Drawing",
       "3D & Inflation Effects"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Vector Illustration & Drawing, 3D & Inflation Effects)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Vector Drawing, 3D & Inflation Effects)",
     "views": 149826,
     "upload_date": "2023-08-10",
     "latent_x": -6.130000114440918,
@@ -2737,11 +2737,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Spoon Graphics",
     "titulo": "How To Create a Retro Style Cartoon Character Illustration (+ FREE Halftone Brushes!)",
     "enlace": "https://www.youtube.com/watch?v=nZJteYqeNOY",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 144927,
     "upload_date": "2019-08-11",
     "latent_x": 52.380001068115234,
@@ -2816,9 +2816,9 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "categoria_principal": "Pen Tool & Precise Paths",
     "tags": [
       "Pen Tool & Precise Paths",
-      "Shape Builder & Pathfinder"
+      "Pathfinder & Shapes"
     ],
-    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Shape Builder & Pathfinder)",
+    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Pathfinder & Shapes)",
     "views": 139425,
     "upload_date": "2021-08-10",
     "latent_x": 58.13999938964844,
@@ -2833,11 +2833,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Satori Graphics",
     "titulo": "How To Make The PERFECT Gradient! (Works Every Time)",
     "enlace": "https://www.youtube.com/watch?v=_52YheBuxIE",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 139057,
     "upload_date": "2022-08-10",
     "latent_x": -25.829999923706055,
@@ -2852,11 +2852,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "V CUTZ MEDIA",
     "titulo": "How To Get Started with Adobe Illustrator  | Malayalam tutorial",
     "enlace": "https://www.youtube.com/watch?v=H0YItiQmeTM",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 135282,
     "upload_date": "2020-08-10",
     "latent_x": 10.449999809265137,
@@ -2871,11 +2871,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Brooke Glaser",
     "titulo": "Learn Illustration FAST: A Guide for Beginners in 2026",
     "enlace": "https://www.youtube.com/watch?v=_mEWThlLZcY",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 133998,
     "upload_date": "2025-08-09",
     "latent_x": 26.459999084472656,
@@ -2909,12 +2909,12 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Dom Designs",
     "titulo": "Adobe Illustrator Tutorial- Create a Bubble Tea Vector Step by Step",
     "enlace": "https://www.youtube.com/watch?v=liJ60ZKMM8M",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing",
+      "Vector Drawing",
       "Logo Design & Branding"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing, Logo Design & Branding)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing, Logo Design & Branding)",
     "views": 129088,
     "upload_date": "2023-08-10",
     "latent_x": -9.4399995803833,
@@ -3215,12 +3215,12 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Typefool",
     "titulo": "7 Logo design sketches to vector with Adobe Illustrator",
     "enlace": "https://www.youtube.com/watch?v=gGQz_OuiTXs",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing",
+      "Vector Drawing",
       "Logo Design & Branding"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing, Logo Design & Branding)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing, Logo Design & Branding)",
     "views": 102549,
     "upload_date": "2024-08-09",
     "latent_x": 2.200000047683716,
@@ -3293,11 +3293,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Envato Tuts+",
     "titulo": "Adobe Illustrator Illustration for Beginners | FREE COURSE",
     "enlace": "https://www.youtube.com/watch?v=FUiRufl7vUw",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 98369,
     "upload_date": "2023-08-10",
     "latent_x": 18.469999313354492,
@@ -3332,12 +3332,12 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Dan Gartman",
     "titulo": "How I draw vector illustrations in 4 steps (Adobe Illustrator)",
     "enlace": "https://www.youtube.com/watch?v=NUzuJb-Jp3k",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing",
+      "Vector Drawing",
       "Pattern Design & Textures"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing, Pattern Design & Textures)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing, Pattern Design & Textures)",
     "views": 96140,
     "upload_date": "2022-08-10",
     "latent_x": -9.649999618530273,
@@ -3352,12 +3352,12 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Louis du Mont",
     "titulo": "Making Vector Illustrations 3D in Blender",
     "enlace": "https://www.youtube.com/watch?v=MURBr0GTHuo",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing",
+      "Vector Drawing",
       "3D & Inflation Effects"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing, 3D & Inflation Effects)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing, 3D & Inflation Effects)",
     "views": 95966,
     "upload_date": "2021-08-10",
     "latent_x": -12.420000076293945,
@@ -3583,11 +3583,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "SCR Enter",
     "titulo": "Vector Portrait Tutorial in Adobe Illustrator | Step by Step | Part 1",
     "enlace": "https://www.youtube.com/watch?v=H9-4wJfH1C8",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 86553,
     "upload_date": "2022-08-10",
     "latent_x": -21.079999923706055,
@@ -3720,9 +3720,9 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Shape Builder & Pathfinder"
+      "Pathfinder & Shapes"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Shape Builder & Pathfinder)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Pathfinder & Shapes)",
     "views": 82339,
     "upload_date": "2008-08-13",
     "latent_x": 48.709999084472656,
@@ -3737,12 +3737,12 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "WeJustClickme",
     "titulo": "Isometric Text Effect in adobe Illustrator",
     "enlace": "https://www.youtube.com/watch?v=kXJcbL0pL1I",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing",
+      "Vector Drawing",
       "Typography & Text Effects"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing, Typography & Text Effects)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing, Typography & Text Effects)",
     "views": 81882,
     "upload_date": "2023-08-10",
     "latent_x": -40.779998779296875,
@@ -3795,12 +3795,12 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "P A N T E R",
     "titulo": "How to Design Isometric Text in Illustrator",
     "enlace": "https://www.youtube.com/watch?v=_HIv5XOzrA8",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing",
+      "Vector Drawing",
       "Typography & Text Effects"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing, Typography & Text Effects)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing, Typography & Text Effects)",
     "views": 80018,
     "upload_date": "2022-08-10",
     "latent_x": -46.38999938964844,
@@ -3872,11 +3872,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Vector Art Academy | Illustrator Tutorials by Kat",
     "titulo": "Create Simple Vector Flowers in Adobe Illustrator 🌸",
     "enlace": "https://www.youtube.com/watch?v=8gXPiLqO70c",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 74929,
     "upload_date": "2023-08-10",
     "latent_x": -9.149999618530273,
@@ -4028,11 +4028,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Satori Graphics",
     "titulo": "ILLUSTRATOR LIVE DRAWING TRICKS *MIND BLOWING*",
     "enlace": "https://www.youtube.com/watch?v=NcOPo1LrgD0",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 69987,
     "upload_date": "2019-08-11",
     "latent_x": -6.78000020980835,
@@ -4086,11 +4086,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Adobe Asia Pacific",
     "titulo": "Tips to Make Vector Art for Beginners | Adobe Illustrator",
     "enlace": "https://www.youtube.com/watch?v=NgRmI5Zo0F4",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 65030,
     "upload_date": "2021-08-10",
     "latent_x": 1.059999942779541,
@@ -4105,11 +4105,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Ollie Spicer",
     "titulo": "Adobe Illustrator Tutorial: Create a vector character from Sketch",
     "enlace": "https://www.youtube.com/watch?v=r3ZcIqB4imM",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 64421,
     "upload_date": "2025-08-09",
     "latent_x": 26.530000686645508,
@@ -4200,11 +4200,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Cody A Banks",
     "titulo": "How To Make A Character in Adobe Illustrator (EASY)",
     "enlace": "https://www.youtube.com/watch?v=tExWgNF_sGs",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 62238,
     "upload_date": "2025-08-09",
     "latent_x": 28.469999313354492,
@@ -4219,11 +4219,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Fernando Nunes",
     "titulo": "Illustration Tutorial: Drawing from Sketch and Vectoring in Adobe Illustrator",
     "enlace": "https://www.youtube.com/watch?v=7sjYwqYdv48",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 61865,
     "upload_date": "2021-08-10",
     "latent_x": 10.020000457763672,
@@ -4238,11 +4238,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Spoon Graphics",
     "titulo": "I Made My Own Breakfast Cereal Mascot! - Retro Character Design in Illustrator & Photoshop",
     "enlace": "https://www.youtube.com/watch?v=wPv_iPjsAaw",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 61183,
     "upload_date": "2020-08-10",
     "latent_x": 55.70000076293945,
@@ -4353,11 +4353,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Dom Designs",
     "titulo": "Adobe Illustrator Tutorial - How to Create Isometric Vector Illustrations",
     "enlace": "https://www.youtube.com/watch?v=qr3xCDyKlmU",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 57164,
     "upload_date": "2024-08-09",
     "latent_x": -16.200000762939453,
@@ -4372,11 +4372,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Jason Secrest",
     "titulo": "Easy Adobe Illustrator Tutorial: From Sketch to Vector",
     "enlace": "https://www.youtube.com/watch?v=hxOLXAnTWZ8",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 56192,
     "upload_date": "2018-08-11",
     "latent_x": 11.600000381469727,
@@ -4391,12 +4391,12 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Dom Designs",
     "titulo": "Adobe Illustrator Tutorial: Create a Vector Logo Design from Sketch",
     "enlace": "https://www.youtube.com/watch?v=mXYPZ7YGwcM",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing",
+      "Vector Drawing",
       "Logo Design & Branding"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing, Logo Design & Branding)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing, Logo Design & Branding)",
     "views": 55852,
     "upload_date": "2023-08-10",
     "latent_x": 3.8299999237060547,
@@ -4487,11 +4487,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "T&T Tutorials",
     "titulo": "Flat Character Design | Illustrator Tutorial (for Beginners)",
     "enlace": "https://www.youtube.com/watch?v=Xux0APyR0HY",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 53144,
     "upload_date": "2021-08-10",
     "latent_x": 33.81999969482422,
@@ -4544,11 +4544,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "T&T Tutorials",
     "titulo": "3 Ways to turn sketch into vector illustration | Illustrator Tutorial (Tracing Tips)",
     "enlace": "https://www.youtube.com/watch?v=61dNBUAmwaQ",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 51200,
     "upload_date": "2021-08-10",
     "latent_x": 17.360000610351562,
@@ -4817,10 +4817,10 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Vector Illustration & Drawing",
-      "Shape Builder & Pathfinder"
+      "Vector Drawing",
+      "Pathfinder & Shapes"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Vector Illustration & Drawing, Shape Builder & Pathfinder)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Vector Drawing, Pathfinder & Shapes)",
     "views": 43030,
     "upload_date": "2024-08-09",
     "latent_x": 41.36000061035156,
@@ -4893,11 +4893,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Dom Designs",
     "titulo": "Adobe Illustrator Tutorial - How to Create Cute Character Designs",
     "enlace": "https://www.youtube.com/watch?v=rQAc9kxJWM8",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 40993,
     "upload_date": "2024-08-09",
     "latent_x": 41.599998474121094,
@@ -5106,9 +5106,9 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Vector Illustration & Drawing)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Vector Drawing)",
     "views": 35911,
     "upload_date": "2019-08-11",
     "latent_x": 11.460000038146973,
@@ -5200,11 +5200,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Vector Art Academy | Illustrator Tutorials by Kat",
     "titulo": "Advanced Shading in Adobe Illustrator Using Layered Shapes, Blend Modes & Gradients - File Deep Dive",
     "enlace": "https://www.youtube.com/watch?v=O7rp0xQV504",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 34747,
     "upload_date": "2024-08-09",
     "latent_x": -39.34000015258789,
@@ -5277,11 +5277,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Spoon Graphics",
     "titulo": "Adobe Illustrator Tutorial: Sketch to Vector Cartoon Character Illustration",
     "enlace": "https://www.youtube.com/watch?v=wTtgJFnbxOg",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 32999,
     "upload_date": "2022-08-10",
     "latent_x": 34.41999816894531,
@@ -5372,11 +5372,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Michael Masters",
     "titulo": "Pathfinder Tutorial for Beginners | Adobe Illustrator",
     "enlace": "https://www.youtube.com/watch?v=cjg5Puf554U",
-    "categoria_principal": "Shape Builder & Pathfinder",
+    "categoria_principal": "Pathfinder & Shapes",
     "tags": [
-      "Shape Builder & Pathfinder"
+      "Pathfinder & Shapes"
     ],
-    "categoria_descriptores": "Shape Builder & Pathfinder (Shape Builder & Pathfinder)",
+    "categoria_descriptores": "Pathfinder & Shapes (Pathfinder & Shapes)",
     "views": 28978,
     "upload_date": "2019-08-11",
     "latent_x": 31.729999542236328,
@@ -5448,11 +5448,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Dom Designs",
     "titulo": "Adobe Illustrator Tutorial - How to Create Cute Fast Food Icons Vector",
     "enlace": "https://www.youtube.com/watch?v=9h5l9ON25S0",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 26554,
     "upload_date": "2024-08-09",
     "latent_x": 30.100000381469727,
@@ -5547,10 +5547,10 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "categoria_principal": "Pen Tool & Precise Paths",
     "tags": [
       "Pen Tool & Precise Paths",
-      "Vector Illustration & Drawing",
-      "Shape Builder & Pathfinder"
+      "Vector Drawing",
+      "Pathfinder & Shapes"
     ],
-    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Vector Illustration & Drawing, Shape Builder & Pathfinder)",
+    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Vector Drawing, Pathfinder & Shapes)",
     "views": 26285,
     "upload_date": "2014-08-12",
     "latent_x": 14.069999694824219,
@@ -5565,11 +5565,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Dansky",
     "titulo": "The only 7 tools you need to draw anything in Illustrator",
     "enlace": "https://www.youtube.com/watch?v=naBKBcKLuJ0",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 26238,
     "upload_date": "2026-03-12",
     "latent_x": -1.2100000381469727,
@@ -5622,11 +5622,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Spoon Graphics",
     "titulo": "[Tutorial Link] Flat Style Vector Planet in Illustrator",
     "enlace": "https://www.youtube.com/watch?v=isQ_Z7DRPX4",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 24570,
     "upload_date": "2016-08-11",
     "latent_x": 27.06999969482422,
@@ -5702,10 +5702,10 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "categoria_principal": "Pen Tool & Precise Paths",
     "tags": [
       "Pen Tool & Precise Paths",
-      "Vector Illustration & Drawing",
-      "Shape Builder & Pathfinder"
+      "Vector Drawing",
+      "Pathfinder & Shapes"
     ],
-    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Vector Illustration & Drawing, Shape Builder & Pathfinder)",
+    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Vector Drawing, Pathfinder & Shapes)",
     "views": 23481,
     "upload_date": "2012-08-12",
     "latent_x": 19.1299991607666,
@@ -5720,11 +5720,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Way to Technology",
     "titulo": "The Pathfinder Tool | Create Complex Shapes | Illustrator Part-8",
     "enlace": "https://www.youtube.com/watch?v=_gkE3YADLOc",
-    "categoria_principal": "Shape Builder & Pathfinder",
+    "categoria_principal": "Pathfinder & Shapes",
     "tags": [
-      "Shape Builder & Pathfinder"
+      "Pathfinder & Shapes"
     ],
-    "categoria_descriptores": "Shape Builder & Pathfinder (Shape Builder & Pathfinder)",
+    "categoria_descriptores": "Pathfinder & Shapes (Pathfinder & Shapes)",
     "views": 23323,
     "upload_date": "2020-08-10",
     "latent_x": 27.190000534057617,
@@ -5777,12 +5777,12 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Spoon Graphics",
     "titulo": "Grainy Shading Illustrator Text Effect Tutorial (+ FREE Textures!)",
     "enlace": "https://www.youtube.com/watch?v=O4GJOxZGiiA",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing",
+      "Vector Drawing",
       "Typography & Text Effects"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing, Typography & Text Effects)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing, Typography & Text Effects)",
     "views": 22529,
     "upload_date": "2019-08-11",
     "latent_x": -56.400001525878906,
@@ -5835,11 +5835,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Dansky",
     "titulo": "This new Illustrator feature is wild!",
     "enlace": "https://www.youtube.com/watch?v=ju9siD0ggW8",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 21216,
     "upload_date": "2026-05-11",
     "latent_x": -27.190000534057617,
@@ -5930,11 +5930,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Dansky",
     "titulo": "Cute Character Design Illustrator Tutorial",
     "enlace": "https://www.youtube.com/watch?v=c9O36Sx0pE8",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 20707,
     "upload_date": "2018-08-11",
     "latent_x": 42.9900016784668,
@@ -6158,11 +6158,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Dansky",
     "titulo": "This might be Illustrator’s best new feature",
     "enlace": "https://www.youtube.com/watch?v=tDDcECx-L4s",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 18166,
     "upload_date": "2026-07-10",
     "latent_x": -22.079999923706055,
@@ -6196,12 +6196,12 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Pierre Kleinhouse",
     "titulo": "Chocolate packaging illustration & design process",
     "enlace": "https://www.youtube.com/watch?v=5Hg4E1gmE8g",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing",
+      "Vector Drawing",
       "Packaging & Label Design"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing, Packaging & Label Design)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing, Packaging & Label Design)",
     "views": 17519,
     "upload_date": "2020-08-10",
     "latent_x": -15.90999984741211,
@@ -6292,11 +6292,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Aaron Rutten",
     "titulo": "Can You Make Photo-Realistic VECTOR ART? - Illustrator Mesh Tool",
     "enlace": "https://www.youtube.com/watch?v=4bXAdEVHHKU",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 16548,
     "upload_date": "2018-08-11",
     "latent_x": -6.619999885559082,
@@ -6388,12 +6388,12 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Spoon Graphics",
     "titulo": "Adobe Illustrator Logo Design Tutorial: Learn How To Create a Vector Skull Logo",
     "enlace": "https://www.youtube.com/watch?v=2R-76yaRXLc",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing",
+      "Vector Drawing",
       "Logo Design & Branding"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing, Logo Design & Branding)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing, Logo Design & Branding)",
     "views": 15418,
     "upload_date": "2021-08-10",
     "latent_x": 15.640000343322754,
@@ -6446,13 +6446,13 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Mohammed Hdila (Graphic designer ita)",
     "titulo": "Spices PACKAGING DESIGN Marocaine cuisine collection - Tutorial Adobe  illustrator CC - (section A)",
     "enlace": "https://www.youtube.com/watch?v=koJ0Ya5rLlU",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing",
+      "Vector Drawing",
       "3D & Inflation Effects",
       "Packaging & Label Design"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing, 3D & Inflation Effects, Packaging & Label Design)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing, 3D & Inflation Effects, Packaging & Label Design)",
     "views": 14537,
     "upload_date": "2017-08-11",
     "latent_x": -17.649999618530273,
@@ -6543,12 +6543,12 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Dom Designs",
     "titulo": "Adobe Illustrator Tutorial - How to Create Custom Neon Type Effects (Easy)",
     "enlace": "https://www.youtube.com/watch?v=9bfQ1LqGIm4",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing",
+      "Vector Drawing",
       "Typography & Text Effects"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing, Typography & Text Effects)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing, Typography & Text Effects)",
     "views": 13709,
     "upload_date": "2024-08-09",
     "latent_x": -56.0099983215332,
@@ -6601,11 +6601,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Skillademia",
     "titulo": "Free Adobe Illustrator Course for Beginners (Graphic Design and Illustration Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=-FlR_V-cEko",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 13610,
     "upload_date": "2023-08-10",
     "latent_x": 23.700000762939453,
@@ -6699,11 +6699,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Satori Graphics",
     "titulo": "Illustrator Pathfinder Tool Guide (PLUS TIPS)",
     "enlace": "https://www.youtube.com/watch?v=ISHBQ2rtWtg",
-    "categoria_principal": "Shape Builder & Pathfinder",
+    "categoria_principal": "Pathfinder & Shapes",
     "tags": [
-      "Shape Builder & Pathfinder"
+      "Pathfinder & Shapes"
     ],
-    "categoria_descriptores": "Shape Builder & Pathfinder (Shape Builder & Pathfinder)",
+    "categoria_descriptores": "Pathfinder & Shapes (Pathfinder & Shapes)",
     "views": 12818,
     "upload_date": "2018-08-11",
     "latent_x": 24.1299991607666,
@@ -6776,11 +6776,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "TechSavvyBytes",
     "titulo": "How to use Pathfinder and Shape Builder tool in Illustrator",
     "enlace": "https://www.youtube.com/watch?v=QcbZJ4WM1ZI",
-    "categoria_principal": "Shape Builder & Pathfinder",
+    "categoria_principal": "Pathfinder & Shapes",
     "tags": [
-      "Shape Builder & Pathfinder"
+      "Pathfinder & Shapes"
     ],
-    "categoria_descriptores": "Shape Builder & Pathfinder (Shape Builder & Pathfinder)",
+    "categoria_descriptores": "Pathfinder & Shapes (Pathfinder & Shapes)",
     "views": 11863,
     "upload_date": "2024-08-09",
     "latent_x": 39.79999923706055,
@@ -6855,9 +6855,9 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "categoria_principal": "Pen Tool & Precise Paths",
     "tags": [
       "Pen Tool & Precise Paths",
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Vector Illustration & Drawing)",
+    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Vector Drawing)",
     "views": 10026,
     "upload_date": "2012-08-12",
     "latent_x": 38.900001525878906,
@@ -6949,11 +6949,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Satori Graphics",
     "titulo": "Adobe Illustrator Tools Tutorial | Satori Graphics Illustrator Tutorial",
     "enlace": "https://www.youtube.com/watch?v=XkK01vGP-C0",
-    "categoria_principal": "Shape Builder & Pathfinder",
+    "categoria_principal": "Pathfinder & Shapes",
     "tags": [
-      "Shape Builder & Pathfinder"
+      "Pathfinder & Shapes"
     ],
-    "categoria_descriptores": "Shape Builder & Pathfinder (Shape Builder & Pathfinder)",
+    "categoria_descriptores": "Pathfinder & Shapes (Pathfinder & Shapes)",
     "views": 8277,
     "upload_date": "2018-08-11",
     "latent_x": 29.040000915527344,
@@ -6987,12 +6987,12 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Mind Island Design",
     "titulo": "Add Grain Texture to Vector Art in Illustrator",
     "enlace": "https://www.youtube.com/watch?v=2zUwLwFMsY4",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing",
+      "Vector Drawing",
       "Pattern Design & Textures"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing, Pattern Design & Textures)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing, Pattern Design & Textures)",
     "views": 7983,
     "upload_date": "2024-08-09",
     "latent_x": -14.65999984741211,
@@ -7029,9 +7029,9 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "categoria_principal": "Logo Design & Branding",
     "tags": [
       "Logo Design & Branding",
-      "Shape Builder & Pathfinder"
+      "Pathfinder & Shapes"
     ],
-    "categoria_descriptores": "Logo Design & Branding (Logo Design & Branding, Shape Builder & Pathfinder)",
+    "categoria_descriptores": "Logo Design & Branding (Logo Design & Branding, Pathfinder & Shapes)",
     "views": 6777,
     "upload_date": "2025-08-09",
     "latent_x": 0.12999999523162842,
@@ -7410,11 +7410,11 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Vector Nerd",
     "titulo": "Turn Any Image into a Vector | Adobe Illustrator Tutorial",
     "enlace": "https://www.youtube.com/watch?v=zaOW2wVrzY8",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing)",
     "views": 3801,
     "upload_date": "2025-08-09",
     "latent_x": -5.019999980926514,
@@ -7490,9 +7490,9 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Pen Tool & Precise Paths",
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Pen Tool & Precise Paths, Vector Illustration & Drawing)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Pen Tool & Precise Paths, Vector Drawing)",
     "views": 3744,
     "upload_date": "2018-08-11",
     "latent_x": 83.02999877929688,
@@ -7703,9 +7703,9 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "categoria_principal": "Pen Tool & Precise Paths",
     "tags": [
       "Pen Tool & Precise Paths",
-      "Shape Builder & Pathfinder"
+      "Pathfinder & Shapes"
     ],
-    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Shape Builder & Pathfinder)",
+    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Pathfinder & Shapes)",
     "views": 1804,
     "upload_date": "2017-08-11",
     "latent_x": 38.0099983215332,
@@ -7763,9 +7763,9 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Pen Tool & Precise Paths",
-      "Vector Illustration & Drawing"
+      "Vector Drawing"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Pen Tool & Precise Paths, Vector Illustration & Drawing)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Pen Tool & Precise Paths, Vector Drawing)",
     "views": 1569,
     "upload_date": "2020-08-10",
     "latent_x": 89.5199966430664,
@@ -7783,9 +7783,9 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "categoria_principal": "Pen Tool & Precise Paths",
     "tags": [
       "Pen Tool & Precise Paths",
-      "Shape Builder & Pathfinder"
+      "Pathfinder & Shapes"
     ],
-    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Shape Builder & Pathfinder)",
+    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Pathfinder & Shapes)",
     "views": 1446,
     "upload_date": "2018-08-11",
     "latent_x": 42.02000045776367,
@@ -7819,14 +7819,14 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "SD 45 Designs",
     "titulo": "Modern Style 3D Inflated Effect Text Typography In Illustrator #illustrator #photoshop",
     "enlace": "https://www.youtube.com/watch?v=0Emo2KJ8lCE",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing",
+      "Vector Drawing",
       "Logo Design & Branding",
       "Typography & Text Effects",
       "3D & Inflation Effects"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing, Logo Design & Branding, Typography & Text Effects, 3D & Inflation Effects)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing, Logo Design & Branding, Typography & Text Effects, 3D & Inflation Effects)",
     "views": 1252,
     "upload_date": "2023-08-10",
     "latent_x": -37.27000045776367,
@@ -7883,9 +7883,9 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "categoria_principal": "Pen Tool & Precise Paths",
     "tags": [
       "Pen Tool & Precise Paths",
-      "Shape Builder & Pathfinder"
+      "Pathfinder & Shapes"
     ],
-    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Shape Builder & Pathfinder)",
+    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Pathfinder & Shapes)",
     "views": 1078,
     "upload_date": "2011-08-13",
     "latent_x": 29.40999984741211,
@@ -8118,9 +8118,9 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "categoria_principal": "Pen Tool & Precise Paths",
     "tags": [
       "Pen Tool & Precise Paths",
-      "Shape Builder & Pathfinder"
+      "Pathfinder & Shapes"
     ],
-    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Shape Builder & Pathfinder)",
+    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Pathfinder & Shapes)",
     "views": 557,
     "upload_date": "2016-08-11",
     "latent_x": 51.029998779296875,
@@ -8217,9 +8217,9 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Pen Tool & Precise Paths",
-      "Shape Builder & Pathfinder"
+      "Pathfinder & Shapes"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Pen Tool & Precise Paths, Shape Builder & Pathfinder)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Pen Tool & Precise Paths, Pathfinder & Shapes)",
     "views": 383,
     "upload_date": "2021-08-10",
     "latent_x": 52.189998626708984,
@@ -8234,13 +8234,13 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Designer Tips",
     "titulo": "Adobe Illustrator 3D hand emoji inflation effect #newfeatures - easy icon design step by step",
     "enlace": "https://www.youtube.com/watch?v=IX0vD_9XXEk",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing",
+      "Vector Drawing",
       "Logo Design & Branding",
       "3D & Inflation Effects"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing, Logo Design & Branding, 3D & Inflation Effects)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing, Logo Design & Branding, 3D & Inflation Effects)",
     "views": 374,
     "upload_date": "2024-08-09",
     "latent_x": -18.93000030517578,
@@ -8294,12 +8294,12 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Philip Blank",
     "titulo": "How I turn 2D into 3D Illustrations with 1 click",
     "enlace": "https://www.youtube.com/watch?v=ot1FCUGiwaA",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing",
+      "Vector Drawing",
       "3D & Inflation Effects"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing, 3D & Inflation Effects)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing, 3D & Inflation Effects)",
     "views": 325,
     "upload_date": "2023-08-10",
     "latent_x": -16.75,
@@ -8354,13 +8354,13 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "AK Creatives",
     "titulo": "How to convert Vector Logo into 3D in Adobe Illustrator",
     "enlace": "https://www.youtube.com/watch?v=KOLMiLg0rxQ",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing",
+      "Vector Drawing",
       "Logo Design & Branding",
       "3D & Inflation Effects"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing, Logo Design & Branding, 3D & Inflation Effects)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing, Logo Design & Branding, 3D & Inflation Effects)",
     "views": 270,
     "upload_date": "2023-08-10",
     "latent_x": -14.569999694824219,
@@ -8416,10 +8416,10 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "categoria_principal": "Pen Tool & Precise Paths",
     "tags": [
       "Pen Tool & Precise Paths",
-      "Vector Illustration & Drawing",
-      "Shape Builder & Pathfinder"
+      "Vector Drawing",
+      "Pathfinder & Shapes"
     ],
-    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Vector Illustration & Drawing, Shape Builder & Pathfinder)",
+    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Vector Drawing, Pathfinder & Shapes)",
     "views": 199,
     "upload_date": "2020-08-10",
     "latent_x": 19.350000381469727,
@@ -8456,9 +8456,9 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "categoria_principal": "Pen Tool & Precise Paths",
     "tags": [
       "Pen Tool & Precise Paths",
-      "Shape Builder & Pathfinder"
+      "Pathfinder & Shapes"
     ],
-    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Shape Builder & Pathfinder)",
+    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Pathfinder & Shapes)",
     "views": 176,
     "upload_date": "2020-08-10",
     "latent_x": 34.15999984741211,
@@ -8476,9 +8476,9 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "categoria_principal": "Pen Tool & Precise Paths",
     "tags": [
       "Pen Tool & Precise Paths",
-      "Shape Builder & Pathfinder"
+      "Pathfinder & Shapes"
     ],
-    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Shape Builder & Pathfinder)",
+    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Pathfinder & Shapes)",
     "views": 166,
     "upload_date": "2013-08-12",
     "latent_x": 47.040000915527344,
@@ -8493,13 +8493,13 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "autor": "Designer Tips",
     "titulo": "Adobe Illustrator Tutorial how to create 3D text effect using inflate typography inspiration design",
     "enlace": "https://www.youtube.com/watch?v=_jsmrWcekyw",
-    "categoria_principal": "Vector Illustration & Drawing",
+    "categoria_principal": "Vector Drawing",
     "tags": [
-      "Vector Illustration & Drawing",
+      "Vector Drawing",
       "Typography & Text Effects",
       "3D & Inflation Effects"
     ],
-    "categoria_descriptores": "Vector Illustration & Drawing (Vector Illustration & Drawing, Typography & Text Effects, 3D & Inflation Effects)",
+    "categoria_descriptores": "Vector Drawing (Vector Drawing, Typography & Text Effects, 3D & Inflation Effects)",
     "views": 163,
     "upload_date": "2024-08-09",
     "latent_x": -47.939998626708984,
@@ -8828,9 +8828,9 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "categoria_principal": "Pen Tool & Precise Paths",
     "tags": [
       "Pen Tool & Precise Paths",
-      "Shape Builder & Pathfinder"
+      "Pathfinder & Shapes"
     ],
-    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Shape Builder & Pathfinder)",
+    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Pathfinder & Shapes)",
     "views": 33,
     "upload_date": "2020-08-10",
     "latent_x": 38.0099983215332,
@@ -8848,9 +8848,9 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "categoria_principal": "Pen Tool & Precise Paths",
     "tags": [
       "Pen Tool & Precise Paths",
-      "Shape Builder & Pathfinder"
+      "Pathfinder & Shapes"
     ],
-    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Shape Builder & Pathfinder)",
+    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Pathfinder & Shapes)",
     "views": 31,
     "upload_date": "2025-08-09",
     "latent_x": 38.68000030517578,
@@ -8944,9 +8944,9 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "categoria_principal": "Pen Tool & Precise Paths",
     "tags": [
       "Pen Tool & Precise Paths",
-      "Shape Builder & Pathfinder"
+      "Pathfinder & Shapes"
     ],
-    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Shape Builder & Pathfinder)",
+    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Pathfinder & Shapes)",
     "views": 10,
     "upload_date": "2021-08-10",
     "latent_x": 22.760000228881836,
@@ -8985,9 +8985,9 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "tags": [
       "Pen Tool & Precise Paths",
       "Packaging & Label Design",
-      "Shape Builder & Pathfinder"
+      "Pathfinder & Shapes"
     ],
-    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Packaging & Label Design, Shape Builder & Pathfinder)",
+    "categoria_descriptores": "Pen Tool & Precise Paths (Pen Tool & Precise Paths, Packaging & Label Design, Pathfinder & Shapes)",
     "views": 7,
     "upload_date": "2023-06-15",
     "latent_x": 45.099998474121094,
@@ -9054,4 +9054,3 @@ const ILLUSTRATOR_TUTORIALS_DATA = [
     "duracion": "03:49"
   }
 ];
-window.ILLUSTRATOR_DATA = ILLUSTRATOR_TUTORIALS_DATA;

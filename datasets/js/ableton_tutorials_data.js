@@ -138,11 +138,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Streaky",
     "titulo": "Vocal Trick They All Use",
     "enlace": "https://www.youtube.com/watch?v=CUyMUHStPxs",
-    "categoria_principal": "Vocal Processing & Effects",
+    "categoria_principal": "Vocal Effects",
     "tags": [
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Vocal Processing & Effects (Vocal Processing & Effects)",
+    "categoria_descriptores": "Vocal Effects (Vocal Effects)",
     "views": 1238481,
     "upload_date": "2023-08-10",
     "latent_x": 8.890000343322754,
@@ -215,12 +215,12 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Dubspot",
     "titulo": "Ableton Live Tutorial: Vocal Processing Effects + Live Performance Tips",
     "enlace": "https://www.youtube.com/watch?v=NX_drnUQw_Y",
-    "categoria_principal": "Vocal Processing & Effects",
+    "categoria_principal": "Vocal Effects",
     "tags": [
-      "Vocal Processing & Effects",
-      "Live Performance & Hardware"
+      "Vocal Effects",
+      "Live Performance"
     ],
-    "categoria_descriptores": "Vocal Processing & Effects (Vocal Processing & Effects, Live Performance & Hardware)",
+    "categoria_descriptores": "Vocal Effects (Vocal Effects, Live Performance)",
     "views": 909071,
     "upload_date": "2012-08-12",
     "latent_x": 33.099998474121094,
@@ -426,11 +426,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Dubspot",
     "titulo": "Ableton Live Tutorial: Vocal Effect Techniques",
     "enlace": "https://www.youtube.com/watch?v=vuY0dml_pWU",
-    "categoria_principal": "Vocal Processing & Effects",
+    "categoria_principal": "Vocal Effects",
     "tags": [
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Vocal Processing & Effects (Vocal Processing & Effects)",
+    "categoria_descriptores": "Vocal Effects (Vocal Effects)",
     "views": 642230,
     "upload_date": "2011-08-13",
     "latent_x": 28.899999618530273,
@@ -505,9 +505,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Mixing Techniques",
     "tags": [
       "Mixing Techniques",
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Processing & Effects)",
+    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Effects)",
     "views": 600481,
     "upload_date": "2025-08-09",
     "latent_x": 84.12999725341797,
@@ -560,11 +560,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "ANDREW HUANG",
     "titulo": "This is exactly how I process vocals.",
     "enlace": "https://www.youtube.com/watch?v=WN_p-Q4BOh8",
-    "categoria_principal": "Vocal Processing & Effects",
+    "categoria_principal": "Vocal Effects",
     "tags": [
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Vocal Processing & Effects (Vocal Processing & Effects)",
+    "categoria_descriptores": "Vocal Effects (Vocal Effects)",
     "views": 540448,
     "upload_date": "2017-08-11",
     "latent_x": -5.300000190734863,
@@ -773,9 +773,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Mixing Techniques",
     "tags": [
       "Mixing Techniques",
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Processing & Effects)",
+    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Effects)",
     "views": 439416,
     "upload_date": "2017-08-11",
     "latent_x": 52.88999938964844,
@@ -790,11 +790,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "343 Labs",
     "titulo": "Ableton Live LOOPING EXPLAINED | Music Production Tutorial",
     "enlace": "https://www.youtube.com/watch?v=3ll5LIXdRHI",
-    "categoria_principal": "Live Performance & Hardware",
+    "categoria_principal": "Live Performance",
     "tags": [
-      "Live Performance & Hardware"
+      "Live Performance"
     ],
-    "categoria_descriptores": "Live Performance & Hardware (Live Performance & Hardware)",
+    "categoria_descriptores": "Live Performance (Live Performance)",
     "views": 438662,
     "upload_date": "2020-08-10",
     "latent_x": 108.81999969482422,
@@ -850,9 +850,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Vocal Processing & Effects)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Vocal Effects)",
     "views": 420094,
     "upload_date": "2020-08-10",
     "latent_x": 15.960000038146973,
@@ -946,9 +946,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Vocal Processing & Effects)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Vocal Effects)",
     "views": 383881,
     "upload_date": "2020-08-10",
     "latent_x": 5.099999904632568,
@@ -1039,11 +1039,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Ableton",
     "titulo": "Ableton Push 1 Tutorial Part 2: Making Beats",
     "enlace": "https://www.youtube.com/watch?v=HM8EmM5C3Ls",
-    "categoria_principal": "Live Performance & Hardware",
+    "categoria_principal": "Live Performance",
     "tags": [
-      "Live Performance & Hardware"
+      "Live Performance"
     ],
-    "categoria_descriptores": "Live Performance & Hardware (Live Performance & Hardware)",
+    "categoria_descriptores": "Live Performance (Live Performance)",
     "views": 334462,
     "upload_date": "2013-08-12",
     "latent_x": 86.63999938964844,
@@ -1058,11 +1058,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Ableton Tips by PML",
     "titulo": "Felix Raphael: Preparing Ableton Session View for Playing Live | incl. LIVE JAM | Organic House",
     "enlace": "https://www.youtube.com/watch?v=EidG8BobNS4",
-    "categoria_principal": "Live Performance & Hardware",
+    "categoria_principal": "Live Performance",
     "tags": [
-      "Live Performance & Hardware"
+      "Live Performance"
     ],
-    "categoria_descriptores": "Live Performance & Hardware (Live Performance & Hardware)",
+    "categoria_descriptores": "Live Performance (Live Performance)",
     "views": 322984,
     "upload_date": "2024-08-09",
     "latent_x": 98.08000183105469,
@@ -1306,11 +1306,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "You Suck at Producing",
     "titulo": "Why Ableton's Operator is Better than Serum (for FM) | Sound Design Tutorial",
     "enlace": "https://www.youtube.com/watch?v=p60y3Y3dE3M",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 262927,
     "upload_date": "2019-08-11",
     "latent_x": 4.539999961853027,
@@ -1325,11 +1325,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Ethan Davis",
     "titulo": "How To Mix Vocals Like A PRO",
     "enlace": "https://www.youtube.com/watch?v=XAKxsc_uE2Y",
-    "categoria_principal": "Vocal Processing & Effects",
+    "categoria_principal": "Vocal Effects",
     "tags": [
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Vocal Processing & Effects (Vocal Processing & Effects)",
+    "categoria_descriptores": "Vocal Effects (Vocal Effects)",
     "views": 257816,
     "upload_date": "2024-08-09",
     "latent_x": -2.859999895095825,
@@ -1382,11 +1382,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Seed To Stage",
     "titulo": "Drift - A Deep Dive into Ableton's All New (and free) Synth",
     "enlace": "https://www.youtube.com/watch?v=5U-foZqE9z0",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 247961,
     "upload_date": "2023-08-10",
     "latent_x": 4.889999866485596,
@@ -1420,12 +1420,12 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "phritz",
     "titulo": "you don't need fancy analog hardware synths",
     "enlace": "https://www.youtube.com/watch?v=YDjniY23LFo",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design",
-      "Live Performance & Hardware"
+      "Synthesizers",
+      "Live Performance"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design, Live Performance & Hardware)",
+    "categoria_descriptores": "Synthesizers (Synthesizers, Live Performance)",
     "views": 237987,
     "upload_date": "2023-08-10",
     "latent_x": 38.9900016784668,
@@ -1615,9 +1615,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Vocal Processing & Effects)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Vocal Effects)",
     "views": 213272,
     "upload_date": "2021-08-10",
     "latent_x": 5.940000057220459,
@@ -1866,9 +1866,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Synthesizers & Sound Design)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Synthesizers)",
     "views": 188692,
     "upload_date": "2024-08-09",
     "latent_x": -62.290000915527344,
@@ -1883,11 +1883,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "You Suck at Producing",
     "titulo": "How To PERFORM with Ableton Live | Live Performance Setup",
     "enlace": "https://www.youtube.com/watch?v=J-GeRU5SLNo",
-    "categoria_principal": "Live Performance & Hardware",
+    "categoria_principal": "Live Performance",
     "tags": [
-      "Live Performance & Hardware"
+      "Live Performance"
     ],
-    "categoria_descriptores": "Live Performance & Hardware (Live Performance & Hardware)",
+    "categoria_descriptores": "Live Performance (Live Performance)",
     "views": 188606,
     "upload_date": "2024-08-09",
     "latent_x": 95.76000213623047,
@@ -2018,11 +2018,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Seed To Stage",
     "titulo": "Operator Sound Design",
     "enlace": "https://www.youtube.com/watch?v=3BU-WAQo4P8",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 178254,
     "upload_date": "2020-08-10",
     "latent_x": 16.5,
@@ -2075,11 +2075,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Seed To Stage",
     "titulo": "Ableton Operator Synth Tutorial Deep Dive",
     "enlace": "https://www.youtube.com/watch?v=HBl25OB0E58",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 176031,
     "upload_date": "2020-08-10",
     "latent_x": 17.280000686645508,
@@ -2249,11 +2249,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Beat Academy",
     "titulo": "Production Tutorial: Recording Vocals in Ableton Live",
     "enlace": "https://www.youtube.com/watch?v=StPog8XNWsk",
-    "categoria_principal": "Vocal Processing & Effects",
+    "categoria_principal": "Vocal Effects",
     "tags": [
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Vocal Processing & Effects (Vocal Processing & Effects)",
+    "categoria_descriptores": "Vocal Effects (Vocal Effects)",
     "views": 161539,
     "upload_date": "2019-08-11",
     "latent_x": 10.920000076293945,
@@ -2268,12 +2268,12 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Ableton",
     "titulo": "Made in Ableton Live: Catnapp on vocal recording and effects, using old projects and more",
     "enlace": "https://www.youtube.com/watch?v=Kb5pf0LMWCU",
-    "categoria_principal": "Vocal Processing & Effects",
+    "categoria_principal": "Vocal Effects",
     "tags": [
-      "Vocal Processing & Effects",
+      "Vocal Effects",
       "Arrangement & Songwriting"
     ],
-    "categoria_descriptores": "Vocal Processing & Effects (Vocal Processing & Effects, Arrangement & Songwriting)",
+    "categoria_descriptores": "Vocal Effects (Vocal Effects, Arrangement & Songwriting)",
     "views": 158920,
     "upload_date": "2022-08-10",
     "latent_x": 12.789999961853027,
@@ -2291,9 +2291,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Mixing Techniques",
     "tags": [
       "Mixing Techniques",
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Processing & Effects)",
+    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Effects)",
     "views": 158425,
     "upload_date": "2024-08-09",
     "latent_x": 76.2699966430664,
@@ -2308,11 +2308,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Seed To Stage",
     "titulo": "Ableton Native Pitch Correction: Auto Shift",
     "enlace": "https://www.youtube.com/watch?v=8NuJnnjqsD4",
-    "categoria_principal": "Vocal Processing & Effects",
+    "categoria_principal": "Vocal Effects",
     "tags": [
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Vocal Processing & Effects (Vocal Processing & Effects)",
+    "categoria_descriptores": "Vocal Effects (Vocal Effects)",
     "views": 156696,
     "upload_date": "2024-08-09",
     "latent_x": -1.7799999713897705,
@@ -2427,9 +2427,9 @@ const ABLETON_TUTORIALS_DATA = [
     "tags": [
       "Beat Making",
       "Mastering",
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Beat Making (Beat Making, Mastering, Vocal Processing & Effects)",
+    "categoria_descriptores": "Beat Making (Beat Making, Mastering, Vocal Effects)",
     "views": 143568,
     "upload_date": "2019-08-11",
     "latent_x": -5.599999904632568,
@@ -2466,9 +2466,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Mastering",
     "tags": [
       "Mastering",
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Mastering (Mastering, Vocal Processing & Effects)",
+    "categoria_descriptores": "Mastering (Mastering, Vocal Effects)",
     "views": 136191,
     "upload_date": "2022-08-10",
     "latent_x": 23.479999542236328,
@@ -2619,9 +2619,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Mixing Techniques",
     "tags": [
       "Mixing Techniques",
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Processing & Effects)",
+    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Effects)",
     "views": 120371,
     "upload_date": "2023-08-10",
     "latent_x": 75.19000244140625,
@@ -2697,9 +2697,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Beat Making",
     "tags": [
       "Beat Making",
-      "Live Performance & Hardware"
+      "Live Performance"
     ],
-    "categoria_descriptores": "Beat Making (Beat Making, Live Performance & Hardware)",
+    "categoria_descriptores": "Beat Making (Beat Making, Live Performance)",
     "views": 116328,
     "upload_date": "2018-08-11",
     "latent_x": 21.34000015258789,
@@ -2790,11 +2790,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Seed To Stage",
     "titulo": "Ableton Operator Overview",
     "enlace": "https://www.youtube.com/watch?v=Xahbn7OjRF4",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 107702,
     "upload_date": "2020-08-10",
     "latent_x": 28.170000076293945,
@@ -2850,9 +2850,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Mixing Techniques",
     "tags": [
       "Mixing Techniques",
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Processing & Effects)",
+    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Effects)",
     "views": 103906,
     "upload_date": "2021-08-10",
     "latent_x": 65.91999816894531,
@@ -2867,11 +2867,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Berklee Online",
     "titulo": "Ableton Live: Compressing Vocals | Tips & Tricks | Berklee Online",
     "enlace": "https://www.youtube.com/watch?v=YjMp5cusBZo",
-    "categoria_principal": "Vocal Processing & Effects",
+    "categoria_principal": "Vocal Effects",
     "tags": [
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Vocal Processing & Effects (Vocal Processing & Effects)",
+    "categoria_descriptores": "Vocal Effects (Vocal Effects)",
     "views": 103286,
     "upload_date": "2017-08-11",
     "latent_x": -17.100000381469727,
@@ -2886,11 +2886,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Reid Stefan",
     "titulo": "Vocal Production in Ableton 10 Tutorial",
     "enlace": "https://www.youtube.com/watch?v=ZFxf-Gwcff4",
-    "categoria_principal": "Vocal Processing & Effects",
+    "categoria_principal": "Vocal Effects",
     "tags": [
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Vocal Processing & Effects (Vocal Processing & Effects)",
+    "categoria_descriptores": "Vocal Effects (Vocal Effects)",
     "views": 103160,
     "upload_date": "2018-08-11",
     "latent_x": 25.450000762939453,
@@ -2924,11 +2924,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Songs By Spencer",
     "titulo": "6 Steps to Recording PERFECT VOCAL TAKES (Every Time You Record)",
     "enlace": "https://www.youtube.com/watch?v=M0lv_FQt3Nk",
-    "categoria_principal": "Vocal Processing & Effects",
+    "categoria_principal": "Vocal Effects",
     "tags": [
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Vocal Processing & Effects (Vocal Processing & Effects)",
+    "categoria_descriptores": "Vocal Effects (Vocal Effects)",
     "views": 100358,
     "upload_date": "2025-08-09",
     "latent_x": -1.2300000190734863,
@@ -3097,11 +3097,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "You Suck at Producing",
     "titulo": "You Suck at Producing #48: Using Ableton's Session View",
     "enlace": "https://www.youtube.com/watch?v=1aIOxEcxT7I",
-    "categoria_principal": "Live Performance & Hardware",
+    "categoria_principal": "Live Performance",
     "tags": [
-      "Live Performance & Hardware"
+      "Live Performance"
     ],
-    "categoria_descriptores": "Live Performance & Hardware (Live Performance & Hardware)",
+    "categoria_descriptores": "Live Performance (Live Performance)",
     "views": 95356,
     "upload_date": "2018-08-11",
     "latent_x": 109.54000091552734,
@@ -3231,12 +3231,12 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Kermode",
     "titulo": "VOCAL EFFECTS - Ableton Vocal Processing Tutorial",
     "enlace": "https://www.youtube.com/watch?v=RLehc6EWkys",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design",
-      "Vocal Processing & Effects"
+      "Synthesizers",
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design, Vocal Processing & Effects)",
+    "categoria_descriptores": "Synthesizers (Synthesizers, Vocal Effects)",
     "views": 89795,
     "upload_date": "2020-08-10",
     "latent_x": -9.729999542236328,
@@ -3273,9 +3273,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Mixing Techniques",
     "tags": [
       "Mixing Techniques",
-      "Live Performance & Hardware"
+      "Live Performance"
     ],
-    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Live Performance & Hardware)",
+    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Live Performance)",
     "views": 88844,
     "upload_date": "2010-08-13",
     "latent_x": 110.58999633789062,
@@ -3465,11 +3465,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Sam Smyers",
     "titulo": "How to Mix Vocals with Fabfilter Plugins",
     "enlace": "https://www.youtube.com/watch?v=Exd3QPavyGo",
-    "categoria_principal": "Vocal Processing & Effects",
+    "categoria_principal": "Vocal Effects",
     "tags": [
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Vocal Processing & Effects (Vocal Processing & Effects)",
+    "categoria_descriptores": "Vocal Effects (Vocal Effects)",
     "views": 82864,
     "upload_date": "2022-08-10",
     "latent_x": 8.579999923706055,
@@ -3484,11 +3484,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Beat Lab",
     "titulo": "Ableton Wavetable - Fat Sub Bass | Sound Recipes",
     "enlace": "https://www.youtube.com/watch?v=0xY7NZF3n0w",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 81778,
     "upload_date": "2020-08-10",
     "latent_x": 0.11999999731779099,
@@ -3541,12 +3541,12 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Fearless Beatz",
     "titulo": "How to Record Vocals Like a PRO in Ableton Live 12",
     "enlace": "https://www.youtube.com/watch?v=9HEsqI-zvSs",
-    "categoria_principal": "Vocal Processing & Effects",
+    "categoria_principal": "Vocal Effects",
     "tags": [
-      "Vocal Processing & Effects",
+      "Vocal Effects",
       "MIDI & Automation"
     ],
-    "categoria_descriptores": "Vocal Processing & Effects (Vocal Processing & Effects, MIDI & Automation)",
+    "categoria_descriptores": "Vocal Effects (Vocal Effects, MIDI & Automation)",
     "views": 80501,
     "upload_date": "2024-08-09",
     "latent_x": -7.619999885559082,
@@ -3656,11 +3656,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Seed To Stage",
     "titulo": "Expanding Ableton Operator",
     "enlace": "https://www.youtube.com/watch?v=nwfPFLRt4Nw",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 76906,
     "upload_date": "2020-08-10",
     "latent_x": 15.420000076293945,
@@ -3675,11 +3675,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Seed To Stage",
     "titulo": "Ableton Wavetable Tips and Tricks",
     "enlace": "https://www.youtube.com/watch?v=N0HhmrWeWjA",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 76493,
     "upload_date": "2020-08-10",
     "latent_x": -26.979999542236328,
@@ -3808,11 +3808,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "once upon a synth",
     "titulo": "Ableton Live Wavetable synth tutorial",
     "enlace": "https://www.youtube.com/watch?v=m8zYnm8dRuE",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 69737,
     "upload_date": "2019-08-11",
     "latent_x": 9.680000305175781,
@@ -3830,9 +3830,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Vocal Processing & Effects)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Vocal Effects)",
     "views": 68945,
     "upload_date": "2025-08-09",
     "latent_x": 11.960000038146973,
@@ -3869,9 +3869,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Mixing Techniques",
     "tags": [
       "Mixing Techniques",
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Processing & Effects)",
+    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Effects)",
     "views": 68040,
     "upload_date": "2021-08-10",
     "latent_x": 58.83000183105469,
@@ -3948,9 +3948,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Mixing Techniques",
     "tags": [
       "Mixing Techniques",
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Processing & Effects)",
+    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Effects)",
     "views": 65789,
     "upload_date": "2024-08-09",
     "latent_x": 80.37999725341797,
@@ -4100,11 +4100,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Ash // From Bedroom 2 Banger",
     "titulo": "this is the BEST professional vocal processing chain I use in Ableton (stock)",
     "enlace": "https://www.youtube.com/watch?v=4p3egprA91Q",
-    "categoria_principal": "Vocal Processing & Effects",
+    "categoria_principal": "Vocal Effects",
     "tags": [
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Vocal Processing & Effects (Vocal Processing & Effects)",
+    "categoria_descriptores": "Vocal Effects (Vocal Effects)",
     "views": 61892,
     "upload_date": "2021-08-10",
     "latent_x": 10.270000457763672,
@@ -4219,9 +4219,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Mixing Techniques",
     "tags": [
       "Mixing Techniques",
-      "Live Performance & Hardware"
+      "Live Performance"
     ],
-    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Live Performance & Hardware)",
+    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Live Performance)",
     "views": 58816,
     "upload_date": "2020-08-10",
     "latent_x": 102.27999877929688,
@@ -4239,9 +4239,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Mixing Techniques",
     "tags": [
       "Mixing Techniques",
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Processing & Effects)",
+    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Effects)",
     "views": 58564,
     "upload_date": "2019-08-11",
     "latent_x": 77.69000244140625,
@@ -4374,9 +4374,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Mixing Techniques",
     "tags": [
       "Mixing Techniques",
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Processing & Effects)",
+    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Effects)",
     "views": 54985,
     "upload_date": "2025-08-09",
     "latent_x": 91.7300033569336,
@@ -4448,11 +4448,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Ableton Tutorials & Music habits",
     "titulo": "Fm synthesis in Ableton Operator",
     "enlace": "https://www.youtube.com/watch?v=nE0XhQHiZxY",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 52088,
     "upload_date": "2009-08-13",
     "latent_x": 12.350000381469727,
@@ -4528,9 +4528,9 @@ const ABLETON_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Max for Live & Devices",
-      "Live Performance & Hardware"
+      "Live Performance"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Max for Live & Devices, Live Performance & Hardware)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Max for Live & Devices, Live Performance)",
     "views": 49140,
     "upload_date": "2025-08-09",
     "latent_x": 87.43000030517578,
@@ -4545,11 +4545,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "In The Mix",
     "titulo": "This Overlooked Ableton Feature Will Level Up Your Mix",
     "enlace": "https://www.youtube.com/watch?v=gWyk8gpse-E",
-    "categoria_principal": "Live Performance & Hardware",
+    "categoria_principal": "Live Performance",
     "tags": [
-      "Live Performance & Hardware"
+      "Live Performance"
     ],
-    "categoria_descriptores": "Live Performance & Hardware (Live Performance & Hardware)",
+    "categoria_descriptores": "Live Performance (Live Performance)",
     "views": 48325,
     "upload_date": "2024-08-09",
     "latent_x": 99.62000274658203,
@@ -4567,9 +4567,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Mixing Techniques",
     "tags": [
       "Mixing Techniques",
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Processing & Effects)",
+    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Effects)",
     "views": 48160,
     "upload_date": "2022-08-10",
     "latent_x": 47.97999954223633,
@@ -4679,11 +4679,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Busiless Music",
     "titulo": "Making Dark Cinematic Drone in Ableton Wavetable - Ableton Sound Design",
     "enlace": "https://www.youtube.com/watch?v=OAF_ZXzFHic",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 47376,
     "upload_date": "2022-08-10",
     "latent_x": -8.010000228881836,
@@ -4778,9 +4778,9 @@ const ABLETON_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Mixing Techniques",
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Mixing Techniques, Vocal Processing & Effects)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Mixing Techniques, Vocal Effects)",
     "views": 45220,
     "upload_date": "2022-08-10",
     "latent_x": 29.329999923706055,
@@ -4877,9 +4877,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Mixing Techniques",
     "tags": [
       "Mixing Techniques",
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Processing & Effects)",
+    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Effects)",
     "views": 42693,
     "upload_date": "2026-02-10",
     "latent_x": 73.76000213623047,
@@ -5027,11 +5027,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Matt Tinkler",
     "titulo": "Process Vocals Like a PRO in Ableton",
     "enlace": "https://www.youtube.com/watch?v=QtCSaZcM5pc",
-    "categoria_principal": "Vocal Processing & Effects",
+    "categoria_principal": "Vocal Effects",
     "tags": [
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Vocal Processing & Effects (Vocal Processing & Effects)",
+    "categoria_descriptores": "Vocal Effects (Vocal Effects)",
     "views": 38829,
     "upload_date": "2025-08-09",
     "latent_x": -16.520000457763672,
@@ -5162,13 +5162,13 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Eric Ameres (eraserMice)",
     "titulo": "M4L : Basic Max MIDI Synth in 1 minute! Pt 1 : Learn to build Max for Ableton live synths & devices!",
     "enlace": "https://www.youtube.com/watch?v=W2uUbKaZ_9E",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design",
+      "Synthesizers",
       "Max for Live & Devices",
       "MIDI & Automation"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design, Max for Live & Devices, MIDI & Automation)",
+    "categoria_descriptores": "Synthesizers (Synthesizers, Max for Live & Devices, MIDI & Automation)",
     "views": 32967,
     "upload_date": "2011-08-13",
     "latent_x": 54.470001220703125,
@@ -5183,11 +5183,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Ableton",
     "titulo": "Live Tips: Arpeggiator Vocal Chops",
     "enlace": "https://www.youtube.com/watch?v=JHwGR1n0qZY",
-    "categoria_principal": "Vocal Processing & Effects",
+    "categoria_principal": "Vocal Effects",
     "tags": [
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Vocal Processing & Effects (Vocal Processing & Effects)",
+    "categoria_descriptores": "Vocal Effects (Vocal Effects)",
     "views": 32596,
     "upload_date": "2025-08-09",
     "latent_x": 14.550000190734863,
@@ -5205,9 +5205,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Vocal Processing & Effects)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Vocal Effects)",
     "views": 32563,
     "upload_date": "2025-08-09",
     "latent_x": 3.25,
@@ -5225,9 +5225,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Mixing Techniques",
     "tags": [
       "Mixing Techniques",
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Processing & Effects)",
+    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Effects)",
     "views": 31210,
     "upload_date": "2017-08-11",
     "latent_x": 56.52000045776367,
@@ -5246,9 +5246,9 @@ const ABLETON_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Mixing Techniques",
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Mixing Techniques, Vocal Processing & Effects)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Mixing Techniques, Vocal Effects)",
     "views": 30439,
     "upload_date": "2025-08-09",
     "latent_x": 41.0099983215332,
@@ -5286,9 +5286,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Synthesizers & Sound Design)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Synthesizers)",
     "views": 29870,
     "upload_date": "2021-08-10",
     "latent_x": -51.04999923706055,
@@ -5303,11 +5303,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Busiless Music",
     "titulo": "Ableton WAVETABLE TUTORIAL Complete and Ultimate Guide and How to Design a Patch",
     "enlace": "https://www.youtube.com/watch?v=XJ1MF36Y560",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 29417,
     "upload_date": "2023-08-10",
     "latent_x": -2.640000104904175,
@@ -5379,11 +5379,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Tom Casey Music",
     "titulo": "Let’s Make the Best Vocal Chain Ableton Can Create",
     "enlace": "https://www.youtube.com/watch?v=IBzvQScgI8c",
-    "categoria_principal": "Vocal Processing & Effects",
+    "categoria_principal": "Vocal Effects",
     "tags": [
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Vocal Processing & Effects (Vocal Processing & Effects)",
+    "categoria_descriptores": "Vocal Effects (Vocal Effects)",
     "views": 27294,
     "upload_date": "2024-08-09",
     "latent_x": 24.110000610351562,
@@ -5552,11 +5552,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "1 Minute Ableton Live Tips",
     "titulo": "DX7 Electric Piano sound with Operator (Ableton Live)",
     "enlace": "https://www.youtube.com/watch?v=DxMV-oOM81U",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 24930,
     "upload_date": "2019-08-11",
     "latent_x": 11.279999732971191,
@@ -5571,11 +5571,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "EDMProd",
     "titulo": "Ableton Operator: 8 Practical Tips In 16 Minutes",
     "enlace": "https://www.youtube.com/watch?v=6Glt03LqN3U",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 24896,
     "upload_date": "2022-08-10",
     "latent_x": -11.630000114440918,
@@ -5629,12 +5629,12 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Production Music Live",
     "titulo": "How to: Analog Lead Sound with Wavetable (Ableton Live)",
     "enlace": "https://www.youtube.com/watch?v=XwM2YjSQ_2I",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design",
+      "Synthesizers",
       "MIDI & Automation"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design, MIDI & Automation)",
+    "categoria_descriptores": "Synthesizers (Synthesizers, MIDI & Automation)",
     "views": 23616,
     "upload_date": "2019-08-11",
     "latent_x": 34.2400016784668,
@@ -5668,11 +5668,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Sequence One",
     "titulo": "Sound Design with Wavetable in Ableton Live 10",
     "enlace": "https://www.youtube.com/watch?v=J0XXUPVc8dA",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 23239,
     "upload_date": "2018-08-11",
     "latent_x": -7.329999923706055,
@@ -5687,11 +5687,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "SadowickProduction",
     "titulo": "Ableton Live Ultimate Course 25 - Operator",
     "enlace": "https://www.youtube.com/watch?v=uu_fDZcfg3s",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 23193,
     "upload_date": "2014-08-12",
     "latent_x": 6.25,
@@ -5804,11 +5804,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "EDMProd",
     "titulo": "The Only Ableton Operator Tutorial You Need",
     "enlace": "https://www.youtube.com/watch?v=RnFh5CrR9zk",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 20208,
     "upload_date": "2026-07-10",
     "latent_x": 26.729999542236328,
@@ -5842,11 +5842,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Tom Casey Music",
     "titulo": "These New Ableton Vocoding Effects Will Blow Your Mind",
     "enlace": "https://www.youtube.com/watch?v=F7Hk4nmbabg",
-    "categoria_principal": "Vocal Processing & Effects",
+    "categoria_principal": "Vocal Effects",
     "tags": [
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Vocal Processing & Effects (Vocal Processing & Effects)",
+    "categoria_descriptores": "Vocal Effects (Vocal Effects)",
     "views": 19544,
     "upload_date": "2025-08-09",
     "latent_x": 10.210000038146973,
@@ -5883,10 +5883,10 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Mixing Techniques",
     "tags": [
       "Mixing Techniques",
-      "Vocal Processing & Effects",
+      "Vocal Effects",
       "MIDI & Automation"
     ],
-    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Processing & Effects, MIDI & Automation)",
+    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Effects, MIDI & Automation)",
     "views": 19114,
     "upload_date": "2017-08-11",
     "latent_x": 53.869998931884766,
@@ -5942,9 +5942,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Synthesizers & Sound Design)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Synthesizers)",
     "views": 18627,
     "upload_date": "2025-08-09",
     "latent_x": -51.880001068115234,
@@ -5959,11 +5959,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "SadowickProduction",
     "titulo": "Ableton Live 10 Ultimate Tutorial 09 - Analog Part 2",
     "enlace": "https://www.youtube.com/watch?v=Q2t_mg2O3Ms",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 18622,
     "upload_date": "2020-08-10",
     "latent_x": 13.90999984741211,
@@ -6035,11 +6035,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Warp Academy",
     "titulo": "How to Make a Lead in Live 10’s Wavetable Synth - Ableton Tutorial",
     "enlace": "https://www.youtube.com/watch?v=pFRNnqe8faM",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 18199,
     "upload_date": "2018-08-11",
     "latent_x": 15.640000343322754,
@@ -6092,11 +6092,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Zdrewe",
     "titulo": "Why Ableton Operator Might Be Your BEST BASS SYNTH",
     "enlace": "https://www.youtube.com/watch?v=BkzNlz7Uuv8",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 17760,
     "upload_date": "2025-09-13",
     "latent_x": 18.700000762939453,
@@ -6188,12 +6188,12 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Ned Rush",
     "titulo": "Max For Live Tutorial - Visuals in Ableton with Jitter  = Ned Rush",
     "enlace": "https://www.youtube.com/watch?v=E789rX0Mwm4",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design",
+      "Synthesizers",
       "Max for Live & Devices"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design, Max for Live & Devices)",
+    "categoria_descriptores": "Synthesizers (Synthesizers, Max for Live & Devices)",
     "views": 16842,
     "upload_date": "2021-08-10",
     "latent_x": 43.66999816894531,
@@ -6384,9 +6384,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Mixing Techniques",
     "tags": [
       "Mixing Techniques",
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Processing & Effects)",
+    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Effects)",
     "views": 14626,
     "upload_date": "2022-08-10",
     "latent_x": 67.52999877929688,
@@ -6404,9 +6404,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Vocal Processing & Effects)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Vocal Effects)",
     "views": 14610,
     "upload_date": "2023-08-10",
     "latent_x": 16.09000015258789,
@@ -6440,11 +6440,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Ableton Tutorials & Music habits",
     "titulo": "subtractive synthesis in Ableton Operator",
     "enlace": "https://www.youtube.com/watch?v=39QIDmqMFBk",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 14300,
     "upload_date": "2009-08-13",
     "latent_x": 11.880000114440918,
@@ -6575,11 +6575,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "dnksaus",
     "titulo": "Wavetable is Ableton's Prettiest Synth",
     "enlace": "https://www.youtube.com/watch?v=cCy2nW9E6V4",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 13587,
     "upload_date": "2023-08-10",
     "latent_x": 4.010000228881836,
@@ -6632,11 +6632,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Ableton",
     "titulo": "Live Tips: Wavetable",
     "enlace": "https://www.youtube.com/watch?v=QGSSOgu7Yv0",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 13269,
     "upload_date": "2025-08-09",
     "latent_x": -12.359999656677246,
@@ -6673,10 +6673,10 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Mixing Techniques",
     "tags": [
       "Mixing Techniques",
-      "Vocal Processing & Effects",
+      "Vocal Effects",
       "MIDI & Automation"
     ],
-    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Processing & Effects, MIDI & Automation)",
+    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Effects, MIDI & Automation)",
     "views": 13004,
     "upload_date": "2020-08-10",
     "latent_x": 66.30000305175781,
@@ -6691,11 +6691,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Push Patterns",
     "titulo": "How To Mix Vocals In Ableton (Stock Plugins) - FREE Download",
     "enlace": "https://www.youtube.com/watch?v=xwjrjjO-F9I",
-    "categoria_principal": "Vocal Processing & Effects",
+    "categoria_principal": "Vocal Effects",
     "tags": [
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Vocal Processing & Effects (Vocal Processing & Effects)",
+    "categoria_descriptores": "Vocal Effects (Vocal Effects)",
     "views": 12873,
     "upload_date": "2023-08-10",
     "latent_x": -6.639999866485596,
@@ -6710,11 +6710,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "John McLaughlin",
     "titulo": "TUTORIAL - Vocal Processing in Izotope Nectar with Ableton Live",
     "enlace": "https://www.youtube.com/watch?v=KvT4MvCeIP4",
-    "categoria_principal": "Vocal Processing & Effects",
+    "categoria_principal": "Vocal Effects",
     "tags": [
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Vocal Processing & Effects (Vocal Processing & Effects)",
+    "categoria_descriptores": "Vocal Effects (Vocal Effects)",
     "views": 12814,
     "upload_date": "2013-08-12",
     "latent_x": 20.829999923706055,
@@ -6863,11 +6863,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Daniel Dehaan",
     "titulo": "Ableton Live: Advanced Sound Design Techniques - Self-Oscillating Filter with Operator",
     "enlace": "https://www.youtube.com/watch?v=vePNy4NA2X8",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 11870,
     "upload_date": "2016-08-11",
     "latent_x": 30.190000534057617,
@@ -6939,11 +6939,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "SadowickProduction",
     "titulo": "Building A Techno Idea Using Only Session View In Ableton Live 10",
     "enlace": "https://www.youtube.com/watch?v=1KoGMEkxiWo",
-    "categoria_principal": "Live Performance & Hardware",
+    "categoria_principal": "Live Performance",
     "tags": [
-      "Live Performance & Hardware"
+      "Live Performance"
     ],
-    "categoria_descriptores": "Live Performance & Hardware (Live Performance & Hardware)",
+    "categoria_descriptores": "Live Performance (Live Performance)",
     "views": 11273,
     "upload_date": "2019-08-11",
     "latent_x": 111.70999908447266,
@@ -6981,9 +6981,9 @@ const ABLETON_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Mixing Techniques",
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Mixing Techniques, Vocal Processing & Effects)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Mixing Techniques, Vocal Effects)",
     "views": 11122,
     "upload_date": "2021-08-10",
     "latent_x": 41.95000076293945,
@@ -7001,11 +7001,11 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Synthesizers & Sound Design",
+      "Synthesizers",
       "Mixing Techniques",
       "Max for Live & Devices"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Synthesizers & Sound Design, Mixing Techniques, Max for Live & Devices)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Synthesizers, Mixing Techniques, Max for Live & Devices)",
     "views": 11042,
     "upload_date": "2025-08-09",
     "latent_x": 55.93000030517578,
@@ -7020,11 +7020,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "You Suck at Producing",
     "titulo": "The Most Slept On Ableton Synth for UK Dubstep",
     "enlace": "https://www.youtube.com/watch?v=vLsEQAxir1o",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 11013,
     "upload_date": "2026-07-19",
     "latent_x": 7.519999980926514,
@@ -7137,11 +7137,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "SadowickProduction",
     "titulo": "Ableton Live 10 Ultimate Tutorial 17 - Operator",
     "enlace": "https://www.youtube.com/watch?v=ccEBjOV307E",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 10516,
     "upload_date": "2020-08-10",
     "latent_x": 15.119999885559082,
@@ -7156,11 +7156,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "dnksaus",
     "titulo": "Make HEAVY Dubstep Basses with Operator",
     "enlace": "https://www.youtube.com/watch?v=PFmBcZujMwk",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 10320,
     "upload_date": "2022-08-10",
     "latent_x": 20.850000381469727,
@@ -7175,12 +7175,12 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Eric Ameres (eraserMice)",
     "titulo": "M4L Tutorial #9 : Polyphony w/ Poly~ and Bondo in our Synth ! Max for Ableton Live",
     "enlace": "https://www.youtube.com/watch?v=34ayE5fkVp4",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design",
+      "Synthesizers",
       "Max for Live & Devices"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design, Max for Live & Devices)",
+    "categoria_descriptores": "Synthesizers (Synthesizers, Max for Live & Devices)",
     "views": 10243,
     "upload_date": "2011-08-13",
     "latent_x": 43.41999816894531,
@@ -7214,12 +7214,12 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Cycling '74",
     "titulo": "Audio Routes v1.5 - A suite of Max for Live multichannel routing devices",
     "enlace": "https://www.youtube.com/watch?v=tHBD50BWE0k",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design",
+      "Synthesizers",
       "Max for Live & Devices"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design, Max for Live & Devices)",
+    "categoria_descriptores": "Synthesizers (Synthesizers, Max for Live & Devices)",
     "views": 10135,
     "upload_date": "2023-08-10",
     "latent_x": 56.95000076293945,
@@ -7292,11 +7292,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Hit Makers Lab",
     "titulo": "How To Mix Rap Vocals Ableton To Sound Pro (2025 BEST GUIDE)",
     "enlace": "https://www.youtube.com/watch?v=5G3mbyBJNME",
-    "categoria_principal": "Vocal Processing & Effects",
+    "categoria_principal": "Vocal Effects",
     "tags": [
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Vocal Processing & Effects (Vocal Processing & Effects)",
+    "categoria_descriptores": "Vocal Effects (Vocal Effects)",
     "views": 9935,
     "upload_date": "2025-08-09",
     "latent_x": 10.84000015258789,
@@ -7409,9 +7409,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Synthesizers & Sound Design)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Synthesizers)",
     "views": 9168,
     "upload_date": "2024-08-09",
     "latent_x": -55.720001220703125,
@@ -7464,11 +7464,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "MOONBOY",
     "titulo": "5 Ways To Process Tech House Vocals in Ableton (Mau P, Chris Lake, Odd Mob)",
     "enlace": "https://www.youtube.com/watch?v=vDgVqHKPBIM",
-    "categoria_principal": "Vocal Processing & Effects",
+    "categoria_principal": "Vocal Effects",
     "tags": [
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Vocal Processing & Effects (Vocal Processing & Effects)",
+    "categoria_descriptores": "Vocal Effects (Vocal Effects)",
     "views": 9011,
     "upload_date": "2025-10-13",
     "latent_x": -20.6200008392334,
@@ -7483,11 +7483,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Cyril",
     "titulo": "The Secret To Pro Vocals In Ableton (Layering)",
     "enlace": "https://www.youtube.com/watch?v=l98gKrMWzyw",
-    "categoria_principal": "Vocal Processing & Effects",
+    "categoria_principal": "Vocal Effects",
     "tags": [
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Vocal Processing & Effects (Vocal Processing & Effects)",
+    "categoria_descriptores": "Vocal Effects (Vocal Effects)",
     "views": 8813,
     "upload_date": "2023-08-10",
     "latent_x": 13.15999984741211,
@@ -7678,9 +7678,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Vocal Processing & Effects)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Vocal Effects)",
     "views": 8272,
     "upload_date": "2024-08-09",
     "latent_x": 17.8799991607666,
@@ -7733,12 +7733,12 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Eric Ameres (eraserMice)",
     "titulo": "M4L Tutorial #11 presets in DIY synth, Skrillex, Dubstep sounds,  Max for Ableton Live",
     "enlace": "https://www.youtube.com/watch?v=yWe2yPJ_ahs",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design",
+      "Synthesizers",
       "Max for Live & Devices"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design, Max for Live & Devices)",
+    "categoria_descriptores": "Synthesizers (Synthesizers, Max for Live & Devices)",
     "views": 7843,
     "upload_date": "2011-08-13",
     "latent_x": 45.65999984741211,
@@ -7753,11 +7753,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "The Sound Design Channel",
     "titulo": "Ableton Wavetable Tutorial | Analog Lead | Sound Design",
     "enlace": "https://www.youtube.com/watch?v=yCkpP976gSE",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 7707,
     "upload_date": "2021-08-10",
     "latent_x": 19.1299991607666,
@@ -7791,11 +7791,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "School of Electronic Music",
     "titulo": "Advanced sound design with Ableton Live Wavetable",
     "enlace": "https://www.youtube.com/watch?v=RE1pxcfr558",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 7354,
     "upload_date": "2019-08-11",
     "latent_x": 2.380000114440918,
@@ -7810,12 +7810,12 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Eric Ameres (eraserMice)",
     "titulo": "M4L Tutorial #5 Adding New Waveforms to our synth in Max for Ableton Live",
     "enlace": "https://www.youtube.com/watch?v=3whll-BnT-w",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design",
+      "Synthesizers",
       "Max for Live & Devices"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design, Max for Live & Devices)",
+    "categoria_descriptores": "Synthesizers (Synthesizers, Max for Live & Devices)",
     "views": 7293,
     "upload_date": "2011-08-13",
     "latent_x": 47.43000030517578,
@@ -7906,11 +7906,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "XNB",
     "titulo": "A guide to the Ableton WAVETABLE SYNTH tutorial",
     "enlace": "https://www.youtube.com/watch?v=Hvb-IquTTsA",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 6989,
     "upload_date": "2023-08-10",
     "latent_x": -0.28999999165534973,
@@ -7928,9 +7928,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Mastering",
     "tags": [
       "Mastering",
-      "Live Performance & Hardware"
+      "Live Performance"
     ],
-    "categoria_descriptores": "Mastering (Mastering, Live Performance & Hardware)",
+    "categoria_descriptores": "Mastering (Mastering, Live Performance)",
     "views": 6982,
     "upload_date": "2025-08-09",
     "latent_x": 37.43000030517578,
@@ -7948,9 +7948,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Beat Making",
     "tags": [
       "Beat Making",
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Beat Making (Beat Making, Synthesizers & Sound Design)",
+    "categoria_descriptores": "Beat Making (Beat Making, Synthesizers)",
     "views": 6932,
     "upload_date": "2020-08-10",
     "latent_x": -1.940000057220459,
@@ -7984,11 +7984,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Audioreakt",
     "titulo": "Techno Sound Design Tips 02 (Ableton Wavetable)",
     "enlace": "https://www.youtube.com/watch?v=AtR4CRDDtGg",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 6850,
     "upload_date": "2020-08-10",
     "latent_x": -29.75,
@@ -8044,9 +8044,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Mixing Techniques",
     "tags": [
       "Mixing Techniques",
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Processing & Effects)",
+    "categoria_descriptores": "Mixing Techniques (Mixing Techniques, Vocal Effects)",
     "views": 6185,
     "upload_date": "2022-08-10",
     "latent_x": 64.94999694824219,
@@ -8064,9 +8064,9 @@ const ABLETON_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Synthesizers & Sound Design)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Synthesizers)",
     "views": 6096,
     "upload_date": "2026-04-11",
     "latent_x": -43.279998779296875,
@@ -8119,11 +8119,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Jannis Le Wolff",
     "titulo": "Making Synth Bell Sounds in Ableton Live w/ Analog, Operator & Wavetable | Ableton Live Sound Design",
     "enlace": "https://www.youtube.com/watch?v=lh7d5I_aJ3Y",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 5809,
     "upload_date": "2023-08-10",
     "latent_x": 37.279998779296875,
@@ -8271,11 +8271,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "ReOrder",
     "titulo": "Trance Vocal processing in Ableton Live with AI",
     "enlace": "https://www.youtube.com/watch?v=y2YopydU_rI",
-    "categoria_principal": "Vocal Processing & Effects",
+    "categoria_principal": "Vocal Effects",
     "tags": [
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Vocal Processing & Effects (Vocal Processing & Effects)",
+    "categoria_descriptores": "Vocal Effects (Vocal Effects)",
     "views": 5420,
     "upload_date": "2024-08-09",
     "latent_x": 1.940000057220459,
@@ -8347,11 +8347,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Music By Mattie",
     "titulo": "How to get Professional Vocals in Ableton (With Only Stock Plugins!)",
     "enlace": "https://www.youtube.com/watch?v=N9OmlE-TU-o",
-    "categoria_principal": "Vocal Processing & Effects",
+    "categoria_principal": "Vocal Effects",
     "tags": [
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Vocal Processing & Effects (Vocal Processing & Effects)",
+    "categoria_descriptores": "Vocal Effects (Vocal Effects)",
     "views": 5128,
     "upload_date": "2026-02-10",
     "latent_x": -2.4200000762939453,
@@ -8366,11 +8366,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "ADSR Music Production Tutorials",
     "titulo": "Ableton Wavetable Full Breakdown: Why It’s the Most Underrated Synth in Ableton Live Suite",
     "enlace": "https://www.youtube.com/watch?v=owoD-yXgge0",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 5092,
     "upload_date": "2022-08-10",
     "latent_x": 16.56999969482422,
@@ -8482,11 +8482,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Audioreakt",
     "titulo": "Techno Sound Design Tips 15 (Ableton Wavetable)",
     "enlace": "https://www.youtube.com/watch?v=58RtOtKqChU",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 4646,
     "upload_date": "2020-08-10",
     "latent_x": -25.209999084472656,
@@ -8540,11 +8540,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "abletunes",
     "titulo": "Vocal Processing in Ableton Live - Part 2",
     "enlace": "https://www.youtube.com/watch?v=7k-RhsNj3pI",
-    "categoria_principal": "Vocal Processing & Effects",
+    "categoria_principal": "Vocal Effects",
     "tags": [
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Vocal Processing & Effects (Vocal Processing & Effects)",
+    "categoria_descriptores": "Vocal Effects (Vocal Effects)",
     "views": 4404,
     "upload_date": "2015-08-12",
     "latent_x": 10.890000343322754,
@@ -8597,13 +8597,13 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Eric Ameres (eraserMice)",
     "titulo": "M4L: creating delay with feedback howto tutorial, Max for Ableton Live",
     "enlace": "https://www.youtube.com/watch?v=ZxPv1eKkyk8",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design",
+      "Synthesizers",
       "Mixing Techniques",
       "Max for Live & Devices"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design, Mixing Techniques, Max for Live & Devices)",
+    "categoria_descriptores": "Synthesizers (Synthesizers, Mixing Techniques, Max for Live & Devices)",
     "views": 4258,
     "upload_date": "2011-08-13",
     "latent_x": 58.209999084472656,
@@ -8618,12 +8618,12 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Eric Ameres (eraserMice)",
     "titulo": "M4L Tutorial 12 Pulse Width (Duty Cycle) mod for Synth Waveforms : Max for Ableton Live tutorial",
     "enlace": "https://www.youtube.com/watch?v=CNH0idQHNpA",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design",
+      "Synthesizers",
       "Max for Live & Devices"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design, Max for Live & Devices)",
+    "categoria_descriptores": "Synthesizers (Synthesizers, Max for Live & Devices)",
     "views": 4040,
     "upload_date": "2011-08-13",
     "latent_x": 58.2599983215332,
@@ -8714,11 +8714,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Letsynthesize",
     "titulo": "HOW TO MAKE WAVETABLE WITH OPERATOR FOR NEURO BASSES - Synthesize Sunday 101 [PRESET DOWNLOAD]",
     "enlace": "https://www.youtube.com/watch?v=XLUYUsJv1IE",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 3688,
     "upload_date": "2019-08-11",
     "latent_x": 34.790000915527344,
@@ -8809,11 +8809,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Viktoria Silk",
     "titulo": "Ableton Live Synth Trinity - Analog, Operator, Wavetable",
     "enlace": "https://www.youtube.com/watch?v=Gv85K4_ElKQ",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 3326,
     "upload_date": "2020-08-10",
     "latent_x": 24.020000457763672,
@@ -8848,11 +8848,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Lit Lords",
     "titulo": "Ableton Wavetable?! [New Secret Weapon]",
     "enlace": "https://www.youtube.com/watch?v=5FC4_psV_Go",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 3304,
     "upload_date": "2022-08-10",
     "latent_x": -13.670000076293945,
@@ -8907,11 +8907,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Audioreakt",
     "titulo": "Techno Sound Design Tips 12 (Ableton Wavetable)",
     "enlace": "https://www.youtube.com/watch?v=Ac8zz4w99pk",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 3108,
     "upload_date": "2020-08-10",
     "latent_x": -15.319999694824219,
@@ -8926,11 +8926,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Catalyze Music Academy",
     "titulo": "Add Motion To Your Sound Design With Wavetable's Matrix | Ableton Live Tutorial",
     "enlace": "https://www.youtube.com/watch?v=98XTwmm08K8",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 3103,
     "upload_date": "2022-08-10",
     "latent_x": 4.849999904632568,
@@ -9061,11 +9061,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Push Patterns",
     "titulo": "The FASTEST Way to Improve Your Mixes - EDMProd SuperKnobs",
     "enlace": "https://www.youtube.com/watch?v=BEZpn2CucjI",
-    "categoria_principal": "Live Performance & Hardware",
+    "categoria_principal": "Live Performance",
     "tags": [
-      "Live Performance & Hardware"
+      "Live Performance"
     ],
-    "categoria_descriptores": "Live Performance & Hardware (Live Performance & Hardware)",
+    "categoria_descriptores": "Live Performance (Live Performance)",
     "views": 2771,
     "upload_date": "2025-08-09",
     "latent_x": 97.12999725341797,
@@ -9118,11 +9118,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Peaks of Valleys",
     "titulo": "Making Kalimba and Organ sounds with Operator's User Waves",
     "enlace": "https://www.youtube.com/watch?v=GnsEX6yi33E",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 2655,
     "upload_date": "2022-08-10",
     "latent_x": 43.31999969482422,
@@ -9156,11 +9156,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Tom Casey Music",
     "titulo": "Ableton SECRETS to an Excellent Vocal Chain",
     "enlace": "https://www.youtube.com/watch?v=TyAE1fcN-Oc",
-    "categoria_principal": "Vocal Processing & Effects",
+    "categoria_principal": "Vocal Effects",
     "tags": [
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Vocal Processing & Effects (Vocal Processing & Effects)",
+    "categoria_descriptores": "Vocal Effects (Vocal Effects)",
     "views": 2615,
     "upload_date": "2025-08-09",
     "latent_x": 25.489999771118164,
@@ -9194,11 +9194,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "abletunes",
     "titulo": "Vocal Processing in Ableton Live - Part 3",
     "enlace": "https://www.youtube.com/watch?v=u0zcDDKmmwc",
-    "categoria_principal": "Vocal Processing & Effects",
+    "categoria_principal": "Vocal Effects",
     "tags": [
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Vocal Processing & Effects (Vocal Processing & Effects)",
+    "categoria_descriptores": "Vocal Effects (Vocal Effects)",
     "views": 2434,
     "upload_date": "2015-08-12",
     "latent_x": 10.890000343322754,
@@ -9213,12 +9213,12 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Brian Funk",
     "titulo": "Custom Wavetables in Ableton Live's Wavetable Synthesizer",
     "enlace": "https://www.youtube.com/watch?v=U4waN69u6Ks",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design",
+      "Synthesizers",
       "Arrangement & Songwriting"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design, Arrangement & Songwriting)",
+    "categoria_descriptores": "Synthesizers (Synthesizers, Arrangement & Songwriting)",
     "views": 2388,
     "upload_date": "2022-08-10",
     "latent_x": -1.3899999856948853,
@@ -9233,11 +9233,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Samplified",
     "titulo": "Ableton 10 Wavetable Tutorial - Sound Design, Modulation, & Walkthrough",
     "enlace": "https://www.youtube.com/watch?v=TEkWKMjnLGQ",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 2263,
     "upload_date": "2019-08-11",
     "latent_x": -14.40999984741211,
@@ -9310,11 +9310,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Alien Chaos",
     "titulo": "Organic Synthesys with @Ableton  Wavetable",
     "enlace": "https://www.youtube.com/watch?v=yCZkhYpw_FM",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 2099,
     "upload_date": "2021-08-10",
     "latent_x": -11.739999771118164,
@@ -9368,11 +9368,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Projektor",
     "titulo": "Extremely Flexible Vocal Processing for Psytance!",
     "enlace": "https://www.youtube.com/watch?v=H5AuQuHiK6A",
-    "categoria_principal": "Vocal Processing & Effects",
+    "categoria_principal": "Vocal Effects",
     "tags": [
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Vocal Processing & Effects (Vocal Processing & Effects)",
+    "categoria_descriptores": "Vocal Effects (Vocal Effects)",
     "views": 1998,
     "upload_date": "2024-08-09",
     "latent_x": -4.809999942779541,
@@ -9463,11 +9463,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "The Sound Design Channel",
     "titulo": "ABLETON Synths Tutorial | Analog, Wavetable, Operator | Beginners Sound Design",
     "enlace": "https://www.youtube.com/watch?v=Z5ivvUJHY6E",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 1638,
     "upload_date": "2023-08-10",
     "latent_x": 25.030000686645508,
@@ -9501,11 +9501,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Gourlie Records",
     "titulo": "Operator Sound Design in Ableton Live 11",
     "enlace": "https://www.youtube.com/watch?v=U-shKAc1jNM",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 1435,
     "upload_date": "2021-08-10",
     "latent_x": 2.119999885559082,
@@ -9520,11 +9520,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Recluse-Audio",
     "titulo": "Ableton's Wavetable CANNOT Make Noise???",
     "enlace": "https://www.youtube.com/watch?v=TZos95zz24s",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 1420,
     "upload_date": "2022-08-10",
     "latent_x": -19.260000228881836,
@@ -9539,11 +9539,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "EDMProd",
     "titulo": "Ableton Live: The One-Knob Trick for Faster Sound Design",
     "enlace": "https://www.youtube.com/watch?v=w-wNqmK8Si8",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design"
+      "Synthesizers"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design)",
+    "categoria_descriptores": "Synthesizers (Synthesizers)",
     "views": 1384,
     "upload_date": "2025-08-09",
     "latent_x": -10.890000343322754,
@@ -9577,12 +9577,12 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Loudon Stearns",
     "titulo": "Designing an MPE synth in M4L 1. MPE in Ableton",
     "enlace": "https://www.youtube.com/watch?v=XPjsKGY9e80",
-    "categoria_principal": "Synthesizers & Sound Design",
+    "categoria_principal": "Synthesizers",
     "tags": [
-      "Synthesizers & Sound Design",
+      "Synthesizers",
       "Max for Live & Devices"
     ],
-    "categoria_descriptores": "Synthesizers & Sound Design (Synthesizers & Sound Design, Max for Live & Devices)",
+    "categoria_descriptores": "Synthesizers (Synthesizers, Max for Live & Devices)",
     "views": 1167,
     "upload_date": "2021-08-10",
     "latent_x": 31.309999465942383,
@@ -9616,11 +9616,11 @@ const ABLETON_TUTORIALS_DATA = [
     "autor": "Piff Riffs",
     "titulo": "How to Compress Vocals - Ableton Glue Compressor Tutorial",
     "enlace": "https://www.youtube.com/watch?v=mUb231stVxY",
-    "categoria_principal": "Vocal Processing & Effects",
+    "categoria_principal": "Vocal Effects",
     "tags": [
-      "Vocal Processing & Effects"
+      "Vocal Effects"
     ],
-    "categoria_descriptores": "Vocal Processing & Effects (Vocal Processing & Effects)",
+    "categoria_descriptores": "Vocal Effects (Vocal Effects)",
     "views": 1068,
     "upload_date": "2020-08-10",
     "latent_x": 25.149999618530273,

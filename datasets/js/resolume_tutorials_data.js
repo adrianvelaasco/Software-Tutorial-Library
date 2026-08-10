@@ -5,11 +5,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "FX Projections",
     "titulo": "Projection Mapping Tutorial",
     "enlace": "https://www.youtube.com/watch?v=B9lpe_RQxYg",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 410541,
     "upload_date": "2023-08-10",
     "latent_x": 62.83000183105469,
@@ -27,9 +27,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping)",
     "views": 321502,
     "upload_date": "2014-08-12",
     "latent_x": 63.22999954223633,
@@ -47,9 +47,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Pixel Mapping & LED Fixtures"
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Pixel & LED Mapping)",
     "views": 321396,
     "upload_date": "2021-08-10",
     "latent_x": 16.8700008392334,
@@ -67,9 +67,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping)",
     "views": 321354,
     "upload_date": "2026-01-11",
     "latent_x": 69.19000244140625,
@@ -87,9 +87,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping)",
     "views": 302826,
     "upload_date": "2020-08-10",
     "latent_x": 55.27000045776367,
@@ -104,11 +104,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Christian Le Freak",
     "titulo": "EASY MAPPING TUTORIAL with RESOLUME",
     "enlace": "https://www.youtube.com/watch?v=s20eBqbdBkI",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 297316,
     "upload_date": "2017-08-11",
     "latent_x": 61.97999954223633,
@@ -126,10 +126,10 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Projection Mapping & Advanced Output",
-      "Pixel Mapping & LED Fixtures"
+      "Projection Mapping",
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping & Advanced Output, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping, Pixel & LED Mapping)",
     "views": 265506,
     "upload_date": "2022-08-10",
     "latent_x": 29.760000228881836,
@@ -144,11 +144,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Interactive solution Expert",
     "titulo": "How to use projection mapping software to create an immersive room?",
     "enlace": "https://www.youtube.com/watch?v=osYL-BCwYWU",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 248158,
     "upload_date": "2024-08-09",
     "latent_x": 60.72999954223633,
@@ -166,9 +166,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Clips & Layer Mixing)",
     "views": 232960,
     "upload_date": "2022-08-10",
     "latent_x": 32.22999954223633,
@@ -186,10 +186,10 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Projection Mapping & Advanced Output",
-      "Pixel Mapping & LED Fixtures"
+      "Projection Mapping",
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping & Advanced Output, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping, Pixel & LED Mapping)",
     "views": 229256,
     "upload_date": "2022-08-10",
     "latent_x": 11.140000343322754,
@@ -207,9 +207,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping)",
     "views": 217268,
     "upload_date": "2020-08-10",
     "latent_x": 61.06999969482422,
@@ -224,11 +224,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Luma Box",
     "titulo": "Projection Mapping Tutorial - 3d Mapping with MadMapper",
     "enlace": "https://www.youtube.com/watch?v=1Typv7KxBRM",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 214480,
     "upload_date": "2019-08-11",
     "latent_x": 49.25,
@@ -243,11 +243,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Joe | JLDJUK",
     "titulo": "Projection Mapping Tutorial - Resolume Arena 4",
     "enlace": "https://www.youtube.com/watch?v=SauJLNhnWNQ",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 210592,
     "upload_date": "2012-08-12",
     "latent_x": 65.19999694824219,
@@ -262,11 +262,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Ramanuj Deka",
     "titulo": "Mapping in Resolume | Cool tricks with mapping",
     "enlace": "https://www.youtube.com/watch?v=mv7elV0mqh4",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 181127,
     "upload_date": "2020-08-10",
     "latent_x": 31.079999923706055,
@@ -284,9 +284,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping)",
     "views": 174124,
     "upload_date": "2024-08-09",
     "latent_x": 59.33000183105469,
@@ -301,11 +301,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Resolume VJ Software",
     "titulo": "Resolume Video Training: 7.1 Input Mapping",
     "enlace": "https://www.youtube.com/watch?v=ZB6Ql0Fvle0",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 173237,
     "upload_date": "2019-08-11",
     "latent_x": 36.970001220703125,
@@ -320,11 +320,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Luma Box",
     "titulo": "Resolume Projection Mapping with Multiple Projectors Tutorial",
     "enlace": "https://www.youtube.com/watch?v=Kw0jsbHDvcE",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 152203,
     "upload_date": "2020-08-10",
     "latent_x": 81.66999816894531,
@@ -339,11 +339,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Luma Box",
     "titulo": "Resolume Arena 6 Tutorial | Learn Cake Mapping (2/6) Projection Mapping",
     "enlace": "https://www.youtube.com/watch?v=6ojti0HOeZQ",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 150000,
     "upload_date": "2019-08-11",
     "latent_x": 62.220001220703125,
@@ -358,13 +358,13 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Resolume VJ Software",
     "titulo": "Resolume Video Training: 7.3 LED Stage Mapping",
     "enlace": "https://www.youtube.com/watch?v=evwRGc4DCQg",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output",
-      "Pixel Mapping & LED Fixtures",
-      "NDI, Spout & Video Routing"
+      "Projection Mapping",
+      "Pixel & LED Mapping",
+      "Video Routing"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output, Pixel Mapping & LED Fixtures, NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, Pixel & LED Mapping, Video Routing)",
     "views": 148701,
     "upload_date": "2019-08-11",
     "latent_x": -4.079999923706055,
@@ -379,12 +379,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Flo Bay: Free VJ Loop HD Visual for Resolume, Serato Video, VDMX, MixEmergency, CoGe, etc.",
     "enlace": "https://www.youtube.com/watch?v=TypVK1cjmJU",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing",
+      "Clips & Layer Mixing",
       "DMX Lighting Control"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing, DMX Lighting Control)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing, DMX Lighting Control)",
     "views": 137150,
     "upload_date": "2017-08-11",
     "latent_x": -45.349998474121094,
@@ -399,11 +399,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Resolume Arena & Avenue (Tutorial): Create Audio Reactive Effects",
     "enlace": "https://www.youtube.com/watch?v=O8d6JRiAvmA",
-    "categoria_principal": "BPM Sync & Audio Reactivity",
+    "categoria_principal": "BPM Sync & Reactivity",
     "tags": [
-      "BPM Sync & Audio Reactivity"
+      "BPM Sync & Reactivity"
     ],
-    "categoria_descriptores": "BPM Sync & Audio Reactivity (BPM Sync & Audio Reactivity)",
+    "categoria_descriptores": "BPM Sync & Reactivity (BPM Sync & Reactivity)",
     "views": 136620,
     "upload_date": "2014-08-12",
     "latent_x": -7.059999942779541,
@@ -437,11 +437,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "STVinMotion",
     "titulo": "How To Prepare For a Live VJ Show Using Resolume VJing Software - OrnaMental's Tutorial",
     "enlace": "https://www.youtube.com/watch?v=fqLvaQOOke4",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 126316,
     "upload_date": "2017-08-11",
     "latent_x": -69.08000183105469,
@@ -478,10 +478,10 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Projection Mapping & Advanced Output",
-      "Pixel Mapping & LED Fixtures"
+      "Projection Mapping",
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping & Advanced Output, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping, Pixel & LED Mapping)",
     "views": 122842,
     "upload_date": "2022-08-10",
     "latent_x": 10.420000076293945,
@@ -496,11 +496,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Resolume VJ Software",
     "titulo": "Resolume Video Training: 7.2 Structure Mapping",
     "enlace": "https://www.youtube.com/watch?v=G2RigLJhEjM",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 121727,
     "upload_date": "2019-08-11",
     "latent_x": 27.739999771118164,
@@ -515,12 +515,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Zunayed Sabbir Ahmed and All About Stage Shows!",
     "titulo": "Live VJ Set | Original Set - Masks Beneath | #Resolume #Arena #chaser | 4k ultrawide screen capture",
     "enlace": "https://www.youtube.com/watch?v=PfrcW7g1zbE",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing",
-      "BPM Sync & Audio Reactivity"
+      "Clips & Layer Mixing",
+      "BPM Sync & Reactivity"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing, BPM Sync & Audio Reactivity)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing, BPM Sync & Reactivity)",
     "views": 120498,
     "upload_date": "2024-08-09",
     "latent_x": -26.790000915527344,
@@ -538,9 +538,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Clips & Layer Mixing)",
     "views": 115438,
     "upload_date": "2022-08-10",
     "latent_x": 45.88999938964844,
@@ -574,11 +574,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Doctor Mush",
     "titulo": "Resolume MIDI Mapping Tutorial --- AKAI APC40 MKII",
     "enlace": "https://www.youtube.com/watch?v=8Uuki86pCOw",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 107125,
     "upload_date": "2023-08-10",
     "latent_x": 41.84000015258789,
@@ -612,11 +612,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Astral Belt: Free VJ Loop HD Visual for Resolume, Serato Video, VDMX, MixEmergency, CoGe, etc.",
     "enlace": "https://www.youtube.com/watch?v=zqkY7tj5rxc",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 105951,
     "upload_date": "2015-08-12",
     "latent_x": -73.83999633789062,
@@ -631,11 +631,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Resolume VJ Software",
     "titulo": "Resolume Video Training: 4.5 Audio Reactive",
     "enlace": "https://www.youtube.com/watch?v=Zx1A6fPMPto",
-    "categoria_principal": "BPM Sync & Audio Reactivity",
+    "categoria_principal": "BPM Sync & Reactivity",
     "tags": [
-      "BPM Sync & Audio Reactivity"
+      "BPM Sync & Reactivity"
     ],
-    "categoria_descriptores": "BPM Sync & Audio Reactivity (BPM Sync & Audio Reactivity)",
+    "categoria_descriptores": "BPM Sync & Reactivity (BPM Sync & Reactivity)",
     "views": 102740,
     "upload_date": "2019-08-11",
     "latent_x": -15.15999984741211,
@@ -653,9 +653,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "DMX Lighting Control",
     "tags": [
       "DMX Lighting Control",
-      "Pixel Mapping & LED Fixtures"
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "DMX Lighting Control (DMX Lighting Control, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "DMX Lighting Control (DMX Lighting Control, Pixel & LED Mapping)",
     "views": 100809,
     "upload_date": "2021-08-10",
     "latent_x": 8.890000343322754,
@@ -689,11 +689,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Resolume VJ Software",
     "titulo": "Resolume Video Training: 1.5 Output",
     "enlace": "https://www.youtube.com/watch?v=MAd7FR08id4",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 93614,
     "upload_date": "2019-08-11",
     "latent_x": 44.66999816894531,
@@ -730,9 +730,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "BPM Sync & Audio Reactivity"
+      "BPM Sync & Reactivity"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, BPM Sync & Audio Reactivity)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, BPM Sync & Reactivity)",
     "views": 90590,
     "upload_date": "2024-08-09",
     "latent_x": 2.4800000190734863,
@@ -747,11 +747,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "The Interactive & Immersive HQ",
     "titulo": "Projection Mapping Tools in TouchDesigner - TouchDesigner Tutorial 046",
     "enlace": "https://www.youtube.com/watch?v=mTH7ZB4x47Q",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 83932,
     "upload_date": "2021-08-10",
     "latent_x": 73.77999877929688,
@@ -769,9 +769,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping)",
     "views": 82864,
     "upload_date": "2022-08-10",
     "latent_x": 37.880001068115234,
@@ -786,11 +786,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "STVinMotion",
     "titulo": "How To Perform a Live Visual Show Using Resolume VJ Software v.5 - Vectorius Tutorial",
     "enlace": "https://www.youtube.com/watch?v=_uDbQ06VvM4",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 79974,
     "upload_date": "2017-08-11",
     "latent_x": -51.91999816894531,
@@ -824,11 +824,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Sean Bowes",
     "titulo": "Resolume Audio Reactive Visuals | Quick Tip Tutorial",
     "enlace": "https://www.youtube.com/watch?v=NjrRpdk9tFE",
-    "categoria_principal": "BPM Sync & Audio Reactivity",
+    "categoria_principal": "BPM Sync & Reactivity",
     "tags": [
-      "BPM Sync & Audio Reactivity"
+      "BPM Sync & Reactivity"
     ],
-    "categoria_descriptores": "BPM Sync & Audio Reactivity (BPM Sync & Audio Reactivity)",
+    "categoria_descriptores": "BPM Sync & Reactivity (BPM Sync & Reactivity)",
     "views": 77734,
     "upload_date": "2022-08-10",
     "latent_x": -8.75,
@@ -843,11 +843,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "gabo diaz",
     "titulo": "Resolume Arena Mapping",
     "enlace": "https://www.youtube.com/watch?v=mR53XfYZAN8",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 76614,
     "upload_date": "2022-08-10",
     "latent_x": 48.119998931884766,
@@ -862,11 +862,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Sean Bowes",
     "titulo": "Best FREE Software for Concert Visuals",
     "enlace": "https://www.youtube.com/watch?v=nb7deM9kwSU",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 74052,
     "upload_date": "2022-08-10",
     "latent_x": -103.58000183105469,
@@ -881,11 +881,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Resolume VJ Software",
     "titulo": "Resolume Video Training: 1.2 Triggering a Clip",
     "enlace": "https://www.youtube.com/watch?v=boSVYqRVD7Y",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 69531,
     "upload_date": "2019-08-11",
     "latent_x": -90.05000305175781,
@@ -957,11 +957,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Resolume Arena & Avenue (Tutorial): BPM Sync & Techniques",
     "enlace": "https://www.youtube.com/watch?v=2xioDjmkPtQ",
-    "categoria_principal": "BPM Sync & Audio Reactivity",
+    "categoria_principal": "BPM Sync & Reactivity",
     "tags": [
-      "BPM Sync & Audio Reactivity"
+      "BPM Sync & Reactivity"
     ],
-    "categoria_descriptores": "BPM Sync & Audio Reactivity (BPM Sync & Audio Reactivity)",
+    "categoria_descriptores": "BPM Sync & Reactivity (BPM Sync & Reactivity)",
     "views": 62872,
     "upload_date": "2014-08-12",
     "latent_x": -19.670000076293945,
@@ -976,11 +976,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Chris Machado",
     "titulo": "FIRST STEPS on RESOLUME | Begginer's Tutorial",
     "enlace": "https://www.youtube.com/watch?v=nL30075AZeU",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 62620,
     "upload_date": "2024-08-09",
     "latent_x": 64.27999877929688,
@@ -998,10 +998,10 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Projection Mapping & Advanced Output",
-      "Pixel Mapping & LED Fixtures"
+      "Projection Mapping",
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping & Advanced Output, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping, Pixel & LED Mapping)",
     "views": 61696,
     "upload_date": "2023-08-10",
     "latent_x": 10.9399995803833,
@@ -1114,9 +1114,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Clips & Layer Mixing)",
     "views": 55437,
     "upload_date": "2023-08-10",
     "latent_x": 35.619998931884766,
@@ -1131,11 +1131,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Resolume Arena & Avenue (Tutorial): Dynamic Effect Clips",
     "enlace": "https://www.youtube.com/watch?v=ZsLIHYdB7tM",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 54098,
     "upload_date": "2015-08-12",
     "latent_x": -65.22000122070312,
@@ -1188,13 +1188,13 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Pixel bar Jack",
     "titulo": "Audiovisual DMX LED pixel Meteor tubes led mapping  support MadMapper，madrix and Arena Resolume",
     "enlace": "https://www.youtube.com/watch?v=JZKewQLTgFw",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output",
+      "Projection Mapping",
       "DMX Lighting Control",
-      "Pixel Mapping & LED Fixtures"
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output, DMX Lighting Control, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, DMX Lighting Control, Pixel & LED Mapping)",
     "views": 52914,
     "upload_date": "2022-08-10",
     "latent_x": -21.139999389648438,
@@ -1209,11 +1209,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Octagonix: Free VJ Loop HD Visual for Resolume, Serato Video, VDMX, MixEmergency, CoGe, etc.",
     "enlace": "https://www.youtube.com/watch?v=zOcrB6ia_DA",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 52861,
     "upload_date": "2017-08-11",
     "latent_x": -93.69000244140625,
@@ -1228,11 +1228,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Resolume VJ Software",
     "titulo": "Introducing Resolume Wire",
     "enlace": "https://www.youtube.com/watch?v=vc6p5ibO2sQ",
-    "categoria_principal": "Resolume Wire Generative Patches",
+    "categoria_principal": "Resolume Wire",
     "tags": [
-      "Resolume Wire Generative Patches"
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Resolume Wire Generative Patches (Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Resolume Wire (Resolume Wire)",
     "views": 52133,
     "upload_date": "2021-08-10",
     "latent_x": -11.6899995803833,
@@ -1247,12 +1247,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Zunayed Sabbir Ahmed and All About Stage Shows!",
     "titulo": "Resolume Lighting Tutorial In Depth | VJ Tips #RESOLUME #ARENA #DMX",
     "enlace": "https://www.youtube.com/watch?v=APqCaFV9WdQ",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing",
+      "Clips & Layer Mixing",
       "DMX Lighting Control"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing, DMX Lighting Control)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing, DMX Lighting Control)",
     "views": 51837,
     "upload_date": "2025-08-09",
     "latent_x": -32.27000045776367,
@@ -1270,9 +1270,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping)",
     "views": 51347,
     "upload_date": "2023-08-10",
     "latent_x": 74.58000183105469,
@@ -1290,9 +1290,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping)",
     "views": 50943,
     "upload_date": "2024-08-09",
     "latent_x": 55.209999084472656,
@@ -1307,11 +1307,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "VJ FALCÃO",
     "titulo": "Vj Falcão - Alive (Resolume)",
     "enlace": "https://www.youtube.com/watch?v=tyL8VN5v6ZE",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 50865,
     "upload_date": "2022-08-10",
     "latent_x": -78.62999725341797,
@@ -1329,10 +1329,10 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Projection Mapping & Advanced Output",
-      "Edge Blending & Keystone Warping"
+      "Projection Mapping",
+      "Edge Blending"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping & Advanced Output, Edge Blending & Keystone Warping)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping, Edge Blending)",
     "views": 50412,
     "upload_date": "2020-08-10",
     "latent_x": 99.58000183105469,
@@ -1347,11 +1347,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Sean Bowes",
     "titulo": "Make APC Mini mkII BRIGHTER with Resolume | VJ Quick Tip",
     "enlace": "https://www.youtube.com/watch?v=zA6D5Gd9Uik",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 49444,
     "upload_date": "2023-08-10",
     "latent_x": -100.37000274658203,
@@ -1369,11 +1369,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Projection Mapping & Advanced Output",
+      "Projection Mapping",
       "DMX Lighting Control",
-      "Pixel Mapping & LED Fixtures"
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping & Advanced Output, DMX Lighting Control, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping, DMX Lighting Control, Pixel & LED Mapping)",
     "views": 48008,
     "upload_date": "2020-08-10",
     "latent_x": -5.760000228881836,
@@ -1407,11 +1407,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Resolume VJ Software",
     "titulo": "Projection Mapping with Resolume Arena 4",
     "enlace": "https://www.youtube.com/watch?v=fF5WeXIdsUY",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 45863,
     "upload_date": "2015-08-12",
     "latent_x": 51.45000076293945,
@@ -1426,11 +1426,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Sean Bowes",
     "titulo": "Chaser Ultimate Guide | Resolume Plugin Tutorial",
     "enlace": "https://www.youtube.com/watch?v=pfpm-zkX1-0",
-    "categoria_principal": "Pixel Mapping & LED Fixtures",
+    "categoria_principal": "Pixel & LED Mapping",
     "tags": [
-      "Pixel Mapping & LED Fixtures"
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Pixel Mapping & LED Fixtures (Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Pixel & LED Mapping (Pixel & LED Mapping)",
     "views": 45770,
     "upload_date": "2023-08-10",
     "latent_x": -13.699999809265137,
@@ -1464,11 +1464,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "VJ SCHOOL",
     "titulo": "VLC to Resolume via Spout",
     "enlace": "https://www.youtube.com/watch?v=LrNi3ZSNN6w",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 43644,
     "upload_date": "2017-08-11",
     "latent_x": -10.930000305175781,
@@ -1483,11 +1483,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Pretty Lights Productions",
     "titulo": "Projection mapping with resolume.",
     "enlace": "https://www.youtube.com/watch?v=2V-0kdbid8g",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 43257,
     "upload_date": "2021-08-10",
     "latent_x": 46.209999084472656,
@@ -1559,11 +1559,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Geoboom: Free VJ Loops HD Visuals for Resolume, VDMX, MixEmergency, CoGe, Serato Video, etc.",
     "enlace": "https://www.youtube.com/watch?v=yUWo20MUPGk",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 41419,
     "upload_date": "2015-08-12",
     "latent_x": -89.5,
@@ -1578,11 +1578,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Night Beams: Free VJ Loop HD Visual for Resolume, Serato Video, VDMX, MixEmergency, CoGe, etc.",
     "enlace": "https://www.youtube.com/watch?v=phPFf57CsJg",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 41216,
     "upload_date": "2019-08-11",
     "latent_x": -81.79000091552734,
@@ -1597,13 +1597,13 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "MITH xyz",
     "titulo": "Resolume video routing - complex pipelines",
     "enlace": "https://www.youtube.com/watch?v=kBev-9QhADs",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing",
-      "Projection Mapping & Advanced Output",
-      "NDI, Spout & Video Routing"
+      "Clips & Layer Mixing",
+      "Projection Mapping",
+      "Video Routing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing, Projection Mapping & Advanced Output, NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing, Projection Mapping, Video Routing)",
     "views": 40296,
     "upload_date": "2020-08-10",
     "latent_x": -98.20999908447266,
@@ -1618,11 +1618,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Resolume VJ Software",
     "titulo": "Resolume Video Training: 4.2 BPM Sync",
     "enlace": "https://www.youtube.com/watch?v=LgInkPpePc4",
-    "categoria_principal": "BPM Sync & Audio Reactivity",
+    "categoria_principal": "BPM Sync & Reactivity",
     "tags": [
-      "BPM Sync & Audio Reactivity"
+      "BPM Sync & Reactivity"
     ],
-    "categoria_descriptores": "BPM Sync & Audio Reactivity (BPM Sync & Audio Reactivity)",
+    "categoria_descriptores": "BPM Sync & Reactivity (BPM Sync & Reactivity)",
     "views": 39529,
     "upload_date": "2019-08-11",
     "latent_x": -29.200000762939453,
@@ -1694,11 +1694,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Sean Bowes",
     "titulo": "The BEST new BPM SYNC Plugin? | Resolume Plugin Tutorial",
     "enlace": "https://www.youtube.com/watch?v=VNQC7qlxt60",
-    "categoria_principal": "BPM Sync & Audio Reactivity",
+    "categoria_principal": "BPM Sync & Reactivity",
     "tags": [
-      "BPM Sync & Audio Reactivity"
+      "BPM Sync & Reactivity"
     ],
-    "categoria_descriptores": "BPM Sync & Audio Reactivity (BPM Sync & Audio Reactivity)",
+    "categoria_descriptores": "BPM Sync & Reactivity (BPM Sync & Reactivity)",
     "views": 38866,
     "upload_date": "2024-08-09",
     "latent_x": -35.720001220703125,
@@ -1713,11 +1713,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Glowzones: HD VJ Loops/Clips/Visuals for Resolume, Serato Video, VDMX, MixEmergency, CoGe, etc.",
     "enlace": "https://www.youtube.com/watch?v=Plm_ArEkVJA",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 38471,
     "upload_date": "2017-08-11",
     "latent_x": -113.25,
@@ -1732,12 +1732,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Tony Tao",
     "titulo": "Resolume Arean 6 VJ Software control WS2815 LED Pixel Strip",
     "enlace": "https://www.youtube.com/watch?v=D-2bcmepCNM",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing",
-      "Pixel Mapping & LED Fixtures"
+      "Clips & Layer Mixing",
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing, Pixel & LED Mapping)",
     "views": 38381,
     "upload_date": "2021-08-10",
     "latent_x": -46.90999984741211,
@@ -1752,12 +1752,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "VJ FALCÃO",
     "titulo": "Vj Falcão - Mapping (Resolume)",
     "enlace": "https://www.youtube.com/watch?v=DPcC2OhCtAM",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing",
-      "Projection Mapping & Advanced Output"
+      "Clips & Layer Mixing",
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing, Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing, Projection Mapping)",
     "views": 38224,
     "upload_date": "2022-08-10",
     "latent_x": -96.12000274658203,
@@ -1810,11 +1810,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Invertigo: Free VJ Loops & HD Visuals for Resolume, Serato Video, VDMX, MixEmergency, CoGe, etc.",
     "enlace": "https://www.youtube.com/watch?v=LFadDictlMo",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 37269,
     "upload_date": "2015-08-12",
     "latent_x": -89.5,
@@ -1908,9 +1908,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "DMX Lighting Control",
     "tags": [
       "DMX Lighting Control",
-      "Pixel Mapping & LED Fixtures"
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "DMX Lighting Control (DMX Lighting Control, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "DMX Lighting Control (DMX Lighting Control, Pixel & LED Mapping)",
     "views": 35116,
     "upload_date": "2018-08-11",
     "latent_x": -9.600000381469727,
@@ -1925,11 +1925,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "VFX Mehra",
     "titulo": "Best Way To Use Resolume Arena For Beginners/How To Use Resolume Arena@vfxmehra",
     "enlace": "https://www.youtube.com/watch?v=Lusk4u845ik",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 34762,
     "upload_date": "2025-08-09",
     "latent_x": 83.5,
@@ -1944,13 +1944,13 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "LED Strip Studio",
     "titulo": "LED pixel mapping in MADRIX using ArtNet and SPI Matrix",
     "enlace": "https://www.youtube.com/watch?v=XgcacEocLjw",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output",
+      "Projection Mapping",
       "DMX Lighting Control",
-      "Pixel Mapping & LED Fixtures"
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output, DMX Lighting Control, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, DMX Lighting Control, Pixel & LED Mapping)",
     "views": 34565,
     "upload_date": "2021-08-10",
     "latent_x": -19.559999465942383,
@@ -1984,11 +1984,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Zunayed Sabbir Ahmed",
     "titulo": "Import & Use Slides Inside Resolume Arena – Step-by-Step | VJ Tips",
     "enlace": "https://www.youtube.com/watch?v=-BOfZVZx0Jo",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 34303,
     "upload_date": "2024-08-09",
     "latent_x": -69.16999816894531,
@@ -2003,11 +2003,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Sean Bowes",
     "titulo": "Whats In My VJ KIT | How to VJ a Festival | Tutorial",
     "enlace": "https://www.youtube.com/watch?v=ovG8DqCMoEE",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 34283,
     "upload_date": "2022-08-10",
     "latent_x": -87.5999984741211,
@@ -2060,12 +2060,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Luma Box",
     "titulo": "Resolume Slice Routing & Slice Transform Tutorial",
     "enlace": "https://www.youtube.com/watch?v=FKM9QvVV-t4",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output",
-      "NDI, Spout & Video Routing"
+      "Projection Mapping",
+      "Video Routing"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output, NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, Video Routing)",
     "views": 32824,
     "upload_date": "2020-08-10",
     "latent_x": 8.979999542236328,
@@ -2099,11 +2099,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "reflekkt",
     "titulo": "Projection Mapping with KantanMapper - TouchDesigner Tutorial",
     "enlace": "https://www.youtube.com/watch?v=QBEtbXtCIcU",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 32635,
     "upload_date": "2025-08-09",
     "latent_x": 59.5099983215332,
@@ -2121,9 +2121,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Pixel Mapping & LED Fixtures"
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Pixel & LED Mapping)",
     "views": 32191,
     "upload_date": "2024-08-09",
     "latent_x": 1.3700000047683716,
@@ -2157,13 +2157,13 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Aoshow led",
     "titulo": "Resolume Software Arean 6 Control WS2811 SPI RGB LED Pixel Tape Strip with AS_832M Artnet controller",
     "enlace": "https://www.youtube.com/watch?v=4xTJhd7wCvg",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing",
+      "Clips & Layer Mixing",
       "DMX Lighting Control",
-      "Pixel Mapping & LED Fixtures"
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing, DMX Lighting Control, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing, DMX Lighting Control, Pixel & LED Mapping)",
     "views": 30277,
     "upload_date": "2020-08-10",
     "latent_x": -36.72999954223633,
@@ -2178,11 +2178,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Sectionulls: Free VJ Loops & HD Visuals for Resolume, Serato Video, VDMX, MixEmergency, CoGe, etc.",
     "enlace": "https://www.youtube.com/watch?v=-xRrGpziLJ0",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 29787,
     "upload_date": "2014-08-12",
     "latent_x": -89.5,
@@ -2219,10 +2219,10 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Decks, Clips & Layer Mixing",
-      "Projection Mapping & Advanced Output"
+      "Clips & Layer Mixing",
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Decks, Clips & Layer Mixing, Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Clips & Layer Mixing, Projection Mapping)",
     "views": 28859,
     "upload_date": "2025-09-13",
     "latent_x": 69.93000030517578,
@@ -2237,11 +2237,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Marco Rossini",
     "titulo": "RESOLUME ARENA - WS2811 stripled with H807SA led controller - full tutorial",
     "enlace": "https://www.youtube.com/watch?v=fXhtAz2IOqM",
-    "categoria_principal": "Pixel Mapping & LED Fixtures",
+    "categoria_principal": "Pixel & LED Mapping",
     "tags": [
-      "Pixel Mapping & LED Fixtures"
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Pixel Mapping & LED Fixtures (Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Pixel & LED Mapping (Pixel & LED Mapping)",
     "views": 28675,
     "upload_date": "2024-08-09",
     "latent_x": -22.5,
@@ -2275,11 +2275,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Textilized: Free VJ Loop HD Visual for Resolume, ArKaos, Serato Video, VDMX, CoGe, Modul8, etc.",
     "enlace": "https://www.youtube.com/watch?v=6Jmna4bGib4",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 26962,
     "upload_date": "2018-08-11",
     "latent_x": -93.22000122070312,
@@ -2332,11 +2332,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Christian Le Freak",
     "titulo": "Simple Video Mapping Tutorial with template. With Resolume💻📹 🏛",
     "enlace": "https://www.youtube.com/watch?v=gcdNCNjLxjI",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 26776,
     "upload_date": "2025-08-09",
     "latent_x": 35.04999923706055,
@@ -2351,11 +2351,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Mowgli TV",
     "titulo": "Resolume Arena & Avenue  - Text tricks - Tutorial",
     "enlace": "https://www.youtube.com/watch?v=0pxHBl0aLk0",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 26640,
     "upload_date": "2024-08-09",
     "latent_x": -60.59000015258789,
@@ -2370,11 +2370,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Zunayed Sabbir Ahmed",
     "titulo": "Chaser 3 Tutorial in Resolume – Basic to Intermediate | VJ Tips",
     "enlace": "https://www.youtube.com/watch?v=xKy9zNkIeFA",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 26293,
     "upload_date": "2023-08-10",
     "latent_x": -40.119998931884766,
@@ -2392,9 +2392,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Clips & Layer Mixing)",
     "views": 25833,
     "upload_date": "2024-08-09",
     "latent_x": 62.27000045776367,
@@ -2409,11 +2409,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Resolume Avenue & Arena (Overview & Tutorial): Resgen Generative Visuals",
     "enlace": "https://www.youtube.com/watch?v=qCWn_hvlhz0",
-    "categoria_principal": "Resolume Wire Generative Patches",
+    "categoria_principal": "Resolume Wire",
     "tags": [
-      "Resolume Wire Generative Patches"
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Resolume Wire Generative Patches (Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Resolume Wire (Resolume Wire)",
     "views": 25256,
     "upload_date": "2015-08-12",
     "latent_x": -8.59000015258789,
@@ -2428,11 +2428,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "LED Strip Studio",
     "titulo": "How to connect LED Pixel Controller to Resolume Arena",
     "enlace": "https://www.youtube.com/watch?v=Duh1AgnMmSQ",
-    "categoria_principal": "Pixel Mapping & LED Fixtures",
+    "categoria_principal": "Pixel & LED Mapping",
     "tags": [
-      "Pixel Mapping & LED Fixtures"
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Pixel Mapping & LED Fixtures (Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Pixel & LED Mapping (Pixel & LED Mapping)",
     "views": 25056,
     "upload_date": "2024-08-09",
     "latent_x": -38.2400016784668,
@@ -2447,13 +2447,13 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Aoshow led",
     "titulo": "How to Setup Resolume Arean 6 control Aoshow led pixel bar spi rgb ws2811 ic 30l10p/m",
     "enlace": "https://www.youtube.com/watch?v=x8lpfSaJVyE",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output",
+      "Projection Mapping",
       "DMX Lighting Control",
-      "Pixel Mapping & LED Fixtures"
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output, DMX Lighting Control, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, DMX Lighting Control, Pixel & LED Mapping)",
     "views": 25051,
     "upload_date": "2019-08-11",
     "latent_x": -28.540000915527344,
@@ -2468,11 +2468,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Luma Box",
     "titulo": "Projection Mapping a Round Cake in Resolume Tutorial",
     "enlace": "https://www.youtube.com/watch?v=SBBuaHlChos",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 24057,
     "upload_date": "2020-08-10",
     "latent_x": 69.73999786376953,
@@ -2506,11 +2506,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Benjamin Kuperberg",
     "titulo": "Spout [Syphon for Windows] Unity to Resolume Plugin Demo",
     "enlace": "https://www.youtube.com/watch?v=r-QcMU_uwYA",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 22725,
     "upload_date": "2014-08-12",
     "latent_x": -45.47999954223633,
@@ -2525,11 +2525,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Deep Detail",
     "titulo": "Resolume 6 Audio Reactive Video Logo",
     "enlace": "https://www.youtube.com/watch?v=Q0Tm9l-YjfI",
-    "categoria_principal": "BPM Sync & Audio Reactivity",
+    "categoria_principal": "BPM Sync & Reactivity",
     "tags": [
-      "BPM Sync & Audio Reactivity"
+      "BPM Sync & Reactivity"
     ],
-    "categoria_descriptores": "BPM Sync & Audio Reactivity (BPM Sync & Audio Reactivity)",
+    "categoria_descriptores": "BPM Sync & Reactivity (BPM Sync & Reactivity)",
     "views": 22685,
     "upload_date": "2019-08-11",
     "latent_x": -24.739999771118164,
@@ -2547,9 +2547,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Clips & Layer Mixing)",
     "views": 22683,
     "upload_date": "2024-08-09",
     "latent_x": 23.8700008392334,
@@ -2567,10 +2567,10 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Decks, Clips & Layer Mixing",
-      "BPM Sync & Audio Reactivity"
+      "Clips & Layer Mixing",
+      "BPM Sync & Reactivity"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Decks, Clips & Layer Mixing, BPM Sync & Audio Reactivity)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Clips & Layer Mixing, BPM Sync & Reactivity)",
     "views": 22390,
     "upload_date": "2023-08-10",
     "latent_x": -7.769999980926514,
@@ -2585,11 +2585,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Psynanta",
     "titulo": "TUTO: How To send TouchDesigner in Resolume with Spout and back to TD",
     "enlace": "https://www.youtube.com/watch?v=YjI8N5XyzrE",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 22195,
     "upload_date": "2021-08-10",
     "latent_x": 14.899999618530273,
@@ -2607,9 +2607,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "DMX Lighting Control",
     "tags": [
       "DMX Lighting Control",
-      "Pixel Mapping & LED Fixtures"
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "DMX Lighting Control (DMX Lighting Control, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "DMX Lighting Control (DMX Lighting Control, Pixel & LED Mapping)",
     "views": 21822,
     "upload_date": "2017-08-11",
     "latent_x": -15.399999618530273,
@@ -2624,11 +2624,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "wavesumoy",
     "titulo": "Automatic beat sync to Resolume using Waveclock",
     "enlace": "https://www.youtube.com/watch?v=JAePoKqTg0o",
-    "categoria_principal": "BPM Sync & Audio Reactivity",
+    "categoria_principal": "BPM Sync & Reactivity",
     "tags": [
-      "BPM Sync & Audio Reactivity"
+      "BPM Sync & Reactivity"
     ],
-    "categoria_descriptores": "BPM Sync & Audio Reactivity (BPM Sync & Audio Reactivity)",
+    "categoria_descriptores": "BPM Sync & Reactivity (BPM Sync & Reactivity)",
     "views": 21717,
     "upload_date": "2011-08-13",
     "latent_x": -32.15999984741211,
@@ -2662,11 +2662,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Resolume VJ Software",
     "titulo": "Resolume Arena Tutorial - Mask Layers",
     "enlace": "https://www.youtube.com/watch?v=uK3wQ2GGydY",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 21380,
     "upload_date": "2025-08-09",
     "latent_x": -74.02999877929688,
@@ -2681,11 +2681,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Resolume VJ Software",
     "titulo": "Resolume Arena Tutorial - NDI",
     "enlace": "https://www.youtube.com/watch?v=fjKfqIMts4A",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 21240,
     "upload_date": "2025-08-09",
     "latent_x": -3.4800000190734863,
@@ -2700,11 +2700,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Blink Blocks: Free VJ Loop HD Visual for Resolume, Serato Video, VDMX, MixEmergency, CoGe, etc.",
     "enlace": "https://www.youtube.com/watch?v=0rOkqhT_lVM",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 20940,
     "upload_date": "2017-08-11",
     "latent_x": -79.87000274658203,
@@ -2719,12 +2719,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "LED-Orange Productions",
     "titulo": "Pixel Mapping by LED-Orange",
     "enlace": "https://www.youtube.com/watch?v=H3R0R6A_a5A",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output",
-      "Pixel Mapping & LED Fixtures"
+      "Projection Mapping",
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, Pixel & LED Mapping)",
     "views": 20738,
     "upload_date": "2016-08-11",
     "latent_x": -7.099999904632568,
@@ -2739,11 +2739,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Programming for People",
     "titulo": "Spout for Unity (Texture sharing for other programs) Resolume, Touchdesigner, VVVV",
     "enlace": "https://www.youtube.com/watch?v=iIwcqgAPVWI",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 20182,
     "upload_date": "2019-08-11",
     "latent_x": -33.2400016784668,
@@ -2796,11 +2796,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "AKTION",
     "titulo": "Resolume - Projection Mapping plugin : Chaser",
     "enlace": "https://www.youtube.com/watch?v=p-H6AJakTYQ",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 19520,
     "upload_date": "2016-08-11",
     "latent_x": 38.9900016784668,
@@ -2853,11 +2853,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Modular Drops",
     "titulo": "[Resolume-Tutorial] How to stream a web page in Resolume (e.g. Live Tweet)",
     "enlace": "https://www.youtube.com/watch?v=Lhh0uZmQEBA",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 19105,
     "upload_date": "2014-08-12",
     "latent_x": 82.87999725341797,
@@ -2872,11 +2872,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Sean Bowes",
     "titulo": "Level Up in Advanced Output | Resolume Quick Tip Tutorial",
     "enlace": "https://www.youtube.com/watch?v=JxZ5PTWDOcY",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 18822,
     "upload_date": "2024-08-09",
     "latent_x": 60.599998474121094,
@@ -2894,10 +2894,10 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Decks, Clips & Layer Mixing",
-      "Resolume Wire Generative Patches"
+      "Clips & Layer Mixing",
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Decks, Clips & Layer Mixing, Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Clips & Layer Mixing, Resolume Wire)",
     "views": 18791,
     "upload_date": "2023-08-10",
     "latent_x": -11.369999885559082,
@@ -2915,9 +2915,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "DMX Lighting Control",
     "tags": [
       "DMX Lighting Control",
-      "Pixel Mapping & LED Fixtures"
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "DMX Lighting Control (DMX Lighting Control, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "DMX Lighting Control (DMX Lighting Control, Pixel & LED Mapping)",
     "views": 18739,
     "upload_date": "2020-08-10",
     "latent_x": -0.8899999856948853,
@@ -2935,9 +2935,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Clips & Layer Mixing)",
     "views": 18720,
     "upload_date": "2023-08-10",
     "latent_x": 44.959999084472656,
@@ -2952,12 +2952,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "VJ Loops",
     "titulo": "Projection Mapping Tutorial Resolume || VJ Loops Box Mapping V1",
     "enlace": "https://www.youtube.com/watch?v=vSEfkUd1HVM",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing",
-      "Projection Mapping & Advanced Output"
+      "Clips & Layer Mixing",
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing, Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing, Projection Mapping)",
     "views": 18519,
     "upload_date": "2022-08-10",
     "latent_x": -91.12999725341797,
@@ -2991,12 +2991,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Hard Edges: HD VJ Loops/Clips/Visuals for Resolume, Serato Video, VDMX, MixEmergency, CoGe, etc.",
     "enlace": "https://www.youtube.com/watch?v=CdQOL6q_CAY",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing",
-      "Resolume Wire Generative Patches"
+      "Clips & Layer Mixing",
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing, Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing, Resolume Wire)",
     "views": 18263,
     "upload_date": "2014-08-12",
     "latent_x": -73.43000030517578,
@@ -3090,9 +3090,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping)",
     "views": 17128,
     "upload_date": "2020-08-10",
     "latent_x": 49.189998626708984,
@@ -3107,11 +3107,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Sean Bowes",
     "titulo": "Transfer Compositions, Advanced Output, Midi, and Presets | Resolume Quick Tip Tutorial",
     "enlace": "https://www.youtube.com/watch?v=QBscVQz1IWI",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 17101,
     "upload_date": "2023-08-10",
     "latent_x": 55.45000076293945,
@@ -3126,11 +3126,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Vichagorn Lupponglung",
     "titulo": "Simulation Realtime Mapping : Resolume + Touchdesigner",
     "enlace": "https://www.youtube.com/watch?v=kOedDo_h240",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 17006,
     "upload_date": "2024-08-09",
     "latent_x": 52.38999938964844,
@@ -3145,11 +3145,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Resolume VJ Software",
     "titulo": "Resolume Wire 7.7 Tutorial: How to Make an Effect Stack for Resolume Arena/Avenue",
     "enlace": "https://www.youtube.com/watch?v=Ms72tx9F_ho",
-    "categoria_principal": "Resolume Wire Generative Patches",
+    "categoria_principal": "Resolume Wire",
     "tags": [
-      "Resolume Wire Generative Patches"
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Resolume Wire Generative Patches (Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Resolume Wire (Resolume Wire)",
     "views": 16983,
     "upload_date": "2022-08-10",
     "latent_x": 16.469999313354492,
@@ -3164,11 +3164,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Zunayed Sabbir Ahmed",
     "titulo": "Resolume vs MadMapper vs HeavyM – Which Projection Mapping Tool Wins?",
     "enlace": "https://www.youtube.com/watch?v=HNmtwxkLvE0",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 16903,
     "upload_date": "2025-08-09",
     "latent_x": 45.619998931884766,
@@ -3183,11 +3183,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Gabriel Guerrero",
     "titulo": "AUDIO REACTIVE GRAPHIC EQ inside RESOLUME!!!",
     "enlace": "https://www.youtube.com/watch?v=-Z4lyA5hgzY",
-    "categoria_principal": "BPM Sync & Audio Reactivity",
+    "categoria_principal": "BPM Sync & Reactivity",
     "tags": [
-      "BPM Sync & Audio Reactivity"
+      "BPM Sync & Reactivity"
     ],
-    "categoria_descriptores": "BPM Sync & Audio Reactivity (BPM Sync & Audio Reactivity)",
+    "categoria_descriptores": "BPM Sync & Reactivity (BPM Sync & Reactivity)",
     "views": 16576,
     "upload_date": "2020-08-10",
     "latent_x": -14.130000114440918,
@@ -3202,11 +3202,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Ceyeclone: Free VJ Loop HD Visual for Resolume, Serato Video, VDMX, MixEmergency, CoGe, etc.",
     "enlace": "https://www.youtube.com/watch?v=rOBpfAvbd5E",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 16418,
     "upload_date": "2014-08-12",
     "latent_x": -73.83999633789062,
@@ -3240,11 +3240,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Light Splatter: Free VJ Loop HD Visual for Serato Video, VDMX, Resolume, MixEmergency, CoGe, etc.",
     "enlace": "https://www.youtube.com/watch?v=ckTQNIm4N5E",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 15901,
     "upload_date": "2014-08-12",
     "latent_x": -60.83000183105469,
@@ -3278,12 +3278,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "VJ Galaxy",
     "titulo": "5 Simple and Obvious Tips for Better Transitions and BPM Sync in Resolume VJ Software",
     "enlace": "https://www.youtube.com/watch?v=jbdf1R-Iz0k",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing",
-      "BPM Sync & Audio Reactivity"
+      "Clips & Layer Mixing",
+      "BPM Sync & Reactivity"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing, BPM Sync & Audio Reactivity)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing, BPM Sync & Reactivity)",
     "views": 15074,
     "upload_date": "2019-08-11",
     "latent_x": -39.209999084472656,
@@ -3320,9 +3320,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "DMX Lighting Control",
     "tags": [
       "DMX Lighting Control",
-      "Pixel Mapping & LED Fixtures"
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "DMX Lighting Control (DMX Lighting Control, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "DMX Lighting Control (DMX Lighting Control, Pixel & LED Mapping)",
     "views": 14940,
     "upload_date": "2022-08-10",
     "latent_x": 15.579999923706055,
@@ -3337,11 +3337,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Aoshow led",
     "titulo": "Aoshowled Tutorial How to Setup Resolume Arena Pixel Map Programming to WS2815 LED Pixel Tape Strip",
     "enlace": "https://www.youtube.com/watch?v=yQR06SOtsmY",
-    "categoria_principal": "Pixel Mapping & LED Fixtures",
+    "categoria_principal": "Pixel & LED Mapping",
     "tags": [
-      "Pixel Mapping & LED Fixtures"
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Pixel Mapping & LED Fixtures (Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Pixel & LED Mapping (Pixel & LED Mapping)",
     "views": 14438,
     "upload_date": "2021-08-10",
     "latent_x": -29.649999618530273,
@@ -3356,11 +3356,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Milky Waves: Free VJ Loop HD Visual for Resolume, Serato Video, VDMX, MixEmergency, CoGe, etc.",
     "enlace": "https://www.youtube.com/watch?v=FJG3EASHQ_s",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 14324,
     "upload_date": "2015-08-12",
     "latent_x": -67.20999908447266,
@@ -3375,11 +3375,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Zunayed Sabbir Ahmed",
     "titulo": "RESOLUME + vMix Tutorial  | Basic to Intermediate | VJ Tips",
     "enlace": "https://www.youtube.com/watch?v=b2XyfHA1uak",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 14128,
     "upload_date": "2025-08-09",
     "latent_x": -31.389999389648438,
@@ -3394,11 +3394,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Resolume VJ Software",
     "titulo": "Resolume Wire 7.11 Tutorial : Texture Buffers  (make your own delay effects!)",
     "enlace": "https://www.youtube.com/watch?v=Oa0SOYjP_iQ",
-    "categoria_principal": "Resolume Wire Generative Patches",
+    "categoria_principal": "Resolume Wire",
     "tags": [
-      "Resolume Wire Generative Patches"
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Resolume Wire Generative Patches (Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Resolume Wire (Resolume Wire)",
     "views": 14116,
     "upload_date": "2022-08-10",
     "latent_x": 18.450000762939453,
@@ -3413,11 +3413,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Diamutation: Free VJ Loop HD Visual for Resolume, Serato Video, VDMX, MixEmergency, CoGe, etc.",
     "enlace": "https://www.youtube.com/watch?v=fEt_j4JbmhU",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 13722,
     "upload_date": "2014-08-12",
     "latent_x": -73.83999633789062,
@@ -3432,12 +3432,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Rafael Mizrahi",
     "titulo": "WS281x led matrix with resolume and syphon",
     "enlace": "https://www.youtube.com/watch?v=rankvYFwFy0",
-    "categoria_principal": "Pixel Mapping & LED Fixtures",
+    "categoria_principal": "Pixel & LED Mapping",
     "tags": [
-      "Pixel Mapping & LED Fixtures",
-      "NDI, Spout & Video Routing"
+      "Pixel & LED Mapping",
+      "Video Routing"
     ],
-    "categoria_descriptores": "Pixel Mapping & LED Fixtures (Pixel Mapping & LED Fixtures, NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Pixel & LED Mapping (Pixel & LED Mapping, Video Routing)",
     "views": 13645,
     "upload_date": "2015-08-12",
     "latent_x": -38.47999954223633,
@@ -3452,11 +3452,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "The School Of Sound",
     "titulo": "Resolume Arena - Image Blending - The Dark Art",
     "enlace": "https://www.youtube.com/watch?v=lM6Q5Mn-Om8",
-    "categoria_principal": "Edge Blending & Keystone Warping",
+    "categoria_principal": "Edge Blending",
     "tags": [
-      "Edge Blending & Keystone Warping"
+      "Edge Blending"
     ],
-    "categoria_descriptores": "Edge Blending & Keystone Warping (Edge Blending & Keystone Warping)",
+    "categoria_descriptores": "Edge Blending (Edge Blending)",
     "views": 13632,
     "upload_date": "2024-08-09",
     "latent_x": 107.73999786376953,
@@ -3509,11 +3509,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "tekt",
     "titulo": "TouchDesigner VJ Performance Rig",
     "enlace": "https://www.youtube.com/watch?v=2mgyZV49rRc",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 12506,
     "upload_date": "2025-08-09",
     "latent_x": -66.30999755859375,
@@ -3528,12 +3528,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Luma Box",
     "titulo": "Resolume Effects: Audio Reactive Equalizer Cake Projection",
     "enlace": "https://www.youtube.com/watch?v=KDz3NvIQpBE",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output",
-      "BPM Sync & Audio Reactivity"
+      "Projection Mapping",
+      "BPM Sync & Reactivity"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output, BPM Sync & Audio Reactivity)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, BPM Sync & Reactivity)",
     "views": 12354,
     "upload_date": "2020-08-10",
     "latent_x": 85.69000244140625,
@@ -3567,11 +3567,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Sean Bowes",
     "titulo": "Get Your First  VJ GIG | PRO VJ TIPS | HOW TO",
     "enlace": "https://www.youtube.com/watch?v=vKQgafhTCWU",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 12031,
     "upload_date": "2022-08-10",
     "latent_x": -75.3499984741211,
@@ -3586,11 +3586,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Visualmonks",
     "titulo": "Resolume to Zoom using Spout | Resolume Arena Tutorial",
     "enlace": "https://www.youtube.com/watch?v=0pdLiGrFCnM",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 11431,
     "upload_date": "2020-08-10",
     "latent_x": -3.8499999046325684,
@@ -3605,11 +3605,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Resolume VJ Software",
     "titulo": "Resolume Video Training: 4.3 Quantization",
     "enlace": "https://www.youtube.com/watch?v=vd-tr3Zd-iU",
-    "categoria_principal": "BPM Sync & Audio Reactivity",
+    "categoria_principal": "BPM Sync & Reactivity",
     "tags": [
-      "BPM Sync & Audio Reactivity"
+      "BPM Sync & Reactivity"
     ],
-    "categoria_descriptores": "BPM Sync & Audio Reactivity (BPM Sync & Audio Reactivity)",
+    "categoria_descriptores": "BPM Sync & Reactivity (BPM Sync & Reactivity)",
     "views": 11281,
     "upload_date": "2019-08-11",
     "latent_x": -36.7599983215332,
@@ -3624,11 +3624,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Mahaloha: Free VJ Loops & HD Visuals for Resolume, Serato Video, VDMX, MixEmergency, CoGe, etc.",
     "enlace": "https://www.youtube.com/watch?v=VDJggv46nWw",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 11108,
     "upload_date": "2014-08-12",
     "latent_x": -89.5,
@@ -3643,11 +3643,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Benjamin Kuperberg",
     "titulo": "Spout [Syphon on Windows] After Effects Plugin",
     "enlace": "https://www.youtube.com/watch?v=sx_QCC0Y2Ww",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 11048,
     "upload_date": "2014-08-12",
     "latent_x": -37.15999984741211,
@@ -3662,12 +3662,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "LED Pixel Lighting Cathy Zhang",
     "titulo": "How to do led pixel mapping for rotating led pixel tube with Madrix software?",
     "enlace": "https://www.youtube.com/watch?v=8tUYNDJfNus",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output",
-      "Pixel Mapping & LED Fixtures"
+      "Projection Mapping",
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, Pixel & LED Mapping)",
     "views": 11036,
     "upload_date": "2024-08-09",
     "latent_x": -21.489999771118164,
@@ -3682,11 +3682,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Growing Matter: Free VJ Loop HD Visual for Serato Video, VDMX, Resolume, MixEmergency, CoGe, etc.",
     "enlace": "https://www.youtube.com/watch?v=lJXd13nlTX0",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 11031,
     "upload_date": "2014-08-12",
     "latent_x": -73.83999633789062,
@@ -3701,11 +3701,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Sweet Tree Productions",
     "titulo": "Avolites Resolume Mapping Training Video 19",
     "enlace": "https://www.youtube.com/watch?v=kI2p-6yq8Tg",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 10911,
     "upload_date": "2019-08-11",
     "latent_x": 30.049999237060547,
@@ -3720,11 +3720,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Sphyramids: Free VJ Loop HD Visual for Serato Video, VDMX, Resolume, MixEmergency, CoGe, etc.",
     "enlace": "https://www.youtube.com/watch?v=Bawtc_GH5lU",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 10886,
     "upload_date": "2014-08-12",
     "latent_x": -73.83999633789062,
@@ -3739,11 +3739,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Sean Bowes",
     "titulo": "VISUAL MIX - DJ TomCat x VJ Sean Bowes - StayAtHomeBass 2020",
     "enlace": "https://www.youtube.com/watch?v=k5tFUMrzc2g",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 10675,
     "upload_date": "2020-08-10",
     "latent_x": -51.0,
@@ -3758,11 +3758,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "VJ SCHOOL",
     "titulo": "Analyze BPM — automated BPM detection in Resolume",
     "enlace": "https://www.youtube.com/watch?v=79m3WZZYArI",
-    "categoria_principal": "BPM Sync & Audio Reactivity",
+    "categoria_principal": "BPM Sync & Reactivity",
     "tags": [
-      "BPM Sync & Audio Reactivity"
+      "BPM Sync & Reactivity"
     ],
-    "categoria_descriptores": "BPM Sync & Audio Reactivity (BPM Sync & Audio Reactivity)",
+    "categoria_descriptores": "BPM Sync & Reactivity (BPM Sync & Reactivity)",
     "views": 10542,
     "upload_date": "2023-08-10",
     "latent_x": -50.7599983215332,
@@ -3777,11 +3777,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Monomatic Two: HD VJ Loops/Clips/Visuals for Resolume, Serato Video, VDMX, MixEmergency, CoGe, etc.",
     "enlace": "https://www.youtube.com/watch?v=RdKAzM-SqRg",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 9823,
     "upload_date": "2015-08-12",
     "latent_x": -95.04000091552734,
@@ -3815,12 +3815,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Moshe Baskin",
     "titulo": "Resolume Fixture Pixel Mapping",
     "enlace": "https://www.youtube.com/watch?v=P8qeVGudMFQ",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output",
-      "Pixel Mapping & LED Fixtures"
+      "Projection Mapping",
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, Pixel & LED Mapping)",
     "views": 9087,
     "upload_date": "2024-08-09",
     "latent_x": 0.25999999046325684,
@@ -3835,11 +3835,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Sean Bowes",
     "titulo": "Persistent Clips | Re-Useable Content | Resolume Quick Tip Tutorial",
     "enlace": "https://www.youtube.com/watch?v=b-QaTV-S8ks",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 9075,
     "upload_date": "2023-08-10",
     "latent_x": -84.73999786376953,
@@ -3854,11 +3854,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Liquid Silk: Free VJ Loop HD Visual for Resolume, Serato Video, VDMX, MixEmergency, CoGe, etc.",
     "enlace": "https://www.youtube.com/watch?v=QRLoJvsLuVY",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 9057,
     "upload_date": "2014-08-12",
     "latent_x": -64.37999725341797,
@@ -3892,12 +3892,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Resgen 3: Realtime Generative VJ Clips for Resolume Arena & Avenue 6",
     "enlace": "https://www.youtube.com/watch?v=ELVeUZcUNyk",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing",
-      "Resolume Wire Generative Patches"
+      "Clips & Layer Mixing",
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing, Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing, Resolume Wire)",
     "views": 9047,
     "upload_date": "2018-08-11",
     "latent_x": -40.349998474121094,
@@ -3912,11 +3912,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Honeymilk: Free VJ Loop HD Visual for Resolume, Serato Video, VDMX, MixEmergency, CoGe, etc.",
     "enlace": "https://www.youtube.com/watch?v=MRcN822Mepc",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 8977,
     "upload_date": "2016-08-11",
     "latent_x": -73.83999633789062,
@@ -3931,11 +3931,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Sean Bowes",
     "titulo": "VJ T | MAKING MUSIC VISUAL - Interview Series | How to make Concert Visuals",
     "enlace": "https://www.youtube.com/watch?v=OniBjZ96RfE",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 8914,
     "upload_date": "2021-08-10",
     "latent_x": -111.0999984741211,
@@ -3950,11 +3950,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Audioptics: HD VJ Loops/Visuals for Resolume, VDMX, MixEmergency, CoGe, Serato Video, etc.",
     "enlace": "https://www.youtube.com/watch?v=qArqHuV6SnE",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 8797,
     "upload_date": "2015-08-12",
     "latent_x": -100.48999786376953,
@@ -3969,12 +3969,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "janaina santos",
     "titulo": "Resolume Arena : Tutorial Como Sincronizar o video com o audio (BPM Sync )",
     "enlace": "https://www.youtube.com/watch?v=Sgz2jBHIdA8",
-    "categoria_principal": "Pixel Mapping & LED Fixtures",
+    "categoria_principal": "Pixel & LED Mapping",
     "tags": [
-      "Pixel Mapping & LED Fixtures",
-      "BPM Sync & Audio Reactivity"
+      "Pixel & LED Mapping",
+      "BPM Sync & Reactivity"
     ],
-    "categoria_descriptores": "Pixel Mapping & LED Fixtures (Pixel Mapping & LED Fixtures, BPM Sync & Audio Reactivity)",
+    "categoria_descriptores": "Pixel & LED Mapping (Pixel & LED Mapping, BPM Sync & Reactivity)",
     "views": 8789,
     "upload_date": "2020-08-10",
     "latent_x": -34.779998779296875,
@@ -3989,11 +3989,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Colorwhip: Free VJ Loop HD Visual for Resolume, Serato Video, VDMX, MixEmergency, CoGe, etc.",
     "enlace": "https://www.youtube.com/watch?v=m6SpoEAIbjc",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 8689,
     "upload_date": "2014-08-12",
     "latent_x": -67.20999908447266,
@@ -4008,11 +4008,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "LED Strip Studio",
     "titulo": "Resolume Arena and SPI Matrix/REACTIVO Art-net LED Controllers",
     "enlace": "https://www.youtube.com/watch?v=ZVXOejPouwo",
-    "categoria_principal": "Pixel Mapping & LED Fixtures",
+    "categoria_principal": "Pixel & LED Mapping",
     "tags": [
-      "Pixel Mapping & LED Fixtures"
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Pixel Mapping & LED Fixtures (Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Pixel & LED Mapping (Pixel & LED Mapping)",
     "views": 8653,
     "upload_date": "2023-08-10",
     "latent_x": -31.020000457763672,
@@ -4027,12 +4027,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Cam White Lights",
     "titulo": "VJ TUTORIAL - PREPARE FOR SHOW - RESOLUME 7 & STAGEFLOW (@Nameless2023)",
     "enlace": "https://www.youtube.com/watch?v=djUJa_3oqbM",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing",
-      "Pixel Mapping & LED Fixtures"
+      "Clips & Layer Mixing",
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing, Pixel & LED Mapping)",
     "views": 8646,
     "upload_date": "2025-08-09",
     "latent_x": -56.90999984741211,
@@ -4085,11 +4085,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "nicop_exe",
     "titulo": "Mapping y salida avanzada en Resolume Arena (Clase gratuita)",
     "enlace": "https://www.youtube.com/watch?v=aVNefPXz0q8",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 8208,
     "upload_date": "2025-11-12",
     "latent_x": 40.43000030517578,
@@ -4104,11 +4104,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Benjamin Kuperberg",
     "titulo": "Spout [Syphon on Windows] Unity Receiver Demo",
     "enlace": "https://www.youtube.com/watch?v=mBqQIKJ_E9M",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 8034,
     "upload_date": "2014-08-12",
     "latent_x": -35.97999954223633,
@@ -4123,11 +4123,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "STVinMotion",
     "titulo": "Resolume Arena Tutorial - From Calm to Chaos: Transforming VJ Loops with Random Playback & Cloners.",
     "enlace": "https://www.youtube.com/watch?v=0M40hm9oLxU",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 7978,
     "upload_date": "2024-08-09",
     "latent_x": -64.58000183105469,
@@ -4142,11 +4142,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Resolume VJ Software",
     "titulo": "Wire Release Live Stream",
     "enlace": "https://www.youtube.com/watch?v=dTq2kMNi-Ec",
-    "categoria_principal": "Resolume Wire Generative Patches",
+    "categoria_principal": "Resolume Wire",
     "tags": [
-      "Resolume Wire Generative Patches"
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Resolume Wire Generative Patches (Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Resolume Wire (Resolume Wire)",
     "views": 7960,
     "upload_date": "2021-08-10",
     "latent_x": -19.09000015258789,
@@ -4161,13 +4161,13 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Moshe Baskin",
     "titulo": "mapping dmx pixels in resolume",
     "enlace": "https://www.youtube.com/watch?v=LKtKUMT4ZOs",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output",
+      "Projection Mapping",
       "DMX Lighting Control",
-      "Pixel Mapping & LED Fixtures"
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output, DMX Lighting Control, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, DMX Lighting Control, Pixel & LED Mapping)",
     "views": 7912,
     "upload_date": "2022-08-10",
     "latent_x": -11.619999885559082,
@@ -4201,12 +4201,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Zunayed Sabbir Ahmed",
     "titulo": "BPM Sync in Resolume – Sync Your Visuals to Any Beat | VJ Tips",
     "enlace": "https://www.youtube.com/watch?v=xFB_oPQGT5g",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing",
-      "BPM Sync & Audio Reactivity"
+      "Clips & Layer Mixing",
+      "BPM Sync & Reactivity"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing, BPM Sync & Audio Reactivity)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing, BPM Sync & Reactivity)",
     "views": 7671,
     "upload_date": "2023-08-10",
     "latent_x": -24.559999465942383,
@@ -4221,11 +4221,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Sean Bowes",
     "titulo": "Ultimate Guide to Annoying A VJ: 10 Simple Steps | VJ Tutorial",
     "enlace": "https://www.youtube.com/watch?v=MYCZFt5g1KU",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 7653,
     "upload_date": "2023-08-10",
     "latent_x": -81.7300033569336,
@@ -4240,11 +4240,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Sean Bowes",
     "titulo": "Joris De Jong | Resolume, Chaser, Stageflow & MORE | Concert Visuals Interview",
     "enlace": "https://www.youtube.com/watch?v=6jtc8EGIyFc",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 7526,
     "upload_date": "2022-08-10",
     "latent_x": -120.0,
@@ -4259,12 +4259,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "LED Pixel Lighting Cathy Zhang",
     "titulo": "Mapping led dj night club party lights with Resolume Arena 6",
     "enlace": "https://www.youtube.com/watch?v=BD0QFOyhnv4",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output",
-      "Pixel Mapping & LED Fixtures"
+      "Projection Mapping",
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, Pixel & LED Mapping)",
     "views": 7495,
     "upload_date": "2021-08-10",
     "latent_x": 2.0999999046325684,
@@ -4279,11 +4279,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Chromacurrents: HD VJ Loops/Visuals for Resolume, ArKaos, Serato, VDMX, Modul8, CoGe, etc.",
     "enlace": "https://www.youtube.com/watch?v=iLE8ynhw_Tk",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 7397,
     "upload_date": "2018-08-11",
     "latent_x": -111.20999908447266,
@@ -4298,11 +4298,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Resolume VJ Software",
     "titulo": "Resolume Wire 7.12 Tutorial: How to Make Colorization Effects (thermal, heat, psychedelic effects)",
     "enlace": "https://www.youtube.com/watch?v=YxGMO3btTvY",
-    "categoria_principal": "Resolume Wire Generative Patches",
+    "categoria_principal": "Resolume Wire",
     "tags": [
-      "Resolume Wire Generative Patches"
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Resolume Wire Generative Patches (Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Resolume Wire (Resolume Wire)",
     "views": 7363,
     "upload_date": "2022-08-10",
     "latent_x": 29.81999969482422,
@@ -4317,11 +4317,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "HeavyM Software",
     "titulo": "8 | Master our more advanced features : NDI, Syphon, Spout | HeavyM 2 Tutorial",
     "enlace": "https://www.youtube.com/watch?v=inTHJAUaP3U",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 7341,
     "upload_date": "2022-08-10",
     "latent_x": 10.319999694824219,
@@ -4336,11 +4336,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Julian Puppo",
     "titulo": "Processing + resolume + spout",
     "enlace": "https://www.youtube.com/watch?v=1OId5XCWD7A",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 7326,
     "upload_date": "2018-08-11",
     "latent_x": -17.200000762939453,
@@ -4355,12 +4355,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Zero To VJ",
     "titulo": "VJ Tutorial: Make Generative VJ Loops With Resolume Day 5",
     "enlace": "https://www.youtube.com/watch?v=1P0zlYVSwTg",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing",
-      "Resolume Wire Generative Patches"
+      "Clips & Layer Mixing",
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing, Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing, Resolume Wire)",
     "views": 7298,
     "upload_date": "2017-08-11",
     "latent_x": -52.34000015258789,
@@ -4394,12 +4394,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Hybrid Constructs",
     "titulo": "Using Resolume Slice Importer for Unreal with Spout",
     "enlace": "https://www.youtube.com/watch?v=h-Zn7Q4a9Uw",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output",
-      "NDI, Spout & Video Routing"
+      "Projection Mapping",
+      "Video Routing"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output, NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, Video Routing)",
     "views": 7038,
     "upload_date": "2021-08-10",
     "latent_x": 20.579999923706055,
@@ -4417,9 +4417,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping)",
     "views": 6918,
     "upload_date": "2023-08-10",
     "latent_x": 38.060001373291016,
@@ -4434,11 +4434,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "TMK Interactive",
     "titulo": "Sharing Video Streams BETWEEN APPLICATIONS. (Syphon and Spout)",
     "enlace": "https://www.youtube.com/watch?v=mSYbghpzpVY",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 6680,
     "upload_date": "2021-08-10",
     "latent_x": -16.940000534057617,
@@ -4472,11 +4472,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Jascha Süss",
     "titulo": "Dancing Lines - Resolume Wire Tutorial",
     "enlace": "https://www.youtube.com/watch?v=a0R2JIplieI",
-    "categoria_principal": "Resolume Wire Generative Patches",
+    "categoria_principal": "Resolume Wire",
     "tags": [
-      "Resolume Wire Generative Patches"
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Resolume Wire Generative Patches (Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Resolume Wire (Resolume Wire)",
     "views": 6570,
     "upload_date": "2025-12-12",
     "latent_x": 8.710000038146973,
@@ -4491,13 +4491,13 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Anton Makarenko",
     "titulo": "L8 - Resolume Arena - Pixel Mapping",
     "enlace": "https://www.youtube.com/watch?v=OHtJRtsvDcg",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output",
-      "Resolume Wire Generative Patches",
-      "Pixel Mapping & LED Fixtures"
+      "Projection Mapping",
+      "Resolume Wire",
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output, Resolume Wire Generative Patches, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, Resolume Wire, Pixel & LED Mapping)",
     "views": 6393,
     "upload_date": "2021-08-10",
     "latent_x": 11.619999885559082,
@@ -4512,11 +4512,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Clen led_stage lighting",
     "titulo": "Resolume Arena Connection Controller",
     "enlace": "https://www.youtube.com/watch?v=f45adiszoA4",
-    "categoria_principal": "Pixel Mapping & LED Fixtures",
+    "categoria_principal": "Pixel & LED Mapping",
     "tags": [
-      "Pixel Mapping & LED Fixtures"
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Pixel Mapping & LED Fixtures (Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Pixel & LED Mapping (Pixel & LED Mapping)",
     "views": 6362,
     "upload_date": "2024-08-09",
     "latent_x": -23.709999084472656,
@@ -4531,11 +4531,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "kellective",
     "titulo": "Resolume / Syphon test",
     "enlace": "https://www.youtube.com/watch?v=VkUcqHiZDlc",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 6150,
     "upload_date": "2015-08-12",
     "latent_x": -10.569999694824219,
@@ -4550,12 +4550,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Digital Castaway",
     "titulo": "Using video to drive thousands of LEDs",
     "enlace": "https://www.youtube.com/watch?v=rAW71aOFIK8",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output",
-      "Pixel Mapping & LED Fixtures"
+      "Projection Mapping",
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, Pixel & LED Mapping)",
     "views": 6055,
     "upload_date": "2024-08-09",
     "latent_x": 11.739999771118164,
@@ -4570,12 +4570,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Resolume VJ Software",
     "titulo": "Resolume 7.5.0 release video",
     "enlace": "https://www.youtube.com/watch?v=tDZkSTuBsVg",
-    "categoria_principal": "Resolume Wire Generative Patches",
+    "categoria_principal": "Resolume Wire",
     "tags": [
-      "Resolume Wire Generative Patches",
+      "Resolume Wire",
       "DMX Lighting Control"
     ],
-    "categoria_descriptores": "Resolume Wire Generative Patches (Resolume Wire Generative Patches, DMX Lighting Control)",
+    "categoria_descriptores": "Resolume Wire (Resolume Wire, DMX Lighting Control)",
     "views": 6012,
     "upload_date": "2022-08-10",
     "latent_x": -28.450000762939453,
@@ -4590,11 +4590,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Michael Allar",
     "titulo": "UE4 + Spout + Resolume Plugin Proof of Concept",
     "enlace": "https://www.youtube.com/watch?v=Yy8NZFCBMm4",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 5831,
     "upload_date": "2015-08-12",
     "latent_x": -38.900001525878906,
@@ -4609,11 +4609,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Resolume VJ Software",
     "titulo": "Resolume Arena Tutorial - MCP Server",
     "enlace": "https://www.youtube.com/watch?v=tTNDtI5N_9g",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 5757,
     "upload_date": "2026-05-11",
     "latent_x": -58.689998626708984,
@@ -4628,11 +4628,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Norimichi Tomita",
     "titulo": "[Resolume plugin] GlitchGlitch (made with Wire)",
     "enlace": "https://www.youtube.com/watch?v=LpyPYim1fv4",
-    "categoria_principal": "Resolume Wire Generative Patches",
+    "categoria_principal": "Resolume Wire",
     "tags": [
-      "Resolume Wire Generative Patches"
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Resolume Wire Generative Patches (Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Resolume Wire (Resolume Wire)",
     "views": 5603,
     "upload_date": "2023-08-10",
     "latent_x": 0.6299999952316284,
@@ -4650,9 +4650,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Projection Mapping)",
     "views": 5582,
     "upload_date": "2024-08-09",
     "latent_x": 75.91999816894531,
@@ -4686,11 +4686,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "STVinMotion",
     "titulo": "Add Effects Exactly Where You Need Them w/ Clip Position Envelope in Resolume Arena",
     "enlace": "https://www.youtube.com/watch?v=p1lyUIpUnwM",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 5507,
     "upload_date": "2023-08-10",
     "latent_x": -70.44000244140625,
@@ -4705,11 +4705,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Strangescapes: HD VJ Loops/Clips/Visuals for Resolume, Serato Video, VDMX, MixEmergency, CoGe, etc.",
     "enlace": "https://www.youtube.com/watch?v=x_GfmCF3ecQ",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 5318,
     "upload_date": "2014-08-12",
     "latent_x": -110.16999816894531,
@@ -4724,11 +4724,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "OFF WORLD LIVE",
     "titulo": "How to live-stream zero-latency video from OBS Studio using Spout",
     "enlace": "https://www.youtube.com/watch?v=pa-QugmLVtI",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 5270,
     "upload_date": "2022-08-10",
     "latent_x": 14.739999771118164,
@@ -4743,12 +4743,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Anakadam Syndicate",
     "titulo": "LED PIXEL MAPPING USE RESOLUME- Led Digital - Resolume - Led pixel mapping",
     "enlace": "https://www.youtube.com/watch?v=Xpq3-2sU1DI",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output",
-      "Pixel Mapping & LED Fixtures"
+      "Projection Mapping",
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, Pixel & LED Mapping)",
     "views": 5163,
     "upload_date": "2021-08-10",
     "latent_x": -13.6899995803833,
@@ -4763,11 +4763,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Synesthesia Live",
     "titulo": "Tutorial: Sending Resolume content to Synesthesia and back",
     "enlace": "https://www.youtube.com/watch?v=Y9EqLW9rBiM",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 5042,
     "upload_date": "2023-08-10",
     "latent_x": 2.490000009536743,
@@ -4801,11 +4801,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Resolume VJ Software",
     "titulo": "Resolume Video Training: 7.1 Input Mapping",
     "enlace": "https://www.youtube.com/watch?v=_aln9A6BZes",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 4920,
     "upload_date": "2019-08-11",
     "latent_x": 44.34000015258789,
@@ -4820,11 +4820,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "VJ SCHOOL",
     "titulo": "BPM Analyzer — Automatically calculate BPM in Resolume",
     "enlace": "https://www.youtube.com/watch?v=vrkMMczTP1s",
-    "categoria_principal": "BPM Sync & Audio Reactivity",
+    "categoria_principal": "BPM Sync & Reactivity",
     "tags": [
-      "BPM Sync & Audio Reactivity"
+      "BPM Sync & Reactivity"
     ],
-    "categoria_descriptores": "BPM Sync & Audio Reactivity (BPM Sync & Audio Reactivity)",
+    "categoria_descriptores": "BPM Sync & Reactivity (BPM Sync & Reactivity)",
     "views": 4833,
     "upload_date": "2023-08-10",
     "latent_x": -47.13999938964844,
@@ -4839,11 +4839,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Anton S",
     "titulo": "NDI to Spout with vMix NDI Capture",
     "enlace": "https://www.youtube.com/watch?v=xXQDW6hcjso",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 4723,
     "upload_date": "2016-08-11",
     "latent_x": -20.229999542236328,
@@ -4858,11 +4858,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Sean Bowes",
     "titulo": "LAAK | VJ Survival Kit, Making Great Visuals & Surviving in the Industry | Concert Visuals Interview",
     "enlace": "https://www.youtube.com/watch?v=61Aq83w7uzU",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 4688,
     "upload_date": "2022-08-10",
     "latent_x": -107.80000305175781,
@@ -4877,11 +4877,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Zach ariah",
     "titulo": "Visuals + VR //// Unity + Resolume w/ Spout",
     "enlace": "https://www.youtube.com/watch?v=RcLqbl2HUdI",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 4634,
     "upload_date": "2016-08-11",
     "latent_x": -20.520000457763672,
@@ -4899,9 +4899,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Resolume Wire Generative Patches"
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Resolume Wire)",
     "views": 4575,
     "upload_date": "2022-08-10",
     "latent_x": 0.05000000074505806,
@@ -4916,11 +4916,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Kinetic Shifts: HD VJ Loops/Clips/Visuals for Resolume, Serato Video, VDMX, MixEmergency, CoGe, etc.",
     "enlace": "https://www.youtube.com/watch?v=45rM-JPDr-Y",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 4575,
     "upload_date": "2014-08-12",
     "latent_x": -118.45999908447266,
@@ -4935,11 +4935,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Zwobotmax",
     "titulo": "Zwobot Guide - Record visuals with OBS and Spout (WIN)",
     "enlace": "https://www.youtube.com/watch?v=LuvRp0Q-YIc",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 4528,
     "upload_date": "2018-08-11",
     "latent_x": 1.2400000095367432,
@@ -4954,12 +4954,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Mowgli TV",
     "titulo": "Resolume Tutorial - Reusing Effects Stacks & Generative clips",
     "enlace": "https://www.youtube.com/watch?v=4odeS9o3aEI",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing",
-      "Resolume Wire Generative Patches"
+      "Clips & Layer Mixing",
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing, Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing, Resolume Wire)",
     "views": 4506,
     "upload_date": "2023-08-10",
     "latent_x": -37.81999969482422,
@@ -4977,10 +4977,10 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Decks, Clips & Layer Mixing",
-      "Projection Mapping & Advanced Output"
+      "Clips & Layer Mixing",
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Decks, Clips & Layer Mixing, Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Clips & Layer Mixing, Projection Mapping)",
     "views": 4410,
     "upload_date": "2025-09-13",
     "latent_x": 60.459999084472656,
@@ -4995,11 +4995,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "CAZZE sisco",
     "titulo": "tuto spout resolume heavym",
     "enlace": "https://www.youtube.com/watch?v=68m4GRdxHfg",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 4400,
     "upload_date": "2016-08-11",
     "latent_x": 12.359999656677246,
@@ -5071,11 +5071,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Resolume VJ Software",
     "titulo": "Resolume Arena Tutorial - Syphon",
     "enlace": "https://www.youtube.com/watch?v=kGqTF32cKRE",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 4191,
     "upload_date": "2025-08-09",
     "latent_x": -18.75,
@@ -5090,11 +5090,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "VFX Mehra",
     "titulo": "How To Make Gold Outline Plugin In Resolume Wire",
     "enlace": "https://www.youtube.com/watch?v=rgwkGndUDQA",
-    "categoria_principal": "Resolume Wire Generative Patches",
+    "categoria_principal": "Resolume Wire",
     "tags": [
-      "Resolume Wire Generative Patches"
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Resolume Wire Generative Patches (Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Resolume Wire (Resolume Wire)",
     "views": 4186,
     "upload_date": "2025-08-09",
     "latent_x": -0.11999999731779099,
@@ -5128,11 +5128,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "MNVR",
     "titulo": "UE4ToSpout - UE4, Spout to Resolume Installation",
     "enlace": "https://www.youtube.com/watch?v=Stgqj5KCD9E",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 4162,
     "upload_date": "2016-08-11",
     "latent_x": -21.790000915527344,
@@ -5147,11 +5147,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "ioGenerative",
     "titulo": "Resolume Generative Visuals by ioGenerative",
     "enlace": "https://www.youtube.com/watch?v=72j1qcIP0-s",
-    "categoria_principal": "Resolume Wire Generative Patches",
+    "categoria_principal": "Resolume Wire",
     "tags": [
-      "Resolume Wire Generative Patches"
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Resolume Wire Generative Patches (Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Resolume Wire (Resolume Wire)",
     "views": 4100,
     "upload_date": "2022-08-10",
     "latent_x": 0.3100000023841858,
@@ -5185,12 +5185,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "vjleo",
     "titulo": "resolume avenue BPM Sync problem?",
     "enlace": "https://www.youtube.com/watch?v=d5VFMv_q63Q",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing",
-      "BPM Sync & Audio Reactivity"
+      "Clips & Layer Mixing",
+      "BPM Sync & Reactivity"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing, BPM Sync & Audio Reactivity)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing, BPM Sync & Reactivity)",
     "views": 4074,
     "upload_date": "2009-08-13",
     "latent_x": -29.950000762939453,
@@ -5205,11 +5205,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Mowgli TV",
     "titulo": "Sync Music & Visuals - Sound Reactive Visuals in Resolume - 5 Pro tips tutorial",
     "enlace": "https://www.youtube.com/watch?v=D710Df9mYQM",
-    "categoria_principal": "BPM Sync & Audio Reactivity",
+    "categoria_principal": "BPM Sync & Reactivity",
     "tags": [
-      "BPM Sync & Audio Reactivity"
+      "BPM Sync & Reactivity"
     ],
-    "categoria_descriptores": "BPM Sync & Audio Reactivity (BPM Sync & Audio Reactivity)",
+    "categoria_descriptores": "BPM Sync & Reactivity (BPM Sync & Reactivity)",
     "views": 4010,
     "upload_date": "2025-11-12",
     "latent_x": -10.079999923706055,
@@ -5227,9 +5227,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Clips & Layer Mixing)",
     "views": 3569,
     "upload_date": "2026-02-10",
     "latent_x": 63.59000015258789,
@@ -5247,9 +5247,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Clips & Layer Mixing)",
     "views": 3556,
     "upload_date": "2021-08-10",
     "latent_x": 47.43000030517578,
@@ -5283,11 +5283,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Resolume VJ Software",
     "titulo": "Resolume Arena Tutorial - Advanced Texture Sharing",
     "enlace": "https://www.youtube.com/watch?v=2yiJU0FpkPY",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 3450,
     "upload_date": "2025-08-09",
     "latent_x": 77.4000015258789,
@@ -5302,11 +5302,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "ioGenerative",
     "titulo": "Creating Better Resolume Generative Tunnel Visuals",
     "enlace": "https://www.youtube.com/watch?v=4WSLL2w8e-c",
-    "categoria_principal": "Resolume Wire Generative Patches",
+    "categoria_principal": "Resolume Wire",
     "tags": [
-      "Resolume Wire Generative Patches"
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Resolume Wire Generative Patches (Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Resolume Wire (Resolume Wire)",
     "views": 3422,
     "upload_date": "2022-08-10",
     "latent_x": -13.829999923706055,
@@ -5321,12 +5321,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "찬기누설",
     "titulo": "[Projection Mapping] Share screen plugins - Spout & Syphon",
     "enlace": "https://www.youtube.com/watch?v=So59wXEhq40",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output",
-      "NDI, Spout & Video Routing"
+      "Projection Mapping",
+      "Video Routing"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output, NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, Video Routing)",
     "views": 3360,
     "upload_date": "2019-08-11",
     "latent_x": 21.139999389648438,
@@ -5341,11 +5341,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Etowner",
     "titulo": "Setting up Spout in Processing How to",
     "enlace": "https://www.youtube.com/watch?v=RdcEeH_tfRM",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 3323,
     "upload_date": "2016-08-11",
     "latent_x": -15.5600004196167,
@@ -5360,11 +5360,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Sean Bowes",
     "titulo": "SANDY MEIDINGER | ILLENIUM VJ Interview",
     "enlace": "https://www.youtube.com/watch?v=Ac1QcRmjBe4",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 3316,
     "upload_date": "2022-08-10",
     "latent_x": -89.18000030517578,
@@ -5398,11 +5398,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Resolume VJ Software",
     "titulo": "Resolume Arena Tutorial - Setlists",
     "enlace": "https://www.youtube.com/watch?v=0lNHDVpo59c",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 3123,
     "upload_date": "2026-03-12",
     "latent_x": -69.94999694824219,
@@ -5420,9 +5420,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Resolume Wire Generative Patches"
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Resolume Wire)",
     "views": 3103,
     "upload_date": "2026-03-12",
     "latent_x": 6.380000114440918,
@@ -5437,11 +5437,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Resolume VJ Software",
     "titulo": "Resolume Video Training: 7.2 Structure Mapping",
     "enlace": "https://www.youtube.com/watch?v=USHvltCIR1c",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 3045,
     "upload_date": "2019-08-11",
     "latent_x": 23.520000457763672,
@@ -5456,11 +5456,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Sean Bowes",
     "titulo": "KELLY FIN | MSG Sphere, XR, VJing & Beyond | VJ Interview",
     "enlace": "https://www.youtube.com/watch?v=dideVahLW2g",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 2996,
     "upload_date": "2024-08-09",
     "latent_x": -89.7300033569336,
@@ -5475,11 +5475,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Flospasm: HD VJ Loops/Clips/Visuals for Resolume, Serato Video, VDMX, MixEmergency, CoGe, etc.",
     "enlace": "https://www.youtube.com/watch?v=pg3K4X64oPU",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 2943,
     "upload_date": "2016-08-11",
     "latent_x": -113.25,
@@ -5494,11 +5494,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Resolume VJ Software",
     "titulo": "Resolume Wire Tutorial - Feedback Loops",
     "enlace": "https://www.youtube.com/watch?v=4pqbVEACPDg",
-    "categoria_principal": "Resolume Wire Generative Patches",
+    "categoria_principal": "Resolume Wire",
     "tags": [
-      "Resolume Wire Generative Patches"
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Resolume Wire Generative Patches (Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Resolume Wire (Resolume Wire)",
     "views": 2920,
     "upload_date": "2025-08-09",
     "latent_x": 22.459999084472656,
@@ -5532,11 +5532,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Dream Fields: HD VJ Loops/Visuals for Resolume, VDMX, MixEmergency, CoGe, Serato Video, etc.",
     "enlace": "https://www.youtube.com/watch?v=kESiewHvAFI",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 2888,
     "upload_date": "2015-08-12",
     "latent_x": -100.48999786376953,
@@ -5551,11 +5551,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Alexey Ushakov",
     "titulo": "[Resolume Generative Tutorial] 11 - Liquid Sphere",
     "enlace": "https://www.youtube.com/watch?v=AeM-yhxJDIo",
-    "categoria_principal": "Resolume Wire Generative Patches",
+    "categoria_principal": "Resolume Wire",
     "tags": [
-      "Resolume Wire Generative Patches"
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Resolume Wire Generative Patches (Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Resolume Wire (Resolume Wire)",
     "views": 2648,
     "upload_date": "2018-08-11",
     "latent_x": 9.390000343322754,
@@ -5570,11 +5570,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Mowgli TV",
     "titulo": "5 tips for awesome VJ clips - Resolume",
     "enlace": "https://www.youtube.com/watch?v=00L81WUM678",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 2648,
     "upload_date": "2024-08-09",
     "latent_x": -71.7300033569336,
@@ -5589,12 +5589,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Resolume VJ Software",
     "titulo": "Resolume Arena Tutorial - Previews",
     "enlace": "https://www.youtube.com/watch?v=istcLe_KG6Q",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing",
-      "Projection Mapping & Advanced Output"
+      "Clips & Layer Mixing",
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing, Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing, Projection Mapping)",
     "views": 2623,
     "upload_date": "2026-04-11",
     "latent_x": -81.70999908447266,
@@ -5609,11 +5609,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Gnomalab Estudio",
     "titulo": "Touchdesigner FX server to VDMX via Syphon or Spout",
     "enlace": "https://www.youtube.com/watch?v=862ebR0Iczs",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 2614,
     "upload_date": "2018-08-11",
     "latent_x": 6.309999942779541,
@@ -5647,11 +5647,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Sound Supplies (Trailer): HD Visuals for Resolume, Serato Video, VDMX, MixEmergency, CoGe, etc.",
     "enlace": "https://www.youtube.com/watch?v=EtF6GVrsU8g",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 2562,
     "upload_date": "2014-08-12",
     "latent_x": -85.62999725341797,
@@ -5666,11 +5666,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Resolume VJ Software",
     "titulo": "Resolume Wire 7.14 Tutorial - Flow Types",
     "enlace": "https://www.youtube.com/watch?v=-t86xNtUAMk",
-    "categoria_principal": "Resolume Wire Generative Patches",
+    "categoria_principal": "Resolume Wire",
     "tags": [
-      "Resolume Wire Generative Patches"
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Resolume Wire Generative Patches (Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Resolume Wire (Resolume Wire)",
     "views": 2520,
     "upload_date": "2023-08-10",
     "latent_x": 8.75,
@@ -5704,11 +5704,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Sean Bowes",
     "titulo": "Hypnotizing a Raver | Joris De Jong | Pro VJ Interview Clip",
     "enlace": "https://www.youtube.com/watch?v=O3ft6XxXB5U",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 2449,
     "upload_date": "2024-08-09",
     "latent_x": -107.94000244140625,
@@ -5742,13 +5742,13 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "pixelkulisse",
     "titulo": "wireless syphon stream pixelmapping to a raspberry pi",
     "enlace": "https://www.youtube.com/watch?v=nrl_D6ipTGk",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output",
-      "Pixel Mapping & LED Fixtures",
-      "NDI, Spout & Video Routing"
+      "Projection Mapping",
+      "Pixel & LED Mapping",
+      "Video Routing"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output, Pixel Mapping & LED Fixtures, NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, Pixel & LED Mapping, Video Routing)",
     "views": 2371,
     "upload_date": "2019-08-11",
     "latent_x": -7.550000190734863,
@@ -5782,11 +5782,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Nat Spir",
     "titulo": "Resolume Plugin - NSKernel",
     "enlace": "https://www.youtube.com/watch?v=_zXS49Eu2dw",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 2347,
     "upload_date": "2018-08-11",
     "latent_x": -29.68000030517578,
@@ -5801,13 +5801,13 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Chris Monson",
     "titulo": "Pixel Mapping Tutorial 2 - DMX",
     "enlace": "https://www.youtube.com/watch?v=68IhZl6ZHGY",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output",
+      "Projection Mapping",
       "DMX Lighting Control",
-      "Pixel Mapping & LED Fixtures"
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output, DMX Lighting Control, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, DMX Lighting Control, Pixel & LED Mapping)",
     "views": 2240,
     "upload_date": "2019-08-11",
     "latent_x": -2.359999895095825,
@@ -5822,11 +5822,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Resolume VJ Software",
     "titulo": "Resolume Arena Tutorial - Autopilot Compensate Transition Time",
     "enlace": "https://www.youtube.com/watch?v=P9_pdGmM77w",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 2219,
     "upload_date": "2026-07-10",
     "latent_x": -45.779998779296875,
@@ -5841,11 +5841,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Polyphonics (Trailer): HD Visuals for Resolume, Serato Video, VDMX, MixEmergency, CoGe, etc.",
     "enlace": "https://www.youtube.com/watch?v=B9u8nOPVZ_8",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 2212,
     "upload_date": "2014-08-12",
     "latent_x": -83.88999938964844,
@@ -5863,10 +5863,10 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Decks, Clips & Layer Mixing",
-      "NDI, Spout & Video Routing"
+      "Clips & Layer Mixing",
+      "Video Routing"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Decks, Clips & Layer Mixing, NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Clips & Layer Mixing, Video Routing)",
     "views": 2180,
     "upload_date": "2024-08-09",
     "latent_x": 16.56999969482422,
@@ -5900,13 +5900,13 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "KEN KOMURO",
     "titulo": "UE4: DMX Pixel Mapping performance - UE4 vs Resolume",
     "enlace": "https://www.youtube.com/watch?v=lmGpHvkc51o",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output",
+      "Projection Mapping",
       "DMX Lighting Control",
-      "Pixel Mapping & LED Fixtures"
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output, DMX Lighting Control, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, DMX Lighting Control, Pixel & LED Mapping)",
     "views": 2122,
     "upload_date": "2021-08-10",
     "latent_x": 8.520000457763672,
@@ -5921,11 +5921,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Amazing Max Stuff",
     "titulo": "How to record visuals from RedAndBlue - Spout/Syphon Sender",
     "enlace": "https://www.youtube.com/watch?v=RAvBuMbKaQ4",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 2065,
     "upload_date": "2019-08-11",
     "latent_x": -6.059999942779541,
@@ -5959,11 +5959,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Strangescapes (Trailer): HD Visuals for Resolume, Serato Video, VDMX, MixEmergency, CoGe, etc.",
     "enlace": "https://www.youtube.com/watch?v=7SjHtht5jDU",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 1931,
     "upload_date": "2014-08-12",
     "latent_x": -97.75,
@@ -5997,11 +5997,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Sean Bowes",
     "titulo": "JAKE KEENAN | VJing for Kayzo, Flume, A$AP Rocky, & More!",
     "enlace": "https://www.youtube.com/watch?v=HUOv5Z3i_Ic",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 1883,
     "upload_date": "2022-08-10",
     "latent_x": -76.7699966430664,
@@ -6016,11 +6016,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Zunayed Sabbir Ahmed",
     "titulo": "Boost Your VJ Sets with These 7 Resolume Hacks",
     "enlace": "https://www.youtube.com/watch?v=p_ZfOUR8c2w",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 1882,
     "upload_date": "2026-02-10",
     "latent_x": -87.77999877929688,
@@ -6054,11 +6054,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "ANUPAM ACHHAMI",
     "titulo": "Synchronizing  the video with audio bpm (setting time)",
     "enlace": "https://www.youtube.com/watch?v=UbvqEvx7tCE",
-    "categoria_principal": "BPM Sync & Audio Reactivity",
+    "categoria_principal": "BPM Sync & Reactivity",
     "tags": [
-      "BPM Sync & Audio Reactivity"
+      "BPM Sync & Reactivity"
     ],
-    "categoria_descriptores": "BPM Sync & Audio Reactivity (BPM Sync & Audio Reactivity)",
+    "categoria_descriptores": "BPM Sync & Reactivity (BPM Sync & Reactivity)",
     "views": 1867,
     "upload_date": "2017-08-11",
     "latent_x": -29.420000076293945,
@@ -6092,11 +6092,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Kinetic Shifts (Trailer): HD Visuals for Resolume, Serato Video, VDMX, MixEmergency, CoGe, etc.",
     "enlace": "https://www.youtube.com/watch?v=ozuNW7P7JQs",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 1774,
     "upload_date": "2014-08-12",
     "latent_x": -108.04000091552734,
@@ -6111,11 +6111,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Resolume VJ Software",
     "titulo": "Resolume Wire Session - Video Synthesis",
     "enlace": "https://www.youtube.com/watch?v=nBCTErEIvj4",
-    "categoria_principal": "Resolume Wire Generative Patches",
+    "categoria_principal": "Resolume Wire",
     "tags": [
-      "Resolume Wire Generative Patches"
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Resolume Wire Generative Patches (Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Resolume Wire (Resolume Wire)",
     "views": 1730,
     "upload_date": "2026-02-10",
     "latent_x": -5.409999847412109,
@@ -6130,13 +6130,13 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Derek Nickell",
     "titulo": "Hexagonal Pixel Mapping - Resolume + DMX Programming",
     "enlace": "https://www.youtube.com/watch?v=xhvaEZchfEo",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output",
+      "Projection Mapping",
       "DMX Lighting Control",
-      "Pixel Mapping & LED Fixtures"
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output, DMX Lighting Control, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, DMX Lighting Control, Pixel & LED Mapping)",
     "views": 1642,
     "upload_date": "2018-08-11",
     "latent_x": -2.4100000858306885,
@@ -6170,11 +6170,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Resolume VJ Software",
     "titulo": "Resolume Wire Tutorial - Texture from Data",
     "enlace": "https://www.youtube.com/watch?v=FUkENC-jUMw",
-    "categoria_principal": "Resolume Wire Generative Patches",
+    "categoria_principal": "Resolume Wire",
     "tags": [
-      "Resolume Wire Generative Patches"
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Resolume Wire Generative Patches (Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Resolume Wire (Resolume Wire)",
     "views": 1579,
     "upload_date": "2026-02-10",
     "latent_x": -1.2300000190734863,
@@ -6189,11 +6189,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Mowgli TV",
     "titulo": "Master Resolume - Layering Techniques for Performance",
     "enlace": "https://www.youtube.com/watch?v=3aAp0oeaqJ8",
-    "categoria_principal": "BPM Sync & Audio Reactivity",
+    "categoria_principal": "BPM Sync & Reactivity",
     "tags": [
-      "BPM Sync & Audio Reactivity"
+      "BPM Sync & Reactivity"
     ],
-    "categoria_descriptores": "BPM Sync & Audio Reactivity (BPM Sync & Audio Reactivity)",
+    "categoria_descriptores": "BPM Sync & Reactivity (BPM Sync & Reactivity)",
     "views": 1574,
     "upload_date": "2025-08-09",
     "latent_x": -30.639999389648438,
@@ -6227,12 +6227,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "DocOptic",
     "titulo": "Hard Edges (Trailer): HD Visuals for Resolume, Serato Video, VDMX, MixEmergency, CoGe, etc.",
     "enlace": "https://www.youtube.com/watch?v=wC9k3Akkbho",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing",
-      "Resolume Wire Generative Patches"
+      "Clips & Layer Mixing",
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing, Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing, Resolume Wire)",
     "views": 1394,
     "upload_date": "2014-08-12",
     "latent_x": -68.66000366210938,
@@ -6285,11 +6285,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "CAZZE sisco",
     "titulo": "tuto spout resolume heavym",
     "enlace": "https://www.youtube.com/watch?v=QwphVFnKLX4",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 1340,
     "upload_date": "2016-08-11",
     "latent_x": 12.359999656677246,
@@ -6304,12 +6304,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Anakadam Syndicate",
     "titulo": "LED PIXEL MAPPING with Resolume- Led Digital - Resolume - Led pixel mapping",
     "enlace": "https://www.youtube.com/watch?v=zen0wnsn3LE",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output",
-      "Pixel Mapping & LED Fixtures"
+      "Projection Mapping",
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, Pixel & LED Mapping)",
     "views": 1329,
     "upload_date": "2020-08-10",
     "latent_x": -9.5600004196167,
@@ -6324,11 +6324,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Norimichi Tomita",
     "titulo": "[Resolume plugin] Auto BPM Detection (FFGL/Mac only)",
     "enlace": "https://www.youtube.com/watch?v=aLMWW3pcduA",
-    "categoria_principal": "BPM Sync & Audio Reactivity",
+    "categoria_principal": "BPM Sync & Reactivity",
     "tags": [
-      "BPM Sync & Audio Reactivity"
+      "BPM Sync & Reactivity"
     ],
-    "categoria_descriptores": "BPM Sync & Audio Reactivity (BPM Sync & Audio Reactivity)",
+    "categoria_descriptores": "BPM Sync & Reactivity (BPM Sync & Reactivity)",
     "views": 1298,
     "upload_date": "2023-08-10",
     "latent_x": -45.08000183105469,
@@ -6343,11 +6343,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Norimichi Tomita",
     "titulo": "[Resolume plugin] 3D Flag (made with Wire)",
     "enlace": "https://www.youtube.com/watch?v=51vkNgL0i8Q",
-    "categoria_principal": "Resolume Wire Generative Patches",
+    "categoria_principal": "Resolume Wire",
     "tags": [
-      "Resolume Wire Generative Patches"
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Resolume Wire Generative Patches (Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Resolume Wire (Resolume Wire)",
     "views": 1297,
     "upload_date": "2023-08-10",
     "latent_x": -10.210000038146973,
@@ -6381,11 +6381,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Rosa Beams [MFE HGW]",
     "titulo": "resolume into heavym using spout",
     "enlace": "https://www.youtube.com/watch?v=cWyS4BqcOE0",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 1242,
     "upload_date": "2021-08-10",
     "latent_x": 1.4700000286102295,
@@ -6400,11 +6400,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Zunayed Sabbir Ahmed",
     "titulo": "LIVE #Resolume Chit-chat and Q&A Session - 2 | #VJ #TUTORIAL #TIPS",
     "enlace": "https://www.youtube.com/watch?v=f5WPGLbtn1I",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 1217,
     "upload_date": "2024-08-09",
     "latent_x": -59.189998626708984,
@@ -6476,13 +6476,13 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "LED Pixel Lighting Cathy Zhang",
     "titulo": "Recording lighting effect manually on Artnet controller with Madrix pixel mapping software",
     "enlace": "https://www.youtube.com/watch?v=Gjjur8LOmW4",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output",
+      "Projection Mapping",
       "DMX Lighting Control",
-      "Pixel Mapping & LED Fixtures"
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output, DMX Lighting Control, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, DMX Lighting Control, Pixel & LED Mapping)",
     "views": 1082,
     "upload_date": "2021-08-10",
     "latent_x": -14.329999923706055,
@@ -6516,11 +6516,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "MR_TBOT",
     "titulo": "TBOT's Intensity Generator v1.1- Resolume Wire Patch - Tutorial",
     "enlace": "https://www.youtube.com/watch?v=TureMiZjaS4",
-    "categoria_principal": "Resolume Wire Generative Patches",
+    "categoria_principal": "Resolume Wire",
     "tags": [
-      "Resolume Wire Generative Patches"
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Resolume Wire Generative Patches (Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Resolume Wire (Resolume Wire)",
     "views": 939,
     "upload_date": "2023-08-10",
     "latent_x": 19.030000686645508,
@@ -6557,9 +6557,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Clips & Layer Mixing)",
     "views": 843,
     "upload_date": "2026-06-10",
     "latent_x": 40.93000030517578,
@@ -6574,12 +6574,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "TITAN ONE AVOLITES",
     "titulo": "FITA LED PIXEL MAPPING RESOLUME ARENA 6",
     "enlace": "https://www.youtube.com/watch?v=x4qpftoWgBE",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output",
-      "Pixel Mapping & LED Fixtures"
+      "Projection Mapping",
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, Pixel & LED Mapping)",
     "views": 820,
     "upload_date": "2019-08-11",
     "latent_x": 4.679999828338623,
@@ -6597,9 +6597,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Clips & Layer Mixing)",
     "views": 782,
     "upload_date": "2021-08-10",
     "latent_x": 47.43000030517578,
@@ -6614,11 +6614,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "MR_TBOT",
     "titulo": "TBOT's Feedback Machine v1.4 Resolume Wire Patch Tutorial",
     "enlace": "https://www.youtube.com/watch?v=XhdNyoae_Zs",
-    "categoria_principal": "Resolume Wire Generative Patches",
+    "categoria_principal": "Resolume Wire",
     "tags": [
-      "Resolume Wire Generative Patches"
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Resolume Wire Generative Patches (Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Resolume Wire (Resolume Wire)",
     "views": 780,
     "upload_date": "2023-08-10",
     "latent_x": 30.530000686645508,
@@ -6633,11 +6633,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "MR_TBOT",
     "titulo": "TBOT's Feedback Machine v1.5 - Resolume Wire Patch - Hands-on Tutorial - ONE HOUR!",
     "enlace": "https://www.youtube.com/watch?v=84li33sLwNw",
-    "categoria_principal": "Resolume Wire Generative Patches",
+    "categoria_principal": "Resolume Wire",
     "tags": [
-      "Resolume Wire Generative Patches"
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Resolume Wire Generative Patches (Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Resolume Wire (Resolume Wire)",
     "views": 750,
     "upload_date": "2023-08-10",
     "latent_x": 30.530000686645508,
@@ -6652,12 +6652,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "VJ Academy",
     "titulo": "The First HUD-Style Plugin for Resolume | Created in Wire",
     "enlace": "https://www.youtube.com/watch?v=6O0YFpelI5A",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing",
-      "Resolume Wire Generative Patches"
+      "Clips & Layer Mixing",
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing, Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing, Resolume Wire)",
     "views": 750,
     "upload_date": "2025-10-13",
     "latent_x": -51.869998931884766,
@@ -6694,9 +6694,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Clips & Layer Mixing)",
     "views": 731,
     "upload_date": "2026-07-10",
     "latent_x": 50.790000915527344,
@@ -6730,11 +6730,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Gwenva",
     "titulo": "Wire Effect - Random Line - Generative Art VJs",
     "enlace": "https://www.youtube.com/watch?v=nC9sNthPCTQ",
-    "categoria_principal": "Resolume Wire Generative Patches",
+    "categoria_principal": "Resolume Wire",
     "tags": [
-      "Resolume Wire Generative Patches"
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Resolume Wire Generative Patches (Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Resolume Wire (Resolume Wire)",
     "views": 696,
     "upload_date": "2025-08-09",
     "latent_x": -23.860000610351562,
@@ -6749,12 +6749,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "dachhu",
     "titulo": "MSB, TMC Leicester VJ Clip, Magic Spout Resolume Arena",
     "enlace": "https://www.youtube.com/watch?v=oDJtLLg7H1w",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing",
-      "NDI, Spout & Video Routing"
+      "Clips & Layer Mixing",
+      "Video Routing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing, NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing, Video Routing)",
     "views": 680,
     "upload_date": "2015-08-12",
     "latent_x": -99.30999755859375,
@@ -6769,11 +6769,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Norimichi Tomita",
     "titulo": "[Resolume plugin] Brain Diver (made with Wire) *Patch Not for Sharing",
     "enlace": "https://www.youtube.com/watch?v=_Nm2vaO61jw",
-    "categoria_principal": "Resolume Wire Generative Patches",
+    "categoria_principal": "Resolume Wire",
     "tags": [
-      "Resolume Wire Generative Patches"
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Resolume Wire Generative Patches (Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Resolume Wire (Resolume Wire)",
     "views": 649,
     "upload_date": "2023-08-10",
     "latent_x": 2.25,
@@ -6788,11 +6788,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Resolume VJ Software",
     "titulo": "Resolume Wire Tutorial - Inserting Nodes",
     "enlace": "https://www.youtube.com/watch?v=sSMklag8LU8",
-    "categoria_principal": "Resolume Wire Generative Patches",
+    "categoria_principal": "Resolume Wire",
     "tags": [
-      "Resolume Wire Generative Patches"
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Resolume Wire Generative Patches (Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Resolume Wire (Resolume Wire)",
     "views": 621,
     "upload_date": "2026-02-10",
     "latent_x": 8.710000038146973,
@@ -6810,9 +6810,9 @@ const RESOLUME_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Clips & Layer Mixing)",
     "views": 543,
     "upload_date": "2026-05-11",
     "latent_x": 48.41999816894531,
@@ -6827,11 +6827,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Jeremiah Ambrose",
     "titulo": "360 Pano - Resolume - Spout - Unity - Oculus Rift",
     "enlace": "https://www.youtube.com/watch?v=Dn3hkWzxXV0",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 522,
     "upload_date": "2018-08-11",
     "latent_x": -38.88999938964844,
@@ -6846,11 +6846,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Norimichi Tomita",
     "titulo": "[Resolume Plugin] Fractal Brownian Motion (made with Wire)",
     "enlace": "https://www.youtube.com/watch?v=PULkL-l35vk",
-    "categoria_principal": "Resolume Wire Generative Patches",
+    "categoria_principal": "Resolume Wire",
     "tags": [
-      "Resolume Wire Generative Patches"
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Resolume Wire Generative Patches (Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Resolume Wire (Resolume Wire)",
     "views": 517,
     "upload_date": "2022-08-10",
     "latent_x": 9.65999984741211,
@@ -6865,11 +6865,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Fragment-Flow",
     "titulo": "Fragment Flow NDI-to-Spout test",
     "enlace": "https://www.youtube.com/watch?v=jQrb-sxbvBs",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 498,
     "upload_date": "2020-08-10",
     "latent_x": -14.3100004196167,
@@ -6903,11 +6903,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Synergize Live",
     "titulo": "bpm sync",
     "enlace": "https://www.youtube.com/watch?v=jX-L7GMUriU",
-    "categoria_principal": "BPM Sync & Audio Reactivity",
+    "categoria_principal": "BPM Sync & Reactivity",
     "tags": [
-      "BPM Sync & Audio Reactivity"
+      "BPM Sync & Reactivity"
     ],
-    "categoria_descriptores": "BPM Sync & Audio Reactivity (BPM Sync & Audio Reactivity)",
+    "categoria_descriptores": "BPM Sync & Reactivity (BPM Sync & Reactivity)",
     "views": 462,
     "upload_date": "2013-08-12",
     "latent_x": -28.209999084472656,
@@ -6922,12 +6922,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Jay Em",
     "titulo": "MAPPING TEST.  RESOLUME/HEAVYM/SYPHON-SPOUT",
     "enlace": "https://www.youtube.com/watch?v=ogyXL6fUvJ8",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output",
-      "NDI, Spout & Video Routing"
+      "Projection Mapping",
+      "Video Routing"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output, NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, Video Routing)",
     "views": 425,
     "upload_date": "2017-08-11",
     "latent_x": 1.6699999570846558,
@@ -6942,12 +6942,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Jay Em",
     "titulo": "MAPPING TEST.  RESOLUME/HEAVYM/SYPHON-SPOUT",
     "enlace": "https://www.youtube.com/watch?v=_t7T6j1zhUg",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output",
-      "NDI, Spout & Video Routing"
+      "Projection Mapping",
+      "Video Routing"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output, NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, Video Routing)",
     "views": 394,
     "upload_date": "2017-08-11",
     "latent_x": 1.6699999570846558,
@@ -6962,12 +6962,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Pablo Garrido",
     "titulo": "Mapping Fluid WebgL Syphon Firefox Resolume",
     "enlace": "https://www.youtube.com/watch?v=L5861jvmKr8",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output",
-      "NDI, Spout & Video Routing"
+      "Projection Mapping",
+      "Video Routing"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output, NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, Video Routing)",
     "views": 383,
     "upload_date": "2015-08-12",
     "latent_x": 13.4399995803833,
@@ -7001,13 +7001,13 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Rafael Mizrahi",
     "titulo": "Resolume - Pixel Mapping - Bruno Grife Mask",
     "enlace": "https://www.youtube.com/watch?v=VYemMsaO8ak",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output",
-      "Pixel Mapping & LED Fixtures",
-      "NDI, Spout & Video Routing"
+      "Projection Mapping",
+      "Pixel & LED Mapping",
+      "Video Routing"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output, Pixel Mapping & LED Fixtures, NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, Pixel & LED Mapping, Video Routing)",
     "views": 363,
     "upload_date": "2015-08-12",
     "latent_x": -18.3799991607666,
@@ -7041,11 +7041,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "dachhu",
     "titulo": "resolume spout magicmusicvisuals obs youtube360",
     "enlace": "https://www.youtube.com/watch?v=gZbNWQTvCvQ",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 361,
     "upload_date": "2017-08-11",
     "latent_x": -8.489999771118164,
@@ -7060,12 +7060,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Gian Pablo Villamil",
     "titulo": "fft audio to playback v2",
     "enlace": "https://www.youtube.com/watch?v=ntY_OcWI7PE",
-    "categoria_principal": "Resolume Wire Generative Patches",
+    "categoria_principal": "Resolume Wire",
     "tags": [
-      "Resolume Wire Generative Patches",
-      "BPM Sync & Audio Reactivity"
+      "Resolume Wire",
+      "BPM Sync & Reactivity"
     ],
-    "categoria_descriptores": "Resolume Wire Generative Patches (Resolume Wire Generative Patches, BPM Sync & Audio Reactivity)",
+    "categoria_descriptores": "Resolume Wire (Resolume Wire, BPM Sync & Reactivity)",
     "views": 350,
     "upload_date": "2019-08-11",
     "latent_x": -5.239999771118164,
@@ -7080,11 +7080,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "MR_TBOT",
     "titulo": "TBOT's Feedback Machine v1.5 - Resolume Wire Patch - Example Content Part 2",
     "enlace": "https://www.youtube.com/watch?v=JB_ZH2dTe7Y",
-    "categoria_principal": "Resolume Wire Generative Patches",
+    "categoria_principal": "Resolume Wire",
     "tags": [
-      "Resolume Wire Generative Patches"
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Resolume Wire Generative Patches (Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Resolume Wire (Resolume Wire)",
     "views": 350,
     "upload_date": "2023-08-10",
     "latent_x": 26.520000457763672,
@@ -7099,11 +7099,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "VJ Loops",
     "titulo": "ASTRO Tutorial Part 2 || How to VJ in Resolume with Astro pack",
     "enlace": "https://www.youtube.com/watch?v=0O8qTB5omNE",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 345,
     "upload_date": "2022-08-10",
     "latent_x": -36.33000183105469,
@@ -7118,11 +7118,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Aya Avalon",
     "titulo": "VJ ViDKiD // Resolume Tutorial",
     "enlace": "https://www.youtube.com/watch?v=k1LDEwN_0zg",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing"
+      "Clips & Layer Mixing"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing)",
     "views": 296,
     "upload_date": "2021-08-10",
     "latent_x": -57.09000015258789,
@@ -7137,11 +7137,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Norimichi Tomita",
     "titulo": "[Resolume Plugins] Elasticity (made with Wire)",
     "enlace": "https://www.youtube.com/watch?v=fO0mOaudrvg",
-    "categoria_principal": "Resolume Wire Generative Patches",
+    "categoria_principal": "Resolume Wire",
     "tags": [
-      "Resolume Wire Generative Patches"
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Resolume Wire Generative Patches (Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Resolume Wire (Resolume Wire)",
     "views": 287,
     "upload_date": "2025-09-13",
     "latent_x": -10.550000190734863,
@@ -7175,11 +7175,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Z_Unity",
     "titulo": "AE to spout to Unity to Resolume",
     "enlace": "https://www.youtube.com/watch?v=uFlR-QDWx-I",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 282,
     "upload_date": "2021-08-10",
     "latent_x": -23.43000030517578,
@@ -7194,11 +7194,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Jay Em",
     "titulo": "RESOLUME / HEAVYM / SYPHON-SPOUT TESTS",
     "enlace": "https://www.youtube.com/watch?v=nfsAwHZzAxo",
-    "categoria_principal": "NDI, Spout & Video Routing",
+    "categoria_principal": "Video Routing",
     "tags": [
-      "NDI, Spout & Video Routing"
+      "Video Routing"
     ],
-    "categoria_descriptores": "NDI, Spout & Video Routing (NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Video Routing (Video Routing)",
     "views": 265,
     "upload_date": "2017-08-11",
     "latent_x": -2.690000057220459,
@@ -7213,12 +7213,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Eric Medine",
     "titulo": "Generative Particles Sweep Demo for Resolume",
     "enlace": "https://www.youtube.com/watch?v=kis9NR-xLng",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing",
-      "Resolume Wire Generative Patches"
+      "Clips & Layer Mixing",
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing, Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing, Resolume Wire)",
     "views": 243,
     "upload_date": "2023-08-10",
     "latent_x": -44.83000183105469,
@@ -7233,11 +7233,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Mowgli TV",
     "titulo": "Heart Attack for Resolume - Infinite animations!",
     "enlace": "https://www.youtube.com/watch?v=vhWx7iWKy6s",
-    "categoria_principal": "Resolume Wire Generative Patches",
+    "categoria_principal": "Resolume Wire",
     "tags": [
-      "Resolume Wire Generative Patches"
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Resolume Wire Generative Patches (Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Resolume Wire (Resolume Wire)",
     "views": 238,
     "upload_date": "2026-02-10",
     "latent_x": 15.859999656677246,
@@ -7271,11 +7271,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "László Batta",
     "titulo": "Resolume BPM sync (resync) TEST",
     "enlace": "https://www.youtube.com/watch?v=UROc-pWhTC0",
-    "categoria_principal": "BPM Sync & Audio Reactivity",
+    "categoria_principal": "BPM Sync & Reactivity",
     "tags": [
-      "BPM Sync & Audio Reactivity"
+      "BPM Sync & Reactivity"
     ],
-    "categoria_descriptores": "BPM Sync & Audio Reactivity (BPM Sync & Audio Reactivity)",
+    "categoria_descriptores": "BPM Sync & Reactivity (BPM Sync & Reactivity)",
     "views": 186,
     "upload_date": "2020-08-10",
     "latent_x": -41.25,
@@ -7290,11 +7290,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "VJMINION",
     "titulo": "Resolume Video Training  4 2 BPM Sync",
     "enlace": "https://www.youtube.com/watch?v=00-LHXUDr50",
-    "categoria_principal": "BPM Sync & Audio Reactivity",
+    "categoria_principal": "BPM Sync & Reactivity",
     "tags": [
-      "BPM Sync & Audio Reactivity"
+      "BPM Sync & Reactivity"
     ],
-    "categoria_descriptores": "BPM Sync & Audio Reactivity (BPM Sync & Audio Reactivity)",
+    "categoria_descriptores": "BPM Sync & Reactivity (BPM Sync & Reactivity)",
     "views": 185,
     "upload_date": "2020-08-10",
     "latent_x": -29.200000762939453,
@@ -7309,13 +7309,13 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Vojtech",
     "titulo": "Pixel mapping inside pumpkin over DMX ArtNet (ESP8266, WS2812B, Resolume Arena 7)",
     "enlace": "https://www.youtube.com/watch?v=3oWbEwYsTG8",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output",
+      "Projection Mapping",
       "DMX Lighting Control",
-      "Pixel Mapping & LED Fixtures"
+      "Pixel & LED Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output, DMX Lighting Control, Pixel Mapping & LED Fixtures)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, DMX Lighting Control, Pixel & LED Mapping)",
     "views": 182,
     "upload_date": "2022-08-10",
     "latent_x": -5.329999923706055,
@@ -7330,11 +7330,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "The School Of Sound",
     "titulo": "Resolume Arena - A brief overview",
     "enlace": "https://www.youtube.com/watch?v=6fbKPK0JeiQ",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output"
+      "Projection Mapping"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping)",
     "views": 151,
     "upload_date": "2020-08-10",
     "latent_x": 57.869998931884766,
@@ -7349,12 +7349,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Eric Medine",
     "titulo": "Generative Mesh Grid plugin for Resolume",
     "enlace": "https://www.youtube.com/watch?v=3e1wh-sqcN8",
-    "categoria_principal": "Decks, Clips & Layer Mixing",
+    "categoria_principal": "Clips & Layer Mixing",
     "tags": [
-      "Decks, Clips & Layer Mixing",
-      "Resolume Wire Generative Patches"
+      "Clips & Layer Mixing",
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Decks, Clips & Layer Mixing (Decks, Clips & Layer Mixing, Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Clips & Layer Mixing (Clips & Layer Mixing, Resolume Wire)",
     "views": 132,
     "upload_date": "2023-08-10",
     "latent_x": -37.7400016784668,
@@ -7369,12 +7369,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Jay Em",
     "titulo": "MAPPING TEST.  RESOLUME/HEAVYM/SYPHON-SPOUT",
     "enlace": "https://www.youtube.com/watch?v=y8DG_ojEuQc",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output",
-      "NDI, Spout & Video Routing"
+      "Projection Mapping",
+      "Video Routing"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output, NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, Video Routing)",
     "views": 128,
     "upload_date": "2017-08-11",
     "latent_x": 1.6699999570846558,
@@ -7408,12 +7408,12 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "Jay Em",
     "titulo": "MAPPING TEST.  RESOLUME/HEAVYM/SYPHON-SPOUT",
     "enlace": "https://www.youtube.com/watch?v=hPlPW07akI0",
-    "categoria_principal": "Projection Mapping & Advanced Output",
+    "categoria_principal": "Projection Mapping",
     "tags": [
-      "Projection Mapping & Advanced Output",
-      "NDI, Spout & Video Routing"
+      "Projection Mapping",
+      "Video Routing"
     ],
-    "categoria_descriptores": "Projection Mapping & Advanced Output (Projection Mapping & Advanced Output, NDI, Spout & Video Routing)",
+    "categoria_descriptores": "Projection Mapping (Projection Mapping, Video Routing)",
     "views": 63,
     "upload_date": "2017-08-11",
     "latent_x": 1.6699999570846558,
@@ -7466,11 +7466,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "VJ Wyrd",
     "titulo": "INFINITE SHAPE - Free / Pay what you want - Resolume source by Wyrd (Demo Part.1)",
     "enlace": "https://www.youtube.com/watch?v=slr3DnvU9UM",
-    "categoria_principal": "Resolume Wire Generative Patches",
+    "categoria_principal": "Resolume Wire",
     "tags": [
-      "Resolume Wire Generative Patches"
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Resolume Wire Generative Patches (Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Resolume Wire (Resolume Wire)",
     "views": 34,
     "upload_date": "2026-07-10",
     "latent_x": -32.34000015258789,
@@ -7485,11 +7485,11 @@ const RESOLUME_TUTORIALS_DATA = [
     "autor": "VJ Wyrd",
     "titulo": "INFINITE SHAPE - Free / Pay what you want - Resolume source by Wyrd (Demo Part.3)",
     "enlace": "https://www.youtube.com/watch?v=GCIi1aPtUso",
-    "categoria_principal": "Resolume Wire Generative Patches",
+    "categoria_principal": "Resolume Wire",
     "tags": [
-      "Resolume Wire Generative Patches"
+      "Resolume Wire"
     ],
-    "categoria_descriptores": "Resolume Wire Generative Patches (Resolume Wire Generative Patches)",
+    "categoria_descriptores": "Resolume Wire (Resolume Wire)",
     "views": 7,
     "upload_date": "2026-07-10",
     "latent_x": -32.34000015258789,
@@ -7499,4 +7499,3 @@ const RESOLUME_TUTORIALS_DATA = [
     "duracion": "02:35"
   }
 ];
-window.RESOLUME_DATA = RESOLUME_TUTORIALS_DATA;

@@ -161,9 +161,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "tags": [
       "Photo Retouching & Beauty",
       "Text Effects & Typography",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Photo Retouching & Beauty (Photo Retouching & Beauty, Text Effects & Typography, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Photo Retouching & Beauty (Photo Retouching & Beauty, Text Effects & Typography, Mockups & Branding)",
     "views": 4172156,
     "upload_date": "2015-08-12",
     "latent_x": -77.43000030517578,
@@ -216,11 +216,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "PiXimperfect",
     "titulo": "How to Blend Images and Create a Composite in Photoshop",
     "enlace": "https://www.youtube.com/watch?v=XJxPZdlJVRU",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 2511474,
     "upload_date": "2018-08-11",
     "latent_x": -73.36000061035156,
@@ -235,11 +235,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "MDMZ",
     "titulo": "The Making of Photo-Manipulation: Explore | Photoshop Compositing Tutorial",
     "enlace": "https://www.youtube.com/watch?v=z0ckMwQxc1s",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 2342420,
     "upload_date": "2021-08-10",
     "latent_x": -43.16999816894531,
@@ -273,11 +273,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Photoshop Training Channel",
     "titulo": "How To Match a Subject Into ANY Background In Photoshop! Compositing Tutorial",
     "enlace": "https://www.youtube.com/watch?v=xQyceKmZTR8",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 2193107,
     "upload_date": "2020-08-10",
     "latent_x": -63.83000183105469,
@@ -330,11 +330,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Learn Share Photo Video",
     "titulo": "How to Use Adobe Photoshop (Part 1) Graphic Design Tutorial for Beginners",
     "enlace": "https://www.youtube.com/watch?v=mvAceDeU_gU",
-    "categoria_principal": "Mockups & Branding Graphics",
+    "categoria_principal": "Mockups & Branding",
     "tags": [
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Mockups & Branding Graphics (Mockups & Branding Graphics)",
+    "categoria_descriptores": "Mockups & Branding (Mockups & Branding)",
     "views": 2057729,
     "upload_date": "2020-08-10",
     "latent_x": -71.33000183105469,
@@ -371,10 +371,10 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Text Effects & Typography",
     "tags": [
       "Text Effects & Typography",
-      "Mockups & Branding Graphics",
+      "Mockups & Branding",
       "Selections & Masking"
     ],
-    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding Graphics, Selections & Masking)",
+    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding, Selections & Masking)",
     "views": 1917471,
     "upload_date": "2023-08-10",
     "latent_x": -22.309999465942383,
@@ -503,11 +503,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "tutvid",
     "titulo": "10-Step GUIDE: Blend Images and Create Composites with Photoshop",
     "enlace": "https://www.youtube.com/watch?v=g3qe4rDw1XU",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 1356223,
     "upload_date": "2022-08-10",
     "latent_x": -65.29000091552734,
@@ -582,9 +582,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Generative AI & Firefly",
     "tags": [
       "Generative AI & Firefly",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Generative AI & Firefly (Generative AI & Firefly, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Generative AI & Firefly (Generative AI & Firefly, Mockups & Branding)",
     "views": 1238211,
     "upload_date": "2025-08-09",
     "latent_x": -63.83000183105469,
@@ -599,11 +599,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "MDMZ",
     "titulo": "The Making of a Fantasy Photo-Manipulation using Stock Images | Photoshop Tutorial",
     "enlace": "https://www.youtube.com/watch?v=6mm28NAxaXA",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 1231369,
     "upload_date": "2021-08-10",
     "latent_x": -24.65999984741211,
@@ -695,11 +695,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "PiXimperfect",
     "titulo": "The Science of All 27 Blend Modes in Photoshop!",
     "enlace": "https://www.youtube.com/watch?v=i1D9ijh3_-I",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 1030402,
     "upload_date": "2019-08-11",
     "latent_x": -57.88999938964844,
@@ -733,11 +733,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "rafy A",
     "titulo": "My Shoe House Photoshop Manipulation Tutorial Compositing",
     "enlace": "https://www.youtube.com/watch?v=EByU379NZp8",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 1000033,
     "upload_date": "2020-08-10",
     "latent_x": -70.2699966430664,
@@ -1362,11 +1362,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Photoshop Training Channel",
     "titulo": "Photoshop Compositing Secrets - Blend Images Together Like a Pro - Live Presentation",
     "enlace": "https://www.youtube.com/watch?v=iLy8wLGe9HA",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 531766,
     "upload_date": "2019-08-11",
     "latent_x": -96.4000015258789,
@@ -1400,11 +1400,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "PiXimperfect",
     "titulo": "Master Color Grading: 5 Tricks Pros Hide from You! - Photoshop Tutorial",
     "enlace": "https://www.youtube.com/watch?v=7IC5yYwIdOo",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 529159,
     "upload_date": "2023-08-10",
     "latent_x": 9.65999984741211,
@@ -1439,11 +1439,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Dansky",
     "titulo": "13 MUST-KNOW Photo Manipulation Tips for Beginners in Photoshop",
     "enlace": "https://www.youtube.com/watch?v=uSUpLsZTrdM",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 519862,
     "upload_date": "2023-08-10",
     "latent_x": -51.77000045776367,
@@ -1458,11 +1458,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "PHLEARN",
     "titulo": "How to Use Adjustment Layers in Photoshop | Day 4",
     "enlace": "https://www.youtube.com/watch?v=pUv7npHOk7E",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 513097,
     "upload_date": "2020-08-10",
     "latent_x": 33.04999923706055,
@@ -1480,9 +1480,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Text Effects & Typography",
     "tags": [
       "Text Effects & Typography",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding)",
     "views": 494365,
     "upload_date": "2024-08-09",
     "latent_x": -58.79999923706055,
@@ -1497,11 +1497,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Nemanja Sekulic",
     "titulo": "Make a Robot from Scrap | PHOTO MANIPULATION Tutorial",
     "enlace": "https://www.youtube.com/watch?v=lHwXuE9u7Ik",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 492566,
     "upload_date": "2019-08-11",
     "latent_x": -37.619998931884766,
@@ -1538,9 +1538,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Color Adjustment & Grading)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Color Grading)",
     "views": 467326,
     "upload_date": "2024-08-09",
     "latent_x": 39.70000076293945,
@@ -1574,11 +1574,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Nemanja Sekulic",
     "titulo": "Face Your Fears - Photo manipulation tutorial - Fun and Easy!",
     "enlace": "https://www.youtube.com/watch?v=EK81DNjkI1U",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 437216,
     "upload_date": "2019-08-11",
     "latent_x": -34.720001220703125,
@@ -1651,11 +1651,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Photoshop Tutorials by Webflippy",
     "titulo": "Photoshop Tutorial - Photoshop Compositing Tutorial | Photo Manipulation",
     "enlace": "https://www.youtube.com/watch?v=LZe5R0MmuDg",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 396662,
     "upload_date": "2021-08-10",
     "latent_x": -56.70000076293945,
@@ -1899,11 +1899,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "photoshopCAFE",
     "titulo": "How to Combine Photos in Photoshop for beginners (compositing)",
     "enlace": "https://www.youtube.com/watch?v=5YTSEtjlZx4",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 301988,
     "upload_date": "2023-08-10",
     "latent_x": -81.69999694824219,
@@ -2071,11 +2071,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Howfinity",
     "titulo": "How to Use Photoshop - Beginners Tutorial",
     "enlace": "https://www.youtube.com/watch?v=7ChDaa8WGb8",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 269567,
     "upload_date": "2022-08-10",
     "latent_x": -62.59000015258789,
@@ -2090,11 +2090,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Photoshop PixelFie",
     "titulo": "Design Like a Pro 🔥 Easy Photoshop Logo Tutorial for Beginners",
     "enlace": "https://www.youtube.com/watch?v=hPYeY6MH6Yg",
-    "categoria_principal": "Mockups & Branding Graphics",
+    "categoria_principal": "Mockups & Branding",
     "tags": [
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Mockups & Branding Graphics (Mockups & Branding Graphics)",
+    "categoria_descriptores": "Mockups & Branding (Mockups & Branding)",
     "views": 259408,
     "upload_date": "2024-08-09",
     "latent_x": -70.91999816894531,
@@ -2112,9 +2112,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Text Effects & Typography",
     "tags": [
       "Text Effects & Typography",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding)",
     "views": 259243,
     "upload_date": "2024-08-09",
     "latent_x": -51.790000915527344,
@@ -2153,9 +2153,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Generative AI & Firefly",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative AI & Firefly, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative AI & Firefly, Mockups & Branding)",
     "views": 257349,
     "upload_date": "2025-08-09",
     "latent_x": -92.41000366210938,
@@ -2173,9 +2173,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Text Effects & Typography",
     "tags": [
       "Text Effects & Typography",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding)",
     "views": 253638,
     "upload_date": "2023-08-10",
     "latent_x": -75.2699966430664,
@@ -2190,12 +2190,12 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "WeJustClickme",
     "titulo": "Photo Manipulation - TYPOGRAPHY - Photoshop Tutorial",
     "enlace": "https://www.youtube.com/watch?v=aQbVlLocIas",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation",
+      "Image Compositing",
       "Text Effects & Typography"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation, Text Effects & Typography)",
+    "categoria_descriptores": "Image Compositing (Image Compositing, Text Effects & Typography)",
     "views": 253180,
     "upload_date": "2023-08-10",
     "latent_x": -56.650001525878906,
@@ -2213,9 +2213,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Text Effects & Typography",
     "tags": [
       "Text Effects & Typography",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding)",
     "views": 250201,
     "upload_date": "2020-08-10",
     "latent_x": -53.150001525878906,
@@ -2252,9 +2252,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Generative AI & Firefly",
     "tags": [
       "Generative AI & Firefly",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Generative AI & Firefly (Generative AI & Firefly, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Generative AI & Firefly (Generative AI & Firefly, Mockups & Branding)",
     "views": 244106,
     "upload_date": "2025-08-09",
     "latent_x": -72.41000366210938,
@@ -2288,11 +2288,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Andy Tells Things",
     "titulo": "Photoshop For Beginners: Easy Guide to Get Started!",
     "enlace": "https://www.youtube.com/watch?v=80434t3GTgA",
-    "categoria_principal": "Mockups & Branding Graphics",
+    "categoria_principal": "Mockups & Branding",
     "tags": [
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Mockups & Branding Graphics (Mockups & Branding Graphics)",
+    "categoria_descriptores": "Mockups & Branding (Mockups & Branding)",
     "views": 220058,
     "upload_date": "2024-08-09",
     "latent_x": -85.16000366210938,
@@ -2348,10 +2348,10 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Text Effects & Typography",
     "tags": [
       "Text Effects & Typography",
-      "Mockups & Branding Graphics",
+      "Mockups & Branding",
       "Selections & Masking"
     ],
-    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding Graphics, Selections & Masking)",
+    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding, Selections & Masking)",
     "views": 215201,
     "upload_date": "2024-08-09",
     "latent_x": -11.920000076293945,
@@ -2443,11 +2443,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Doron Studio",
     "titulo": "How To Achieve A Vintage 90s Magazine Color Grade | Photoshop Tutorial",
     "enlace": "https://www.youtube.com/watch?v=3gyGF-wtEUI",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 204588,
     "upload_date": "2023-08-10",
     "latent_x": -7.690000057220459,
@@ -2481,11 +2481,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Andy Tells Things",
     "titulo": "All 60+ Photoshop Tools Explained in Under 30 Minutes",
     "enlace": "https://www.youtube.com/watch?v=Dam4wNiyPII",
-    "categoria_principal": "Mockups & Branding Graphics",
+    "categoria_principal": "Mockups & Branding",
     "tags": [
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Mockups & Branding Graphics (Mockups & Branding Graphics)",
+    "categoria_descriptores": "Mockups & Branding (Mockups & Branding)",
     "views": 192829,
     "upload_date": "2024-08-09",
     "latent_x": -87.41000366210938,
@@ -2519,11 +2519,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Nour Art",
     "titulo": "8-Step GUIDE: Blend Images and Create Composites Like a Pro with Photoshop",
     "enlace": "https://www.youtube.com/watch?v=xSs5Lr_bOKg",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 188426,
     "upload_date": "2024-08-09",
     "latent_x": -84.31999969482422,
@@ -2538,12 +2538,12 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "WeJustClickme",
     "titulo": "Photo Manipulation - TYPOGRAPHY - Photoshop Tutorial",
     "enlace": "https://www.youtube.com/watch?v=ouBC72Okh8Y",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation",
+      "Image Compositing",
       "Text Effects & Typography"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation, Text Effects & Typography)",
+    "categoria_descriptores": "Image Compositing (Image Compositing, Text Effects & Typography)",
     "views": 186678,
     "upload_date": "2023-08-10",
     "latent_x": -56.650001525878906,
@@ -2615,11 +2615,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Anthony Lam",
     "titulo": "Night Moon Photoshop 2020 Composition Tutorial",
     "enlace": "https://www.youtube.com/watch?v=f7KdaLmAMsw",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 181074,
     "upload_date": "2021-08-10",
     "latent_x": -47.88999938964844,
@@ -2653,11 +2653,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "PiXimperfect",
     "titulo": "5 Guaranteed Tricks to Match Subject & Background! - Photoshop Tutorial",
     "enlace": "https://www.youtube.com/watch?v=x5TbF8Tb9U0",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 179229,
     "upload_date": "2023-08-10",
     "latent_x": -51.33000183105469,
@@ -2748,11 +2748,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Nour Art",
     "titulo": "8-Step GUIDE: Blend Images and Create Composites Like a Pro with Photoshop ✅🔥",
     "enlace": "https://www.youtube.com/watch?v=INmkd2ztW4c",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 173674,
     "upload_date": "2025-11-12",
     "latent_x": -84.31999969482422,
@@ -2770,9 +2770,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Text Effects & Typography",
     "tags": [
       "Text Effects & Typography",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding)",
     "views": 169725,
     "upload_date": "2025-08-09",
     "latent_x": -48.939998626708984,
@@ -2844,12 +2844,12 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "flomotion",
     "titulo": "AI Compositing Tutorial in After Effects (Firefly and Runway)",
     "enlace": "https://www.youtube.com/watch?v=JZGqZWDSVPg",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation",
+      "Image Compositing",
       "Generative AI & Firefly"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation, Generative AI & Firefly)",
+    "categoria_descriptores": "Image Compositing (Image Compositing, Generative AI & Firefly)",
     "views": 165875,
     "upload_date": "2025-10-13",
     "latent_x": -113.19999694824219,
@@ -2944,9 +2944,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Image Compositing & Manipulation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Image Compositing)",
     "views": 153002,
     "upload_date": "2023-08-10",
     "latent_x": -18.559999465942383,
@@ -2980,13 +2980,13 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Andrej Maver",
     "titulo": "Blend Image With Text in Photoshop (Tips & Tricks) - #DESIGN",
     "enlace": "https://www.youtube.com/watch?v=I6-xzqbRqzI",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation",
+      "Image Compositing",
       "Text Effects & Typography",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation, Text Effects & Typography, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Image Compositing (Image Compositing, Text Effects & Typography, Mockups & Branding)",
     "views": 152789,
     "upload_date": "2023-08-10",
     "latent_x": -75.20999908447266,
@@ -3039,11 +3039,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "MDMZ",
     "titulo": "The Making of Photo Manipulation: Desert Ship | Photoshop Step-by-Step Tutorial",
     "enlace": "https://www.youtube.com/watch?v=kjZ6Lo2ssVE",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 142532,
     "upload_date": "2022-08-10",
     "latent_x": -33.150001525878906,
@@ -3058,11 +3058,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "rafy A",
     "titulo": "Photoshop Surreal Compositing Photo Effect Tutorial",
     "enlace": "https://www.youtube.com/watch?v=AAdUihOk8z4",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 141869,
     "upload_date": "2021-08-10",
     "latent_x": -69.66999816894531,
@@ -3099,9 +3099,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Text Effects & Typography",
     "tags": [
       "Text Effects & Typography",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding)",
     "views": 140962,
     "upload_date": "2023-08-10",
     "latent_x": -80.47000122070312,
@@ -3212,11 +3212,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "PHLEARN",
     "titulo": "How to Color Grade a Photo in Photoshop | Day 20",
     "enlace": "https://www.youtube.com/watch?v=zTuCTYbvxac",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 134108,
     "upload_date": "2020-08-10",
     "latent_x": 2.069999933242798,
@@ -3349,9 +3349,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Text Effects & Typography",
     "tags": [
       "Text Effects & Typography",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding)",
     "views": 121777,
     "upload_date": "2025-08-09",
     "latent_x": -60.04999923706055,
@@ -3366,11 +3366,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "PiXimperfect",
     "titulo": "Amazing NEW Color Grade Feature in Photoshop: Adjustment Presets",
     "enlace": "https://www.youtube.com/watch?v=1ppczYaEBYc",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 121260,
     "upload_date": "2024-08-09",
     "latent_x": 15.180000305175781,
@@ -3385,11 +3385,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Nemanja Sekulic",
     "titulo": "Photo Manipulation Essentials - Photoshop COURSE",
     "enlace": "https://www.youtube.com/watch?v=qgPrGNuxPuU",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 120071,
     "upload_date": "2020-08-10",
     "latent_x": -59.31999969482422,
@@ -3407,9 +3407,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Color Adjustment & Grading)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Color Grading)",
     "views": 118540,
     "upload_date": "2023-08-10",
     "latent_x": 54.7400016784668,
@@ -3465,9 +3465,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Image Compositing & Manipulation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Image Compositing)",
     "views": 106327,
     "upload_date": "2025-08-09",
     "latent_x": -4.800000190734863,
@@ -3523,9 +3523,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Text Effects & Typography",
     "tags": [
       "Text Effects & Typography",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding)",
     "views": 100859,
     "upload_date": "2025-08-09",
     "latent_x": -65.20999908447266,
@@ -3673,11 +3673,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "NT Photoshop",
     "titulo": "Photoshop Compositing Tutorial - Photo Manipulation - Moonlight",
     "enlace": "https://www.youtube.com/watch?v=Lf3jJL191Go",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 91038,
     "upload_date": "2016-08-11",
     "latent_x": -54.47999954223633,
@@ -3692,11 +3692,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "NT Photoshop",
     "titulo": "Photoshop Compositing Tutorial - Photo Manipulation - Advanced Lighting Effects",
     "enlace": "https://www.youtube.com/watch?v=lt3SYthACn4",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 90746,
     "upload_date": "2016-08-11",
     "latent_x": -70.44000244140625,
@@ -3749,11 +3749,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Smart Graphics",
     "titulo": "Photo Manipulation - Photoshop 2024 Tutorial",
     "enlace": "https://www.youtube.com/watch?v=LkL5Wk8V9y0",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 88918,
     "upload_date": "2024-08-09",
     "latent_x": -39.40999984741211,
@@ -3809,9 +3809,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Text Effects & Typography",
     "tags": [
       "Text Effects & Typography",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding)",
     "views": 87216,
     "upload_date": "2024-08-09",
     "latent_x": -51.790000915527344,
@@ -3886,9 +3886,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Image Compositing & Manipulation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Image Compositing)",
     "views": 83545,
     "upload_date": "2024-08-09",
     "latent_x": -19.440000534057617,
@@ -3925,9 +3925,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Photo Retouching & Beauty",
     "tags": [
       "Photo Retouching & Beauty",
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Photo Retouching & Beauty (Photo Retouching & Beauty, Color Adjustment & Grading)",
+    "categoria_descriptores": "Photo Retouching & Beauty (Photo Retouching & Beauty, Color Grading)",
     "views": 82747,
     "upload_date": "2023-08-10",
     "latent_x": 31.6299991607666,
@@ -3980,11 +3980,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "PHLEARN",
     "titulo": "How to Color Tone in Photoshop in Under 5 Minutes!",
     "enlace": "https://www.youtube.com/watch?v=VJAX6Z54s4I",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 80224,
     "upload_date": "2019-08-11",
     "latent_x": 8.300000190734863,
@@ -3999,11 +3999,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Nemanja Sekulic",
     "titulo": "I'M BACK! With a new fun photo manipulation tutorial!",
     "enlace": "https://www.youtube.com/watch?v=4HSaU4IS2kM",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 78200,
     "upload_date": "2019-08-11",
     "latent_x": -35.68000030517578,
@@ -4037,11 +4037,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "WeJustClickme",
     "titulo": "Design a Professional Flyer in Photoshop (Step by Step)",
     "enlace": "https://www.youtube.com/watch?v=Ze2nUgmeYVI",
-    "categoria_principal": "Mockups & Branding Graphics",
+    "categoria_principal": "Mockups & Branding",
     "tags": [
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Mockups & Branding Graphics (Mockups & Branding Graphics)",
+    "categoria_descriptores": "Mockups & Branding (Mockups & Branding)",
     "views": 76906,
     "upload_date": "2026-05-11",
     "latent_x": -79.41000366210938,
@@ -4116,9 +4116,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Text Effects & Typography",
     "tags": [
       "Text Effects & Typography",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding)",
     "views": 74273,
     "upload_date": "2025-08-09",
     "latent_x": -34.279998779296875,
@@ -4155,9 +4155,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Text Effects & Typography",
     "tags": [
       "Text Effects & Typography",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding)",
     "views": 70129,
     "upload_date": "2025-08-09",
     "latent_x": -47.16999816894531,
@@ -4248,11 +4248,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Learning Screen",
     "titulo": "Fantasy Photo Manipulation Speed Art | Photoshop Tutorial",
     "enlace": "https://www.youtube.com/watch?v=QtBN0MPIxvg",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 66890,
     "upload_date": "2025-08-09",
     "latent_x": -18.959999084472656,
@@ -4362,11 +4362,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Adobe Photoshop",
     "titulo": "Fundamentals of Compositing Images | Photoshop in Five | Adobe Photoshop",
     "enlace": "https://www.youtube.com/watch?v=p1nkKOWKzYc",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 63398,
     "upload_date": "2024-08-09",
     "latent_x": -91.61000061035156,
@@ -4498,9 +4498,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Text Effects & Typography",
     "tags": [
       "Text Effects & Typography",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding)",
     "views": 55961,
     "upload_date": "2025-08-09",
     "latent_x": -75.30000305175781,
@@ -4556,9 +4556,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Text Effects & Typography",
     "tags": [
       "Text Effects & Typography",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding)",
     "views": 54212,
     "upload_date": "2020-08-10",
     "latent_x": -29.809999465942383,
@@ -4573,11 +4573,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Nemanja Sekulic",
     "titulo": "The Power of Curves | What you can do in Photoshop by only using curves",
     "enlace": "https://www.youtube.com/watch?v=tJ7PdAx0U28",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 53936,
     "upload_date": "2017-08-11",
     "latent_x": 5.070000171661377,
@@ -4592,11 +4592,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Photoshop Training Channel",
     "titulo": "Photo Merging Made Easy! New Photoshop Compositing Technique",
     "enlace": "https://www.youtube.com/watch?v=DaqZUYwtuc4",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 53778,
     "upload_date": "2023-08-10",
     "latent_x": -88.20999908447266,
@@ -4615,9 +4615,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "tags": [
       "Generative AI & Firefly",
       "Text Effects & Typography",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Generative AI & Firefly (Generative AI & Firefly, Text Effects & Typography, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Generative AI & Firefly (Generative AI & Firefly, Text Effects & Typography, Mockups & Branding)",
     "views": 52542,
     "upload_date": "2025-08-09",
     "latent_x": -71.22000122070312,
@@ -4651,11 +4651,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "NT Photoshop",
     "titulo": "Photoshop Compositing Tutorial - Waiting",
     "enlace": "https://www.youtube.com/watch?v=DyuSSZifwJM",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 52459,
     "upload_date": "2017-08-11",
     "latent_x": -66.76000213623047,
@@ -4689,11 +4689,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Nour Art",
     "titulo": "8-Step GUIDE: Blend Images and Create Composites Like a Pro with Photoshop ✅🔥",
     "enlace": "https://www.youtube.com/watch?v=KKqnK18UVdE",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 51984,
     "upload_date": "2026-03-12",
     "latent_x": -78.04000091552734,
@@ -4749,9 +4749,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Generative AI & Firefly",
     "tags": [
       "Generative AI & Firefly",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Generative AI & Firefly (Generative AI & Firefly, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Generative AI & Firefly (Generative AI & Firefly, Mockups & Branding)",
     "views": 51522,
     "upload_date": "2024-08-09",
     "latent_x": -90.37000274658203,
@@ -4766,11 +4766,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "PHLEARN",
     "titulo": "Create an Eye-Catching Double Exposure Effect in Photoshop",
     "enlace": "https://www.youtube.com/watch?v=h8Rjpae_NwE",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 50683,
     "upload_date": "2024-08-09",
     "latent_x": -75.41000366210938,
@@ -4804,11 +4804,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "PHLEARN",
     "titulo": "Trailer: Photoshop Compositing Essential Tools & Techniques",
     "enlace": "https://www.youtube.com/watch?v=oDy3bXhIcZo",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 50229,
     "upload_date": "2018-08-11",
     "latent_x": -108.98999786376953,
@@ -4904,9 +4904,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Text Effects & Typography",
     "tags": [
       "Text Effects & Typography",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding)",
     "views": 46410,
     "upload_date": "2025-11-12",
     "latent_x": -73.0199966430664,
@@ -4943,9 +4943,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Mockups & Branding)",
     "views": 44327,
     "upload_date": "2025-08-09",
     "latent_x": -48.43000030517578,
@@ -5000,11 +5000,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Nour Art",
     "titulo": "Blend Images and Create Composites Like a Pro with Photoshop ✅🔥",
     "enlace": "https://www.youtube.com/watch?v=g70VON1LaVA",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 42655,
     "upload_date": "2026-02-10",
     "latent_x": -84.04000091552734,
@@ -5114,11 +5114,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Nour Art",
     "titulo": "10 Tips to LEVEL UP Your Photo Compositing Skills! 🔥",
     "enlace": "https://www.youtube.com/watch?v=9v_EIH-nzwk",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 38430,
     "upload_date": "2025-11-12",
     "latent_x": -72.37999725341797,
@@ -5193,9 +5193,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Color Adjustment & Grading)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Color Grading)",
     "views": 34238,
     "upload_date": "2025-10-13",
     "latent_x": 63.72999954223633,
@@ -5232,9 +5232,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Text Effects & Typography",
     "tags": [
       "Text Effects & Typography",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding)",
     "views": 33499,
     "upload_date": "2021-08-10",
     "latent_x": -35.599998474121094,
@@ -5309,9 +5309,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Text Effects & Typography",
     "tags": [
       "Text Effects & Typography",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding)",
     "views": 31116,
     "upload_date": "2025-08-09",
     "latent_x": -41.060001373291016,
@@ -5326,11 +5326,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Photoshop Training Channel",
     "titulo": "Photoshop's \"Blend If\" Explained | Pixel-Perfect Transparency in Seconds",
     "enlace": "https://www.youtube.com/watch?v=Wkti_IX3Qzk",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 29836,
     "upload_date": "2026-04-11",
     "latent_x": -83.75,
@@ -5441,11 +5441,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "PHLEARN",
     "titulo": "The Update We’ve Been Waiting For! New Adjustment Layers Explained",
     "enlace": "https://www.youtube.com/watch?v=H7HqYscQdpQ",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 28480,
     "upload_date": "2026-03-12",
     "latent_x": 59.119998931884766,
@@ -5460,11 +5460,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "PHLEARN",
     "titulo": "Why Point Color is My All-Time Favorite Coloring Tool in Photoshop | 8 Min Tutorial",
     "enlace": "https://www.youtube.com/watch?v=z3cJg2pxido",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 28289,
     "upload_date": "2026-04-11",
     "latent_x": -14.0,
@@ -5498,11 +5498,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "PHLEARN",
     "titulo": "How to Use Adjustment Layers in Photoshop - Day 5",
     "enlace": "https://www.youtube.com/watch?v=YwSWiB5ajOE",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 27176,
     "upload_date": "2025-09-13",
     "latent_x": 33.04999923706055,
@@ -5517,11 +5517,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Photoshop Together",
     "titulo": "Color Balance Photoshop Explained: 5 Hidden Rules Every Editor Must Know",
     "enlace": "https://www.youtube.com/watch?v=wAJDuMZtmBg",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 26650,
     "upload_date": "2025-12-12",
     "latent_x": 26.520000457763672,
@@ -5555,11 +5555,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Photoshop Training Channel",
     "titulo": "PTC Editing YOUR Photos!!! Episode #1 - Photoshop Compositing",
     "enlace": "https://www.youtube.com/watch?v=RoXo5269RFQ",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 26469,
     "upload_date": "2020-08-10",
     "latent_x": -87.05999755859375,
@@ -5597,9 +5597,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "tags": [
       "Generative AI & Firefly",
       "Text Effects & Typography",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Generative AI & Firefly (Generative AI & Firefly, Text Effects & Typography, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Generative AI & Firefly (Generative AI & Firefly, Text Effects & Typography, Mockups & Branding)",
     "views": 26380,
     "upload_date": "2024-08-09",
     "latent_x": -86.2300033569336,
@@ -5785,11 +5785,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Anthony Lam",
     "titulo": "Statue Of Liberty In Desert | Photoshop Composition Tutorial 2021",
     "enlace": "https://www.youtube.com/watch?v=EoBDzdS_KzU",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 24211,
     "upload_date": "2021-08-10",
     "latent_x": -61.790000915527344,
@@ -5883,9 +5883,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Text Effects & Typography",
     "tags": [
       "Text Effects & Typography",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding)",
     "views": 21782,
     "upload_date": "2025-08-09",
     "latent_x": -52.459999084472656,
@@ -5903,9 +5903,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Text Effects & Typography",
     "tags": [
       "Text Effects & Typography",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding)",
     "views": 21598,
     "upload_date": "2025-11-12",
     "latent_x": -28.90999984741211,
@@ -6018,9 +6018,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Text Effects & Typography",
     "tags": [
       "Text Effects & Typography",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding)",
     "views": 18558,
     "upload_date": "2025-08-09",
     "latent_x": -20.100000381469727,
@@ -6130,11 +6130,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Nemanja Sekulic",
     "titulo": "Ghosts in Palais des Papes - Photo manipulation",
     "enlace": "https://www.youtube.com/watch?v=f7OUpIfXXqA",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 17223,
     "upload_date": "2021-08-10",
     "latent_x": -50.369998931884766,
@@ -6188,11 +6188,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Adobe Creative Cloud",
     "titulo": "Learn Photoshop Compositing | PiXimperfect Plugin from Unmesh Dinda | Adobe Creative Cloud",
     "enlace": "https://www.youtube.com/watch?v=k0JzU9hDP8w",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 16312,
     "upload_date": "2023-08-10",
     "latent_x": -102.08000183105469,
@@ -6210,9 +6210,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Image Compositing & Manipulation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Image Compositing)",
     "views": 16183,
     "upload_date": "2019-08-11",
     "latent_x": -21.6299991607666,
@@ -6227,12 +6227,12 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "PHLEARN",
     "titulo": "How to Use the Harmonize & Upscale Tools in Photoshop | 10 Days of AI FREE Series - Day 6",
     "enlace": "https://www.youtube.com/watch?v=Sv4RT_w26Ac",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation",
+      "Image Compositing",
       "Generative AI & Firefly"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation, Generative AI & Firefly)",
+    "categoria_descriptores": "Image Compositing (Image Compositing, Generative AI & Firefly)",
     "views": 16110,
     "upload_date": "2025-12-12",
     "latent_x": -120.0,
@@ -6270,9 +6270,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Text Effects & Typography",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Text Effects & Typography, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Text Effects & Typography, Mockups & Branding)",
     "views": 15805,
     "upload_date": "2025-08-09",
     "latent_x": -44.189998626708984,
@@ -6309,9 +6309,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Color Adjustment & Grading)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Color Grading)",
     "views": 14828,
     "upload_date": "2025-08-09",
     "latent_x": 51.790000915527344,
@@ -6326,11 +6326,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Photo Feaver",
     "titulo": "MASTER And Understand All 19 Adjustment Layers in Photoshop CC 2022",
     "enlace": "https://www.youtube.com/watch?v=lS8tlPrysiw",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 13732,
     "upload_date": "2022-08-10",
     "latent_x": 49.310001373291016,
@@ -6383,11 +6383,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "PHLEARN",
     "titulo": "How to Color Grade in Photoshop using Camera Raw | 10 Min Tutorial",
     "enlace": "https://www.youtube.com/watch?v=VRiszHrA2T4",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 13020,
     "upload_date": "2026-05-11",
     "latent_x": -1.6200000047683716,
@@ -6402,11 +6402,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Photoshop Training Channel",
     "titulo": "🔴 LIVE Replay - Photoshop Compositing Tips & Tricks - Spider-Man Spider-Verse Photo Manipulation",
     "enlace": "https://www.youtube.com/watch?v=hDdlSYqWW_Q",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 12974,
     "upload_date": "2018-08-11",
     "latent_x": -44.380001068115234,
@@ -6421,12 +6421,12 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Smart Graphics",
     "titulo": "Blend Image Tricks in Photoshop   Tutorial for beginners",
     "enlace": "https://www.youtube.com/watch?v=dGTzWAZWNcg",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation",
+      "Image Compositing",
       "Generative AI & Firefly"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation, Generative AI & Firefly)",
+    "categoria_descriptores": "Image Compositing (Image Compositing, Generative AI & Firefly)",
     "views": 12689,
     "upload_date": "2025-08-09",
     "latent_x": -107.31999969482422,
@@ -6441,11 +6441,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Mir Rom",
     "titulo": "Photo Composite and Manipulation Photoshop Tutorial",
     "enlace": "https://www.youtube.com/watch?v=aZL6ZQDauD4",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 12576,
     "upload_date": "2018-08-11",
     "latent_x": -57.13999938964844,
@@ -6463,10 +6463,10 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Generative AI & Firefly",
     "tags": [
       "Generative AI & Firefly",
-      "Color Adjustment & Grading",
+      "Color Grading",
       "Selections & Masking"
     ],
-    "categoria_descriptores": "Generative AI & Firefly (Generative AI & Firefly, Color Adjustment & Grading, Selections & Masking)",
+    "categoria_descriptores": "Generative AI & Firefly (Generative AI & Firefly, Color Grading, Selections & Masking)",
     "views": 12431,
     "upload_date": "2026-06-10",
     "latent_x": -16.6200008392334,
@@ -6505,9 +6505,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Generative AI & Firefly",
     "tags": [
       "Generative AI & Firefly",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Generative AI & Firefly (Generative AI & Firefly, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Generative AI & Firefly (Generative AI & Firefly, Mockups & Branding)",
     "views": 12036,
     "upload_date": "2023-08-10",
     "latent_x": -80.16000366210938,
@@ -6544,9 +6544,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Image Compositing & Manipulation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Image Compositing)",
     "views": 11634,
     "upload_date": "2025-08-09",
     "latent_x": -30.459999084472656,
@@ -6561,11 +6561,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Nemanja Sekulic",
     "titulo": "EASY way to create Photo Manipulation in Photoshop",
     "enlace": "https://www.youtube.com/watch?v=JRr8xTjXyLE",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 11631,
     "upload_date": "2022-08-10",
     "latent_x": -59.439998626708984,
@@ -6621,9 +6621,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Text Effects & Typography",
     "tags": [
       "Text Effects & Typography",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding)",
     "views": 11204,
     "upload_date": "2025-08-09",
     "latent_x": -47.18000030517578,
@@ -6733,11 +6733,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Julieanne Kost",
     "titulo": "Compositing in Photoshop — New and Traditional Techniques",
     "enlace": "https://www.youtube.com/watch?v=bMXJwZuzP14",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 10565,
     "upload_date": "2026-01-11",
     "latent_x": -98.72000122070312,
@@ -6752,11 +6752,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Red Wolf Digital Media",
     "titulo": "Adobe Photoshop: Photo Manipulation Project (Compositing)",
     "enlace": "https://www.youtube.com/watch?v=XzCu7hP7dQE",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 10468,
     "upload_date": "2022-08-10",
     "latent_x": -67.9800033569336,
@@ -6886,11 +6886,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Photoshop Basics",
     "titulo": "How To Use Adjustment Layers For Beginners (Photoshop Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=TEQOd6fRSiI",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 9327,
     "upload_date": "2024-08-09",
     "latent_x": 38.91999816894531,
@@ -6962,11 +6962,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Orgl Desgn",
     "titulo": "Photoshop Tutorial | How To Retouch, Removing Background, Compositing | MaxAsabin Photo Manipulation",
     "enlace": "https://www.youtube.com/watch?v=GCfPaGR5Yvs",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 8996,
     "upload_date": "2017-08-11",
     "latent_x": -48.31999969482422,
@@ -6981,11 +6981,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Nemanja Sekulic",
     "titulo": "Epic Photo Manipulation - Face Your Fears 2 | Photoshop tutorial",
     "enlace": "https://www.youtube.com/watch?v=ylGNMrSrt6w",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 8978,
     "upload_date": "2025-08-09",
     "latent_x": -49.279998779296875,
@@ -7000,11 +7000,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Roberto Blake",
     "titulo": "Photoshop CC Dispersion Effect Tutorial Photo Manipulation",
     "enlace": "https://www.youtube.com/watch?v=1OsGDYVw2xg",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 8914,
     "upload_date": "2015-08-12",
     "latent_x": -52.36000061035156,
@@ -7078,11 +7078,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "PHLEARN",
     "titulo": "How to Create a Double Exposure Effect in Photoshop 2026 | 7 Min Tutorial",
     "enlace": "https://www.youtube.com/watch?v=-r3vZlEWPeo",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 8547,
     "upload_date": "2026-04-11",
     "latent_x": -86.47000122070312,
@@ -7135,11 +7135,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Arunz Creation",
     "titulo": "Photoshop Tutorial | Color Grading with Adjustment Layers",
     "enlace": "https://www.youtube.com/watch?v=DF5Yfgajqe0",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 8031,
     "upload_date": "2017-08-11",
     "latent_x": 19.93000030517578,
@@ -7154,11 +7154,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Christian Möhrle - The Phlog Photography",
     "titulo": "18 ADJUSTMENT LAYERS of Photoshop explained",
     "enlace": "https://www.youtube.com/watch?v=oIiB_xno4G4",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 7999,
     "upload_date": "2021-08-10",
     "latent_x": 45.36000061035156,
@@ -7387,9 +7387,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "tags": [
       "Generative AI & Firefly",
       "Text Effects & Typography",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Generative AI & Firefly (Generative AI & Firefly, Text Effects & Typography, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Generative AI & Firefly (Generative AI & Firefly, Text Effects & Typography, Mockups & Branding)",
     "views": 6192,
     "upload_date": "2025-08-09",
     "latent_x": -83.36000061035156,
@@ -7442,11 +7442,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Yaneck & Sasha",
     "titulo": "Photoshop Tutorial: Color Grading with Solid Color Adjustment Layers",
     "enlace": "https://www.youtube.com/watch?v=4mi6HO6XThs",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 5441,
     "upload_date": "2018-08-11",
     "latent_x": 25.610000610351562,
@@ -7559,9 +7559,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Text Effects & Typography",
     "tags": [
       "Text Effects & Typography",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding)",
     "views": 4227,
     "upload_date": "2025-08-09",
     "latent_x": -66.5,
@@ -7579,9 +7579,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Text Effects & Typography",
     "tags": [
       "Text Effects & Typography",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding)",
     "views": 4121,
     "upload_date": "2025-11-12",
     "latent_x": -32.27000045776367,
@@ -7596,11 +7596,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "photoshopCAFE",
     "titulo": "Photoshop compositing challenge:  Colin Smith VS Jesús Ramirez",
     "enlace": "https://www.youtube.com/watch?v=uc9u816v6kg",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 4098,
     "upload_date": "2016-08-11",
     "latent_x": -85.95999908447266,
@@ -7615,11 +7615,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Adobe Asia Pacific",
     "titulo": "Image compositing on Adobe Photoshop with Rames Harikrishnasamy",
     "enlace": "https://www.youtube.com/watch?v=DbzZ4mFPAQs",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 4040,
     "upload_date": "2020-08-10",
     "latent_x": -83.5,
@@ -7637,9 +7637,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Photo Retouching & Beauty",
     "tags": [
       "Photo Retouching & Beauty",
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Photo Retouching & Beauty (Photo Retouching & Beauty, Image Compositing & Manipulation)",
+    "categoria_descriptores": "Photo Retouching & Beauty (Photo Retouching & Beauty, Image Compositing)",
     "views": 3924,
     "upload_date": "2022-08-10",
     "latent_x": -67.45999908447266,
@@ -7657,9 +7657,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Generative AI & Firefly",
     "tags": [
       "Generative AI & Firefly",
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Generative AI & Firefly (Generative AI & Firefly, Color Adjustment & Grading)",
+    "categoria_descriptores": "Generative AI & Firefly (Generative AI & Firefly, Color Grading)",
     "views": 3720,
     "upload_date": "2022-08-10",
     "latent_x": -15.8100004196167,
@@ -7674,11 +7674,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Photo Manipulation",
     "titulo": "Commercial Compositing – FULL LENGTH  Photoshop Tutorial",
     "enlace": "https://www.youtube.com/watch?v=fl6tP09M61Y",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 3536,
     "upload_date": "2021-08-10",
     "latent_x": -73.0199966430664,
@@ -7750,11 +7750,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Easy Photoshop",
     "titulo": "Use This Method to Get Pro Level Color Grading with Photo Filter Layer in Photoshop",
     "enlace": "https://www.youtube.com/watch?v=-kxnU4cROg8",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 2876,
     "upload_date": "2026-04-11",
     "latent_x": 31.329999923706055,
@@ -7769,11 +7769,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Noyse Works",
     "titulo": "The Ultimate Guide to Photoshop Compositing",
     "enlace": "https://www.youtube.com/watch?v=w0FEPMsBuD0",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 2725,
     "upload_date": "2025-08-09",
     "latent_x": -85.93000030517578,
@@ -7788,11 +7788,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "KelbyOne",
     "titulo": "Advanced Color Grading to Create Mood and Drama with Unmesh Dinda | Official Class Trailer",
     "enlace": "https://www.youtube.com/watch?v=B-vZUvn-hhQ",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 2687,
     "upload_date": "2019-08-11",
     "latent_x": -13.569999694824219,
@@ -7826,11 +7826,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Brian Umoh",
     "titulo": "Color Grade Challenge: Color grading with Only Selective Color Adjustment Layer in Photoshop",
     "enlace": "https://www.youtube.com/watch?v=wZfNSJgQlyk",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 2139,
     "upload_date": "2020-08-10",
     "latent_x": -2.7799999713897705,
@@ -7845,11 +7845,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "KelbyOne",
     "titulo": "Exporting Layers with Unmesh Dinda | Photo Tip Friday",
     "enlace": "https://www.youtube.com/watch?v=GRjXAum-K9c",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 2124,
     "upload_date": "2019-08-11",
     "latent_x": -28.270000457763672,
@@ -7864,11 +7864,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Nikki Harrison's Fine Art Academy",
     "titulo": "Color Toning | Photoshop Color Grading | Color Adjustment Layers",
     "enlace": "https://www.youtube.com/watch?v=ahPhzq8v3SY",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 1999,
     "upload_date": "2024-08-09",
     "latent_x": 14.369999885559082,
@@ -7924,9 +7924,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Text Effects & Typography",
     "tags": [
       "Text Effects & Typography",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding)",
     "views": 1852,
     "upload_date": "2025-11-12",
     "latent_x": -20.969999313354492,
@@ -7979,11 +7979,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "OB GRAFIXS",
     "titulo": "Color Grade Any Photo in Photoshop using Adjustment Layers",
     "enlace": "https://www.youtube.com/watch?v=QtzRk8oRKh8",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 1514,
     "upload_date": "2025-09-13",
     "latent_x": 12.779999732971191,
@@ -8001,9 +8001,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Text Effects & Typography",
     "tags": [
       "Text Effects & Typography",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding)",
     "views": 1345,
     "upload_date": "2025-11-12",
     "latent_x": -39.720001220703125,
@@ -8113,11 +8113,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Gary Hughes",
     "titulo": "Quick Color Grading in Photoshop Using Adjustment Layers (3 Minute Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=YYKu8ET7L3s",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 861,
     "upload_date": "2020-08-10",
     "latent_x": 5.869999885559082,
@@ -8132,11 +8132,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "New Layer",
     "titulo": "CINEMATIC Color Grading Look in PHOTOSHOP (Using Adjustment Layers)",
     "enlace": "https://www.youtube.com/watch?v=CNC-b2UC5qM",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 860,
     "upload_date": "2020-08-10",
     "latent_x": 23.299999237060547,
@@ -8151,11 +8151,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "PhotoshopTute",
     "titulo": "Photoshop CS5 Tutorials-16 Tone and Color Correction with Adjustment Layers 5.Auto Color",
     "enlace": "https://www.youtube.com/watch?v=aOCL5SkXZyI",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 804,
     "upload_date": "2013-08-12",
     "latent_x": 24.399999618530273,
@@ -8170,11 +8170,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "The Photoshop Expert",
     "titulo": "Photoshop Levels Adjustment Tutorial | Grading Color Photoshop & Color Correction",
     "enlace": "https://www.youtube.com/watch?v=F4x0gHj8f7s",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 764,
     "upload_date": "2021-08-10",
     "latent_x": 2.2799999713897705,
@@ -8326,9 +8326,9 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "categoria_principal": "Text Effects & Typography",
     "tags": [
       "Text Effects & Typography",
-      "Mockups & Branding Graphics"
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Text Effects & Typography (Text Effects & Typography, Mockups & Branding)",
     "views": 346,
     "upload_date": "2022-08-10",
     "latent_x": -56.88999938964844,
@@ -8343,11 +8343,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Brian Umoh",
     "titulo": "Color Grade Challenge: Color grading with Only Color Balance Adjustment Layer in Photoshop",
     "enlace": "https://www.youtube.com/watch?v=bt6kXwgB1Qc",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 338,
     "upload_date": "2020-08-10",
     "latent_x": 9.100000381469727,
@@ -8362,11 +8362,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "kevin aryal tutorials (TUTORIAL)",
     "titulo": "1Min Photoshop Ep. 05 | Color Grading WIth Adjustment Layers",
     "enlace": "https://www.youtube.com/watch?v=daGhW6kwaDw",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 325,
     "upload_date": "2017-08-11",
     "latent_x": 30.540000915527344,
@@ -8381,11 +8381,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "EDIT FLOW",
     "titulo": "Color Grading Masterclass - The Adjustment Layers Technique Professionals Use",
     "enlace": "https://www.youtube.com/watch?v=GS-7N8W3OYs",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 275,
     "upload_date": "2024-08-09",
     "latent_x": 30.34000015258789,
@@ -8438,11 +8438,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "PhotoshopTute",
     "titulo": "Photoshop CS5 Tutorials-16 Tone and Color Correction with Adjustment Layers 10.WhichLayers",
     "enlace": "https://www.youtube.com/watch?v=Uxq7vykXyoY",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 183,
     "upload_date": "2013-08-12",
     "latent_x": 41.5099983215332,
@@ -8495,11 +8495,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "EDIT FLOW",
     "titulo": "Master Color Grading in Photoshop 2023 | Camera RAW & Adjustment Layers",
     "enlace": "https://www.youtube.com/watch?v=kBLokB5kU_Q",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 133,
     "upload_date": "2024-08-09",
     "latent_x": 18.06999969482422,
@@ -8514,12 +8514,12 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Ocean DelMar Chill",
     "titulo": "Future Sound Visual Design | Photoshop Compositing & Photo Manipulation",
     "enlace": "https://www.youtube.com/watch?v=xsHX1Ty4iXI",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation",
-      "Mockups & Branding Graphics"
+      "Image Compositing",
+      "Mockups & Branding"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation, Mockups & Branding Graphics)",
+    "categoria_descriptores": "Image Compositing (Image Compositing, Mockups & Branding)",
     "views": 111,
     "upload_date": "2026-08-03",
     "latent_x": -76.02999877929688,
@@ -8553,11 +8553,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "devsignlearning",
     "titulo": "Advanced Color Editing in Photoshop — Master Adjustment Layers (2025)",
     "enlace": "https://www.youtube.com/watch?v=CjD0E5Q4mfA",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 89,
     "upload_date": "2025-11-12",
     "latent_x": 30.75,
@@ -8572,11 +8572,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Editor Adi",
     "titulo": "Color Grading With Camera RAW & Adjustment Layers in photoshop",
     "enlace": "https://www.youtube.com/watch?v=BKzTBLtcc00",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 86,
     "upload_date": "2023-08-10",
     "latent_x": 19.209999084472656,
@@ -8686,11 +8686,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "Step To Expert",
     "titulo": "Photoshop Photo Manipulation Tutorial (2025) — #photoshoptutorial",
     "enlace": "https://www.youtube.com/watch?v=FHW4-ciCA2U",
-    "categoria_principal": "Image Compositing & Manipulation",
+    "categoria_principal": "Image Compositing",
     "tags": [
-      "Image Compositing & Manipulation"
+      "Image Compositing"
     ],
-    "categoria_descriptores": "Image Compositing & Manipulation (Image Compositing & Manipulation)",
+    "categoria_descriptores": "Image Compositing (Image Compositing)",
     "views": 8,
     "upload_date": "2025-09-13",
     "latent_x": -38.16999816894531,
@@ -8705,11 +8705,11 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "autor": "The Virtual Art Desk",
     "titulo": "Why Do Artists Use Photoshop Adjustment Layers? - The Virtual Art Desk",
     "enlace": "https://www.youtube.com/watch?v=5Pb8EHYf9Nk",
-    "categoria_principal": "Color Adjustment & Grading",
+    "categoria_principal": "Color Grading",
     "tags": [
-      "Color Adjustment & Grading"
+      "Color Grading"
     ],
-    "categoria_descriptores": "Color Adjustment & Grading (Color Adjustment & Grading)",
+    "categoria_descriptores": "Color Grading (Color Grading)",
     "views": 4,
     "upload_date": "2025-10-13",
     "latent_x": 44.060001373291016,
@@ -8738,4 +8738,3 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "duracion": "02:33"
   }
 ];
-window.PHOTOSHOP_DATA = PHOTOSHOP_TUTORIALS_DATA;

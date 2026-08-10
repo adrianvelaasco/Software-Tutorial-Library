@@ -1431,11 +1431,11 @@ const VSC_TUTORIALS_DATA = [
     "autor": "Fireship",
     "titulo": "how to never write bug",
     "enlace": "https://www.youtube.com/watch?v=X3jw1JVNdPE",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints"
+      "Code Debugging"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints)",
+    "categoria_descriptores": "Code Debugging (Code Debugging)",
     "views": 1023037,
     "upload_date": "2023-08-10",
     "latent_x": 80.94000244140625,
@@ -1529,9 +1529,9 @@ const VSC_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Integrated Terminal & Tasks"
+      "Integrated Terminal"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Integrated Terminal & Tasks)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Integrated Terminal)",
     "views": 920808,
     "upload_date": "2025-08-09",
     "latent_x": 78.63999938964844,
@@ -2562,11 +2562,11 @@ const VSC_TUTORIALS_DATA = [
     "autor": "Tech With Tim",
     "titulo": "How to Use a Debugger - Debugger Tutorial",
     "enlace": "https://www.youtube.com/watch?v=7qZBwhSlfOo",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints"
+      "Code Debugging"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints)",
+    "categoria_descriptores": "Code Debugging (Code Debugging)",
     "views": 408156,
     "upload_date": "2020-08-10",
     "latent_x": 82.37000274658203,
@@ -2581,11 +2581,11 @@ const VSC_TUTORIALS_DATA = [
     "autor": "Height Above Sea Level",
     "titulo": "Visual Studio For Beginners - 2022 and Beyond (Applies in 2026)",
     "enlace": "https://www.youtube.com/watch?v=VcU2HGsxeII",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints"
+      "Code Debugging"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints)",
+    "categoria_descriptores": "Code Debugging (Code Debugging)",
     "views": 401677,
     "upload_date": "2022-08-10",
     "latent_x": 81.41999816894531,
@@ -2868,12 +2868,12 @@ const VSC_TUTORIALS_DATA = [
     "autor": "ProgrammingKnowledge",
     "titulo": "Debugging Python with Visual Studio Code (VSCode)",
     "enlace": "https://www.youtube.com/watch?v=b4p-SBjHh28",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints",
+      "Code Debugging",
       "Python & Backend Setup"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints, Python & Backend Setup)",
+    "categoria_descriptores": "Code Debugging (Code Debugging, Python & Backend Setup)",
     "views": 331052,
     "upload_date": "2023-08-10",
     "latent_x": 73.30000305175781,
@@ -2908,11 +2908,11 @@ const VSC_TUTORIALS_DATA = [
     "autor": "Traversy Media",
     "titulo": "Command Line Crash Course For Beginners | Terminal Commands",
     "enlace": "https://www.youtube.com/watch?v=uwAqEzhyjtw",
-    "categoria_principal": "Integrated Terminal & Tasks",
+    "categoria_principal": "Integrated Terminal",
     "tags": [
-      "Integrated Terminal & Tasks"
+      "Integrated Terminal"
     ],
-    "categoria_descriptores": "Integrated Terminal & Tasks (Integrated Terminal & Tasks)",
+    "categoria_descriptores": "Integrated Terminal (Integrated Terminal)",
     "views": 312716,
     "upload_date": "2023-08-10",
     "latent_x": 74.63999938964844,
@@ -3082,11 +3082,11 @@ const VSC_TUTORIALS_DATA = [
     "autor": "SleepyCatHey",
     "titulo": "How I Transformed VS Code Into a Cozy Workspace #devsetup",
     "enlace": "https://www.youtube.com/watch?v=fgBdE3MsDzs",
-    "categoria_principal": "Theme & Workspace Customization",
+    "categoria_principal": "Workspace Setup",
     "tags": [
-      "Theme & Workspace Customization"
+      "Workspace Setup"
     ],
-    "categoria_descriptores": "Theme & Workspace Customization (Theme & Workspace Customization)",
+    "categoria_descriptores": "Workspace Setup (Workspace Setup)",
     "views": 287881,
     "upload_date": "2025-12-12",
     "latent_x": 66.80999755859375,
@@ -3664,9 +3664,9 @@ const VSC_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Code Debugging & Breakpoints"
+      "Code Debugging"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Code Debugging & Breakpoints)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Code Debugging)",
     "views": 150703,
     "upload_date": "2024-08-09",
     "latent_x": 92.51000213623047,
@@ -3990,11 +3990,11 @@ const VSC_TUTORIALS_DATA = [
     "autor": "Awais Mirza",
     "titulo": "How to debug #Angular Code in VS Code Properly - Stop using Console Log",
     "enlace": "https://www.youtube.com/watch?v=XHEnQM_NieU",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints"
+      "Code Debugging"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints)",
+    "categoria_descriptores": "Code Debugging (Code Debugging)",
     "views": 101151,
     "upload_date": "2022-08-10",
     "latent_x": 86.38999938964844,
@@ -4047,12 +4047,12 @@ const VSC_TUTORIALS_DATA = [
     "autor": "Dev Leonardo",
     "titulo": "Debug a React app with Visual Studio Code",
     "enlace": "https://www.youtube.com/watch?v=FOXNlZFkbPk",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints",
+      "Code Debugging",
       "Web Development Setup"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints, Web Development Setup)",
+    "categoria_descriptores": "Code Debugging (Code Debugging, Web Development Setup)",
     "views": 98917,
     "upload_date": "2024-08-09",
     "latent_x": 85.7699966430664,
@@ -4086,11 +4086,11 @@ const VSC_TUTORIALS_DATA = [
     "autor": "ArjanCodes",
     "titulo": "Stop Using print(): Learn the VSCode Debugger",
     "enlace": "https://www.youtube.com/watch?v=XmpIBsnc3xU",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints"
+      "Code Debugging"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints)",
+    "categoria_descriptores": "Code Debugging (Code Debugging)",
     "views": 96505,
     "upload_date": "2024-08-09",
     "latent_x": 81.98999786376953,
@@ -4432,11 +4432,11 @@ const VSC_TUTORIALS_DATA = [
     "autor": "EmbeddedGeek",
     "titulo": "Visual Studio Code for STM32 development and debugging - Part 2",
     "enlace": "https://www.youtube.com/watch?v=xaC5oWwzOt0",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints"
+      "Code Debugging"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints)",
+    "categoria_descriptores": "Code Debugging (Code Debugging)",
     "views": 58454,
     "upload_date": "2021-08-10",
     "latent_x": 84.38999938964844,
@@ -4605,11 +4605,11 @@ const VSC_TUTORIALS_DATA = [
     "autor": "Playwright",
     "titulo": "Debugging Playwright tests in VS Code",
     "enlace": "https://www.youtube.com/watch?v=tJF7UhA59Gc",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints"
+      "Code Debugging"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints)",
+    "categoria_descriptores": "Code Debugging (Code Debugging)",
     "views": 44228,
     "upload_date": "2023-08-10",
     "latent_x": 84.08000183105469,
@@ -4780,11 +4780,11 @@ const VSC_TUTORIALS_DATA = [
     "autor": "John Kealy | Mobile Apps with AI",
     "titulo": "How to use breakpoints in Vscode for debugging",
     "enlace": "https://www.youtube.com/watch?v=7vVKBRjFbeg",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints"
+      "Code Debugging"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints)",
+    "categoria_descriptores": "Code Debugging (Code Debugging)",
     "views": 38939,
     "upload_date": "2022-08-10",
     "latent_x": 78.93000030517578,
@@ -4823,9 +4823,9 @@ const VSC_TUTORIALS_DATA = [
     "categoria_principal": "Extension Setup & Copilot",
     "tags": [
       "Extension Setup & Copilot",
-      "Integrated Terminal & Tasks"
+      "Integrated Terminal"
     ],
-    "categoria_descriptores": "Extension Setup & Copilot (Extension Setup & Copilot, Integrated Terminal & Tasks)",
+    "categoria_descriptores": "Extension Setup & Copilot (Extension Setup & Copilot, Integrated Terminal)",
     "views": 38425,
     "upload_date": "2026-03-12",
     "latent_x": 69.31999969482422,
@@ -4960,10 +4960,10 @@ const VSC_TUTORIALS_DATA = [
     "categoria_principal": "Shortcuts & Multi-Cursor",
     "tags": [
       "Shortcuts & Multi-Cursor",
-      "Code Debugging & Breakpoints",
+      "Code Debugging",
       "Python & Backend Setup"
     ],
-    "categoria_descriptores": "Shortcuts & Multi-Cursor (Shortcuts & Multi-Cursor, Code Debugging & Breakpoints, Python & Backend Setup)",
+    "categoria_descriptores": "Shortcuts & Multi-Cursor (Shortcuts & Multi-Cursor, Code Debugging, Python & Backend Setup)",
     "views": 35351,
     "upload_date": "2022-08-10",
     "latent_x": 75.93000030517578,
@@ -5075,12 +5075,12 @@ const VSC_TUTORIALS_DATA = [
     "autor": "ArjanCodes",
     "titulo": "How to Easily Debug a FastAPI App in VSCode",
     "enlace": "https://www.youtube.com/watch?v=C-bie4ZY_o0",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints",
+      "Code Debugging",
       "Python & Backend Setup"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints, Python & Backend Setup)",
+    "categoria_descriptores": "Code Debugging (Code Debugging, Python & Backend Setup)",
     "views": 31843,
     "upload_date": "2025-08-09",
     "latent_x": 72.83999633789062,
@@ -5250,11 +5250,11 @@ const VSC_TUTORIALS_DATA = [
     "autor": "Mision Codigo",
     "titulo": "Aprende a usar el debug de VSCode como un PRO",
     "enlace": "https://www.youtube.com/watch?v=lPg5VUrOVgY",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints"
+      "Code Debugging"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints)",
+    "categoria_descriptores": "Code Debugging (Code Debugging)",
     "views": 28008,
     "upload_date": "2023-08-10",
     "latent_x": 73.19999694824219,
@@ -5308,11 +5308,11 @@ const VSC_TUTORIALS_DATA = [
     "autor": "Tadas Petra",
     "titulo": "Easy Debugging with Breakpoints and Stack Trace",
     "enlace": "https://www.youtube.com/watch?v=O0UvfT5bUPg",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints"
+      "Code Debugging"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints)",
+    "categoria_descriptores": "Code Debugging (Code Debugging)",
     "views": 25877,
     "upload_date": "2021-08-10",
     "latent_x": 76.16000366210938,
@@ -5387,11 +5387,11 @@ const VSC_TUTORIALS_DATA = [
     "autor": "Dilmer Valecillos",
     "titulo": "VSCode Unity Debugger - How to set breakpoints, watch expressions, and use the debug console?",
     "enlace": "https://www.youtube.com/watch?v=zYjAdxGwyv0",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints"
+      "Code Debugging"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints)",
+    "categoria_descriptores": "Code Debugging (Code Debugging)",
     "views": 24890,
     "upload_date": "2019-08-11",
     "latent_x": 77.08000183105469,
@@ -5426,11 +5426,11 @@ const VSC_TUTORIALS_DATA = [
     "autor": "Ardan Labs",
     "titulo": "Setting Up VSCode to Debug Rust",
     "enlace": "https://www.youtube.com/watch?v=TlfGs7ExC0A",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints"
+      "Code Debugging"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints)",
+    "categoria_descriptores": "Code Debugging (Code Debugging)",
     "views": 22001,
     "upload_date": "2023-08-10",
     "latent_x": 74.72000122070312,
@@ -5465,12 +5465,12 @@ const VSC_TUTORIALS_DATA = [
     "autor": "React Native 101",
     "titulo": "Setting up Break point Debugging for React Native project in VS code",
     "enlace": "https://www.youtube.com/watch?v=ll2Rw616wkU",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints",
+      "Code Debugging",
       "Web Development Setup"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints, Web Development Setup)",
+    "categoria_descriptores": "Code Debugging (Code Debugging, Web Development Setup)",
     "views": 20659,
     "upload_date": "2023-08-10",
     "latent_x": 88.76000213623047,
@@ -5506,12 +5506,12 @@ const VSC_TUTORIALS_DATA = [
     "autor": "Matt Spataro",
     "titulo": "Video #4: Debugging Python with VS Code",
     "enlace": "https://www.youtube.com/watch?v=R3smFr6W8jI",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints",
+      "Code Debugging",
       "Python & Backend Setup"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints, Python & Backend Setup)",
+    "categoria_descriptores": "Code Debugging (Code Debugging, Python & Backend Setup)",
     "views": 16595,
     "upload_date": "2022-08-10",
     "latent_x": 74.20999908447266,
@@ -5545,12 +5545,12 @@ const VSC_TUTORIALS_DATA = [
     "autor": "Eric Roby",
     "titulo": "Learn to Debug Python in VSCode (Say Goodbye to Print Statements)",
     "enlace": "https://www.youtube.com/watch?v=Qe1oCJk-DYU",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints",
+      "Code Debugging",
       "Python & Backend Setup"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints, Python & Backend Setup)",
+    "categoria_descriptores": "Code Debugging (Code Debugging, Python & Backend Setup)",
     "views": 14447,
     "upload_date": "2025-08-09",
     "latent_x": 68.68000030517578,
@@ -5645,9 +5645,9 @@ const VSC_TUTORIALS_DATA = [
     "categoria_principal": "Extension Setup & Copilot",
     "tags": [
       "Extension Setup & Copilot",
-      "Code Debugging & Breakpoints"
+      "Code Debugging"
     ],
-    "categoria_descriptores": "Extension Setup & Copilot (Extension Setup & Copilot, Code Debugging & Breakpoints)",
+    "categoria_descriptores": "Extension Setup & Copilot (Extension Setup & Copilot, Code Debugging)",
     "views": 12968,
     "upload_date": "2024-08-09",
     "latent_x": 51.11000061035156,
@@ -5685,9 +5685,9 @@ const VSC_TUTORIALS_DATA = [
     "categoria_principal": "Shortcuts & Multi-Cursor",
     "tags": [
       "Shortcuts & Multi-Cursor",
-      "Code Debugging & Breakpoints"
+      "Code Debugging"
     ],
-    "categoria_descriptores": "Shortcuts & Multi-Cursor (Shortcuts & Multi-Cursor, Code Debugging & Breakpoints)",
+    "categoria_descriptores": "Shortcuts & Multi-Cursor (Shortcuts & Multi-Cursor, Code Debugging)",
     "views": 12801,
     "upload_date": "2020-08-10",
     "latent_x": 78.5199966430664,
@@ -5702,11 +5702,11 @@ const VSC_TUTORIALS_DATA = [
     "autor": "Will Brock",
     "titulo": "Debugging WebdriverIO tests in VSCode - breakpoints and stepping through commands",
     "enlace": "https://www.youtube.com/watch?v=_bw_VWn5IzU",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints"
+      "Code Debugging"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints)",
+    "categoria_descriptores": "Code Debugging (Code Debugging)",
     "views": 12165,
     "upload_date": "2022-08-10",
     "latent_x": 80.3499984741211,
@@ -5721,12 +5721,12 @@ const VSC_TUTORIALS_DATA = [
     "autor": "Alan Simpson",
     "titulo": "Debug FastAPI and SQLModel with VS Code and Breakpoints",
     "enlace": "https://www.youtube.com/watch?v=X3SgEXhX11w",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints",
+      "Code Debugging",
       "Python & Backend Setup"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints, Python & Backend Setup)",
+    "categoria_descriptores": "Code Debugging (Code Debugging, Python & Backend Setup)",
     "views": 11796,
     "upload_date": "2022-08-10",
     "latent_x": 77.08999633789062,
@@ -5760,13 +5760,13 @@ const VSC_TUTORIALS_DATA = [
     "autor": "Coding with Neeraj",
     "titulo": "#Debugging in VSCode - Learn Breakpoints Like a Pro | VSCode #Debugger Tutorial (Lecture 1)",
     "enlace": "https://www.youtube.com/watch?v=Mkh8z_2IleA",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints",
+      "Code Debugging",
       "Git & GitHub Integration",
       "Python & Backend Setup"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints, Git & GitHub Integration, Python & Backend Setup)",
+    "categoria_descriptores": "Code Debugging (Code Debugging, Git & GitHub Integration, Python & Backend Setup)",
     "views": 10194,
     "upload_date": "2025-08-09",
     "latent_x": 68.94999694824219,
@@ -5822,10 +5822,10 @@ const VSC_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Code Debugging & Breakpoints",
+      "Code Debugging",
       "Web Development Setup"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Code Debugging & Breakpoints, Web Development Setup)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Code Debugging, Web Development Setup)",
     "views": 8226,
     "upload_date": "2024-08-09",
     "latent_x": 92.12000274658203,
@@ -5976,12 +5976,12 @@ const VSC_TUTORIALS_DATA = [
     "autor": "ProgrammingKnowledge",
     "titulo": "How to Debug Python with Visual Studio Code (VS Code) (2026)",
     "enlace": "https://www.youtube.com/watch?v=vhxdCPisziQ",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints",
+      "Code Debugging",
       "Python & Backend Setup"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints, Python & Backend Setup)",
+    "categoria_descriptores": "Code Debugging (Code Debugging, Python & Backend Setup)",
     "views": 5886,
     "upload_date": "2026-02-10",
     "latent_x": 76.58999633789062,
@@ -6036,11 +6036,11 @@ const VSC_TUTORIALS_DATA = [
     "autor": "Quickz",
     "titulo": "How to use breakpoints in Visual Studio",
     "enlace": "https://www.youtube.com/watch?v=55yBtFZDQdQ",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints"
+      "Code Debugging"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints)",
+    "categoria_descriptores": "Code Debugging (Code Debugging)",
     "views": 4133,
     "upload_date": "2025-08-09",
     "latent_x": 81.38999938964844,
@@ -6076,12 +6076,12 @@ const VSC_TUTORIALS_DATA = [
     "autor": "Programming with Umair",
     "titulo": "Debug Node Express Code in VS Code with Break Points #40",
     "enlace": "https://www.youtube.com/watch?v=6o24W3BOMg8",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints",
-      "Integrated Terminal & Tasks"
+      "Code Debugging",
+      "Integrated Terminal"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints, Integrated Terminal & Tasks)",
+    "categoria_descriptores": "Code Debugging (Code Debugging, Integrated Terminal)",
     "views": 4020,
     "upload_date": "2023-08-10",
     "latent_x": 78.37999725341797,
@@ -6154,12 +6154,12 @@ const VSC_TUTORIALS_DATA = [
     "autor": "Visual Studio Code",
     "titulo": "Debug Python Like a Pro in VS Code",
     "enlace": "https://www.youtube.com/watch?v=06eQ41TuJRs",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints",
+      "Code Debugging",
       "Python & Backend Setup"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints, Python & Backend Setup)",
+    "categoria_descriptores": "Code Debugging (Code Debugging, Python & Backend Setup)",
     "views": 3625,
     "upload_date": "2026-07-31",
     "latent_x": 71.27999877929688,
@@ -6197,9 +6197,9 @@ const VSC_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Code Debugging & Breakpoints"
+      "Code Debugging"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Code Debugging & Breakpoints)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Code Debugging)",
     "views": 3065,
     "upload_date": "2025-12-12",
     "latent_x": 94.05000305175781,
@@ -6214,11 +6214,11 @@ const VSC_TUTORIALS_DATA = [
     "autor": "Tech With Abhi",
     "titulo": "Ultimate guide to debugging go lang with vscode debugger",
     "enlace": "https://www.youtube.com/watch?v=H9OGturjRiE",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints"
+      "Code Debugging"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints)",
+    "categoria_descriptores": "Code Debugging (Code Debugging)",
     "views": 3029,
     "upload_date": "2025-10-13",
     "latent_x": 77.70999908447266,
@@ -6233,11 +6233,11 @@ const VSC_TUTORIALS_DATA = [
     "autor": "Just Simplify",
     "titulo": "How to Add Conditional Breakpoint In Visual Studio Code (VS Code)",
     "enlace": "https://www.youtube.com/watch?v=9w6cojJ89Yk",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints"
+      "Code Debugging"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints)",
+    "categoria_descriptores": "Code Debugging (Code Debugging)",
     "views": 2888,
     "upload_date": "2020-08-10",
     "latent_x": 86.29000091552734,
@@ -6272,11 +6272,11 @@ const VSC_TUTORIALS_DATA = [
     "autor": "Andy W",
     "titulo": "Unity3d - Debug with Visual Studios and Breakpoints",
     "enlace": "https://www.youtube.com/watch?v=N6wWj5aX7D8",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints"
+      "Code Debugging"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints)",
+    "categoria_descriptores": "Code Debugging (Code Debugging)",
     "views": 2700,
     "upload_date": "2019-08-11",
     "latent_x": 76.20999908447266,
@@ -6388,11 +6388,11 @@ const VSC_TUTORIALS_DATA = [
     "autor": "Gopher Academy",
     "titulo": "GopherCon 2019: Debugging Go Code in VS Code - Ramya Rao",
     "enlace": "https://www.youtube.com/watch?v=7a73fjdiQvQ",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints"
+      "Code Debugging"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints)",
+    "categoria_descriptores": "Code Debugging (Code Debugging)",
     "views": 2420,
     "upload_date": "2020-08-10",
     "latent_x": 85.61000061035156,
@@ -6486,11 +6486,11 @@ const VSC_TUTORIALS_DATA = [
     "autor": "InterSystems Learning Services",
     "titulo": "Using the VS Code Debugger for InterSystems ObjectScript",
     "enlace": "https://www.youtube.com/watch?v=diLHwA0rlGM",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints"
+      "Code Debugging"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints)",
+    "categoria_descriptores": "Code Debugging (Code Debugging)",
     "views": 1810,
     "upload_date": "2022-08-10",
     "latent_x": 82.62000274658203,
@@ -6527,10 +6527,10 @@ const VSC_TUTORIALS_DATA = [
     "categoria_principal": "Extension Setup & Copilot",
     "tags": [
       "Extension Setup & Copilot",
-      "Theme & Workspace Customization",
+      "Workspace Setup",
       "Shortcuts & Multi-Cursor"
     ],
-    "categoria_descriptores": "Extension Setup & Copilot (Extension Setup & Copilot, Theme & Workspace Customization, Shortcuts & Multi-Cursor)",
+    "categoria_descriptores": "Extension Setup & Copilot (Extension Setup & Copilot, Workspace Setup, Shortcuts & Multi-Cursor)",
     "views": 1744,
     "upload_date": "2024-08-09",
     "latent_x": 64.08999633789062,
@@ -6584,13 +6584,13 @@ const VSC_TUTORIALS_DATA = [
     "autor": "Coding with Neeraj",
     "titulo": "VSCode Conditional Breakpoints in Python | Smarter Debugging (Lecture 4)",
     "enlace": "https://www.youtube.com/watch?v=k0ZaiwBnp90",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints",
+      "Code Debugging",
       "Git & GitHub Integration",
       "Python & Backend Setup"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints, Git & GitHub Integration, Python & Backend Setup)",
+    "categoria_descriptores": "Code Debugging (Code Debugging, Git & GitHub Integration, Python & Backend Setup)",
     "views": 1036,
     "upload_date": "2025-08-09",
     "latent_x": 69.0199966430664,
@@ -6643,11 +6643,11 @@ const VSC_TUTORIALS_DATA = [
     "autor": "Method Coder",
     "titulo": "Execute code and modify values on the fly inside VS Code debugger (2/5 - Debugging in VS Code)",
     "enlace": "https://www.youtube.com/watch?v=XTlKDw-iMzM",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints"
+      "Code Debugging"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints)",
+    "categoria_descriptores": "Code Debugging (Code Debugging)",
     "views": 909,
     "upload_date": "2020-08-10",
     "latent_x": 86.87000274658203,
@@ -6662,11 +6662,11 @@ const VSC_TUTORIALS_DATA = [
     "autor": "JavaScript Talks",
     "titulo": "👩‍💻VSCode and Chrome Debugger Conditional Breakpoints | ⚡Advanced Debugging⚡",
     "enlace": "https://www.youtube.com/watch?v=kjKYI_YaKuc",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints"
+      "Code Debugging"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints)",
+    "categoria_descriptores": "Code Debugging (Code Debugging)",
     "views": 877,
     "upload_date": "2021-08-10",
     "latent_x": 77.75,
@@ -6798,12 +6798,12 @@ const VSC_TUTORIALS_DATA = [
     "autor": "Steve's Coding Lab",
     "titulo": "DEBUG a Python Game in VS-Code | TUTORIAL",
     "enlace": "https://www.youtube.com/watch?v=KPEyA7RYkfI",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints",
+      "Code Debugging",
       "Python & Backend Setup"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints, Python & Backend Setup)",
+    "categoria_descriptores": "Code Debugging (Code Debugging, Python & Backend Setup)",
     "views": 402,
     "upload_date": "2023-08-10",
     "latent_x": 73.37999725341797,
@@ -6840,9 +6840,9 @@ const VSC_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Code Debugging & Breakpoints"
+      "Code Debugging"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Code Debugging & Breakpoints)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Code Debugging)",
     "views": 362,
     "upload_date": "2025-11-12",
     "latent_x": 94.2699966430664,
@@ -6876,12 +6876,12 @@ const VSC_TUTORIALS_DATA = [
     "autor": "TechWorld with MJ",
     "titulo": "Git Commands using VSCode Terminal|Session#6|Creating my first git Repository| Latest 2023 #github",
     "enlace": "https://www.youtube.com/watch?v=auYyYcfXJzI",
-    "categoria_principal": "Integrated Terminal & Tasks",
+    "categoria_principal": "Integrated Terminal",
     "tags": [
-      "Integrated Terminal & Tasks",
+      "Integrated Terminal",
       "Git & GitHub Integration"
     ],
-    "categoria_descriptores": "Integrated Terminal & Tasks (Integrated Terminal & Tasks, Git & GitHub Integration)",
+    "categoria_descriptores": "Integrated Terminal (Integrated Terminal, Git & GitHub Integration)",
     "views": 307,
     "upload_date": "2023-08-10",
     "latent_x": 75.13999938964844,
@@ -7050,11 +7050,11 @@ const VSC_TUTORIALS_DATA = [
     "autor": "AutistiCoder",
     "titulo": "Debugging a Next js App with VS Code – An Autism Friendly Coding Tutorial",
     "enlace": "https://www.youtube.com/watch?v=o7nlP_W6NMk",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints"
+      "Code Debugging"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints)",
+    "categoria_descriptores": "Code Debugging (Code Debugging)",
     "views": 196,
     "upload_date": "2026-01-11",
     "latent_x": 89.45999908447266,
@@ -7206,12 +7206,12 @@ const VSC_TUTORIALS_DATA = [
     "autor": "Tutorialytics",
     "titulo": "How to Debug in VS Code (2026 Step by Step Guide)",
     "enlace": "https://www.youtube.com/watch?v=3I_Yqbw62nA",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints",
+      "Code Debugging",
       "Web Development Setup"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints, Web Development Setup)",
+    "categoria_descriptores": "Code Debugging (Code Debugging, Web Development Setup)",
     "views": 69,
     "upload_date": "2026-03-12",
     "latent_x": 84.20999908447266,
@@ -7341,11 +7341,11 @@ const VSC_TUTORIALS_DATA = [
     "autor": "Tutorial Toolkit",
     "titulo": "How to use breakpoints in Visual Studio Code",
     "enlace": "https://www.youtube.com/watch?v=SP3j0E_jnGc",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints"
+      "Code Debugging"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints)",
+    "categoria_descriptores": "Code Debugging (Code Debugging)",
     "views": 39,
     "upload_date": "2025-12-12",
     "latent_x": 80.0199966430664,
@@ -7398,11 +7398,11 @@ const VSC_TUTORIALS_DATA = [
     "autor": "Jeremiah Tutorials",
     "titulo": "How to Use the Debugger on VS Code (Step by Step)",
     "enlace": "https://www.youtube.com/watch?v=t5R7HNmzB-E",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints"
+      "Code Debugging"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints)",
+    "categoria_descriptores": "Code Debugging (Code Debugging)",
     "views": 20,
     "upload_date": "2026-07-10",
     "latent_x": 84.37999725341797,
@@ -7417,11 +7417,11 @@ const VSC_TUTORIALS_DATA = [
     "autor": "TechGuidePro",
     "titulo": "How to Debug in VSCode - Step by Step 2026",
     "enlace": "https://www.youtube.com/watch?v=-mQy9XOF0b8",
-    "categoria_principal": "Code Debugging & Breakpoints",
+    "categoria_principal": "Code Debugging",
     "tags": [
-      "Code Debugging & Breakpoints"
+      "Code Debugging"
     ],
-    "categoria_descriptores": "Code Debugging & Breakpoints (Code Debugging & Breakpoints)",
+    "categoria_descriptores": "Code Debugging (Code Debugging)",
     "views": 18,
     "upload_date": "2026-05-11",
     "latent_x": 80.30000305175781,

@@ -28,9 +28,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Stable Diffusion)",
     "views": 724304,
     "upload_date": "2024-08-09",
     "latent_x": -44.63999938964844,
@@ -102,11 +102,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Sebastian Kamph",
     "titulo": "How to install and use ComfyUI - Stable Diffusion.",
     "enlace": "https://www.youtube.com/watch?v=KTPLOqAMR0s",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 582979,
     "upload_date": "2023-08-10",
     "latent_x": 38.400001525878906,
@@ -141,12 +141,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Nate Gentile",
     "titulo": "¡Así generé mis fotos más ÉPICAS con Inteligencia Artificial! [Flux + ComfyUI + LoRA]",
     "enlace": "https://www.youtube.com/watch?v=sf0ynoUK35o",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "Flux Model Workflows"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, Flux Model Workflows)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, Flux Model Workflows)",
     "views": 413222,
     "upload_date": "2025-08-09",
     "latent_x": -8.420000076293945,
@@ -200,12 +200,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "MDMZ",
     "titulo": "How To Use WAN 2.2 in ComfyUI: The BEST FREE AI Video Model",
     "enlace": "https://www.youtube.com/watch?v=CfdyO2ikv88",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, AnimateDiff & AI Video)",
     "views": 357461,
     "upload_date": "2025-08-09",
     "latent_x": 9.199999809265137,
@@ -223,9 +223,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Stable Diffusion)",
     "views": 345234,
     "upload_date": "2023-08-10",
     "latent_x": -41.58000183105469,
@@ -240,12 +240,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "MDMZ",
     "titulo": "AnimateDiff Tutorial: Turn Videos to A.I Animation | IPAdapter x ComfyUI",
     "enlace": "https://www.youtube.com/watch?v=AugFKDGyVuw",
-    "categoria_principal": "IPAdapter & Style Transfer",
+    "categoria_principal": "IPAdapter & Transfer",
     "tags": [
-      "IPAdapter & Style Transfer",
+      "IPAdapter & Transfer",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "IPAdapter & Style Transfer (IPAdapter & Style Transfer, AnimateDiff & AI Video)",
+    "categoria_descriptores": "IPAdapter & Transfer (IPAdapter & Transfer, AnimateDiff & AI Video)",
     "views": 324962,
     "upload_date": "2024-08-09",
     "latent_x": -25.440000534057617,
@@ -337,12 +337,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Sebastian Kamph",
     "titulo": "Use Any Face EASY in Stable Diffusion. Ipadapter Tutorial.",
     "enlace": "https://www.youtube.com/watch?v=_A7PraBHyg0",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
-      "IPAdapter & Style Transfer"
+      "Stable Diffusion",
+      "IPAdapter & Transfer"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, IPAdapter & Style Transfer)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, IPAdapter & Transfer)",
     "views": 229240,
     "upload_date": "2024-08-09",
     "latent_x": -14.100000381469727,
@@ -361,9 +361,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Node Graph Architecture, SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Node Graph Architecture, Stable Diffusion)",
     "views": 216541,
     "upload_date": "2024-08-09",
     "latent_x": -48.08000183105469,
@@ -378,12 +378,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "MDMZ",
     "titulo": "FLUX: How To Generate UNLIMITED AI Images For FREE | ComfyUI Tutorial",
     "enlace": "https://www.youtube.com/watch?v=DdSe5knj4k8",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "Flux Model Workflows"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, Flux Model Workflows)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, Flux Model Workflows)",
     "views": 215058,
     "upload_date": "2024-08-09",
     "latent_x": -14.289999961853027,
@@ -419,11 +419,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Matt Wolfe",
     "titulo": "Run SDXL Locally With ComfyUI (2024 Stable Diffusion Guide)",
     "enlace": "https://www.youtube.com/watch?v=9k-yb83ZHfc",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 211046,
     "upload_date": "2024-08-09",
     "latent_x": 25.600000381469727,
@@ -441,9 +441,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Stable Diffusion)",
     "views": 184085,
     "upload_date": "2023-08-10",
     "latent_x": -36.7599983215332,
@@ -461,9 +461,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Stable Diffusion)",
     "views": 182291,
     "upload_date": "2024-08-09",
     "latent_x": -42.77000045776367,
@@ -500,10 +500,10 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "Flux Model Workflows"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, SDXL & Stable Diffusion Models, Flux Model Workflows)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Stable Diffusion, Flux Model Workflows)",
     "views": 176705,
     "upload_date": "2025-08-09",
     "latent_x": -4.039999961853027,
@@ -559,9 +559,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "ControlNet Pose & Canny",
     "tags": [
       "ControlNet Pose & Canny",
-      "Image Upscaling & Hires Fix"
+      "Upscaling & Hires Fix"
     ],
-    "categoria_descriptores": "ControlNet Pose & Canny (ControlNet Pose & Canny, Image Upscaling & Hires Fix)",
+    "categoria_descriptores": "ControlNet Pose & Canny (ControlNet Pose & Canny, Upscaling & Hires Fix)",
     "views": 158085,
     "upload_date": "2026-01-11",
     "latent_x": 12.220000267028809,
@@ -576,12 +576,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "pixaroma",
     "titulo": "ComfyUI Tutorial Series: Ep09 - How to Use SDXL ControlNet Union",
     "enlace": "https://www.youtube.com/watch?v=C0zykaDF1ts",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "ControlNet Pose & Canny"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, ControlNet Pose & Canny)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, ControlNet Pose & Canny)",
     "views": 156317,
     "upload_date": "2025-08-09",
     "latent_x": 42.36000061035156,
@@ -596,12 +596,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Latent Vision",
     "titulo": "IPAdapter v2: all the new features!",
     "enlace": "https://www.youtube.com/watch?v=_JzDcgKgghY",
-    "categoria_principal": "IPAdapter & Style Transfer",
+    "categoria_principal": "IPAdapter & Transfer",
     "tags": [
-      "IPAdapter & Style Transfer",
-      "Custom Nodes & ComfyManager"
+      "IPAdapter & Transfer",
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "IPAdapter & Style Transfer (IPAdapter & Style Transfer, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "IPAdapter & Transfer (IPAdapter & Transfer, Custom Nodes)",
     "views": 152328,
     "upload_date": "2024-08-09",
     "latent_x": -52.029998779296875,
@@ -635,13 +635,13 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Vladimir Chopine [GeekatPlay]",
     "titulo": "How to Train LoRA in ComfyUI Using Flux – Full Step-by-Step Tutorial",
     "enlace": "https://www.youtube.com/watch?v=m3ENCAwWDXc",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "Flux Model Workflows",
       "ControlNet Pose & Canny"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, Flux Model Workflows, ControlNet Pose & Canny)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, Flux Model Workflows, ControlNet Pose & Canny)",
     "views": 151857,
     "upload_date": "2025-08-09",
     "latent_x": 4.090000152587891,
@@ -656,12 +656,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Scott Detweiler",
     "titulo": "ComfyUI : Ultimate Upscaler - Upscale any image from Stable Diffusion, MidJourney, or photo!",
     "enlace": "https://www.youtube.com/watch?v=CxB47DMEyYQ",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
-      "Image Upscaling & Hires Fix"
+      "Stable Diffusion",
+      "Upscaling & Hires Fix"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, Image Upscaling & Hires Fix)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, Upscaling & Hires Fix)",
     "views": 149750,
     "upload_date": "2024-08-09",
     "latent_x": 97.29000091552734,
@@ -695,12 +695,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Scott Detweiler",
     "titulo": "ComfyUI Infinite Upscale - Add details as you upscale your images using the iterative upscale node",
     "enlace": "https://www.youtube.com/watch?v=t3lT_04A9j0",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
-      "Image Upscaling & Hires Fix"
+      "Stable Diffusion",
+      "Upscaling & Hires Fix"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, Image Upscaling & Hires Fix)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, Upscaling & Hires Fix)",
     "views": 137843,
     "upload_date": "2023-08-10",
     "latent_x": 106.87000274658203,
@@ -715,12 +715,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "MattVidPro",
     "titulo": "Easiest way to Install Stable Diffusion XL 1.0 on Your Computer! (Best Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=9TtNiKnYGD4",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, AnimateDiff & AI Video)",
     "views": 137693,
     "upload_date": "2023-08-10",
     "latent_x": 21.260000228881836,
@@ -833,9 +833,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion)",
     "views": 125430,
     "upload_date": "2023-08-10",
     "latent_x": 69.23999786376953,
@@ -869,12 +869,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "pixaroma",
     "titulo": "ComfyUI Tutorial Series: Ep19 - SDXL & Flux Inpainting Tips with ComfyUI",
     "enlace": "https://www.youtube.com/watch?v=EJ7LhNS67KM",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "Flux Model Workflows"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, Flux Model Workflows)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, Flux Model Workflows)",
     "views": 119233,
     "upload_date": "2025-08-09",
     "latent_x": -22.170000076293945,
@@ -912,11 +912,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "ControlNet Pose & Canny",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models, ControlNet Pose & Canny, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion, ControlNet Pose & Canny, AnimateDiff & AI Video)",
     "views": 114455,
     "upload_date": "2025-10-13",
     "latent_x": 26.920000076293945,
@@ -931,12 +931,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Latent Vision",
     "titulo": "InstantID: Everything you need to know",
     "enlace": "https://www.youtube.com/watch?v=wMLiGhogOPE",
-    "categoria_principal": "IPAdapter & Style Transfer",
+    "categoria_principal": "IPAdapter & Transfer",
     "tags": [
-      "IPAdapter & Style Transfer",
+      "IPAdapter & Transfer",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "IPAdapter & Style Transfer (IPAdapter & Style Transfer, AnimateDiff & AI Video)",
+    "categoria_descriptores": "IPAdapter & Transfer (IPAdapter & Transfer, AnimateDiff & AI Video)",
     "views": 114433,
     "upload_date": "2024-08-09",
     "latent_x": -16.0,
@@ -974,10 +974,10 @@ const COMFYUI_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models",
-      "Custom Nodes & ComfyManager"
+      "Stable Diffusion",
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Node Graph Architecture, SDXL & Stable Diffusion Models, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Node Graph Architecture, Stable Diffusion, Custom Nodes)",
     "views": 112548,
     "upload_date": "2023-08-10",
     "latent_x": -63.77000045776367,
@@ -1011,12 +1011,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "pixaroma",
     "titulo": "ComfyUI Tutorial Series Ep 52: Master Flux Kontext – Inpainting, Editing & Character Consistency",
     "enlace": "https://www.youtube.com/watch?v=9-onDeEWWvU",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "Flux Model Workflows"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, Flux Model Workflows)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, Flux Model Workflows)",
     "views": 111309,
     "upload_date": "2025-08-09",
     "latent_x": -22.760000228881836,
@@ -1050,12 +1050,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Scott Detweiler",
     "titulo": "ComfyUI : NEW Official ControlNet Models are released!  Here is my tutorial on how to use them.",
     "enlace": "https://www.youtube.com/watch?v=DMxnf4WXMsY",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "ControlNet Pose & Canny"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, ControlNet Pose & Canny)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, ControlNet Pose & Canny)",
     "views": 107522,
     "upload_date": "2024-08-09",
     "latent_x": 27.649999618530273,
@@ -1073,9 +1073,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion)",
     "views": 106778,
     "upload_date": "2023-08-10",
     "latent_x": 76.22000122070312,
@@ -1133,9 +1133,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "tags": [
       "Node Graph Architecture",
       "Flux Model Workflows",
-      "Custom Nodes & ComfyManager"
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Flux Model Workflows, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Flux Model Workflows, Custom Nodes)",
     "views": 98440,
     "upload_date": "2025-08-09",
     "latent_x": -65.77999877929688,
@@ -1150,14 +1150,14 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Data Leveling",
     "titulo": "ComfyUI IPAdapter (SDXL/SD1.5): Create a Consistent AI Instagram Model",
     "enlace": "https://www.youtube.com/watch?v=oYjEFHb--RA",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "ControlNet Pose & Canny",
-      "IPAdapter & Style Transfer",
+      "IPAdapter & Transfer",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, ControlNet Pose & Canny, IPAdapter & Style Transfer, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, ControlNet Pose & Canny, IPAdapter & Transfer, AnimateDiff & AI Video)",
     "views": 97047,
     "upload_date": "2024-08-09",
     "latent_x": 6.989999771118164,
@@ -1175,9 +1175,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "Image Upscaling & Hires Fix"
+      "Upscaling & Hires Fix"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Image Upscaling & Hires Fix)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Upscaling & Hires Fix)",
     "views": 96249,
     "upload_date": "2024-08-09",
     "latent_x": 115.87000274658203,
@@ -1211,11 +1211,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Latent Vision",
     "titulo": "Image stability and repeatability (ComfyUI + IPAdapter)",
     "enlace": "https://www.youtube.com/watch?v=6i417F-g37s",
-    "categoria_principal": "IPAdapter & Style Transfer",
+    "categoria_principal": "IPAdapter & Transfer",
     "tags": [
-      "IPAdapter & Style Transfer"
+      "IPAdapter & Transfer"
     ],
-    "categoria_descriptores": "IPAdapter & Style Transfer (IPAdapter & Style Transfer)",
+    "categoria_descriptores": "IPAdapter & Transfer (IPAdapter & Transfer)",
     "views": 94495,
     "upload_date": "2024-08-09",
     "latent_x": -40.369998931884766,
@@ -1270,11 +1270,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Scott Detweiler",
     "titulo": "Which Stable Diffusion Sampler is Best? - Comparison With Step Counts",
     "enlace": "https://www.youtube.com/watch?v=N5ZAMa3BUxc",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 88544,
     "upload_date": "2023-08-10",
     "latent_x": 32.560001373291016,
@@ -1349,13 +1349,13 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "pixaroma",
     "titulo": "ComfyUI Tutorial Series Ep17   Flux LoRA Explained! Best Settings & New UI",
     "enlace": "https://www.youtube.com/watch?v=-aW1U8QEak0",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "Flux Model Workflows",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, Flux Model Workflows, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, Flux Model Workflows, AnimateDiff & AI Video)",
     "views": 84701,
     "upload_date": "2025-08-09",
     "latent_x": -24.100000381469727,
@@ -1370,12 +1370,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "pixaroma",
     "titulo": "AI Image Editing in ComfyUI: Flux 2 Klein (Ep04)",
     "enlace": "https://www.youtube.com/watch?v=kNap0VWP1xs",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "Flux Model Workflows"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, Flux Model Workflows)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, Flux Model Workflows)",
     "views": 84376,
     "upload_date": "2026-03-12",
     "latent_x": -5.039999961853027,
@@ -1466,11 +1466,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Latent Vision",
     "titulo": "Attention Masking with IPAdapter and ComfyUI",
     "enlace": "https://www.youtube.com/watch?v=vqG1VXKteQg",
-    "categoria_principal": "IPAdapter & Style Transfer",
+    "categoria_principal": "IPAdapter & Transfer",
     "tags": [
-      "IPAdapter & Style Transfer"
+      "IPAdapter & Transfer"
     ],
-    "categoria_descriptores": "IPAdapter & Style Transfer (IPAdapter & Style Transfer)",
+    "categoria_descriptores": "IPAdapter & Transfer (IPAdapter & Transfer)",
     "views": 79743,
     "upload_date": "2024-08-09",
     "latent_x": -24.68000030517578,
@@ -1543,12 +1543,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Stefan 3D AI",
     "titulo": "Free Text to Animation with only 8GB VRAM in ComfyUI",
     "enlace": "https://www.youtube.com/watch?v=nDlMBCO8Np8",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, AnimateDiff & AI Video)",
     "views": 77179,
     "upload_date": "2026-01-11",
     "latent_x": 5.599999904632568,
@@ -1563,12 +1563,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "ControlAltAI",
     "titulo": "A1111: IP Adapter ControlNet Tutorial (Stable Diffusion)",
     "enlace": "https://www.youtube.com/watch?v=KHm5Q5TfNvE",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "ControlNet Pose & Canny"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, ControlNet Pose & Canny)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, ControlNet Pose & Canny)",
     "views": 76936,
     "upload_date": "2024-08-09",
     "latent_x": 35.279998779296875,
@@ -1583,11 +1583,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "pixaroma",
     "titulo": "ComfyUI Tutorial Series Ep 46: How to Upscale Your AI Images (Update)",
     "enlace": "https://www.youtube.com/watch?v=34y7QBVyvzY",
-    "categoria_principal": "Image Upscaling & Hires Fix",
+    "categoria_principal": "Upscaling & Hires Fix",
     "tags": [
-      "Image Upscaling & Hires Fix"
+      "Upscaling & Hires Fix"
     ],
-    "categoria_descriptores": "Image Upscaling & Hires Fix (Image Upscaling & Hires Fix)",
+    "categoria_descriptores": "Upscaling & Hires Fix (Upscaling & Hires Fix)",
     "views": 74529,
     "upload_date": "2025-08-09",
     "latent_x": 105.91000366210938,
@@ -1640,11 +1640,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "CoderX",
     "titulo": "bye midjourney! SDXL 1.0 - How to install Stable Diffusion XL 1.0 (Automatic1111 & ComfyUI Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=BVtl9H7uf4A",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 72690,
     "upload_date": "2023-08-10",
     "latent_x": 29.770000457763672,
@@ -1678,11 +1678,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Scott Detweiler",
     "titulo": "ComfyUI - 1 Image LoRA?! Check out this IP Adapter Tutorial for Stable Diffusion",
     "enlace": "https://www.youtube.com/watch?v=xzGdynQDzsM",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 70534,
     "upload_date": "2024-08-09",
     "latent_x": 46.5099983215332,
@@ -1717,12 +1717,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Latent Vision",
     "titulo": "Style and Composition with IPAdapter and ComfyUI",
     "enlace": "https://www.youtube.com/watch?v=czcgJnoDVd4",
-    "categoria_principal": "IPAdapter & Style Transfer",
+    "categoria_principal": "IPAdapter & Transfer",
     "tags": [
-      "IPAdapter & Style Transfer",
-      "Custom Nodes & ComfyManager"
+      "IPAdapter & Transfer",
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "IPAdapter & Style Transfer (IPAdapter & Style Transfer, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "IPAdapter & Transfer (IPAdapter & Transfer, Custom Nodes)",
     "views": 70348,
     "upload_date": "2024-08-09",
     "latent_x": -45.459999084472656,
@@ -1737,12 +1737,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "pixaroma",
     "titulo": "How to Upscale Images in ComfyUI (Ep05)",
     "enlace": "https://www.youtube.com/watch?v=BRHodz0_Uc4",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
-      "Image Upscaling & Hires Fix"
+      "Stable Diffusion",
+      "Upscaling & Hires Fix"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, Image Upscaling & Hires Fix)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, Upscaling & Hires Fix)",
     "views": 70327,
     "upload_date": "2026-03-12",
     "latent_x": 91.83999633789062,
@@ -1757,11 +1757,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Sebastian Kamph",
     "titulo": "SDXL 1.0 in ComfyUI - Stable Diffusion",
     "enlace": "https://www.youtube.com/watch?v=sgYC9eWClCY",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 68806,
     "upload_date": "2023-08-10",
     "latent_x": 55.47999954223633,
@@ -1797,12 +1797,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Endangered AI",
     "titulo": "Ultimate Guide to IPAdapter on comfyUI",
     "enlace": "https://www.youtube.com/watch?v=n6tYqqV0q7I",
-    "categoria_principal": "IPAdapter & Style Transfer",
+    "categoria_principal": "IPAdapter & Transfer",
     "tags": [
-      "IPAdapter & Style Transfer",
-      "Custom Nodes & ComfyManager"
+      "IPAdapter & Transfer",
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "IPAdapter & Style Transfer (IPAdapter & Style Transfer, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "IPAdapter & Transfer (IPAdapter & Transfer, Custom Nodes)",
     "views": 67129,
     "upload_date": "2024-08-09",
     "latent_x": -53.029998779296875,
@@ -1857,11 +1857,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Scott Detweiler",
     "titulo": "ComfyUI : EASY Face Fixes & Swapping my wife's face into images!",
     "enlace": "https://www.youtube.com/watch?v=ekofgf9T-9c",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 65559,
     "upload_date": "2024-08-09",
     "latent_x": 79.02999877929688,
@@ -1898,10 +1898,10 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "IPAdapter & Style Transfer",
+      "IPAdapter & Transfer",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, IPAdapter & Style Transfer, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, IPAdapter & Transfer, AnimateDiff & AI Video)",
     "views": 64872,
     "upload_date": "2024-08-09",
     "latent_x": -22.030000686645508,
@@ -1916,12 +1916,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Olivio Sarikas",
     "titulo": "SDXL 0.9 Official Release - Run Local Guide!",
     "enlace": "https://www.youtube.com/watch?v=Q8eG6lG4eGw",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, AnimateDiff & AI Video)",
     "views": 64197,
     "upload_date": "2023-08-10",
     "latent_x": 22.260000228881836,
@@ -1974,11 +1974,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Latent Vision",
     "titulo": "Become a Style Transfer Master with ComfyUI and IPAdapter",
     "enlace": "https://www.youtube.com/watch?v=gmwZGC8UVHE",
-    "categoria_principal": "IPAdapter & Style Transfer",
+    "categoria_principal": "IPAdapter & Transfer",
     "tags": [
-      "IPAdapter & Style Transfer"
+      "IPAdapter & Transfer"
     ],
-    "categoria_descriptores": "IPAdapter & Style Transfer (IPAdapter & Style Transfer)",
+    "categoria_descriptores": "IPAdapter & Transfer (IPAdapter & Transfer)",
     "views": 60905,
     "upload_date": "2024-08-09",
     "latent_x": -34.540000915527344,
@@ -1996,9 +1996,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "AnimateDiff & AI Video",
     "tags": [
       "AnimateDiff & AI Video",
-      "Image Upscaling & Hires Fix"
+      "Upscaling & Hires Fix"
     ],
-    "categoria_descriptores": "AnimateDiff & AI Video (AnimateDiff & AI Video, Image Upscaling & Hires Fix)",
+    "categoria_descriptores": "AnimateDiff & AI Video (AnimateDiff & AI Video, Upscaling & Hires Fix)",
     "views": 59972,
     "upload_date": "2026-04-11",
     "latent_x": 103.80999755859375,
@@ -2018,9 +2018,9 @@ const COMFYUI_TUTORIALS_DATA = [
       "Node Graph Architecture",
       "Flux Model Workflows",
       "AnimateDiff & AI Video",
-      "Image Upscaling & Hires Fix"
+      "Upscaling & Hires Fix"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Flux Model Workflows, AnimateDiff & AI Video, Image Upscaling & Hires Fix)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Flux Model Workflows, AnimateDiff & AI Video, Upscaling & Hires Fix)",
     "views": 59567,
     "upload_date": "2025-08-09",
     "latent_x": 86.9800033569336,
@@ -2076,9 +2076,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Stable Diffusion)",
     "views": 56556,
     "upload_date": "2023-08-10",
     "latent_x": -29.6299991607666,
@@ -2134,10 +2134,10 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "ControlNet Pose & Canny"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, SDXL & Stable Diffusion Models, ControlNet Pose & Canny)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Stable Diffusion, ControlNet Pose & Canny)",
     "views": 54255,
     "upload_date": "2024-08-09",
     "latent_x": -49.27000045776367,
@@ -2155,9 +2155,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion)",
     "views": 53858,
     "upload_date": "2025-08-09",
     "latent_x": 53.18000030517578,
@@ -2194,10 +2194,10 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "Flux Model Workflows"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, SDXL & Stable Diffusion Models, Flux Model Workflows)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Stable Diffusion, Flux Model Workflows)",
     "views": 53402,
     "upload_date": "2025-08-09",
     "latent_x": -17.899999618530273,
@@ -2212,11 +2212,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Scott Detweiler",
     "titulo": "Reverse Prompt Lookup! Take any image (even non-AI art) and see what bot thinks the prompt might be!",
     "enlace": "https://www.youtube.com/watch?v=JPBtaAQ2H2Y",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 52693,
     "upload_date": "2023-08-10",
     "latent_x": 69.66999816894531,
@@ -2312,11 +2312,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "Flux Model Workflows",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, SDXL & Stable Diffusion Models, Flux Model Workflows, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Stable Diffusion, Flux Model Workflows, AnimateDiff & AI Video)",
     "views": 49891,
     "upload_date": "2025-08-09",
     "latent_x": -13.4399995803833,
@@ -2392,9 +2392,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "IPAdapter & Style Transfer"
+      "IPAdapter & Transfer"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, IPAdapter & Style Transfer)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, IPAdapter & Transfer)",
     "views": 47743,
     "upload_date": "2024-08-09",
     "latent_x": -18.700000762939453,
@@ -2409,12 +2409,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Latent Vision",
     "titulo": "Animations with IPAdapter and ComfyUI",
     "enlace": "https://www.youtube.com/watch?v=ddYbhv3WgWw",
-    "categoria_principal": "IPAdapter & Style Transfer",
+    "categoria_principal": "IPAdapter & Transfer",
     "tags": [
-      "IPAdapter & Style Transfer",
-      "Custom Nodes & ComfyManager"
+      "IPAdapter & Transfer",
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "IPAdapter & Style Transfer (IPAdapter & Style Transfer, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "IPAdapter & Transfer (IPAdapter & Transfer, Custom Nodes)",
     "views": 46625,
     "upload_date": "2024-08-09",
     "latent_x": -43.540000915527344,
@@ -2429,11 +2429,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Scott Detweiler",
     "titulo": "Stable Diffusion Image Editor!  Use a sketch or photo to guide your prompt in Dream Studio",
     "enlace": "https://www.youtube.com/watch?v=vHDEaoHd7uk",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 44518,
     "upload_date": "2023-08-10",
     "latent_x": 81.54000091552734,
@@ -2451,9 +2451,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion)",
     "views": 43611,
     "upload_date": "2024-08-09",
     "latent_x": 66.58999633789062,
@@ -2487,11 +2487,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Scott Detweiler",
     "titulo": "New Model! SDXL Turbo - 1 Step Real Time Stable Diffusion in ComfyUI",
     "enlace": "https://www.youtube.com/watch?v=DZ2dfq8ljrc",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 42564,
     "upload_date": "2024-08-09",
     "latent_x": 28.8700008392334,
@@ -2550,9 +2550,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Stable Diffusion)",
     "views": 40859,
     "upload_date": "2024-08-09",
     "latent_x": -44.95000076293945,
@@ -2605,11 +2605,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Scott Detweiler",
     "titulo": "ComfyUI - FreeU: You NEED This! Upgrade any model, no additional time, training, or cost!",
     "enlace": "https://www.youtube.com/watch?v=8XJH6uZjNzA",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 37049,
     "upload_date": "2024-08-09",
     "latent_x": 41.43000030517578,
@@ -2646,9 +2646,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Stable Diffusion)",
     "views": 36709,
     "upload_date": "2023-08-10",
     "latent_x": -48.060001373291016,
@@ -2721,11 +2721,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Scott Detweiler",
     "titulo": "ComfyUI : XY Plot Tutorial.  You will use this a ton!",
     "enlace": "https://www.youtube.com/watch?v=gbSvsSpfnJs",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 34978,
     "upload_date": "2024-08-09",
     "latent_x": 43.779998779296875,
@@ -2743,10 +2743,10 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models",
-      "Image Upscaling & Hires Fix"
+      "Stable Diffusion",
+      "Upscaling & Hires Fix"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models, Image Upscaling & Hires Fix)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion, Upscaling & Hires Fix)",
     "views": 34862,
     "upload_date": "2025-12-12",
     "latent_x": 102.7300033569336,
@@ -2761,11 +2761,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Latent Vision",
     "titulo": "SD 3.5 Large: the good, the bad, the ugly",
     "enlace": "https://www.youtube.com/watch?v=en-GMBIa-N8",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 34764,
     "upload_date": "2025-08-09",
     "latent_x": 71.75,
@@ -2780,11 +2780,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "ControlAltAI",
     "titulo": "ComfyUI: IP Adapter Workflows (Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=KHt-2nZsY9E",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 34260,
     "upload_date": "2024-08-09",
     "latent_x": 56.810001373291016,
@@ -2802,9 +2802,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "IPAdapter & Style Transfer"
+      "IPAdapter & Transfer"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, IPAdapter & Style Transfer)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, IPAdapter & Transfer)",
     "views": 32750,
     "upload_date": "2024-08-09",
     "latent_x": -62.400001525878906,
@@ -2857,12 +2857,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Urban Decoders",
     "titulo": "Advanced AI Sketch to Image: Style transfer with comfyui and IPadapter",
     "enlace": "https://www.youtube.com/watch?v=4_37qy9Rfr0",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
-      "IPAdapter & Style Transfer"
+      "Stable Diffusion",
+      "IPAdapter & Transfer"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, IPAdapter & Style Transfer)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, IPAdapter & Transfer)",
     "views": 31343,
     "upload_date": "2024-08-09",
     "latent_x": -13.5600004196167,
@@ -2881,9 +2881,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "tags": [
       "Node Graph Architecture",
       "ControlNet Pose & Canny",
-      "IPAdapter & Style Transfer"
+      "IPAdapter & Transfer"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, ControlNet Pose & Canny, IPAdapter & Style Transfer)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, ControlNet Pose & Canny, IPAdapter & Transfer)",
     "views": 30891,
     "upload_date": "2024-08-09",
     "latent_x": 6.25,
@@ -2940,9 +2940,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "tags": [
       "Node Graph Architecture",
       "ControlNet Pose & Canny",
-      "IPAdapter & Style Transfer"
+      "IPAdapter & Transfer"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, ControlNet Pose & Canny, IPAdapter & Style Transfer)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, ControlNet Pose & Canny, IPAdapter & Transfer)",
     "views": 30202,
     "upload_date": "2024-08-09",
     "latent_x": 8.9399995803833,
@@ -2957,12 +2957,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Not4Talent",
     "titulo": "UPSCALE any image for FREE with AI | Stable Diffusion",
     "enlace": "https://www.youtube.com/watch?v=kHbtq5pH7nM",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
-      "Image Upscaling & Hires Fix"
+      "Stable Diffusion",
+      "Upscaling & Hires Fix"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, Image Upscaling & Hires Fix)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, Upscaling & Hires Fix)",
     "views": 29856,
     "upload_date": "2025-08-09",
     "latent_x": 85.72000122070312,
@@ -2999,12 +2999,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "ComfyUI",
     "titulo": "Wan 2.2 Animate in ComfyUI: Character Replacement Tutorial",
     "enlace": "https://www.youtube.com/watch?v=dbG-Hc6dXTA",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, AnimateDiff & AI Video)",
     "views": 29363,
     "upload_date": "2025-11-12",
     "latent_x": 20.469999313354492,
@@ -3038,11 +3038,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Latent Vision",
     "titulo": "From real to anime (with IPAdapter and ComfyUI)",
     "enlace": "https://www.youtube.com/watch?v=vp_5Sm4V-Ds",
-    "categoria_principal": "IPAdapter & Style Transfer",
+    "categoria_principal": "IPAdapter & Transfer",
     "tags": [
-      "IPAdapter & Style Transfer"
+      "IPAdapter & Transfer"
     ],
-    "categoria_descriptores": "IPAdapter & Style Transfer (IPAdapter & Style Transfer)",
+    "categoria_descriptores": "IPAdapter & Transfer (IPAdapter & Transfer)",
     "views": 28766,
     "upload_date": "2024-08-09",
     "latent_x": -28.540000915527344,
@@ -3057,11 +3057,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Scott Detweiler",
     "titulo": "Prompt Engineering - Part1 : Prompt Tricks You Probably Missed for Stable Diffusion",
     "enlace": "https://www.youtube.com/watch?v=MgLpmksylOc",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 28550,
     "upload_date": "2023-08-10",
     "latent_x": 69.73999786376953,
@@ -3076,11 +3076,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Scott Detweiler",
     "titulo": "Prompt Wildcards in Stable Diffusion or Dynamic Prompting is wonderfully random",
     "enlace": "https://www.youtube.com/watch?v=yiCsqJn16pw",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 28468,
     "upload_date": "2023-08-10",
     "latent_x": 62.83000183105469,
@@ -3119,9 +3119,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "AnimateDiff & AI Video",
     "tags": [
       "AnimateDiff & AI Video",
-      "Image Upscaling & Hires Fix"
+      "Upscaling & Hires Fix"
     ],
-    "categoria_descriptores": "AnimateDiff & AI Video (AnimateDiff & AI Video, Image Upscaling & Hires Fix)",
+    "categoria_descriptores": "AnimateDiff & AI Video (AnimateDiff & AI Video, Upscaling & Hires Fix)",
     "views": 28239,
     "upload_date": "2026-01-11",
     "latent_x": 106.93000030517578,
@@ -3176,11 +3176,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "AI Ninja",
     "titulo": "Krea 2 Image-to-Image Explained | Why It Isn't an Edit Model + Better ComfyUI Workflows",
     "enlace": "https://www.youtube.com/watch?v=iYuVZqEVUPQ",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 26482,
     "upload_date": "2026-07-10",
     "latent_x": 63.040000915527344,
@@ -3198,10 +3198,10 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models",
-      "Custom Nodes & ComfyManager"
+      "Stable Diffusion",
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion, Custom Nodes)",
     "views": 25695,
     "upload_date": "2024-08-09",
     "latent_x": -38.97999954223633,
@@ -3216,13 +3216,13 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Latent Vision",
     "titulo": "Throwing data to your face (models)!",
     "enlace": "https://www.youtube.com/watch?v=oBKcjY-JO3Y",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
-      "IPAdapter & Style Transfer",
+      "Stable Diffusion",
+      "IPAdapter & Transfer",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, IPAdapter & Style Transfer, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, IPAdapter & Transfer, AnimateDiff & AI Video)",
     "views": 25489,
     "upload_date": "2024-08-09",
     "latent_x": -4.159999847412109,
@@ -3260,9 +3260,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Stable Diffusion)",
     "views": 23924,
     "upload_date": "2024-08-09",
     "latent_x": -34.380001068115234,
@@ -3280,9 +3280,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion)",
     "views": 23823,
     "upload_date": "2023-08-10",
     "latent_x": 65.47000122070312,
@@ -3297,12 +3297,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "James Doss AI",
     "titulo": "Ultimate Z Image Turbo Guide + ComfyUI (Install, LoRA, Inpaint, Img2Img)",
     "enlace": "https://www.youtube.com/watch?v=3Z9LTRN8ci4",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, AnimateDiff & AI Video)",
     "views": 23769,
     "upload_date": "2025-12-12",
     "latent_x": 32.650001525878906,
@@ -3317,13 +3317,13 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Nekodificador Lab",
     "titulo": "The BEST model in-store by far (Flux Klein at ComfyUI)",
     "enlace": "https://www.youtube.com/watch?v=og_W2IQlpRI",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "Flux Model Workflows",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, Flux Model Workflows, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, Flux Model Workflows, AnimateDiff & AI Video)",
     "views": 23282,
     "upload_date": "2026-04-11",
     "latent_x": -10.920000076293945,
@@ -3338,11 +3338,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "ControlAltAI",
     "titulo": "ComfyUI: IP Adapter Clothing Style (Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=YG6oif_nEGk",
-    "categoria_principal": "IPAdapter & Style Transfer",
+    "categoria_principal": "IPAdapter & Transfer",
     "tags": [
-      "IPAdapter & Style Transfer"
+      "IPAdapter & Transfer"
     ],
-    "categoria_descriptores": "IPAdapter & Style Transfer (IPAdapter & Style Transfer)",
+    "categoria_descriptores": "IPAdapter & Transfer (IPAdapter & Transfer)",
     "views": 22728,
     "upload_date": "2024-08-09",
     "latent_x": -41.86000061035156,
@@ -3380,11 +3380,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "Flux Model Workflows",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models, Flux Model Workflows, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion, Flux Model Workflows, AnimateDiff & AI Video)",
     "views": 22474,
     "upload_date": "2025-08-09",
     "latent_x": 59.68000030517578,
@@ -3422,9 +3422,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Flux Model Workflows",
     "tags": [
       "Flux Model Workflows",
-      "Image Upscaling & Hires Fix"
+      "Upscaling & Hires Fix"
     ],
-    "categoria_descriptores": "Flux Model Workflows (Flux Model Workflows, Image Upscaling & Hires Fix)",
+    "categoria_descriptores": "Flux Model Workflows (Flux Model Workflows, Upscaling & Hires Fix)",
     "views": 22221,
     "upload_date": "2025-08-09",
     "latent_x": 58.849998474121094,
@@ -3439,11 +3439,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Scott Detweiler",
     "titulo": "SDXL 1.0 IS HERE!  Were to get it, how to use it, and what to expect.",
     "enlace": "https://www.youtube.com/watch?v=t5yAHGmqeqc",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 22130,
     "upload_date": "2023-08-10",
     "latent_x": 52.560001373291016,
@@ -3479,12 +3479,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "AI Voice Tutor",
     "titulo": "Stable Diffusion XL (SDXL) Turbo Tutorial – Three Different Methods",
     "enlace": "https://www.youtube.com/watch?v=XWFTgJl3VdU",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, AnimateDiff & AI Video)",
     "views": 21213,
     "upload_date": "2024-08-09",
     "latent_x": 45.2400016784668,
@@ -3541,9 +3541,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion)",
     "views": 21026,
     "upload_date": "2025-10-13",
     "latent_x": 36.16999816894531,
@@ -3562,10 +3562,10 @@ const COMFYUI_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "Flux Model Workflows"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Node Graph Architecture, SDXL & Stable Diffusion Models, Flux Model Workflows)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Node Graph Architecture, Stable Diffusion, Flux Model Workflows)",
     "views": 20981,
     "upload_date": "2025-08-09",
     "latent_x": -6.429999828338623,
@@ -3603,9 +3603,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "tags": [
       "Node Graph Architecture",
       "AnimateDiff & AI Video",
-      "Image Upscaling & Hires Fix"
+      "Upscaling & Hires Fix"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, AnimateDiff & AI Video, Image Upscaling & Hires Fix)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, AnimateDiff & AI Video, Upscaling & Hires Fix)",
     "views": 20857,
     "upload_date": "2026-02-10",
     "latent_x": 98.08000183105469,
@@ -3624,9 +3624,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "tags": [
       "Node Graph Architecture",
       "Flux Model Workflows",
-      "IPAdapter & Style Transfer"
+      "IPAdapter & Transfer"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Flux Model Workflows, IPAdapter & Style Transfer)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Flux Model Workflows, IPAdapter & Transfer)",
     "views": 20744,
     "upload_date": "2025-08-09",
     "latent_x": -1.309999942779541,
@@ -3644,11 +3644,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "Flux Model Workflows",
       "ControlNet Pose & Canny"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models, Flux Model Workflows, ControlNet Pose & Canny)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion, Flux Model Workflows, ControlNet Pose & Canny)",
     "views": 20540,
     "upload_date": "2026-03-12",
     "latent_x": 27.059999465942383,
@@ -3704,10 +3704,10 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "Flux Model Workflows"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, SDXL & Stable Diffusion Models, Flux Model Workflows)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Stable Diffusion, Flux Model Workflows)",
     "views": 19943,
     "upload_date": "2025-08-09",
     "latent_x": -10.489999771118164,
@@ -3725,9 +3725,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion)",
     "views": 19785,
     "upload_date": "2025-08-09",
     "latent_x": 49.36000061035156,
@@ -3745,9 +3745,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "AnimateDiff & AI Video",
     "tags": [
       "AnimateDiff & AI Video",
-      "Image Upscaling & Hires Fix"
+      "Upscaling & Hires Fix"
     ],
-    "categoria_descriptores": "AnimateDiff & AI Video (AnimateDiff & AI Video, Image Upscaling & Hires Fix)",
+    "categoria_descriptores": "AnimateDiff & AI Video (AnimateDiff & AI Video, Upscaling & Hires Fix)",
     "views": 19722,
     "upload_date": "2024-08-09",
     "latent_x": 107.72000122070312,
@@ -3786,9 +3786,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "tags": [
       "Node Graph Architecture",
       "AnimateDiff & AI Video",
-      "Custom Nodes & ComfyManager"
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, AnimateDiff & AI Video, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, AnimateDiff & AI Video, Custom Nodes)",
     "views": 19646,
     "upload_date": "2025-08-09",
     "latent_x": -15.880000114440918,
@@ -3806,10 +3806,10 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "ControlNet Pose & Canny",
     "tags": [
       "ControlNet Pose & Canny",
-      "IPAdapter & Style Transfer",
+      "IPAdapter & Transfer",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "ControlNet Pose & Canny (ControlNet Pose & Canny, IPAdapter & Style Transfer, AnimateDiff & AI Video)",
+    "categoria_descriptores": "ControlNet Pose & Canny (ControlNet Pose & Canny, IPAdapter & Transfer, AnimateDiff & AI Video)",
     "views": 19475,
     "upload_date": "2024-08-09",
     "latent_x": 30.489999771118164,
@@ -3824,11 +3824,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Prompting Pixels",
     "titulo": "4 Ways to Upscale Images with Z-Image Turbo",
     "enlace": "https://www.youtube.com/watch?v=AZweA6pY2Lo",
-    "categoria_principal": "Image Upscaling & Hires Fix",
+    "categoria_principal": "Upscaling & Hires Fix",
     "tags": [
-      "Image Upscaling & Hires Fix"
+      "Upscaling & Hires Fix"
     ],
-    "categoria_descriptores": "Image Upscaling & Hires Fix (Image Upscaling & Hires Fix)",
+    "categoria_descriptores": "Upscaling & Hires Fix (Upscaling & Hires Fix)",
     "views": 19400,
     "upload_date": "2026-02-10",
     "latent_x": 115.19000244140625,
@@ -3847,9 +3847,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "tags": [
       "Node Graph Architecture",
       "ControlNet Pose & Canny",
-      "IPAdapter & Style Transfer"
+      "IPAdapter & Transfer"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, ControlNet Pose & Canny, IPAdapter & Style Transfer)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, ControlNet Pose & Canny, IPAdapter & Transfer)",
     "views": 19113,
     "upload_date": "2024-08-09",
     "latent_x": 1.440000057220459,
@@ -3864,11 +3864,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Latent Vision",
     "titulo": "Upscale from pixels to real life",
     "enlace": "https://www.youtube.com/watch?v=kBFMKroTuXE",
-    "categoria_principal": "Image Upscaling & Hires Fix",
+    "categoria_principal": "Upscaling & Hires Fix",
     "tags": [
-      "Image Upscaling & Hires Fix"
+      "Upscaling & Hires Fix"
     ],
-    "categoria_descriptores": "Image Upscaling & Hires Fix (Image Upscaling & Hires Fix)",
+    "categoria_descriptores": "Upscaling & Hires Fix (Upscaling & Hires Fix)",
     "views": 19050,
     "upload_date": "2024-08-09",
     "latent_x": 118.83999633789062,
@@ -4022,10 +4022,10 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models",
-      "Custom Nodes & ComfyManager"
+      "Stable Diffusion",
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion, Custom Nodes)",
     "views": 17749,
     "upload_date": "2023-08-10",
     "latent_x": -44.33000183105469,
@@ -4043,9 +4043,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "IPAdapter & Style Transfer"
+      "IPAdapter & Transfer"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, IPAdapter & Style Transfer)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, IPAdapter & Transfer)",
     "views": 17742,
     "upload_date": "2025-12-12",
     "latent_x": -21.09000015258789,
@@ -4082,11 +4082,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "ControlNet Pose & Canny",
-      "Custom Nodes & ComfyManager"
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, SDXL & Stable Diffusion Models, ControlNet Pose & Canny, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Stable Diffusion, ControlNet Pose & Canny, Custom Nodes)",
     "views": 17554,
     "upload_date": "2025-08-09",
     "latent_x": -54.959999084472656,
@@ -4101,12 +4101,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Amir Ferdos",
     "titulo": "Complete Guide to Installing Control Net on ComfyUI + Tips and Tricks for Preview and custom path",
     "enlace": "https://www.youtube.com/watch?v=CkqjkRDguXY",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, AnimateDiff & AI Video)",
     "views": 17480,
     "upload_date": "2023-08-10",
     "latent_x": 17.18000030517578,
@@ -4124,10 +4124,10 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion, AnimateDiff & AI Video)",
     "views": 17357,
     "upload_date": "2023-08-10",
     "latent_x": 71.63999938964844,
@@ -4145,10 +4145,10 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion, AnimateDiff & AI Video)",
     "views": 16890,
     "upload_date": "2026-07-10",
     "latent_x": 52.560001373291016,
@@ -4163,11 +4163,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Scott Detweiler",
     "titulo": "ComfyUI - Live Stream!  Let's make some amazing art with Stable Diffusion!",
     "enlace": "https://www.youtube.com/watch?v=Pog7CoRKQRw",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 16431,
     "upload_date": "2024-08-09",
     "latent_x": 41.86000061035156,
@@ -4203,12 +4203,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "IA Paso a Paso",
     "titulo": "ComfyUI Complete Tutorial: Flux Dev, Stable Diffusion 3.5, and More! | Ultimate Guide",
     "enlace": "https://www.youtube.com/watch?v=HXo47zMFQyk",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "Flux Model Workflows"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, Flux Model Workflows)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, Flux Model Workflows)",
     "views": 16335,
     "upload_date": "2025-08-09",
     "latent_x": -7.309999942779541,
@@ -4227,11 +4227,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "Flux Model Workflows",
       "ControlNet Pose & Canny"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Node Graph Architecture, SDXL & Stable Diffusion Models, Flux Model Workflows, ControlNet Pose & Canny)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Node Graph Architecture, Stable Diffusion, Flux Model Workflows, ControlNet Pose & Canny)",
     "views": 16167,
     "upload_date": "2025-08-09",
     "latent_x": 5.570000171661377,
@@ -4269,9 +4269,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "tags": [
       "Node Graph Architecture",
       "AnimateDiff & AI Video",
-      "Custom Nodes & ComfyManager"
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, AnimateDiff & AI Video, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, AnimateDiff & AI Video, Custom Nodes)",
     "views": 15840,
     "upload_date": "2025-08-09",
     "latent_x": -32.4900016784668,
@@ -4329,9 +4329,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "tags": [
       "Node Graph Architecture",
       "AnimateDiff & AI Video",
-      "Custom Nodes & ComfyManager"
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, AnimateDiff & AI Video, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, AnimateDiff & AI Video, Custom Nodes)",
     "views": 15606,
     "upload_date": "2024-08-09",
     "latent_x": -36.66999816894531,
@@ -4384,12 +4384,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "CoderX",
     "titulo": "ControlNet for SDXL 1.0 is here! CONTROL your Stable Diffusion XL 1.0 OUTPUTS (ComfyUI Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=5uz-HmN36ao",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "ControlNet Pose & Canny"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, ControlNet Pose & Canny)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, ControlNet Pose & Canny)",
     "views": 15257,
     "upload_date": "2024-08-09",
     "latent_x": 46.599998474121094,
@@ -4502,11 +4502,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "AnimateDiff & AI Video",
-      "Image Upscaling & Hires Fix"
+      "Upscaling & Hires Fix"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models, AnimateDiff & AI Video, Image Upscaling & Hires Fix)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion, AnimateDiff & AI Video, Upscaling & Hires Fix)",
     "views": 13763,
     "upload_date": "2024-08-09",
     "latent_x": 87.91000366210938,
@@ -4525,9 +4525,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "tags": [
       "Node Graph Architecture",
       "AnimateDiff & AI Video",
-      "Custom Nodes & ComfyManager"
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, AnimateDiff & AI Video, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, AnimateDiff & AI Video, Custom Nodes)",
     "views": 13680,
     "upload_date": "2026-03-12",
     "latent_x": -30.860000610351562,
@@ -4565,9 +4565,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "tags": [
       "Node Graph Architecture",
       "AnimateDiff & AI Video",
-      "Custom Nodes & ComfyManager"
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, AnimateDiff & AI Video, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, AnimateDiff & AI Video, Custom Nodes)",
     "views": 13352,
     "upload_date": "2026-05-11",
     "latent_x": -48.86000061035156,
@@ -4585,9 +4585,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "Image Upscaling & Hires Fix"
+      "Upscaling & Hires Fix"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Image Upscaling & Hires Fix)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Upscaling & Hires Fix)",
     "views": 13121,
     "upload_date": "2025-08-09",
     "latent_x": 112.83999633789062,
@@ -4605,9 +4605,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Stable Diffusion)",
     "views": 12793,
     "upload_date": "2024-08-09",
     "latent_x": -60.970001220703125,
@@ -4645,10 +4645,10 @@ const COMFYUI_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Node Graph Architecture, SDXL & Stable Diffusion Models, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Node Graph Architecture, Stable Diffusion, AnimateDiff & AI Video)",
     "views": 12678,
     "upload_date": "2025-12-12",
     "latent_x": -29.850000381469727,
@@ -4725,9 +4725,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "tags": [
       "Node Graph Architecture",
       "AnimateDiff & AI Video",
-      "Custom Nodes & ComfyManager"
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, AnimateDiff & AI Video, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, AnimateDiff & AI Video, Custom Nodes)",
     "views": 11940,
     "upload_date": "2024-08-09",
     "latent_x": -20.18000030517578,
@@ -4780,11 +4780,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "CoderX",
     "titulo": "best settings for Stable Diffusion XL 0.9 + refiner (SDXL 0.9 ComfyUI)",
     "enlace": "https://www.youtube.com/watch?v=58vd5EEBzTE",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 11651,
     "upload_date": "2023-08-10",
     "latent_x": 56.619998931884766,
@@ -4837,11 +4837,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Tecnolitas",
     "titulo": "🟩 6 - ComfyUI: Image 2 Image & InPaintig. Stable Diffusion XL | Tutorial",
     "enlace": "https://www.youtube.com/watch?v=tClR7MvMxdc",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 11206,
     "upload_date": "2024-08-09",
     "latent_x": 45.369998931884766,
@@ -4859,9 +4859,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "AnimateDiff & AI Video",
     "tags": [
       "AnimateDiff & AI Video",
-      "Image Upscaling & Hires Fix"
+      "Upscaling & Hires Fix"
     ],
-    "categoria_descriptores": "AnimateDiff & AI Video (AnimateDiff & AI Video, Image Upscaling & Hires Fix)",
+    "categoria_descriptores": "AnimateDiff & AI Video (AnimateDiff & AI Video, Upscaling & Hires Fix)",
     "views": 10976,
     "upload_date": "2025-08-09",
     "latent_x": 94.5,
@@ -4895,11 +4895,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Scott Detweiler",
     "titulo": "ComfyUI - Live Stream!  Let's make some amazing art with Stable Diffusion!",
     "enlace": "https://www.youtube.com/watch?v=6hV34O6npWE",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 10811,
     "upload_date": "2024-08-09",
     "latent_x": 41.86000061035156,
@@ -4917,10 +4917,10 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion, AnimateDiff & AI Video)",
     "views": 10810,
     "upload_date": "2026-08-05",
     "latent_x": 73.61000061035156,
@@ -5090,12 +5090,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "AI Angel Gallery",
     "titulo": "ComfyUI EP05: UpScale AI Image to get High Quality result [Stable Diffusion]",
     "enlace": "https://www.youtube.com/watch?v=jbNAO8gUtVM",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
-      "Image Upscaling & Hires Fix"
+      "Stable Diffusion",
+      "Upscaling & Hires Fix"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, Image Upscaling & Hires Fix)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, Upscaling & Hires Fix)",
     "views": 10152,
     "upload_date": "2024-08-09",
     "latent_x": 91.1500015258789,
@@ -5114,10 +5114,10 @@ const COMFYUI_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Node Graph Architecture, SDXL & Stable Diffusion Models, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Node Graph Architecture, Stable Diffusion, AnimateDiff & AI Video)",
     "views": 10130,
     "upload_date": "2023-08-10",
     "latent_x": -28.829999923706055,
@@ -5151,11 +5151,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Scott Detweiler",
     "titulo": "ComfyUI - Live Stream!  Let's make some amazing art with Stable Diffusion!",
     "enlace": "https://www.youtube.com/watch?v=oq5By4nTx2s",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 9975,
     "upload_date": "2024-08-09",
     "latent_x": 41.86000061035156,
@@ -5211,10 +5211,10 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion, AnimateDiff & AI Video)",
     "views": 9849,
     "upload_date": "2026-08-05",
     "latent_x": 60.61000061035156,
@@ -5229,11 +5229,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Tecnolitas",
     "titulo": "🟩 10 - ComfyUI: IP Adapter Plus - Integración de prompts de imagen y texto - TUTORIAL",
     "enlace": "https://www.youtube.com/watch?v=j7YhnSHE7eQ",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 9737,
     "upload_date": "2024-08-09",
     "latent_x": 62.61000061035156,
@@ -5267,14 +5267,14 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "AINxtGen",
     "titulo": "ComfyUI: FLUX + ControlNet + IPAdapter (SDXL Version) Integration",
     "enlace": "https://www.youtube.com/watch?v=PfbLqpaecH0",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "Flux Model Workflows",
       "ControlNet Pose & Canny",
-      "IPAdapter & Style Transfer"
+      "IPAdapter & Transfer"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, Flux Model Workflows, ControlNet Pose & Canny, IPAdapter & Style Transfer)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, Flux Model Workflows, ControlNet Pose & Canny, IPAdapter & Transfer)",
     "views": 9454,
     "upload_date": "2025-08-09",
     "latent_x": -7.199999809265137,
@@ -5289,13 +5289,13 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "CG TOP TIPS",
     "titulo": "ComfyUI - FLUX & IPAdapter (SDXL Version) Integration",
     "enlace": "https://www.youtube.com/watch?v=tMnPsR27lAw",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "Flux Model Workflows",
-      "IPAdapter & Style Transfer"
+      "IPAdapter & Transfer"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, Flux Model Workflows, IPAdapter & Style Transfer)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, Flux Model Workflows, IPAdapter & Transfer)",
     "views": 9407,
     "upload_date": "2025-08-09",
     "latent_x": -14.760000228881836,
@@ -5350,14 +5350,14 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "GoodBreadco.",
     "titulo": "Video2Video - Stable Diffusion in ComfyUI : AnimateDiff + IPAdapter + ControlNet.",
     "enlace": "https://www.youtube.com/watch?v=BHvgB9gHHf8",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "ControlNet Pose & Canny",
-      "IPAdapter & Style Transfer",
+      "IPAdapter & Transfer",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, ControlNet Pose & Canny, IPAdapter & Style Transfer, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, ControlNet Pose & Canny, IPAdapter & Transfer, AnimateDiff & AI Video)",
     "views": 8921,
     "upload_date": "2024-08-09",
     "latent_x": 8.890000343322754,
@@ -5372,13 +5372,13 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "FutuTek",
     "titulo": "How to convert movie to anime video using ComfyUI, AnimateDiff, ControlNet and LCM",
     "enlace": "https://www.youtube.com/watch?v=Zyiefgo8gaQ",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "ControlNet Pose & Canny",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, ControlNet Pose & Canny, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, ControlNet Pose & Canny, AnimateDiff & AI Video)",
     "views": 8915,
     "upload_date": "2025-08-09",
     "latent_x": 33.22999954223633,
@@ -5393,15 +5393,15 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Code Crafters Corner",
     "titulo": "Flux IPAdapter: Comprehensive Guide with LoRA & ControlNet Integration",
     "enlace": "https://www.youtube.com/watch?v=KvrRlVFZjVo",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "Flux Model Workflows",
       "ControlNet Pose & Canny",
-      "IPAdapter & Style Transfer",
+      "IPAdapter & Transfer",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, Flux Model Workflows, ControlNet Pose & Canny, IPAdapter & Style Transfer, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, Flux Model Workflows, ControlNet Pose & Canny, IPAdapter & Transfer, AnimateDiff & AI Video)",
     "views": 8872,
     "upload_date": "2025-08-09",
     "latent_x": 3.630000114440918,
@@ -5416,11 +5416,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Scott Detweiler",
     "titulo": "ComfyUI - Live Stream!  Let's make some amazing art with Stable Diffusion!",
     "enlace": "https://www.youtube.com/watch?v=S9nGr06L2nE",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 8838,
     "upload_date": "2024-08-09",
     "latent_x": 41.86000061035156,
@@ -5438,9 +5438,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "IPAdapter & Style Transfer"
+      "IPAdapter & Transfer"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, IPAdapter & Style Transfer)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, IPAdapter & Transfer)",
     "views": 8793,
     "upload_date": "2025-12-12",
     "latent_x": -66.5,
@@ -5474,12 +5474,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Amir Ferdos",
     "titulo": "ControlNet for SDXL 1.0! Master Your Stable Diffusion XL 1.0 Outputs with ComfyUI: A Tutorial",
     "enlace": "https://www.youtube.com/watch?v=_f0qrHQs0jk",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "ControlNet Pose & Canny"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, ControlNet Pose & Canny)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, ControlNet Pose & Canny)",
     "views": 8736,
     "upload_date": "2024-08-09",
     "latent_x": 51.400001525878906,
@@ -5497,9 +5497,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "AnimateDiff & AI Video",
     "tags": [
       "AnimateDiff & AI Video",
-      "Image Upscaling & Hires Fix"
+      "Upscaling & Hires Fix"
     ],
-    "categoria_descriptores": "AnimateDiff & AI Video (AnimateDiff & AI Video, Image Upscaling & Hires Fix)",
+    "categoria_descriptores": "AnimateDiff & AI Video (AnimateDiff & AI Video, Upscaling & Hires Fix)",
     "views": 8628,
     "upload_date": "2026-06-10",
     "latent_x": 119.04000091552734,
@@ -5575,11 +5575,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "Flux Model Workflows",
-      "IPAdapter & Style Transfer"
+      "IPAdapter & Transfer"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models, Flux Model Workflows, IPAdapter & Style Transfer)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion, Flux Model Workflows, IPAdapter & Transfer)",
     "views": 8455,
     "upload_date": "2025-09-13",
     "latent_x": -2.890000104904175,
@@ -5598,9 +5598,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "tags": [
       "Node Graph Architecture",
       "ControlNet Pose & Canny",
-      "IPAdapter & Style Transfer"
+      "IPAdapter & Transfer"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, ControlNet Pose & Canny, IPAdapter & Style Transfer)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, ControlNet Pose & Canny, IPAdapter & Transfer)",
     "views": 8430,
     "upload_date": "2024-08-09",
     "latent_x": -4.019999980926514,
@@ -5618,12 +5618,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "Flux Model Workflows",
       "AnimateDiff & AI Video",
-      "Image Upscaling & Hires Fix"
+      "Upscaling & Hires Fix"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models, Flux Model Workflows, AnimateDiff & AI Video, Image Upscaling & Hires Fix)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion, Flux Model Workflows, AnimateDiff & AI Video, Upscaling & Hires Fix)",
     "views": 8335,
     "upload_date": "2026-04-11",
     "latent_x": 77.1500015258789,
@@ -5641,9 +5641,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion)",
     "views": 8282,
     "upload_date": "2026-06-10",
     "latent_x": 52.72999954223633,
@@ -5658,12 +5658,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "MDMZ",
     "titulo": "MiniMax H3: Seedance-Level Control, But Costs $0",
     "enlace": "https://www.youtube.com/watch?v=d_wEd-fZcdg",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, AnimateDiff & AI Video)",
     "views": 8204,
     "upload_date": "2023-06-15",
     "latent_x": 37.9900016784668,
@@ -5697,12 +5697,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "The AI Art",
     "titulo": "ComfyUI: ControlNet simplified. The most powerful tool that gives you full control!",
     "enlace": "https://www.youtube.com/watch?v=5yNyJTcPYao",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "ControlNet Pose & Canny"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, ControlNet Pose & Canny)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, ControlNet Pose & Canny)",
     "views": 8180,
     "upload_date": "2024-08-09",
     "latent_x": 37.27000045776367,
@@ -5777,12 +5777,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "FutuTek",
     "titulo": "How To Turn Movie Clip into Anime Style with ComfyUI, AnimateDiff & LCM",
     "enlace": "https://www.youtube.com/watch?v=NFo25Ft5zp8",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, AnimateDiff & AI Video)",
     "views": 8093,
     "upload_date": "2025-08-09",
     "latent_x": 31.350000381469727,
@@ -5873,11 +5873,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "CoderX",
     "titulo": "how to Install SDXL 0.9 locally in ComfyUI - Stable Diffusion",
     "enlace": "https://www.youtube.com/watch?v=LDIo1kFNl-M",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 7368,
     "upload_date": "2023-08-10",
     "latent_x": 27.760000228881836,
@@ -5895,10 +5895,10 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion, AnimateDiff & AI Video)",
     "views": 7366,
     "upload_date": "2026-08-06",
     "latent_x": 76.68000030517578,
@@ -5917,9 +5917,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "tags": [
       "Node Graph Architecture",
       "AnimateDiff & AI Video",
-      "Custom Nodes & ComfyManager"
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, AnimateDiff & AI Video, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, AnimateDiff & AI Video, Custom Nodes)",
     "views": 7298,
     "upload_date": "2025-08-09",
     "latent_x": -24.350000381469727,
@@ -5956,9 +5956,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "Custom Nodes & ComfyManager"
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Custom Nodes)",
     "views": 7096,
     "upload_date": "2026-07-19",
     "latent_x": -27.15999984741211,
@@ -5973,11 +5973,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Andrea Baioni",
     "titulo": "Install ComfyUI and run your 1st generation - Stable Diffusion for Professional Creatives",
     "enlace": "https://www.youtube.com/watch?v=CD1YLMInFdc",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 7076,
     "upload_date": "2024-08-09",
     "latent_x": 35.369998931884766,
@@ -5996,10 +5996,10 @@ const COMFYUI_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Node Graph Architecture, SDXL & Stable Diffusion Models, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Node Graph Architecture, Stable Diffusion, AnimateDiff & AI Video)",
     "views": 6990,
     "upload_date": "2026-01-11",
     "latent_x": -16.549999237060547,
@@ -6017,9 +6017,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "Custom Nodes & ComfyManager"
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Custom Nodes)",
     "views": 6937,
     "upload_date": "2025-09-13",
     "latent_x": -56.689998626708984,
@@ -6077,9 +6077,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "Custom Nodes & ComfyManager"
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Custom Nodes)",
     "views": 6783,
     "upload_date": "2025-08-09",
     "latent_x": -43.040000915527344,
@@ -6113,13 +6113,13 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Code Crafters Corner",
     "titulo": "Photorealistic Characters with IPAdapter and ControlNet in ComfyUI with Stable Diffusion",
     "enlace": "https://www.youtube.com/watch?v=v5qeEZKsArs",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "ControlNet Pose & Canny",
-      "IPAdapter & Style Transfer"
+      "IPAdapter & Transfer"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, ControlNet Pose & Canny, IPAdapter & Style Transfer)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, ControlNet Pose & Canny, IPAdapter & Transfer)",
     "views": 6616,
     "upload_date": "2024-08-09",
     "latent_x": 4.059999942779541,
@@ -6215,9 +6215,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "ControlNet Pose & Canny",
     "tags": [
       "ControlNet Pose & Canny",
-      "IPAdapter & Style Transfer"
+      "IPAdapter & Transfer"
     ],
-    "categoria_descriptores": "ControlNet Pose & Canny (ControlNet Pose & Canny, IPAdapter & Style Transfer)",
+    "categoria_descriptores": "ControlNet Pose & Canny (ControlNet Pose & Canny, IPAdapter & Transfer)",
     "views": 5991,
     "upload_date": "2024-08-09",
     "latent_x": 22.739999771118164,
@@ -6235,10 +6235,10 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion, AnimateDiff & AI Video)",
     "views": 5950,
     "upload_date": "2023-08-10",
     "latent_x": 81.0999984741211,
@@ -6253,11 +6253,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Scott Detweiler",
     "titulo": "ComfyUI - Live Stream!  Let's make some amazing art with Stable Diffusion!",
     "enlace": "https://www.youtube.com/watch?v=r9sc00fR4a0",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 5852,
     "upload_date": "2024-08-09",
     "latent_x": 41.86000061035156,
@@ -6272,12 +6272,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Neuron",
     "titulo": "LTX 2.3 - best free & local video model for ComfyUI with sound ATM?",
     "enlace": "https://www.youtube.com/watch?v=ozIJoGXaOys",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, AnimateDiff & AI Video)",
     "views": 5800,
     "upload_date": "2026-03-12",
     "latent_x": 4.71999979019165,
@@ -6350,12 +6350,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Creative Exploration /w Purz",
     "titulo": "SDXL-Turbo in ComfyUI - First Look",
     "enlace": "https://www.youtube.com/watch?v=kApJkjjIhbs",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, AnimateDiff & AI Video)",
     "views": 4968,
     "upload_date": "2024-08-09",
     "latent_x": 35.849998474121094,
@@ -6393,10 +6393,10 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "ControlNet Pose & Canny"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models, ControlNet Pose & Canny)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion, ControlNet Pose & Canny)",
     "views": 4876,
     "upload_date": "2023-08-10",
     "latent_x": 33.72999954223633,
@@ -6411,11 +6411,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Hake Hardware",
     "titulo": "Must Have ComfyUI Custom Node - ComfyUI Manager",
     "enlace": "https://www.youtube.com/watch?v=pi5DftmRhB4",
-    "categoria_principal": "Custom Nodes & ComfyManager",
+    "categoria_principal": "Custom Nodes",
     "tags": [
-      "Custom Nodes & ComfyManager"
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Custom Nodes & ComfyManager (Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Custom Nodes (Custom Nodes)",
     "views": 4809,
     "upload_date": "2025-11-12",
     "latent_x": -71.8499984741211,
@@ -6457,9 +6457,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "tags": [
       "Node Graph Architecture",
       "AnimateDiff & AI Video",
-      "Custom Nodes & ComfyManager"
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, AnimateDiff & AI Video, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, AnimateDiff & AI Video, Custom Nodes)",
     "views": 4654,
     "upload_date": "2024-08-09",
     "latent_x": -13.479999542236328,
@@ -6474,12 +6474,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "ScuffedEpoch",
     "titulo": "Foda Flux.1 | txt2img, img2img, 8K upscaling in #comfyui",
     "enlace": "https://www.youtube.com/watch?v=WSuja3a5VXg",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "Flux Model Workflows"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, Flux Model Workflows)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, Flux Model Workflows)",
     "views": 4617,
     "upload_date": "2024-08-09",
     "latent_x": 5.650000095367432,
@@ -6516,10 +6516,10 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "IPAdapter & Style Transfer",
+      "IPAdapter & Transfer",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, IPAdapter & Style Transfer, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, IPAdapter & Transfer, AnimateDiff & AI Video)",
     "views": 4521,
     "upload_date": "2025-08-09",
     "latent_x": -9.829999923706055,
@@ -6596,9 +6596,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "tags": [
       "Node Graph Architecture",
       "AnimateDiff & AI Video",
-      "Image Upscaling & Hires Fix"
+      "Upscaling & Hires Fix"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, AnimateDiff & AI Video, Image Upscaling & Hires Fix)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, AnimateDiff & AI Video, Upscaling & Hires Fix)",
     "views": 4077,
     "upload_date": "2024-08-09",
     "latent_x": 101.91999816894531,
@@ -6676,9 +6676,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Node Graph Architecture, SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Node Graph Architecture, Stable Diffusion)",
     "views": 3777,
     "upload_date": "2025-11-12",
     "latent_x": -69.12000274658203,
@@ -6693,11 +6693,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Ai Dream World",
     "titulo": "Stable Diffusion - SDXL For LOCAL install With ComfyUI Tutorial - Free Ai Generator",
     "enlace": "https://www.youtube.com/watch?v=NDH0EF0iOts",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 3774,
     "upload_date": "2023-08-10",
     "latent_x": 44.45000076293945,
@@ -6735,9 +6735,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "Custom Nodes & ComfyManager"
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Custom Nodes)",
     "views": 3747,
     "upload_date": "2025-08-09",
     "latent_x": -35.08000183105469,
@@ -6795,9 +6795,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "Custom Nodes & ComfyManager"
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Custom Nodes)",
     "views": 3732,
     "upload_date": "2025-08-09",
     "latent_x": -61.54999923706055,
@@ -6812,11 +6812,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Aivoka",
     "titulo": "ComfyUI Node: Load Checkpoint",
     "enlace": "https://www.youtube.com/watch?v=zm3eHdrdluk",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 3701,
     "upload_date": "2026-03-12",
     "latent_x": 49.810001373291016,
@@ -6834,9 +6834,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "Custom Nodes & ComfyManager"
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Custom Nodes)",
     "views": 3615,
     "upload_date": "2025-08-09",
     "latent_x": -47.34000015258789,
@@ -6928,12 +6928,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Py Man",
     "titulo": "The Ultimate ComfyUI Guide For SDXL 1.0",
     "enlace": "https://www.youtube.com/watch?v=c1_GmkqNaAw",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, AnimateDiff & AI Video)",
     "views": 3402,
     "upload_date": "2023-08-10",
     "latent_x": 24.68000030517578,
@@ -6948,11 +6948,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Scott Detweiler",
     "titulo": "AI Inspired Laser Cut Catan Board - Ortur Laster Master 3 + Stable Diffusion = Art!",
     "enlace": "https://www.youtube.com/watch?v=6bTVrNx8WZY",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 3309,
     "upload_date": "2024-08-09",
     "latent_x": 52.029998779296875,
@@ -6971,9 +6971,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "tags": [
       "Node Graph Architecture",
       "AnimateDiff & AI Video",
-      "Custom Nodes & ComfyManager"
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, AnimateDiff & AI Video, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, AnimateDiff & AI Video, Custom Nodes)",
     "views": 3307,
     "upload_date": "2026-03-12",
     "latent_x": -29.75,
@@ -7028,11 +7028,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Myke Guty",
     "titulo": "Speed ​​is what matters in SDXL Lightning for ComfyUI",
     "enlace": "https://www.youtube.com/watch?v=0dZiCFz3WBs",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 3143,
     "upload_date": "2024-08-09",
     "latent_x": 67.95999908447266,
@@ -7066,12 +7066,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "A Latent Place",
     "titulo": "ComfyUI: Style & Composition Transfer | English",
     "enlace": "https://www.youtube.com/watch?v=oDRdRpGvEFI",
-    "categoria_principal": "IPAdapter & Style Transfer",
+    "categoria_principal": "IPAdapter & Transfer",
     "tags": [
-      "IPAdapter & Style Transfer",
+      "IPAdapter & Transfer",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "IPAdapter & Style Transfer (IPAdapter & Style Transfer, AnimateDiff & AI Video)",
+    "categoria_descriptores": "IPAdapter & Transfer (IPAdapter & Transfer, AnimateDiff & AI Video)",
     "views": 3067,
     "upload_date": "2024-08-09",
     "latent_x": -27.579999923706055,
@@ -7127,9 +7127,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "Custom Nodes & ComfyManager"
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Custom Nodes)",
     "views": 2868,
     "upload_date": "2024-08-09",
     "latent_x": -43.61000061035156,
@@ -7163,11 +7163,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Veteran AI",
     "titulo": "Can Krea 2 Turbo Really Make Great Images in 8 Steps? ComfyUI Test",
     "enlace": "https://www.youtube.com/watch?v=mxaV8oBAVY8",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 2842,
     "upload_date": "2026-07-10",
     "latent_x": 58.79999923706055,
@@ -7186,9 +7186,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "tags": [
       "Node Graph Architecture",
       "AnimateDiff & AI Video",
-      "Custom Nodes & ComfyManager"
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, AnimateDiff & AI Video, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, AnimateDiff & AI Video, Custom Nodes)",
     "views": 2837,
     "upload_date": "2026-01-11",
     "latent_x": -49.380001068115234,
@@ -7260,13 +7260,13 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Code & bird",
     "titulo": "Easy Stable Cascade image to image & upscale with ComfyUI",
     "enlace": "https://www.youtube.com/watch?v=jReF7pdqdxQ",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "AnimateDiff & AI Video",
-      "Image Upscaling & Hires Fix"
+      "Upscaling & Hires Fix"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, AnimateDiff & AI Video, Image Upscaling & Hires Fix)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, AnimateDiff & AI Video, Upscaling & Hires Fix)",
     "views": 2436,
     "upload_date": "2024-08-09",
     "latent_x": 94.73999786376953,
@@ -7319,13 +7319,13 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Amith Biju",
     "titulo": "Upscale image using Comfyui, 8k,6K,4K. SDXL, Zimage Turbo, Flux2 klein, Flux 2 Dev.",
     "enlace": "https://www.youtube.com/watch?v=va2xGpiG-0g",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "Flux Model Workflows",
-      "Image Upscaling & Hires Fix"
+      "Upscaling & Hires Fix"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, Flux Model Workflows, Image Upscaling & Hires Fix)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, Flux Model Workflows, Upscaling & Hires Fix)",
     "views": 2343,
     "upload_date": "2026-06-10",
     "latent_x": 74.66999816894531,
@@ -7423,9 +7423,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "Image Upscaling & Hires Fix"
+      "Upscaling & Hires Fix"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Image Upscaling & Hires Fix)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Upscaling & Hires Fix)",
     "views": 2223,
     "upload_date": "2025-08-09",
     "latent_x": 103.48999786376953,
@@ -7440,12 +7440,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Creative Exploration /w Purz",
     "titulo": "InstantID in ComfyUI for Image Generation and SDXL Animation  | Creative Exploration EP45",
     "enlace": "https://www.youtube.com/watch?v=VV3Qz59i534",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, AnimateDiff & AI Video)",
     "views": 2197,
     "upload_date": "2024-08-09",
     "latent_x": 52.97999954223633,
@@ -7479,12 +7479,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Wolf Dynamics World - WDW",
     "titulo": "AI art generators - ComfyUI - 🤘How-to install/use Stable Diffusion UI",
     "enlace": "https://www.youtube.com/watch?v=Kn7EkGL1aR4",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, AnimateDiff & AI Video)",
     "views": 2026,
     "upload_date": "2024-08-09",
     "latent_x": 23.610000610351562,
@@ -7542,9 +7542,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "tags": [
       "Node Graph Architecture",
       "AnimateDiff & AI Video",
-      "Custom Nodes & ComfyManager"
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, AnimateDiff & AI Video, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, AnimateDiff & AI Video, Custom Nodes)",
     "views": 1904,
     "upload_date": "2026-06-10",
     "latent_x": -38.70000076293945,
@@ -7601,10 +7601,10 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion, AnimateDiff & AI Video)",
     "views": 1719,
     "upload_date": "2025-08-09",
     "latent_x": 65.4000015258789,
@@ -7638,11 +7638,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "†Nostavaira†",
     "titulo": "【My process】Building in ComfyUI: IP-Adapter FaceID",
     "enlace": "https://www.youtube.com/watch?v=zcZYICoErOw",
-    "categoria_principal": "IPAdapter & Style Transfer",
+    "categoria_principal": "IPAdapter & Transfer",
     "tags": [
-      "IPAdapter & Style Transfer"
+      "IPAdapter & Transfer"
     ],
-    "categoria_descriptores": "IPAdapter & Style Transfer (IPAdapter & Style Transfer)",
+    "categoria_descriptores": "IPAdapter & Transfer (IPAdapter & Transfer)",
     "views": 1666,
     "upload_date": "2026-05-11",
     "latent_x": -27.030000686645508,
@@ -7660,9 +7660,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion)",
     "views": 1645,
     "upload_date": "2024-08-09",
     "latent_x": 54.91999816894531,
@@ -7677,11 +7677,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Creative Exploration /w Purz",
     "titulo": "Photomaker in ComfyUI | Creative Exploration EP39",
     "enlace": "https://www.youtube.com/watch?v=fvKE92nN-Og",
-    "categoria_principal": "Custom Nodes & ComfyManager",
+    "categoria_principal": "Custom Nodes",
     "tags": [
-      "Custom Nodes & ComfyManager"
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Custom Nodes & ComfyManager (Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Custom Nodes (Custom Nodes)",
     "views": 1575,
     "upload_date": "2024-08-09",
     "latent_x": -78.9000015258789,
@@ -7716,11 +7716,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "†Nostavaira†",
     "titulo": "【My process】Building in ComfyUI: IPAdapter plus 2.0",
     "enlace": "https://www.youtube.com/watch?v=19wezryqZGk",
-    "categoria_principal": "IPAdapter & Style Transfer",
+    "categoria_principal": "IPAdapter & Transfer",
     "tags": [
-      "IPAdapter & Style Transfer"
+      "IPAdapter & Transfer"
     ],
-    "categoria_descriptores": "IPAdapter & Style Transfer (IPAdapter & Style Transfer)",
+    "categoria_descriptores": "IPAdapter & Transfer (IPAdapter & Transfer)",
     "views": 1520,
     "upload_date": "2026-05-11",
     "latent_x": -41.43000030517578,
@@ -7796,9 +7796,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "tags": [
       "Node Graph Architecture",
       "AnimateDiff & AI Video",
-      "Image Upscaling & Hires Fix"
+      "Upscaling & Hires Fix"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, AnimateDiff & AI Video, Image Upscaling & Hires Fix)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, AnimateDiff & AI Video, Upscaling & Hires Fix)",
     "views": 1344,
     "upload_date": "2024-08-09",
     "latent_x": 93.45999908447266,
@@ -7816,9 +7816,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "Image Upscaling & Hires Fix"
+      "Upscaling & Hires Fix"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Image Upscaling & Hires Fix)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Upscaling & Hires Fix)",
     "views": 1324,
     "upload_date": "2024-08-09",
     "latent_x": 109.68000030517578,
@@ -7855,9 +7855,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion)",
     "views": 1271,
     "upload_date": "2024-08-09",
     "latent_x": 53.38999938964844,
@@ -7910,11 +7910,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Amir Ferdos",
     "titulo": "how to Install SDXL 0.9, Run Locally with ComfyUI and what is new?",
     "enlace": "https://www.youtube.com/watch?v=aySCcTD5i_Y",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 1230,
     "upload_date": "2023-08-10",
     "latent_x": 16.670000076293945,
@@ -7932,9 +7932,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "Custom Nodes & ComfyManager"
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Custom Nodes)",
     "views": 1176,
     "upload_date": "2025-09-13",
     "latent_x": -48.720001220703125,
@@ -7972,9 +7972,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Node Graph Architecture",
-      "Custom Nodes & ComfyManager"
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Node Graph Architecture, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Node Graph Architecture, Custom Nodes)",
     "views": 1095,
     "upload_date": "2026-02-10",
     "latent_x": -71.94999694824219,
@@ -8008,12 +8008,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Spencer Jarmolych",
     "titulo": "Local ComfyUI 10GB Vram Full Breakdown and Ultimate 2026 Guide - ZImage, Flux, Wan, SDXL, and More",
     "enlace": "https://www.youtube.com/watch?v=-ScNUMhT_Zk",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "Flux Model Workflows"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, Flux Model Workflows)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, Flux Model Workflows)",
     "views": 1041,
     "upload_date": "2025-12-12",
     "latent_x": -4.309999942779541,
@@ -8089,10 +8089,10 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "IPAdapter & Style Transfer",
+      "IPAdapter & Transfer",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, IPAdapter & Style Transfer, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, IPAdapter & Transfer, AnimateDiff & AI Video)",
     "views": 891,
     "upload_date": "2025-10-13",
     "latent_x": -12.359999656677246,
@@ -8129,10 +8129,10 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "ControlNet Pose & Canny"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models, ControlNet Pose & Canny)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion, ControlNet Pose & Canny)",
     "views": 801,
     "upload_date": "2026-03-12",
     "latent_x": 33.66999816894531,
@@ -8262,12 +8262,12 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Digital Glitch",
     "titulo": "ComfyUI: Juggernaut XL - Photorealistic Models by RunDiffusion",
     "enlace": "https://www.youtube.com/watch?v=5lt8DKzR7W8",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, AnimateDiff & AI Video)",
     "views": 616,
     "upload_date": "2026-07-26",
     "latent_x": 33.959999084472656,
@@ -8304,10 +8304,10 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models",
-      "Image Upscaling & Hires Fix"
+      "Stable Diffusion",
+      "Upscaling & Hires Fix"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models, Image Upscaling & Hires Fix)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion, Upscaling & Hires Fix)",
     "views": 603,
     "upload_date": "2025-12-12",
     "latent_x": 101.91999816894531,
@@ -8322,11 +8322,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "vpor techlab",
     "titulo": "Desbloquea el máximo poder de SDXL, usando SDXL REFINER con ComfyUI!!",
     "enlace": "https://www.youtube.com/watch?v=AJXnA_8PxJA",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 577,
     "upload_date": "2024-08-09",
     "latent_x": 56.79999923706055,
@@ -8363,9 +8363,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion)",
     "views": 546,
     "upload_date": "2026-03-12",
     "latent_x": 60.97999954223633,
@@ -8403,9 +8403,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "Custom Nodes & ComfyManager"
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Custom Nodes)",
     "views": 509,
     "upload_date": "2026-03-12",
     "latent_x": -35.689998626708984,
@@ -8439,13 +8439,13 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Iren Bondareva",
     "titulo": "Running FLUX locally in ComfyUI",
     "enlace": "https://www.youtube.com/watch?v=5tj0tqWG48w",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "Flux Model Workflows",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, Flux Model Workflows, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, Flux Model Workflows, AnimateDiff & AI Video)",
     "views": 431,
     "upload_date": "2025-08-09",
     "latent_x": -4.400000095367432,
@@ -8579,10 +8579,10 @@ const COMFYUI_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models",
-      "Custom Nodes & ComfyManager"
+      "Stable Diffusion",
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Node Graph Architecture, SDXL & Stable Diffusion Models, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Node Graph Architecture, Stable Diffusion, Custom Nodes)",
     "views": 348,
     "upload_date": "2026-05-11",
     "latent_x": -62.220001220703125,
@@ -8600,9 +8600,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "Custom Nodes & ComfyManager"
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Custom Nodes)",
     "views": 320,
     "upload_date": "2026-06-10",
     "latent_x": -52.56999969482422,
@@ -8620,9 +8620,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "Custom Nodes & ComfyManager"
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Custom Nodes)",
     "views": 239,
     "upload_date": "2025-11-12",
     "latent_x": -43.61000061035156,
@@ -8656,11 +8656,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "3DArchiRender",
     "titulo": "How to easily Install Stable Diffusion | Sdxl 1.0 | comfyui | part 1",
     "enlace": "https://www.youtube.com/watch?v=kf0q6q80RHU",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 224,
     "upload_date": "2024-08-09",
     "latent_x": 43.08000183105469,
@@ -8697,9 +8697,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "Custom Nodes & ComfyManager"
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Custom Nodes)",
     "views": 180,
     "upload_date": "2026-07-12",
     "latent_x": -33.36000061035156,
@@ -8717,9 +8717,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion)",
     "views": 140,
     "upload_date": "2026-06-10",
     "latent_x": 49.689998626708984,
@@ -8734,13 +8734,13 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "Olares",
     "titulo": "Pose, Depth & Style Control with ControlNet and Redux | ComfyUI Tutorial S03 P02",
     "enlace": "https://www.youtube.com/watch?v=zE-Wxi0ylMY",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "ControlNet Pose & Canny",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models, ControlNet Pose & Canny, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion, ControlNet Pose & Canny, AnimateDiff & AI Video)",
     "views": 117,
     "upload_date": "2026-06-10",
     "latent_x": 29.25,
@@ -8796,9 +8796,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Stable Diffusion)",
     "views": 90,
     "upload_date": "2026-07-10",
     "latent_x": 62.119998931884766,
@@ -8813,11 +8813,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "lablab ai",
     "titulo": "How AI can help photographers and improve their work - Scott Detweiler",
     "enlace": "https://www.youtube.com/watch?v=hm7dO4kbtx4",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 80,
     "upload_date": "2023-08-10",
     "latent_x": 67.12000274658203,
@@ -8832,11 +8832,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "autor": "CodeTube",
     "titulo": "run sdxl locally with comfyui 2024 stable diffusion guide",
     "enlace": "https://www.youtube.com/watch?v=wXUVj5E6FhE",
-    "categoria_principal": "SDXL & Stable Diffusion Models",
+    "categoria_principal": "Stable Diffusion",
     "tags": [
-      "SDXL & Stable Diffusion Models"
+      "Stable Diffusion"
     ],
-    "categoria_descriptores": "SDXL & Stable Diffusion Models (SDXL & Stable Diffusion Models)",
+    "categoria_descriptores": "Stable Diffusion (Stable Diffusion)",
     "views": 72,
     "upload_date": "2025-08-09",
     "latent_x": 25.600000381469727,
@@ -8893,9 +8893,9 @@ const COMFYUI_TUTORIALS_DATA = [
     "categoria_principal": "Node Graph Architecture",
     "tags": [
       "Node Graph Architecture",
-      "Custom Nodes & ComfyManager"
+      "Custom Nodes"
     ],
-    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Custom Nodes & ComfyManager)",
+    "categoria_descriptores": "Node Graph Architecture (Node Graph Architecture, Custom Nodes)",
     "views": 53,
     "upload_date": "2026-02-10",
     "latent_x": -53.189998626708984,
@@ -8971,11 +8971,11 @@ const COMFYUI_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Node Graph Architecture",
-      "SDXL & Stable Diffusion Models",
+      "Stable Diffusion",
       "Flux Model Workflows",
       "AnimateDiff & AI Video"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Node Graph Architecture, SDXL & Stable Diffusion Models, Flux Model Workflows, AnimateDiff & AI Video)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Node Graph Architecture, Stable Diffusion, Flux Model Workflows, AnimateDiff & AI Video)",
     "views": 14,
     "upload_date": "2025-12-12",
     "latent_x": -13.399999618530273,
@@ -9004,4 +9004,3 @@ const COMFYUI_TUTORIALS_DATA = [
     "duracion": "13:41"
   }
 ];
-window.COMFYUI_DATA = COMFYUI_TUTORIALS_DATA;

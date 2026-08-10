@@ -445,11 +445,11 @@ const DAVINCI_TUTORIALS_DATA = [
     "autor": "Declan Jenkinson",
     "titulo": "Colour Grading For BEGINNERS (DaVinci Resolve Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=_KImTKhy_mI",
-    "categoria_principal": "Color Space Transform & LUTs",
+    "categoria_principal": "Color Transforms & LUTs",
     "tags": [
-      "Color Space Transform & LUTs"
+      "Color Transforms & LUTs"
     ],
-    "categoria_descriptores": "Color Space Transform & LUTs (Color Space Transform & LUTs)",
+    "categoria_descriptores": "Color Transforms & LUTs (Color Transforms & LUTs)",
     "views": 579834,
     "upload_date": "2025-08-09",
     "latent_x": -97.29000091552734,
@@ -622,9 +622,9 @@ const DAVINCI_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Color Space Transform & LUTs"
+      "Color Transforms & LUTs"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Color Space Transform & LUTs)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Color Transforms & LUTs)",
     "views": 504359,
     "upload_date": "2025-08-09",
     "latent_x": -73.25,
@@ -810,11 +810,11 @@ const DAVINCI_TUTORIALS_DATA = [
     "autor": "Andrew",
     "titulo": "The power of SIMPLE Colorgrading",
     "enlace": "https://www.youtube.com/watch?v=_hqgK4iRLBY",
-    "categoria_principal": "Color Space Transform & LUTs",
+    "categoria_principal": "Color Transforms & LUTs",
     "tags": [
-      "Color Space Transform & LUTs"
+      "Color Transforms & LUTs"
     ],
-    "categoria_descriptores": "Color Space Transform & LUTs (Color Space Transform & LUTs)",
+    "categoria_descriptores": "Color Transforms & LUTs (Color Transforms & LUTs)",
     "views": 436005,
     "upload_date": "2025-08-09",
     "latent_x": -108.52999877929688,
@@ -867,11 +867,11 @@ const DAVINCI_TUTORIALS_DATA = [
     "autor": "Darren Mostyn",
     "titulo": "Resolve Color Management EASY - BEGINNERS in under 15 minutes.",
     "enlace": "https://www.youtube.com/watch?v=c4AVwVdKTHc",
-    "categoria_principal": "Color Space Transform & LUTs",
+    "categoria_principal": "Color Transforms & LUTs",
     "tags": [
-      "Color Space Transform & LUTs"
+      "Color Transforms & LUTs"
     ],
-    "categoria_descriptores": "Color Space Transform & LUTs (Color Space Transform & LUTs)",
+    "categoria_descriptores": "Color Transforms & LUTs (Color Transforms & LUTs)",
     "views": 412013,
     "upload_date": "2022-08-10",
     "latent_x": -76.95999908447266,
@@ -925,11 +925,11 @@ const DAVINCI_TUTORIALS_DATA = [
     "autor": "Jamie Fenn",
     "titulo": "Texturing of Complex Surfaces (Track Anything) - Davinci Resolve Tutorial",
     "enlace": "https://www.youtube.com/watch?v=mmxPiKJtsjw",
-    "categoria_principal": "Color Space Transform & LUTs",
+    "categoria_principal": "Color Transforms & LUTs",
     "tags": [
-      "Color Space Transform & LUTs"
+      "Color Transforms & LUTs"
     ],
-    "categoria_descriptores": "Color Space Transform & LUTs (Color Space Transform & LUTs)",
+    "categoria_descriptores": "Color Transforms & LUTs (Color Transforms & LUTs)",
     "views": 391455,
     "upload_date": "2025-09-13",
     "latent_x": -85.68000030517578,
@@ -1217,9 +1217,9 @@ const DAVINCI_TUTORIALS_DATA = [
     "categoria_principal": "Fusion Motion Graphics",
     "tags": [
       "Fusion Motion Graphics",
-      "Fusion Visual Effects (VFX)"
+      "Fusion VFX"
     ],
-    "categoria_descriptores": "Fusion Motion Graphics (Fusion Motion Graphics, Fusion Visual Effects (VFX))",
+    "categoria_descriptores": "Fusion Motion Graphics (Fusion Motion Graphics, Fusion VFX)",
     "views": 266677,
     "upload_date": "2025-08-09",
     "latent_x": -15.569999694824219,
@@ -1272,11 +1272,11 @@ const DAVINCI_TUTORIALS_DATA = [
     "autor": "Jamie Fenn",
     "titulo": "NEW Speed Ramping Collage Video Effect In Davinci Resolve",
     "enlace": "https://www.youtube.com/watch?v=v8AmW8JhHog",
-    "categoria_principal": "Color Space Transform & LUTs",
+    "categoria_principal": "Color Transforms & LUTs",
     "tags": [
-      "Color Space Transform & LUTs"
+      "Color Transforms & LUTs"
     ],
-    "categoria_descriptores": "Color Space Transform & LUTs (Color Space Transform & LUTs)",
+    "categoria_descriptores": "Color Transforms & LUTs (Color Transforms & LUTs)",
     "views": 235004,
     "upload_date": "2025-08-09",
     "latent_x": -115.61000061035156,
@@ -1329,11 +1329,11 @@ const DAVINCI_TUTORIALS_DATA = [
     "autor": "Cullen Kelly",
     "titulo": "I stole this trick from VFX artists",
     "enlace": "https://www.youtube.com/watch?v=3I58NtmWOmE",
-    "categoria_principal": "Fusion Visual Effects (VFX)",
+    "categoria_principal": "Fusion VFX",
     "tags": [
-      "Fusion Visual Effects (VFX)"
+      "Fusion VFX"
     ],
-    "categoria_descriptores": "Fusion Visual Effects (VFX) (Fusion Visual Effects (VFX))",
+    "categoria_descriptores": "Fusion VFX (Fusion VFX)",
     "views": 229833,
     "upload_date": "2025-08-09",
     "latent_x": -1.9700000286102295,
@@ -1807,12 +1807,12 @@ const DAVINCI_TUTORIALS_DATA = [
     "autor": "Zane Hoyer",
     "titulo": "How to Edit Netflix-Level 3D Animations | DaVinci Resolve",
     "enlace": "https://www.youtube.com/watch?v=zDhau3u5NbY",
-    "categoria_principal": "Color Space Transform & LUTs",
+    "categoria_principal": "Color Transforms & LUTs",
     "tags": [
-      "Color Space Transform & LUTs",
+      "Color Transforms & LUTs",
       "Fusion Motion Graphics"
     ],
-    "categoria_descriptores": "Color Space Transform & LUTs (Color Space Transform & LUTs, Fusion Motion Graphics)",
+    "categoria_descriptores": "Color Transforms & LUTs (Color Transforms & LUTs, Fusion Motion Graphics)",
     "views": 154849,
     "upload_date": "2026-01-11",
     "latent_x": -103.73999786376953,
@@ -2002,9 +2002,9 @@ const DAVINCI_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Fusion Motion Graphics",
-      "Fusion Visual Effects (VFX)"
+      "Fusion VFX"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Fusion Motion Graphics, Fusion Visual Effects (VFX))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Fusion Motion Graphics, Fusion VFX)",
     "views": 146579,
     "upload_date": "2025-08-09",
     "latent_x": 8.260000228881836,
@@ -2062,9 +2062,9 @@ const DAVINCI_TUTORIALS_DATA = [
     "categoria_principal": "Fusion Motion Graphics",
     "tags": [
       "Fusion Motion Graphics",
-      "Fusion Visual Effects (VFX)"
+      "Fusion VFX"
     ],
-    "categoria_descriptores": "Fusion Motion Graphics (Fusion Motion Graphics, Fusion Visual Effects (VFX))",
+    "categoria_descriptores": "Fusion Motion Graphics (Fusion Motion Graphics, Fusion VFX)",
     "views": 140090,
     "upload_date": "2025-08-09",
     "latent_x": -5.570000171661377,
@@ -2177,12 +2177,12 @@ const DAVINCI_TUTORIALS_DATA = [
     "autor": "Jamie Fenn",
     "titulo": "3 of the MOST Important Things About Fairlight in Davinci Resolve",
     "enlace": "https://www.youtube.com/watch?v=2hyrywcKKYs",
-    "categoria_principal": "Color Space Transform & LUTs",
+    "categoria_principal": "Color Transforms & LUTs",
     "tags": [
-      "Color Space Transform & LUTs",
+      "Color Transforms & LUTs",
       "Fairlight Audio Mixing"
     ],
-    "categoria_descriptores": "Color Space Transform & LUTs (Color Space Transform & LUTs, Fairlight Audio Mixing)",
+    "categoria_descriptores": "Color Transforms & LUTs (Color Transforms & LUTs, Fairlight Audio Mixing)",
     "views": 133749,
     "upload_date": "2022-08-10",
     "latent_x": -118.20999908447266,
@@ -2465,11 +2465,11 @@ const DAVINCI_TUTORIALS_DATA = [
     "autor": "Darren Mostyn",
     "titulo": "Best Tracker Tips in DaVinci Resolve - HOW TO FIX BAD TRACKING!",
     "enlace": "https://www.youtube.com/watch?v=cnWtYYM4Yfg",
-    "categoria_principal": "Fusion Visual Effects (VFX)",
+    "categoria_principal": "Fusion VFX",
     "tags": [
-      "Fusion Visual Effects (VFX)"
+      "Fusion VFX"
     ],
-    "categoria_descriptores": "Fusion Visual Effects (VFX) (Fusion Visual Effects (VFX))",
+    "categoria_descriptores": "Fusion VFX (Fusion VFX)",
     "views": 118539,
     "upload_date": "2021-08-10",
     "latent_x": -3.950000047683716,
@@ -2484,11 +2484,11 @@ const DAVINCI_TUTORIALS_DATA = [
     "autor": "Cullen Kelly",
     "titulo": "Three levels of color management (and 3 things colorists get wrong)",
     "enlace": "https://www.youtube.com/watch?v=_EJ7lA0bSzo",
-    "categoria_principal": "Color Space Transform & LUTs",
+    "categoria_principal": "Color Transforms & LUTs",
     "tags": [
-      "Color Space Transform & LUTs"
+      "Color Transforms & LUTs"
     ],
-    "categoria_descriptores": "Color Space Transform & LUTs (Color Space Transform & LUTs)",
+    "categoria_descriptores": "Color Transforms & LUTs (Color Transforms & LUTs)",
     "views": 117298,
     "upload_date": "2023-08-10",
     "latent_x": -104.70999908447266,
@@ -2618,11 +2618,11 @@ const DAVINCI_TUTORIALS_DATA = [
     "autor": "Darren Mostyn",
     "titulo": "There's a BETTER Way to Color Manage in Resolve - Don't Use CST's",
     "enlace": "https://www.youtube.com/watch?v=AW42k79BnuI",
-    "categoria_principal": "Color Space Transform & LUTs",
+    "categoria_principal": "Color Transforms & LUTs",
     "tags": [
-      "Color Space Transform & LUTs"
+      "Color Transforms & LUTs"
     ],
-    "categoria_descriptores": "Color Space Transform & LUTs (Color Space Transform & LUTs)",
+    "categoria_descriptores": "Color Transforms & LUTs (Color Transforms & LUTs)",
     "views": 106594,
     "upload_date": "2025-08-09",
     "latent_x": -102.37000274658203,
@@ -2675,11 +2675,11 @@ const DAVINCI_TUTORIALS_DATA = [
     "autor": "Darren Mostyn",
     "titulo": "Watch these 25 mins to FULLY Understand Color Management [Beginners Guide]",
     "enlace": "https://www.youtube.com/watch?v=AAeZKZ5feGA",
-    "categoria_principal": "Color Space Transform & LUTs",
+    "categoria_principal": "Color Transforms & LUTs",
     "tags": [
-      "Color Space Transform & LUTs"
+      "Color Transforms & LUTs"
     ],
-    "categoria_descriptores": "Color Space Transform & LUTs (Color Space Transform & LUTs)",
+    "categoria_descriptores": "Color Transforms & LUTs (Color Transforms & LUTs)",
     "views": 105523,
     "upload_date": "2025-08-09",
     "latent_x": -86.02999877929688,
@@ -2922,11 +2922,11 @@ const DAVINCI_TUTORIALS_DATA = [
     "autor": "Cullen Kelly",
     "titulo": "Pro Colorist Explains: CSTs vs Resolve Color Management",
     "enlace": "https://www.youtube.com/watch?v=QCRVwkhxDzw",
-    "categoria_principal": "Color Space Transform & LUTs",
+    "categoria_principal": "Color Transforms & LUTs",
     "tags": [
-      "Color Space Transform & LUTs"
+      "Color Transforms & LUTs"
     ],
-    "categoria_descriptores": "Color Space Transform & LUTs (Color Space Transform & LUTs)",
+    "categoria_descriptores": "Color Transforms & LUTs (Color Transforms & LUTs)",
     "views": 97902,
     "upload_date": "2024-08-09",
     "latent_x": -94.70999908447266,
@@ -3039,9 +3039,9 @@ const DAVINCI_TUTORIALS_DATA = [
     "categoria_principal": "Color Grading & Wheels",
     "tags": [
       "Color Grading & Wheels",
-      "Color Space Transform & LUTs"
+      "Color Transforms & LUTs"
     ],
-    "categoria_descriptores": "Color Grading & Wheels (Color Grading & Wheels, Color Space Transform & LUTs)",
+    "categoria_descriptores": "Color Grading & Wheels (Color Grading & Wheels, Color Transforms & LUTs)",
     "views": 93717,
     "upload_date": "2021-08-10",
     "latent_x": -62.33000183105469,
@@ -3980,11 +3980,11 @@ const DAVINCI_TUTORIALS_DATA = [
     "autor": "Cullen Kelly",
     "titulo": "How to color manage in 2026 (the key I've always missed)",
     "enlace": "https://www.youtube.com/watch?v=j4fvQPJsMv4",
-    "categoria_principal": "Color Space Transform & LUTs",
+    "categoria_principal": "Color Transforms & LUTs",
     "tags": [
-      "Color Space Transform & LUTs"
+      "Color Transforms & LUTs"
     ],
-    "categoria_descriptores": "Color Space Transform & LUTs (Color Space Transform & LUTs)",
+    "categoria_descriptores": "Color Transforms & LUTs (Color Transforms & LUTs)",
     "views": 61844,
     "upload_date": "2026-06-10",
     "latent_x": -87.47000122070312,
@@ -4233,9 +4233,9 @@ const DAVINCI_TUTORIALS_DATA = [
     "categoria_principal": "Color Grading & Wheels",
     "tags": [
       "Color Grading & Wheels",
-      "Fusion Visual Effects (VFX)"
+      "Fusion VFX"
     ],
-    "categoria_descriptores": "Color Grading & Wheels (Color Grading & Wheels, Fusion Visual Effects (VFX))",
+    "categoria_descriptores": "Color Grading & Wheels (Color Grading & Wheels, Fusion VFX)",
     "views": 55586,
     "upload_date": "2026-07-30",
     "latent_x": -48.20000076293945,
@@ -4311,9 +4311,9 @@ const DAVINCI_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Fusion Visual Effects (VFX)"
+      "Fusion VFX"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Fusion Visual Effects (VFX))",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Fusion VFX)",
     "views": 53565,
     "upload_date": "2025-08-09",
     "latent_x": 11.989999771118164,
@@ -4710,11 +4710,11 @@ const DAVINCI_TUTORIALS_DATA = [
     "autor": "Cullen Kelly",
     "titulo": "Cheat Code for Setting up Color Management in Resolve",
     "enlace": "https://www.youtube.com/watch?v=hgVqUATQSMg",
-    "categoria_principal": "Color Space Transform & LUTs",
+    "categoria_principal": "Color Transforms & LUTs",
     "tags": [
-      "Color Space Transform & LUTs"
+      "Color Transforms & LUTs"
     ],
-    "categoria_descriptores": "Color Space Transform & LUTs (Color Space Transform & LUTs)",
+    "categoria_descriptores": "Color Transforms & LUTs (Color Transforms & LUTs)",
     "views": 46245,
     "upload_date": "2024-08-09",
     "latent_x": -89.8499984741211,
@@ -4901,11 +4901,11 @@ const DAVINCI_TUTORIALS_DATA = [
     "autor": "Cullen Kelly",
     "titulo": "How use noise reduction like a pro in DaVinci Resolve",
     "enlace": "https://www.youtube.com/watch?v=RzwQ1Miyjbc",
-    "categoria_principal": "Noise Reduction & Restoration",
+    "categoria_principal": "Audio Restoration",
     "tags": [
-      "Noise Reduction & Restoration"
+      "Audio Restoration"
     ],
-    "categoria_descriptores": "Noise Reduction & Restoration (Noise Reduction & Restoration)",
+    "categoria_descriptores": "Audio Restoration (Audio Restoration)",
     "views": 42072,
     "upload_date": "2022-08-10",
     "latent_x": 14.119999885559082,
@@ -4961,10 +4961,10 @@ const DAVINCI_TUTORIALS_DATA = [
     "categoria_principal": "Cut & Edit Page Workflows",
     "tags": [
       "Cut & Edit Page Workflows",
-      "Color Space Transform & LUTs",
+      "Color Transforms & LUTs",
       "Fusion Motion Graphics"
     ],
-    "categoria_descriptores": "Cut & Edit Page Workflows (Cut & Edit Page Workflows, Color Space Transform & LUTs, Fusion Motion Graphics)",
+    "categoria_descriptores": "Cut & Edit Page Workflows (Cut & Edit Page Workflows, Color Transforms & LUTs, Fusion Motion Graphics)",
     "views": 41530,
     "upload_date": "2026-07-27",
     "latent_x": -90.19999694824219,
@@ -5516,11 +5516,11 @@ const DAVINCI_TUTORIALS_DATA = [
     "autor": "Cullen Kelly",
     "titulo": "No LUT Film Emulation",
     "enlace": "https://www.youtube.com/watch?v=P7QSXjJ7Yy8",
-    "categoria_principal": "Color Space Transform & LUTs",
+    "categoria_principal": "Color Transforms & LUTs",
     "tags": [
-      "Color Space Transform & LUTs"
+      "Color Transforms & LUTs"
     ],
-    "categoria_descriptores": "Color Space Transform & LUTs (Color Space Transform & LUTs)",
+    "categoria_descriptores": "Color Transforms & LUTs (Color Transforms & LUTs)",
     "views": 32182,
     "upload_date": "2023-08-10",
     "latent_x": -100.68000030517578,
@@ -5596,9 +5596,9 @@ const DAVINCI_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Color Space Transform & LUTs"
+      "Color Transforms & LUTs"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Color Space Transform & LUTs)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Color Transforms & LUTs)",
     "views": 31759,
     "upload_date": "2025-10-13",
     "latent_x": -71.55999755859375,
@@ -6091,11 +6091,11 @@ const DAVINCI_TUTORIALS_DATA = [
     "autor": "Cullen Kelly",
     "titulo": "Why You Shouldn't Use ACES",
     "enlace": "https://www.youtube.com/watch?v=SD8QRldaj94",
-    "categoria_principal": "Color Space Transform & LUTs",
+    "categoria_principal": "Color Transforms & LUTs",
     "tags": [
-      "Color Space Transform & LUTs"
+      "Color Transforms & LUTs"
     ],
-    "categoria_descriptores": "Color Space Transform & LUTs (Color Space Transform & LUTs)",
+    "categoria_descriptores": "Color Transforms & LUTs (Color Transforms & LUTs)",
     "views": 24795,
     "upload_date": "2021-08-10",
     "latent_x": -105.05000305175781,
@@ -6113,9 +6113,9 @@ const DAVINCI_TUTORIALS_DATA = [
     "categoria_principal": "Fairlight Audio Mixing",
     "tags": [
       "Fairlight Audio Mixing",
-      "Noise Reduction & Restoration"
+      "Audio Restoration"
     ],
-    "categoria_descriptores": "Fairlight Audio Mixing (Fairlight Audio Mixing, Noise Reduction & Restoration)",
+    "categoria_descriptores": "Fairlight Audio Mixing (Fairlight Audio Mixing, Audio Restoration)",
     "views": 24789,
     "upload_date": "2024-08-09",
     "latent_x": 9.220000267028809,
@@ -6940,9 +6940,9 @@ const DAVINCI_TUTORIALS_DATA = [
     "categoria_principal": "Fusion Motion Graphics",
     "tags": [
       "Fusion Motion Graphics",
-      "Fusion Visual Effects (VFX)"
+      "Fusion VFX"
     ],
-    "categoria_descriptores": "Fusion Motion Graphics (Fusion Motion Graphics, Fusion Visual Effects (VFX))",
+    "categoria_descriptores": "Fusion Motion Graphics (Fusion Motion Graphics, Fusion VFX)",
     "views": 12627,
     "upload_date": "2018-08-11",
     "latent_x": -8.649999618530273,
@@ -7189,9 +7189,9 @@ const DAVINCI_TUTORIALS_DATA = [
     "categoria_principal": "Fairlight Audio Mixing",
     "tags": [
       "Fairlight Audio Mixing",
-      "Noise Reduction & Restoration"
+      "Audio Restoration"
     ],
-    "categoria_descriptores": "Fairlight Audio Mixing (Fairlight Audio Mixing, Noise Reduction & Restoration)",
+    "categoria_descriptores": "Fairlight Audio Mixing (Fairlight Audio Mixing, Audio Restoration)",
     "views": 10771,
     "upload_date": "2022-08-10",
     "latent_x": -5.03000020980835,
@@ -7225,11 +7225,11 @@ const DAVINCI_TUTORIALS_DATA = [
     "autor": "Casey Faris",
     "titulo": "The Most CONFUSING Parts of Color Management in DaVinci Resolve - Help for Beginners!",
     "enlace": "https://www.youtube.com/watch?v=k-HZdsPtcGE",
-    "categoria_principal": "Color Space Transform & LUTs",
+    "categoria_principal": "Color Transforms & LUTs",
     "tags": [
-      "Color Space Transform & LUTs"
+      "Color Transforms & LUTs"
     ],
-    "categoria_descriptores": "Color Space Transform & LUTs (Color Space Transform & LUTs)",
+    "categoria_descriptores": "Color Transforms & LUTs (Color Transforms & LUTs)",
     "views": 10709,
     "upload_date": "2025-10-13",
     "latent_x": -86.80000305175781,
@@ -8165,9 +8165,9 @@ const DAVINCI_TUTORIALS_DATA = [
     "categoria_principal": "Fusion Motion Graphics",
     "tags": [
       "Fusion Motion Graphics",
-      "Fusion Visual Effects (VFX)"
+      "Fusion VFX"
     ],
-    "categoria_descriptores": "Fusion Motion Graphics (Fusion Motion Graphics, Fusion Visual Effects (VFX))",
+    "categoria_descriptores": "Fusion Motion Graphics (Fusion Motion Graphics, Fusion VFX)",
     "views": 1672,
     "upload_date": "2022-08-10",
     "latent_x": -19.979999542236328,
@@ -8391,4 +8391,3 @@ const DAVINCI_TUTORIALS_DATA = [
     "duracion": "00:56"
   }
 ];
-window.DAVINCI_DATA = DAVINCI_TUTORIALS_DATA;

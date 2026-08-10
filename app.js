@@ -298,7 +298,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "Interactive & Sensors": "#06b6d4",
     "UI & Systems": "#9ca3af",
     // Blender
-    "Geometry Nodes & Procedural": "#f97316",
+    "Geometry Nodes": "#f97316",
     "3D Modeling & Hard Surface": "#3b82f6",
     "Shading & Procedural Materials": "#22c55e",
     "Animation & Rigging": "#a855f7",
@@ -335,7 +335,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "Character Animation & Rigging": "#a855f7",
     // Photoshop
     "Photo Editing & Retouching": "#0284c7",
-    "Photo Manipulation & Compositing": "#8b5cf6",
+    "Photo Compositing": "#8b5cf6",
     "Graphic Design & Poster": "#ec4899",
     "Digital Painting & Drawing": "#f59e0b",
     "Text Effects & Typography": "#10b981",
@@ -998,8 +998,8 @@ document.addEventListener('DOMContentLoaded', () => {
         <div class="card-body">
           <h4 class="card-title">${item.titulo}</h4>
           <div class="card-footer">
-            <span>${creatorHtml}${viewsStr}${dateStr}</span>
-            <div>${tagsHtml}</div>
+            <div class="card-meta-row">${creatorHtml}${viewsStr}${dateStr}</div>
+            <div class="card-tags-row">${tagsHtml}</div>
           </div>
         </div>
       `;

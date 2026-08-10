@@ -5,11 +5,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "dude837",
     "titulo": "Delicious Max/MSP Tutorial 1: Karplus-Strong",
     "enlace": "https://www.youtube.com/watch?v=5RYy8Cvgkqk",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 164527,
     "upload_date": "2011-08-13",
     "latent_x": -72.04000091552734,
@@ -43,12 +43,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "dude837",
     "titulo": "Delicious Max/MSP Tutorial 2: Step Sequencer",
     "enlace": "https://www.youtube.com/watch?v=hYc2a1ONTck",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music)",
     "views": 105902,
     "upload_date": "2011-08-13",
     "latent_x": -109.94999694824219,
@@ -67,9 +67,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 97925,
     "upload_date": "2011-08-13",
     "latent_x": 85.58000183105469,
@@ -87,9 +87,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 93032,
     "upload_date": "2011-08-13",
     "latent_x": 4.699999809265137,
@@ -124,11 +124,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "dude837",
     "titulo": "Delicious Max/MSP Tutorial 7: Pitch shifting",
     "enlace": "https://www.youtube.com/watch?v=uyzY_ZP54pA",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 89101,
     "upload_date": "2011-08-13",
     "latent_x": -89.52999877929688,
@@ -143,11 +143,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "dude837",
     "titulo": "Delicious Max/MSP Tutorial 10: Dubstep Wobble Bass!",
     "enlace": "https://www.youtube.com/watch?v=E_qrk2hE__s",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 88918,
     "upload_date": "2011-08-13",
     "latent_x": -108.77999877929688,
@@ -162,11 +162,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "dude837",
     "titulo": "Delicious Max/MSP Tutorial 4: Vocoder",
     "enlace": "https://www.youtube.com/watch?v=4feOFLX6238",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 80222,
     "upload_date": "2011-08-13",
     "latent_x": -71.72000122070312,
@@ -225,9 +225,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 62843,
     "upload_date": "2020-08-10",
     "latent_x": 73.55000305175781,
@@ -242,11 +242,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "dude837",
     "titulo": "Delicious Max/MSP Tutorial 12: Pfft~ is your friend",
     "enlace": "https://www.youtube.com/watch?v=69A1kGNFYIc",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 60310,
     "upload_date": "2012-08-12",
     "latent_x": -64.33999633789062,
@@ -299,12 +299,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Programming for People",
     "titulo": "MAX msp 7: Sending data from arduino into Max",
     "enlace": "https://www.youtube.com/watch?v=6bT3G4Mep7E",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 56164,
     "upload_date": "2016-08-11",
     "latent_x": -49.5099983215332,
@@ -319,12 +319,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "David Cooper",
     "titulo": "Max/MSP Tutorial: how to make a generative drum machine",
     "enlace": "https://www.youtube.com/watch?v=IYAwtRxZiAY",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music)",
     "views": 55399,
     "upload_date": "2020-08-10",
     "latent_x": -120.0,
@@ -339,11 +339,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Sound Simulator",
     "titulo": "Max Or Pure Data? Choosing An Audio Programming Language",
     "enlace": "https://www.youtube.com/watch?v=s7Gv7SR0Nrk",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 54273,
     "upload_date": "2021-08-10",
     "latent_x": -44.27000045776367,
@@ -358,11 +358,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "dude837",
     "titulo": "Delicious Max 6 Tutorial 20: Kick Drum Synthesis",
     "enlace": "https://www.youtube.com/watch?v=rB4McEGjePk",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 51823,
     "upload_date": "2012-08-12",
     "latent_x": -84.79000091552734,
@@ -400,9 +400,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 47491,
     "upload_date": "2021-08-10",
     "latent_x": 88.3499984741211,
@@ -417,11 +417,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "dude837",
     "titulo": "Delicious Max/MSP Tutorial 14: WTF is an Autechre? -- Not this",
     "enlace": "https://www.youtube.com/watch?v=dkf87DJhG-4",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 46716,
     "upload_date": "2012-08-12",
     "latent_x": -66.08000183105469,
@@ -436,11 +436,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "dude837",
     "titulo": "Delicious Max/MSP Tutorial 5: Boomerang!",
     "enlace": "https://www.youtube.com/watch?v=3KKX6ni0oQE",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 45639,
     "upload_date": "2011-08-13",
     "latent_x": -57.029998779296875,
@@ -477,9 +477,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 41741,
     "upload_date": "2011-08-13",
     "latent_x": 3.9000000953674316,
@@ -497,10 +497,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP, Generative Music)",
     "views": 39338,
     "upload_date": "2023-08-10",
     "latent_x": -48.540000915527344,
@@ -518,9 +518,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 37653,
     "upload_date": "2022-08-10",
     "latent_x": 2.1700000762939453,
@@ -554,11 +554,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Cycling '74",
     "titulo": "Welcome to Max 9",
     "enlace": "https://www.youtube.com/watch?v=XZNu1Lcj9js",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 36173,
     "upload_date": "2025-08-09",
     "latent_x": -59.459999084472656,
@@ -576,9 +576,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 35953,
     "upload_date": "2011-08-13",
     "latent_x": -26.350000381469727,
@@ -613,11 +613,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Amazing Max Stuff",
     "titulo": "Max4Live | Audio-Reactive Visuals Impro Coding | 01",
     "enlace": "https://www.youtube.com/watch?v=BNMj8hJ3C7A",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 33849,
     "upload_date": "2020-08-10",
     "latent_x": -26.059999465942383,
@@ -632,13 +632,13 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Eric Ameres (eraserMice)",
     "titulo": "M4L : Basic Max MIDI Synth in 1 minute! Pt 1 : Learn to build Max for Ableton live synths & devices!",
     "enlace": "https://www.youtube.com/watch?v=W2uUbKaZ_9E",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Max for Live Integration",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Max for Live Integration, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Max for Live Integration, MIDI & Serial Hardware)",
     "views": 32967,
     "upload_date": "2011-08-13",
     "latent_x": -20.780000686645508,
@@ -657,10 +657,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Max for Live Integration"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP & Synthesis, Max for Live Integration)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP, Max for Live Integration)",
     "views": 32348,
     "upload_date": "2022-08-10",
     "latent_x": 75.4800033569336,
@@ -678,9 +678,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 32160,
     "upload_date": "2022-08-10",
     "latent_x": -25.190000534057617,
@@ -714,12 +714,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Sound Simulator",
     "titulo": "Arduino To Max/MSP (Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=ftDtsSHU2UM",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 31725,
     "upload_date": "2021-08-10",
     "latent_x": -74.61000061035156,
@@ -737,10 +737,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP, Generative Music)",
     "views": 28968,
     "upload_date": "2010-08-13",
     "latent_x": -61.31999969482422,
@@ -775,12 +775,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "ZeroPoint Zero",
     "titulo": "Creating Random glitch generator in Max/msp.",
     "enlace": "https://www.youtube.com/watch?v=pDJawGXv9Yk",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music)",
     "views": 28500,
     "upload_date": "2023-08-10",
     "latent_x": -108.83000183105469,
@@ -795,12 +795,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Programming for People",
     "titulo": "MAX msp 7: Passing data from MAX to Arduino",
     "enlace": "https://www.youtube.com/watch?v=68L-WHh3Ows",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 27776,
     "upload_date": "2016-08-11",
     "latent_x": -42.27000045776367,
@@ -834,12 +834,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Sound Simulator",
     "titulo": "Let’s Create a Ribbon Synth! (Arduino + Max/MSP Or Pure Data)",
     "enlace": "https://www.youtube.com/watch?v=Cdc2U2_qrhk",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 27321,
     "upload_date": "2021-08-10",
     "latent_x": -43.380001068115234,
@@ -854,11 +854,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Andrew Robinson",
     "titulo": "Sample Slicer Tutorial -- Max MSP Tutorial",
     "enlace": "https://www.youtube.com/watch?v=E0bTX5frBbI",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 27308,
     "upload_date": "2021-08-10",
     "latent_x": -73.98999786376953,
@@ -873,11 +873,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "dude837",
     "titulo": "Delicious Max/MSP Tutorial 7: Pitch Shifting (Part 2)",
     "enlace": "https://www.youtube.com/watch?v=4G3mFBj1UZA",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 26795,
     "upload_date": "2011-08-13",
     "latent_x": -78.48999786376953,
@@ -896,9 +896,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 24882,
     "upload_date": "2021-08-10",
     "latent_x": 85.79000091552734,
@@ -917,9 +917,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 24621,
     "upload_date": "2011-08-13",
     "latent_x": 105.83000183105469,
@@ -934,12 +934,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "zlatkong",
     "titulo": "Generative Soundscape in Max/MSP - randomised triggering and crossfaded looping",
     "enlace": "https://www.youtube.com/watch?v=SSxpCeFB81o",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music)",
     "views": 24281,
     "upload_date": "2020-08-10",
     "latent_x": -94.76000213623047,
@@ -973,11 +973,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "dude837",
     "titulo": "Delicious Max/MSP Tutorial 7: Pitch Shifting (Part 3)",
     "enlace": "https://www.youtube.com/watch?v=zEJ309kY-q0",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 24020,
     "upload_date": "2011-08-13",
     "latent_x": -83.01000213623047,
@@ -995,9 +995,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 23049,
     "upload_date": "2023-08-10",
     "latent_x": -3.2899999618530273,
@@ -1012,11 +1012,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "dude837",
     "titulo": "Delicious Max/MSP Tutorial 6: Let's build a TB-303! (Part 1)",
     "enlace": "https://www.youtube.com/watch?v=UQh0-niMnt4",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 22718,
     "upload_date": "2011-08-13",
     "latent_x": -105.56999969482422,
@@ -1050,12 +1050,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "ZeroPoint Zero",
     "titulo": "Creating generative ambient patch in Max8.3.1",
     "enlace": "https://www.youtube.com/watch?v=jSz0031K2mI",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music)",
     "views": 21985,
     "upload_date": "2022-08-10",
     "latent_x": -100.31999969482422,
@@ -1070,12 +1070,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Graham Wakefield",
     "titulo": "Oopsy: Daisy from gen~ in Max/MSP",
     "enlace": "https://www.youtube.com/watch?v=fbd1CASqUmI",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Gen~ Low-Level Coding)",
     "views": 21978,
     "upload_date": "2021-08-10",
     "latent_x": -22.270000457763672,
@@ -1109,12 +1109,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "toneparticle",
     "titulo": "Max/MSP Tutorial: Building a granular synthesiser in Max with mc objects and gen~",
     "enlace": "https://www.youtube.com/watch?v=rbeLoYrdyPc",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Gen~ Low-Level Coding)",
     "views": 21278,
     "upload_date": "2021-08-10",
     "latent_x": 13.75,
@@ -1133,9 +1133,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 20797,
     "upload_date": "2025-09-13",
     "latent_x": 83.16999816894531,
@@ -1153,9 +1153,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 20489,
     "upload_date": "2021-08-10",
     "latent_x": 23.6200008392334,
@@ -1193,9 +1193,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 19969,
     "upload_date": "2021-08-10",
     "latent_x": 98.12999725341797,
@@ -1229,13 +1229,13 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Programming for People",
     "titulo": "Max MSP Request:  Serial Arduino Live Data Stream",
     "enlace": "https://www.youtube.com/watch?v=tOPObpGnrIA",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Max for Live Integration",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Max for Live Integration, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Max for Live Integration, MIDI & Serial Hardware)",
     "views": 19705,
     "upload_date": "2016-08-11",
     "latent_x": -31.770000457763672,
@@ -1272,9 +1272,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 18491,
     "upload_date": "2020-08-10",
     "latent_x": 11.640000343322754,
@@ -1308,11 +1308,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "dude837",
     "titulo": "Delicious Max/MSP Tutorial 13: Coll of Duty",
     "enlace": "https://www.youtube.com/watch?v=4VvCye3CytU",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 18312,
     "upload_date": "2012-08-12",
     "latent_x": -87.8499984741211,
@@ -1327,11 +1327,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Hearing Glass | Umut Eldem",
     "titulo": "Spectral Freeze - Max/MSP Tutorial",
     "enlace": "https://www.youtube.com/watch?v=Eli51HS7gwU",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 18147,
     "upload_date": "2023-08-10",
     "latent_x": -41.84000015258789,
@@ -1350,10 +1350,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 18031,
     "upload_date": "2021-08-10",
     "latent_x": 55.560001373291016,
@@ -1411,9 +1411,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 17339,
     "upload_date": "2023-08-10",
     "latent_x": 30.989999771118164,
@@ -1447,11 +1447,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "The Audio Programmer",
     "titulo": "Audio Programming for Beginners Tutorial 03-  Simple Sine Oscillator in Max Msp",
     "enlace": "https://www.youtube.com/watch?v=J_0b9HezaNc",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 16485,
     "upload_date": "2017-08-11",
     "latent_x": -31.200000762939453,
@@ -1466,11 +1466,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Hearing Glass | Umut Eldem",
     "titulo": "Chaotic Particles  - Max/MSP Tutorial",
     "enlace": "https://www.youtube.com/watch?v=xBM9C9ADK8w",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 16365,
     "upload_date": "2023-08-10",
     "latent_x": -53.79999923706055,
@@ -1504,12 +1504,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "dude837",
     "titulo": "Delicious Max/MSP Tutorial 8: Circular Sequencer (Part 1)",
     "enlace": "https://www.youtube.com/watch?v=C1p_xI6b4NA",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music)",
     "views": 15749,
     "upload_date": "2011-08-13",
     "latent_x": -105.87000274658203,
@@ -1527,10 +1527,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP, Gen~ Low-Level Coding)",
     "views": 15521,
     "upload_date": "2022-08-10",
     "latent_x": 5.320000171661377,
@@ -1549,10 +1549,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Max for Live Integration"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP & Synthesis, Max for Live Integration)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP, Max for Live Integration)",
     "views": 15499,
     "upload_date": "2024-08-09",
     "latent_x": 73.1500015258789,
@@ -1571,10 +1571,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP, Generative Music)",
     "views": 15464,
     "upload_date": "2020-08-10",
     "latent_x": 46.970001220703125,
@@ -1627,12 +1627,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Myles Borins",
     "titulo": "Arduino + DMX + COLORstrip + Max/msp +TouchOSC",
     "enlace": "https://www.youtube.com/watch?v=XX9AVYvVYFU",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 14909,
     "upload_date": "2010-08-13",
     "latent_x": -52.220001220703125,
@@ -1651,9 +1651,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 14745,
     "upload_date": "2021-08-10",
     "latent_x": 70.22000122070312,
@@ -1668,11 +1668,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "dude837",
     "titulo": "Delicious Max/MSP Tutorial 9: The Almighty bpatcher",
     "enlace": "https://www.youtube.com/watch?v=z1FgdAbHIuM",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 14707,
     "upload_date": "2011-08-13",
     "latent_x": -66.41999816894531,
@@ -1728,9 +1728,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 14241,
     "upload_date": "2011-08-13",
     "latent_x": -7.039999961853027,
@@ -1748,9 +1748,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP)",
     "views": 14178,
     "upload_date": "2024-08-09",
     "latent_x": 45.630001068115234,
@@ -1785,11 +1785,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Ned Rush",
     "titulo": "Max MSP Tutorial - The Function Object = Ned Rush",
     "enlace": "https://www.youtube.com/watch?v=oAoUmfWgzss",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 13823,
     "upload_date": "2023-08-10",
     "latent_x": -72.87999725341797,
@@ -1826,9 +1826,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 13747,
     "upload_date": "2011-08-13",
     "latent_x": -8.729999542236328,
@@ -1843,12 +1843,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "ersatz_ben",
     "titulo": "Max/MSP: Dynamic convolution and simple reverb - live programming",
     "enlace": "https://www.youtube.com/watch?v=i6rQfjmQHc0",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Max for Live Integration"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Max for Live Integration)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Max for Live Integration)",
     "views": 13645,
     "upload_date": "2023-08-10",
     "latent_x": -41.91999816894531,
@@ -1866,9 +1866,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 13636,
     "upload_date": "2022-08-10",
     "latent_x": -18.799999237060547,
@@ -1924,9 +1924,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 13339,
     "upload_date": "2021-08-10",
     "latent_x": 4.559999942779541,
@@ -1963,10 +1963,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP, Generative Music)",
     "views": 13197,
     "upload_date": "2022-08-10",
     "latent_x": -61.22999954223633,
@@ -1985,9 +1985,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 13105,
     "upload_date": "2021-08-10",
     "latent_x": 89.19000244140625,
@@ -2002,11 +2002,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Programming for People",
     "titulo": "MAX msp 7 Tutorial: Super Amazing Music Sampler",
     "enlace": "https://www.youtube.com/watch?v=rwtGemIHixE",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 12992,
     "upload_date": "2016-08-11",
     "latent_x": -76.01000213623047,
@@ -2024,9 +2024,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 12964,
     "upload_date": "2025-08-09",
     "latent_x": 3.2799999713897705,
@@ -2044,9 +2044,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 12827,
     "upload_date": "2011-08-13",
     "latent_x": -7.900000095367432,
@@ -2081,12 +2081,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Sound Simulator",
     "titulo": "Accelerometer Music Controller (Arduino Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=Wzjms3tgF6w",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 12366,
     "upload_date": "2022-08-10",
     "latent_x": -71.68000030517578,
@@ -2104,10 +2104,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP, Generative Music)",
     "views": 12235,
     "upload_date": "2025-08-09",
     "latent_x": 33.349998474121094,
@@ -2163,9 +2163,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "Generative Music & Algorithms"
+      "Generative Music"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, Generative Music & Algorithms)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, Generative Music)",
     "views": 11911,
     "upload_date": "2022-08-10",
     "latent_x": -74.25,
@@ -2199,11 +2199,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "dude837",
     "titulo": "Delicious Max/MSP Tutorial 6: Let's build a TB-303! (Part 3)",
     "enlace": "https://www.youtube.com/watch?v=KPiSdewGS0E",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 11430,
     "upload_date": "2011-08-13",
     "latent_x": -100.98999786376953,
@@ -2221,10 +2221,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP, Generative Music)",
     "views": 11262,
     "upload_date": "2023-08-10",
     "latent_x": -66.5,
@@ -2239,12 +2239,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Cycling '74",
     "titulo": "gen~ for Beginners: Debugging and Signal-Rate Processing",
     "enlace": "https://www.youtube.com/watch?v=yMITTBWn_c0",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Gen~ Low-Level Coding)",
     "views": 11243,
     "upload_date": "2013-08-12",
     "latent_x": -19.139999389648438,
@@ -2262,9 +2262,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 11204,
     "upload_date": "2021-08-10",
     "latent_x": 19.90999984741211,
@@ -2282,10 +2282,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP, Gen~ Low-Level Coding)",
     "views": 11200,
     "upload_date": "2024-08-09",
     "latent_x": 31.200000762939453,
@@ -2319,12 +2319,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Znibbles",
     "titulo": "05 Chaotic Synthesis | 01 Feedbacked FM",
     "enlace": "https://www.youtube.com/watch?v=vK9fTLdyF8Q",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Gen~ Low-Level Coding)",
     "views": 11142,
     "upload_date": "2018-08-11",
     "latent_x": -37.150001525878906,
@@ -2342,9 +2342,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP)",
     "views": 11109,
     "upload_date": "2019-08-11",
     "latent_x": 33.33000183105469,
@@ -2383,9 +2383,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 11012,
     "upload_date": "2022-08-10",
     "latent_x": 100.05999755859375,
@@ -2400,12 +2400,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Sound Simulator",
     "titulo": "Let’s Build a Finger Drum Controller! (Sending Digital Values from Arduino to Max/MSP & Pure Data)",
     "enlace": "https://www.youtube.com/watch?v=1J6tLOGn0dw",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 10815,
     "upload_date": "2021-08-10",
     "latent_x": -53.83000183105469,
@@ -2423,9 +2423,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 10811,
     "upload_date": "2025-08-09",
     "latent_x": 15.539999961853027,
@@ -2463,10 +2463,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP, Generative Music)",
     "views": 10761,
     "upload_date": "2022-08-10",
     "latent_x": -56.630001068115234,
@@ -2481,12 +2481,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Daisy",
     "titulo": "How to Add Daisy Support to Max/MSP gen~",
     "enlace": "https://www.youtube.com/watch?v=HTXhd8sdxp4",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Gen~ Low-Level Coding)",
     "views": 10595,
     "upload_date": "2023-08-10",
     "latent_x": -22.270000457763672,
@@ -2520,12 +2520,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "dude837",
     "titulo": "Delicious Max/MSP Tutorial 8: Circular Sequencer (Part 3)",
     "enlace": "https://www.youtube.com/watch?v=nkhtTdEK0tI",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music)",
     "views": 10419,
     "upload_date": "2011-08-13",
     "latent_x": -105.87000274658203,
@@ -2544,9 +2544,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 10385,
     "upload_date": "2024-08-09",
     "latent_x": 68.06999969482422,
@@ -2564,9 +2564,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 10380,
     "upload_date": "2010-08-13",
     "latent_x": -8.829999923706055,
@@ -2581,12 +2581,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Eric Ameres (eraserMice)",
     "titulo": "M4L Tutorial #9 : Polyphony w/ Poly~ and Bondo in our Synth ! Max for Ableton Live",
     "enlace": "https://www.youtube.com/watch?v=34ayE5fkVp4",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Max for Live Integration"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Max for Live Integration)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Max for Live Integration)",
     "views": 10243,
     "upload_date": "2011-08-13",
     "latent_x": -21.309999465942383,
@@ -2620,12 +2620,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "dude837",
     "titulo": "Delicious Max/MSP Tutorial 8: Circular Sequencer (Part Bonus)",
     "enlace": "https://www.youtube.com/watch?v=k2nCMRZ2oL4",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music)",
     "views": 10127,
     "upload_date": "2011-08-13",
     "latent_x": -105.87000274658203,
@@ -2659,12 +2659,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Yuraa",
     "titulo": "HID to MIDI with Cycling'74 MAX/MSP",
     "enlace": "https://www.youtube.com/watch?v=L50EC8AHUZo",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 9681,
     "upload_date": "2011-08-13",
     "latent_x": -71.69000244140625,
@@ -2717,13 +2717,13 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Tony James Morton",
     "titulo": "MAX MSP Tutorial - Making generative music. Simple generative techniques and using M4L instruments.",
     "enlace": "https://www.youtube.com/watch?v=tpEI7jrXqGE",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms",
+      "MSP Audio DSP",
+      "Generative Music",
       "Max for Live Integration"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms, Max for Live Integration)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music, Max for Live Integration)",
     "views": 9344,
     "upload_date": "2024-08-09",
     "latent_x": -58.65999984741211,
@@ -2741,9 +2741,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 9243,
     "upload_date": "2025-08-09",
     "latent_x": 37.209999084472656,
@@ -2761,9 +2761,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "Generative Music & Algorithms"
+      "Generative Music"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, Generative Music & Algorithms)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, Generative Music)",
     "views": 9190,
     "upload_date": "2020-08-10",
     "latent_x": -61.099998474121094,
@@ -2838,9 +2838,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 8996,
     "upload_date": "2024-08-09",
     "latent_x": -19.290000915527344,
@@ -2874,13 +2874,13 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Povilas Strumila Audio",
     "titulo": "Generative Sequences - MAX/MSP",
     "enlace": "https://www.youtube.com/watch?v=U-ZHHW1AvpQ",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms",
+      "MSP Audio DSP",
+      "Generative Music",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music, MIDI & Serial Hardware)",
     "views": 8978,
     "upload_date": "2016-08-11",
     "latent_x": -64.23999786376953,
@@ -2899,9 +2899,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 8925,
     "upload_date": "2021-08-10",
     "latent_x": 85.41999816894531,
@@ -2916,11 +2916,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Cycling '74",
     "titulo": "Cycling74 Perspectives: Vlad Spears Discusses Max/MSP Plug-in Development",
     "enlace": "https://www.youtube.com/watch?v=TlnLcLdmeMQ",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 8648,
     "upload_date": "2008-08-13",
     "latent_x": -72.02999877929688,
@@ -2955,12 +2955,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "dude837",
     "titulo": "Delicious Max 7 Tutorial 63: Max for Live more like Live for Max",
     "enlace": "https://www.youtube.com/watch?v=nQ6SeRdbSGA",
-    "categoria_principal": "Generative Music & Algorithms",
+    "categoria_principal": "Generative Music",
     "tags": [
-      "Generative Music & Algorithms",
+      "Generative Music",
       "Max for Live Integration"
     ],
-    "categoria_descriptores": "Generative Music & Algorithms (Generative Music & Algorithms, Max for Live Integration)",
+    "categoria_descriptores": "Generative Music (Generative Music, Max for Live Integration)",
     "views": 8435,
     "upload_date": "2016-08-11",
     "latent_x": -37.380001068115234,
@@ -2997,11 +2997,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Generative Music & Algorithms",
+      "Generative Music",
       "Max for Live Integration",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Music & Algorithms, Max for Live Integration, MIDI & Serial Hardware)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Music, Max for Live Integration, MIDI & Serial Hardware)",
     "views": 8337,
     "upload_date": "2012-08-12",
     "latent_x": 35.380001068115234,
@@ -3019,10 +3019,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP, Gen~ Low-Level Coding)",
     "views": 8306,
     "upload_date": "2023-08-10",
     "latent_x": 18.079999923706055,
@@ -3060,9 +3060,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 8250,
     "upload_date": "2024-08-09",
     "latent_x": 88.0999984741211,
@@ -3081,9 +3081,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 7980,
     "upload_date": "2025-09-13",
     "latent_x": 89.9800033569336,
@@ -3098,12 +3098,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "dude837",
     "titulo": "Delicious Max/MSP Tutorial 8: Circular Sequencer (Part 2)",
     "enlace": "https://www.youtube.com/watch?v=roIIAsMj6Y0",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music)",
     "views": 7950,
     "upload_date": "2011-08-13",
     "latent_x": -105.87000274658203,
@@ -3137,13 +3137,13 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Cycling '74",
     "titulo": "Playing with gen~",
     "enlace": "https://www.youtube.com/watch?v=_u-syhpTstg",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Max for Live Integration",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Max for Live Integration, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Max for Live Integration, Gen~ Low-Level Coding)",
     "views": 7903,
     "upload_date": "2014-08-12",
     "latent_x": -14.930000305175781,
@@ -3158,11 +3158,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "musiccollege",
     "titulo": "Max/Msp Tutorial (Gates + Switches) Barnsley College",
     "enlace": "https://www.youtube.com/watch?v=3FoOGROUDw4",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 7888,
     "upload_date": "2012-08-12",
     "latent_x": -58.72999954223633,
@@ -3180,9 +3180,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 7830,
     "upload_date": "2024-08-09",
     "latent_x": -12.300000190734863,
@@ -3197,12 +3197,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Rishabh Rajan",
     "titulo": "Cycling 74 Max Modular Synthesis with BEAP - Generative Melodies",
     "enlace": "https://www.youtube.com/watch?v=lm8cvTywtVI",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music)",
     "views": 7788,
     "upload_date": "2019-08-11",
     "latent_x": -82.4800033569336,
@@ -3240,9 +3240,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 7616,
     "upload_date": "2025-08-09",
     "latent_x": 66.69000244140625,
@@ -3257,12 +3257,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "captainhooyah",
     "titulo": "Arduino? Arduiyesyoucan-Ep. 1- Hook Arduino to Max Msp with Maxuino",
     "enlace": "https://www.youtube.com/watch?v=cjRtxO8Jw8Q",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 7519,
     "upload_date": "2011-08-13",
     "latent_x": -71.79000091552734,
@@ -3280,10 +3280,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP, Gen~ Low-Level Coding)",
     "views": 7499,
     "upload_date": "2016-08-11",
     "latent_x": 32.040000915527344,
@@ -3301,9 +3301,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP)",
     "views": 7426,
     "upload_date": "2023-08-10",
     "latent_x": 31.56999969482422,
@@ -3321,9 +3321,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 7319,
     "upload_date": "2011-08-13",
     "latent_x": -19.809999465942383,
@@ -3341,9 +3341,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 7300,
     "upload_date": "2022-08-10",
     "latent_x": -11.5600004196167,
@@ -3358,12 +3358,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Paulo Lacão",
     "titulo": "MAX/MSP | Generative Algorithmic Music  | #1 | Piano Random Composition",
     "enlace": "https://www.youtube.com/watch?v=zSsWTlAUyPg",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music)",
     "views": 7198,
     "upload_date": "2022-08-10",
     "latent_x": -85.80000305175781,
@@ -3381,9 +3381,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP)",
     "views": 7193,
     "upload_date": "2022-08-10",
     "latent_x": 32.689998626708984,
@@ -3398,12 +3398,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "lysdexic audio",
     "titulo": "EZ Gen~ MaxMSP Tutorial 001 :: Shuffle/Swing algorithm",
     "enlace": "https://www.youtube.com/watch?v=JFWU1iL2-7g",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Gen~ Low-Level Coding)",
     "views": 7175,
     "upload_date": "2021-08-10",
     "latent_x": -5.53000020980835,
@@ -3459,10 +3459,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP, Generative Music)",
     "views": 7000,
     "upload_date": "2023-08-10",
     "latent_x": -76.48999786376953,
@@ -3537,9 +3537,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 6586,
     "upload_date": "2025-11-12",
     "latent_x": 29.079999923706055,
@@ -3554,13 +3554,13 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Jesse Harlin (the-simian)",
     "titulo": "Arduino Max/msp Algorithmic Composition Test",
     "enlace": "https://www.youtube.com/watch?v=L5iPpLnZeyU",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms",
+      "MSP Audio DSP",
+      "Generative Music",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music, MIDI & Serial Hardware)",
     "views": 6448,
     "upload_date": "2008-08-13",
     "latent_x": -67.62000274658203,
@@ -3575,11 +3575,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "MUST1002",
     "titulo": "Max MSP Tutorial 04a2: Playback objects: [sfplay~] [1]",
     "enlace": "https://www.youtube.com/watch?v=Rkm1MH0ZVEU",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 6366,
     "upload_date": "2010-08-13",
     "latent_x": -60.400001525878906,
@@ -3597,10 +3597,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP, Generative Music)",
     "views": 6335,
     "upload_date": "2025-08-09",
     "latent_x": -47.41999816894531,
@@ -3619,9 +3619,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 6331,
     "upload_date": "2022-08-10",
     "latent_x": 85.79000091552734,
@@ -3636,12 +3636,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Taylor Brook",
     "titulo": "Building a Reverse Delay Audio Effect in Gen/Max - Gen~ Tutorial",
     "enlace": "https://www.youtube.com/watch?v=hOX5eg7QCqM",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Gen~ Low-Level Coding)",
     "views": 6300,
     "upload_date": "2023-08-10",
     "latent_x": 11.210000038146973,
@@ -3713,12 +3713,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Ned Rush",
     "titulo": "Max For Live Tutorial -  Generative Music Part 1 - Melodic Monosynth = Ned Rush",
     "enlace": "https://www.youtube.com/watch?v=88kIZsBUZUA",
-    "categoria_principal": "Generative Music & Algorithms",
+    "categoria_principal": "Generative Music",
     "tags": [
-      "Generative Music & Algorithms",
+      "Generative Music",
       "Max for Live Integration"
     ],
-    "categoria_descriptores": "Generative Music & Algorithms (Generative Music & Algorithms, Max for Live Integration)",
+    "categoria_descriptores": "Generative Music (Generative Music, Max for Live Integration)",
     "views": 6150,
     "upload_date": "2024-08-09",
     "latent_x": -36.02000045776367,
@@ -3755,10 +3755,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP, Generative Music)",
     "views": 6048,
     "upload_date": "2026-01-11",
     "latent_x": -72.13999938964844,
@@ -3773,11 +3773,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Learning Max",
     "titulo": "Max/MSP - Sound-Filtering",
     "enlace": "https://www.youtube.com/watch?v=eoVXY5_qCwY",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 6001,
     "upload_date": "2019-08-11",
     "latent_x": -39.459999084472656,
@@ -3795,10 +3795,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP, Generative Music)",
     "views": 5948,
     "upload_date": "2024-08-09",
     "latent_x": -49.650001525878906,
@@ -3817,9 +3817,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 5935,
     "upload_date": "2025-08-09",
     "latent_x": 70.94999694824219,
@@ -3853,12 +3853,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Cycling '74",
     "titulo": "Gen: For advanced audio devices and high-resolution audio applications",
     "enlace": "https://www.youtube.com/watch?v=PSa-qQ6Kks4",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Gen~ Low-Level Coding)",
     "views": 5838,
     "upload_date": "2014-08-12",
     "latent_x": -5.940000057220459,
@@ -3873,11 +3873,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Learning Max",
     "titulo": "Max/MSP - Audio_Processing_EQ_Reverb_Pan_Compression",
     "enlace": "https://www.youtube.com/watch?v=ShbSF7IEljc",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 5800,
     "upload_date": "2019-08-11",
     "latent_x": -53.810001373291016,
@@ -3952,9 +3952,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 5679,
     "upload_date": "2023-08-10",
     "latent_x": -1.0499999523162842,
@@ -3972,10 +3972,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP, Generative Music)",
     "views": 5202,
     "upload_date": "2025-08-09",
     "latent_x": -66.87000274658203,
@@ -4011,12 +4011,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "algeventual",
     "titulo": "Generative beat machine max msp",
     "enlace": "https://www.youtube.com/watch?v=8ZjfXoF31wo",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music)",
     "views": 5131,
     "upload_date": "2024-08-09",
     "latent_x": -105.04000091552734,
@@ -4035,9 +4035,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 5046,
     "upload_date": "2009-08-13",
     "latent_x": 74.6500015258789,
@@ -4074,9 +4074,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP)",
     "views": 5043,
     "upload_date": "2023-08-10",
     "latent_x": 47.5099983215332,
@@ -4095,9 +4095,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 5023,
     "upload_date": "2025-10-13",
     "latent_x": 102.7699966430664,
@@ -4153,10 +4153,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 4963,
     "upload_date": "2009-08-13",
     "latent_x": -49.939998626708984,
@@ -4174,9 +4174,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 4879,
     "upload_date": "2025-08-09",
     "latent_x": -23.059999465942383,
@@ -4232,9 +4232,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP)",
     "views": 4767,
     "upload_date": "2025-08-09",
     "latent_x": 47.2400016784668,
@@ -4327,12 +4327,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Akihiko Matsumoto",
     "titulo": "Max/MSP Generative Music - Akihiko Matsumoto (2023)",
     "enlace": "https://www.youtube.com/watch?v=peftkLgix44",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music)",
     "views": 4578,
     "upload_date": "2023-08-10",
     "latent_x": -81.0199966430664,
@@ -4350,10 +4350,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 4531,
     "upload_date": "2012-08-12",
     "latent_x": -49.939998626708984,
@@ -4372,10 +4372,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Max for Live Integration"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP & Synthesis, Max for Live Integration)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP, Max for Live Integration)",
     "views": 4492,
     "upload_date": "2011-08-13",
     "latent_x": 92.0,
@@ -4433,9 +4433,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP)",
     "views": 4403,
     "upload_date": "2010-08-13",
     "latent_x": 47.45000076293945,
@@ -4450,12 +4450,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Andy Hosker",
     "titulo": "MAX/MSP, Arduino and Electric Guitar",
     "enlace": "https://www.youtube.com/watch?v=o27DSxBGOWY",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 4331,
     "upload_date": "2012-08-12",
     "latent_x": -61.7599983215332,
@@ -4473,9 +4473,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 4326,
     "upload_date": "2017-08-11",
     "latent_x": 14.449999809265137,
@@ -4490,12 +4490,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "discharj",
     "titulo": "Beatwife's SPECFREEZE WARP - Max For LIve ( m4l ) Patch",
     "enlace": "https://www.youtube.com/watch?v=XrwRZwjEMgQ",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Max for Live Integration"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Max for Live Integration)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Max for Live Integration)",
     "views": 4317,
     "upload_date": "2010-08-13",
     "latent_x": -22.489999771118164,
@@ -4625,12 +4625,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Dan Reid",
     "titulo": "OneMinuteMax 3 - Oscillator Feedback w/ Gen~",
     "enlace": "https://www.youtube.com/watch?v=YCmnD0lzZdU",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Gen~ Low-Level Coding)",
     "views": 4038,
     "upload_date": "2019-08-11",
     "latent_x": -0.8600000143051147,
@@ -4648,9 +4648,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 4036,
     "upload_date": "2024-08-09",
     "latent_x": -5.230000019073486,
@@ -4763,10 +4763,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Generative Music & Algorithms",
+      "Generative Music",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Music & Algorithms, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Music, Gen~ Low-Level Coding)",
     "views": 3876,
     "upload_date": "2021-08-10",
     "latent_x": 7.380000114440918,
@@ -4801,12 +4801,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Eric Ameres (eraserMice)",
     "titulo": "M4L Tutorial #10 Adding FM and cycle~ to synth for Bass filth/clang : Max for Ableton Live",
     "enlace": "https://www.youtube.com/watch?v=M34aD8CQom4",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Max for Live Integration"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Max for Live Integration)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Max for Live Integration)",
     "views": 3695,
     "upload_date": "2011-08-13",
     "latent_x": -9.699999809265137,
@@ -4821,12 +4821,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "lysdexic audio",
     "titulo": "EZ Gen~ MaxMSP Tutorial 004 :: Polymetric vs Polyrhythmic Sequencing",
     "enlace": "https://www.youtube.com/watch?v=6jy4Z0_LS_c",
-    "categoria_principal": "Generative Music & Algorithms",
+    "categoria_principal": "Generative Music",
     "tags": [
-      "Generative Music & Algorithms",
+      "Generative Music",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "Generative Music & Algorithms (Generative Music & Algorithms, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "Generative Music (Generative Music, Gen~ Low-Level Coding)",
     "views": 3654,
     "upload_date": "2021-08-10",
     "latent_x": -14.40999984741211,
@@ -4841,13 +4841,13 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "SebMadgwickResearch",
     "titulo": "Analogue sensors with Max/MSP using OSC over WiFi",
     "enlace": "https://www.youtube.com/watch?v=gHjOZLcTmrw",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware",
       "Open Sound Control (OSC)"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, MIDI & Serial Hardware, Open Sound Control (OSC))",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, MIDI & Serial Hardware, Open Sound Control (OSC))",
     "views": 3634,
     "upload_date": "2012-08-12",
     "latent_x": -51.72999954223633,
@@ -4866,9 +4866,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 3620,
     "upload_date": "2016-08-11",
     "latent_x": 83.62000274658203,
@@ -4921,11 +4921,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "gearwire",
     "titulo": "Cycling '74 Max MSP: Computer Music Director Howard Sandroff Demonstrates Max",
     "enlace": "https://www.youtube.com/watch?v=T6TGlWlF7wc",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 3471,
     "upload_date": "2010-08-13",
     "latent_x": -49.91999816894531,
@@ -4997,13 +4997,13 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "lysdexic audio",
     "titulo": "EZ Gen~ MaxMSP Tutorial 005 :: Probability 101",
     "enlace": "https://www.youtube.com/watch?v=SXxWqYWQKIY",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms",
+      "MSP Audio DSP",
+      "Generative Music",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music, Gen~ Low-Level Coding)",
     "views": 3276,
     "upload_date": "2021-08-10",
     "latent_x": -14.420000076293945,
@@ -5021,10 +5021,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Generative Music & Algorithms",
+      "Generative Music",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Music & Algorithms, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Music, Gen~ Low-Level Coding)",
     "views": 3219,
     "upload_date": "2021-08-10",
     "latent_x": 5.699999809265137,
@@ -5042,10 +5042,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP, Gen~ Low-Level Coding)",
     "views": 3150,
     "upload_date": "2023-08-10",
     "latent_x": 27.309999465942383,
@@ -5063,10 +5063,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP, Generative Music)",
     "views": 3148,
     "upload_date": "2016-08-11",
     "latent_x": 44.04999923706055,
@@ -5123,10 +5123,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 2971,
     "upload_date": "2021-08-10",
     "latent_x": 59.70000076293945,
@@ -5144,11 +5144,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Max for Live Integration",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP & Synthesis, Max for Live Integration, MIDI & Serial Hardware)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP, Max for Live Integration, MIDI & Serial Hardware)",
     "views": 2928,
     "upload_date": "2011-08-13",
     "latent_x": 53.630001068115234,
@@ -5166,10 +5166,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP, Generative Music)",
     "views": 2892,
     "upload_date": "2026-03-12",
     "latent_x": -59.9900016784668,
@@ -5187,9 +5187,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 2886,
     "upload_date": "2021-08-10",
     "latent_x": 0.2800000011920929,
@@ -5204,11 +5204,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "oliver thurley",
     "titulo": "Let's Learn Max 9 - Playing with ABL DSP devices",
     "enlace": "https://www.youtube.com/watch?v=RdpeDke3ELQ",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 2858,
     "upload_date": "2025-08-09",
     "latent_x": -82.19999694824219,
@@ -5242,11 +5242,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Hulc Mizoshita",
     "titulo": "Granular Synthsis with MAX/MSP ( inspired by Mutable Clouds )",
     "enlace": "https://www.youtube.com/watch?v=CA2FsSJz4Ec",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 2787,
     "upload_date": "2020-08-10",
     "latent_x": -40.43000030517578,
@@ -5261,12 +5261,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Tony James Morton",
     "titulo": "Permutations - A generative music score created in Max/MSP",
     "enlace": "https://www.youtube.com/watch?v=DfPovQbe3eU",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music)",
     "views": 2768,
     "upload_date": "2019-08-11",
     "latent_x": -89.37000274658203,
@@ -5303,10 +5303,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP, Gen~ Low-Level Coding)",
     "views": 2731,
     "upload_date": "2023-08-10",
     "latent_x": 15.859999656677246,
@@ -5321,13 +5321,13 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Steven Atkinson",
     "titulo": "Max MSP 5 controlling the Arduino",
     "enlace": "https://www.youtube.com/watch?v=uAngUV7Fi74",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware",
       "Open Sound Control (OSC)"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, MIDI & Serial Hardware, Open Sound Control (OSC))",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, MIDI & Serial Hardware, Open Sound Control (OSC))",
     "views": 2712,
     "upload_date": "2010-08-13",
     "latent_x": -59.0099983215332,
@@ -5342,11 +5342,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "o. nigiri",
     "titulo": "Max/MSP very simple fft cross synthesis #1",
     "enlace": "https://www.youtube.com/watch?v=W-KG3gQjyjM",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 2686,
     "upload_date": "2018-08-11",
     "latent_x": -25.690000534057617,
@@ -5384,9 +5384,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 2642,
     "upload_date": "2022-08-10",
     "latent_x": 37.04999923706055,
@@ -5401,11 +5401,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Rebel Technology",
     "titulo": "OWL Max Tutorial 3: Tempo Sync Delay",
     "enlace": "https://www.youtube.com/watch?v=w2OcmdGnpJg",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 2639,
     "upload_date": "2017-08-11",
     "latent_x": -62.0099983215332,
@@ -5459,11 +5459,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "sam ssaem",
     "titulo": "Polyphonic Synth using mc [Max/MSP Tutorial]",
     "enlace": "https://www.youtube.com/watch?v=y2iDCJD50mo",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 2573,
     "upload_date": "2025-08-09",
     "latent_x": -27.75,
@@ -5517,11 +5517,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Amazing Max Stuff",
     "titulo": "Max/MSP | Patreon Patch Share | Typography 02 - Physics + Short Phrases",
     "enlace": "https://www.youtube.com/watch?v=p8ISmGsHZ5I",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 2440,
     "upload_date": "2021-08-10",
     "latent_x": -76.62999725341797,
@@ -5536,11 +5536,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Tom Hall",
     "titulo": "How to read a Max/MSP patch - Nobuyasu Sakonda's Granular Synthesis, Sugar Synth",
     "enlace": "https://www.youtube.com/watch?v=GfdI5axEz-k",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 2421,
     "upload_date": "2025-08-09",
     "latent_x": -26.670000076293945,
@@ -5578,9 +5578,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 2403,
     "upload_date": "2023-08-10",
     "latent_x": -4.449999809265137,
@@ -5595,12 +5595,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Tom Cosm",
     "titulo": "Armed Track Parameter Gate Run Through - Free Max For Live Patch",
     "enlace": "https://www.youtube.com/watch?v=01HD_55RVOs",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Max for Live Integration"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Max for Live Integration)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Max for Live Integration)",
     "views": 2398,
     "upload_date": "2015-08-12",
     "latent_x": -33.709999084472656,
@@ -5618,9 +5618,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 2308,
     "upload_date": "2023-08-10",
     "latent_x": 7.079999923706055,
@@ -5638,9 +5638,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 2163,
     "upload_date": "2022-08-10",
     "latent_x": 40.9900016784668,
@@ -5658,9 +5658,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP)",
     "views": 2158,
     "upload_date": "2016-08-11",
     "latent_x": 53.66999816894531,
@@ -5678,11 +5678,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Generative Music & Algorithms",
+      "Generative Music",
       "Max for Live Integration",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Music & Algorithms, Max for Live Integration, MIDI & Serial Hardware)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Generative Music, Max for Live Integration, MIDI & Serial Hardware)",
     "views": 2135,
     "upload_date": "2020-08-10",
     "latent_x": 28.15999984741211,
@@ -5697,12 +5697,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Sem3ion",
     "titulo": "Max/MSP 06 - Driven Drunken Delays Generative Audio",
     "enlace": "https://www.youtube.com/watch?v=3TXBwf0Aah4",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music)",
     "views": 2124,
     "upload_date": "2023-08-10",
     "latent_x": -109.1500015258789,
@@ -5717,13 +5717,13 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Tom Spice",
     "titulo": "Generative Modular in Max/MSP: A Live \"Performance\"",
     "enlace": "https://www.youtube.com/watch?v=PYiwrpgT9pA",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms",
+      "MSP Audio DSP",
+      "Generative Music",
       "Max for Live Integration"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms, Max for Live Integration)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music, Max for Live Integration)",
     "views": 2083,
     "upload_date": "2022-08-10",
     "latent_x": -61.540000915527344,
@@ -5741,9 +5741,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 2071,
     "upload_date": "2021-08-10",
     "latent_x": 21.56999969482422,
@@ -5758,12 +5758,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Hamish McKoy",
     "titulo": "Interactive Arduino to Max MSP Project",
     "enlace": "https://www.youtube.com/watch?v=d0bXyI-Suk8",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 2056,
     "upload_date": "2018-08-11",
     "latent_x": -70.62999725341797,
@@ -5781,9 +5781,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 1983,
     "upload_date": "2021-08-10",
     "latent_x": -10.720000267028809,
@@ -5820,10 +5820,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP, Generative Music)",
     "views": 1951,
     "upload_date": "2021-08-10",
     "latent_x": -46.91999816894531,
@@ -5838,12 +5838,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "1point5music",
     "titulo": "Making Generative Music from Words in Max/MSP",
     "enlace": "https://www.youtube.com/watch?v=kYg_4BV6hpY",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music)",
     "views": 1949,
     "upload_date": "2013-08-12",
     "latent_x": -76.68000030517578,
@@ -5862,10 +5862,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 1931,
     "upload_date": "2025-08-09",
     "latent_x": 52.939998626708984,
@@ -5921,10 +5921,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Max for Live Integration"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis, Max for Live Integration)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP, Max for Live Integration)",
     "views": 1892,
     "upload_date": "2025-08-09",
     "latent_x": 34.869998931884766,
@@ -5962,9 +5962,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 1801,
     "upload_date": "2023-08-10",
     "latent_x": 4.150000095367432,
@@ -5979,12 +5979,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "丸井綜研",
     "titulo": "Test of Simple Additive Synthesis in Max 7 using Gen",
     "enlace": "https://www.youtube.com/watch?v=XvZJE4OdXvA",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Gen~ Low-Level Coding)",
     "views": 1787,
     "upload_date": "2017-08-11",
     "latent_x": -20.459999084472656,
@@ -6022,10 +6022,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP & Synthesis, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP, Gen~ Low-Level Coding)",
     "views": 1745,
     "upload_date": "2019-08-11",
     "latent_x": 38.66999816894531,
@@ -6040,12 +6040,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "dude837",
     "titulo": "Delicious Max for Live Tutorial: Bitterness series part 2",
     "enlace": "https://www.youtube.com/watch?v=bi_fkRg2ZCs",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Max for Live Integration"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Max for Live Integration)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Max for Live Integration)",
     "views": 1735,
     "upload_date": "2016-08-11",
     "latent_x": -26.450000762939453,
@@ -6064,9 +6064,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 1733,
     "upload_date": "2016-08-11",
     "latent_x": 65.5199966430664,
@@ -6100,12 +6100,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Sachin Tankaria",
     "titulo": "MAX/MSP Generative Music Generator with a focus on UK Jazz Music",
     "enlace": "https://www.youtube.com/watch?v=uMNN96-IGVk",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music)",
     "views": 1710,
     "upload_date": "2021-08-10",
     "latent_x": -76.56999969482422,
@@ -6123,10 +6123,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 1702,
     "upload_date": "2012-08-12",
     "latent_x": -46.290000915527344,
@@ -6141,12 +6141,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Ryan Murdoch",
     "titulo": "Thought Generated Music with Arduino and Max MSP",
     "enlace": "https://www.youtube.com/watch?v=WWuTrzHL7yM",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 1659,
     "upload_date": "2016-08-11",
     "latent_x": -67.58999633789062,
@@ -6164,10 +6164,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Max for Live Integration"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP & Synthesis, Max for Live Integration)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP, Max for Live Integration)",
     "views": 1645,
     "upload_date": "2022-08-10",
     "latent_x": 65.69000244140625,
@@ -6182,11 +6182,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "pae181",
     "titulo": "scanned synthesis test   max msp",
     "enlace": "https://www.youtube.com/watch?v=u0TnbCGEUMA",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 1638,
     "upload_date": "2016-08-11",
     "latent_x": -63.720001220703125,
@@ -6201,12 +6201,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Remo De Vico",
     "titulo": "Generative Music Techniques - Ableton Max for Live [MaxMsp]",
     "enlace": "https://www.youtube.com/watch?v=eSmuWZdw2Qc",
-    "categoria_principal": "Generative Music & Algorithms",
+    "categoria_principal": "Generative Music",
     "tags": [
-      "Generative Music & Algorithms",
+      "Generative Music",
       "Max for Live Integration"
     ],
-    "categoria_descriptores": "Generative Music & Algorithms (Generative Music & Algorithms, Max for Live Integration)",
+    "categoria_descriptores": "Generative Music (Generative Music, Max for Live Integration)",
     "views": 1638,
     "upload_date": "2024-08-09",
     "latent_x": -39.22999954223633,
@@ -6225,9 +6225,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 1633,
     "upload_date": "2023-08-10",
     "latent_x": 107.58000183105469,
@@ -6242,11 +6242,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "MUST1002",
     "titulo": "Max MSP Tutorial 07a7: Patch Presentation & Ergonomics [2]",
     "enlace": "https://www.youtube.com/watch?v=HvmQ_AJFlFY",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 1629,
     "upload_date": "2010-08-13",
     "latent_x": -84.88999938964844,
@@ -6261,13 +6261,13 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Aaron Myles Pereira",
     "titulo": "MultiTap Max4Live Delay Tutorial in Max/MSP gen~",
     "enlace": "https://www.youtube.com/watch?v=ixB14jTi9KQ",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Max for Live Integration",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Max for Live Integration, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Max for Live Integration, Gen~ Low-Level Coding)",
     "views": 1610,
     "upload_date": "2021-08-10",
     "latent_x": -2.0299999713897705,
@@ -6285,9 +6285,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 1601,
     "upload_date": "2023-08-10",
     "latent_x": 31.229999542236328,
@@ -6305,9 +6305,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 1587,
     "upload_date": "2023-08-10",
     "latent_x": 25.90999984741211,
@@ -6342,12 +6342,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Tom Spice",
     "titulo": "Generative Modular in Max/MSP EP.01: Overview",
     "enlace": "https://www.youtube.com/watch?v=S82seWUgEko",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music)",
     "views": 1553,
     "upload_date": "2022-08-10",
     "latent_x": -79.75,
@@ -6362,12 +6362,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "sam ssaem",
     "titulo": "UI Design 1 [Max/MSP Tutorial]",
     "enlace": "https://www.youtube.com/watch?v=uA4Z-jnfyBQ",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Max for Live Integration"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Max for Live Integration)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Max for Live Integration)",
     "views": 1509,
     "upload_date": "2025-08-09",
     "latent_x": -32.97999954223633,
@@ -6382,12 +6382,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Paulo Lacão",
     "titulo": "MAX/MSP | Generative Algorithmic Music | #1a | Mallets Random Composition",
     "enlace": "https://www.youtube.com/watch?v=ewG0e4vd2nk",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music)",
     "views": 1501,
     "upload_date": "2022-08-10",
     "latent_x": -96.0199966430664,
@@ -6461,12 +6461,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Jon Doe One",
     "titulo": "Bessel Functions for Physical Modeling in Max/MSP Gen~",
     "enlace": "https://www.youtube.com/watch?v=auTZMPE91b0",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Gen~ Low-Level Coding)",
     "views": 1310,
     "upload_date": "2026-01-11",
     "latent_x": 3.7899999618530273,
@@ -6503,9 +6503,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 1287,
     "upload_date": "2019-08-11",
     "latent_x": 7.659999847412109,
@@ -6539,12 +6539,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Paulo Lacão",
     "titulo": "MAX/MSP | Piano Generative Music | #8 | Inside patch | How to",
     "enlace": "https://www.youtube.com/watch?v=D--Td8Q-Bc4",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music)",
     "views": 1247,
     "upload_date": "2023-08-10",
     "latent_x": -82.5199966430664,
@@ -6559,12 +6559,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Paulo Lacão",
     "titulo": "MAX/MSP | Generative Music | #4 | Choral Composition using Arvo Part Solfeggio technique",
     "enlace": "https://www.youtube.com/watch?v=C8of7E_4bhc",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music)",
     "views": 1196,
     "upload_date": "2022-08-10",
     "latent_x": -91.76000213623047,
@@ -6579,12 +6579,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "AlexBaldwin",
     "titulo": "Arduino, a few sensors, Max MSP and Supercollider",
     "enlace": "https://www.youtube.com/watch?v=2MxPdHbHFBQ",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 1181,
     "upload_date": "2013-08-12",
     "latent_x": -54.2400016784668,
@@ -6621,10 +6621,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Max for Live Integration"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis, Max for Live Integration)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP, Max for Live Integration)",
     "views": 1167,
     "upload_date": "2021-08-10",
     "latent_x": 29.25,
@@ -6639,12 +6639,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "captainhooyah",
     "titulo": "Arduino? Arduiyesyoucan! Ep. 2 Potentiometer into max msp",
     "enlace": "https://www.youtube.com/watch?v=8QGdURm2_II",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 1161,
     "upload_date": "2011-08-13",
     "latent_x": -62.45000076293945,
@@ -6662,10 +6662,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP, Gen~ Low-Level Coding)",
     "views": 1134,
     "upload_date": "2023-08-10",
     "latent_x": 32.70000076293945,
@@ -6680,12 +6680,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "pae181",
     "titulo": "FFT Based Polyphonic Synth: Modulation Experiments #1 (Max Msp)",
     "enlace": "https://www.youtube.com/watch?v=GdHHPIHAwqM",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Max for Live Integration"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Max for Live Integration)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Max for Live Integration)",
     "views": 1132,
     "upload_date": "2016-08-11",
     "latent_x": -20.34000015258789,
@@ -6700,12 +6700,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Mazdak Jafarian",
     "titulo": "Max/Msp - arduino",
     "enlace": "https://www.youtube.com/watch?v=bhXAoa905Uc",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 1131,
     "upload_date": "2010-08-13",
     "latent_x": -63.33000183105469,
@@ -6720,12 +6720,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Conor Barry",
     "titulo": "Melofade: Arduino Max/Msp Instrument (NanoKontrol compatible)",
     "enlace": "https://www.youtube.com/watch?v=cmNgtp-yEVk",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 1059,
     "upload_date": "2011-08-13",
     "latent_x": -33.61000061035156,
@@ -6740,11 +6740,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "〇º °•.",
     "titulo": "Aprende Max/MSP tan fácil como tostar pan— Tutorial de Max/MSP #0: Bases y conceptos esenciales",
     "enlace": "https://www.youtube.com/watch?v=TDYmR1hmlgM",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 1048,
     "upload_date": "2025-08-09",
     "latent_x": -49.790000915527344,
@@ -6801,10 +6801,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 934,
     "upload_date": "2020-08-10",
     "latent_x": -65.5999984741211,
@@ -6819,12 +6819,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Joshua Casper",
     "titulo": "Max 4 Live Tutorial: 102: Making your second Audio Effect [source files]",
     "enlace": "https://www.youtube.com/watch?v=GBzmyTvHP9U",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Max for Live Integration"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Max for Live Integration)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Max for Live Integration)",
     "views": 906,
     "upload_date": "2013-08-12",
     "latent_x": -19.3799991607666,
@@ -6839,11 +6839,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "axers fall(I want to leave china)",
     "titulo": "[Max/MSP] This technique gives me goosebumps…",
     "enlace": "https://www.youtube.com/watch?v=cfK0gLFVzwk",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 897,
     "upload_date": "2025-12-12",
     "latent_x": -55.7599983215332,
@@ -6858,11 +6858,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "CeReNeM | Centre for Research in New Music",
     "titulo": "Alex Harker: Introducing FrameLib",
     "enlace": "https://www.youtube.com/watch?v=BIYUEMcPG5I",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 890,
     "upload_date": "2018-08-11",
     "latent_x": -58.34000015258789,
@@ -6877,12 +6877,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Paulo Lacão",
     "titulo": "MAX/MSP | Piano Generative Music | #8 | Modes",
     "enlace": "https://www.youtube.com/watch?v=a2SdQxkZJQk",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music)",
     "views": 873,
     "upload_date": "2023-08-10",
     "latent_x": -71.79000091552734,
@@ -6897,12 +6897,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Richard Bennett",
     "titulo": "Max/MSP Gen~ Granular Synth Demonstration",
     "enlace": "https://www.youtube.com/watch?v=HsunxWEzh8s",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Gen~ Low-Level Coding)",
     "views": 873,
     "upload_date": "2023-08-10",
     "latent_x": -2.1500000953674316,
@@ -6921,9 +6921,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 871,
     "upload_date": "2023-08-10",
     "latent_x": 102.9000015258789,
@@ -6938,12 +6938,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Paulo Lacão",
     "titulo": "MAX/MSP | Generative Music | #5 | Counterpoint Composition",
     "enlace": "https://www.youtube.com/watch?v=LOqiYe-i5Qo",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music)",
     "views": 842,
     "upload_date": "2022-08-10",
     "latent_x": -91.94000244140625,
@@ -6958,11 +6958,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Al3x",
     "titulo": "Part 1 of Dubstep guitar patch tutorial for max msp: beginning of wobble bass subpatch",
     "enlace": "https://www.youtube.com/watch?v=KlX4-PCuKpA",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 750,
     "upload_date": "2013-08-12",
     "latent_x": -106.44000244140625,
@@ -6977,12 +6977,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Wellenfront Max Lab",
     "titulo": "Buffer Slicer in Max/MSP (gen~ Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=8eDXU6qGb7s",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Gen~ Low-Level Coding)",
     "views": 749,
     "upload_date": "2025-08-09",
     "latent_x": -16.549999237060547,
@@ -6997,12 +6997,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "ken coleman",
     "titulo": "Arduino to Max msp to OSCulator to Alchemy",
     "enlace": "https://www.youtube.com/watch?v=o1XLarQjsjg",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 706,
     "upload_date": "2012-08-12",
     "latent_x": -65.08999633789062,
@@ -7017,12 +7017,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Paulo Lacão",
     "titulo": "MAX/MSP | Generative Algorithmic Music | #2a | \"In C\" Technique Composition",
     "enlace": "https://www.youtube.com/watch?v=kASaIGL8ukg",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music)",
     "views": 695,
     "upload_date": "2022-08-10",
     "latent_x": -81.77999877929688,
@@ -7037,12 +7037,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Mart",
     "titulo": "Generative Max MSP Composition",
     "enlace": "https://www.youtube.com/watch?v=Q9rWRrpZ5W4",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music)",
     "views": 666,
     "upload_date": "2022-08-10",
     "latent_x": -95.51000213623047,
@@ -7057,12 +7057,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Plastic Fruit",
     "titulo": "Cycling74 Max-MSP-Arduino doodle 45 arduino/ endless encoder/groove~ sampler",
     "enlace": "https://www.youtube.com/watch?v=D3iM_8_KsXE",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 665,
     "upload_date": "2017-08-11",
     "latent_x": -48.529998779296875,
@@ -7077,11 +7077,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "sam ssaem",
     "titulo": "The pattr Storage System [Max/MSP Tutorial]",
     "enlace": "https://www.youtube.com/watch?v=rr3rXAGyjP8",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 662,
     "upload_date": "2025-08-09",
     "latent_x": -80.18000030517578,
@@ -7099,10 +7099,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 632,
     "upload_date": "2016-08-11",
     "latent_x": 38.849998474121094,
@@ -7117,12 +7117,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Matthieu Pernaud",
     "titulo": "20 Minutes Generative Max/MSP Patch",
     "enlace": "https://www.youtube.com/watch?v=y_hWC_DouTQ",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music)",
     "views": 595,
     "upload_date": "2023-08-10",
     "latent_x": -90.30000305175781,
@@ -7137,12 +7137,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Andrew Reid",
     "titulo": "Arduino Guitar Control-Surface Demo (Max/MSP)",
     "enlace": "https://www.youtube.com/watch?v=vgy23b6KhsE",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 589,
     "upload_date": "2024-08-09",
     "latent_x": -68.58000183105469,
@@ -7160,9 +7160,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP)",
     "views": 576,
     "upload_date": "2016-08-11",
     "latent_x": 40.59000015258789,
@@ -7180,9 +7180,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 560,
     "upload_date": "2022-08-10",
     "latent_x": 20.729999542236328,
@@ -7200,10 +7200,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP & Synthesis, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP, Gen~ Low-Level Coding)",
     "views": 541,
     "upload_date": "2025-10-13",
     "latent_x": 26.110000610351562,
@@ -7218,12 +7218,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Wellenfront Max Lab",
     "titulo": "Delay Line Pitch Shifter in Max/MSP (gen~ Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=LgCyk1LaQKQ",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Gen~ Low-Level Coding)",
     "views": 518,
     "upload_date": "2026-01-11",
     "latent_x": 3.0999999046325684,
@@ -7238,13 +7238,13 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "sam ssaem",
     "titulo": "gen~ Buffer Slicing [Max/MSP Tutorial]",
     "enlace": "https://www.youtube.com/watch?v=cg-0rMfmrco",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms",
+      "MSP Audio DSP",
+      "Generative Music",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music, Gen~ Low-Level Coding)",
     "views": 495,
     "upload_date": "2025-12-12",
     "latent_x": -26.030000686645508,
@@ -7279,12 +7279,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "axers fall(I want to leave china)",
     "titulo": "[Max/MSP] Dark Evolving Drone for the New Year — A New Version of Me",
     "enlace": "https://www.youtube.com/watch?v=y_t8Nu7hgqQ",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Max for Live Integration"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Max for Live Integration)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Max for Live Integration)",
     "views": 469,
     "upload_date": "2026-01-11",
     "latent_x": -33.880001068115234,
@@ -7299,11 +7299,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Diogo Cocharro",
     "titulo": "Loopalooza Device Demo (MaxMSP/Max4Live) - Real-time Manipulation of Syncopation in Audio Loops",
     "enlace": "https://www.youtube.com/watch?v=pa1LVTP_ODo",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 465,
     "upload_date": "2014-08-12",
     "latent_x": -38.90999984741211,
@@ -7318,11 +7318,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "smee boi",
     "titulo": "Max/MSP Audio Visualizer with LED Strips: Project Journey",
     "enlace": "https://www.youtube.com/watch?v=r6Nr-clTFbk",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 448,
     "upload_date": "2022-08-10",
     "latent_x": -43.68000030517578,
@@ -7337,12 +7337,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Haylee Lim",
     "titulo": "MAX MSP Connecting Max and Arduino",
     "enlace": "https://www.youtube.com/watch?v=_k8gPX6QUd8",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 439,
     "upload_date": "2017-08-11",
     "latent_x": -50.220001220703125,
@@ -7357,12 +7357,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "sam ssaem",
     "titulo": "gen~ Sound File Playback [Max/MSP Tutorial]",
     "enlace": "https://www.youtube.com/watch?v=1AiF1cPTSlk",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Gen~ Low-Level Coding)",
     "views": 437,
     "upload_date": "2025-12-12",
     "latent_x": -23.329999923706055,
@@ -7377,12 +7377,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Akihiko Matsumoto",
     "titulo": "Generative Music / Max/MSP by Akihiko Matsumoto",
     "enlace": "https://www.youtube.com/watch?v=q49OUEFAMHc",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music)",
     "views": 407,
     "upload_date": "2023-08-10",
     "latent_x": -81.0199966430664,
@@ -7397,12 +7397,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Sonya Gonzales",
     "titulo": "Max MSP / Arduino / PIR Sensor",
     "enlace": "https://www.youtube.com/watch?v=X7xJJmqe9ls",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 393,
     "upload_date": "2018-08-11",
     "latent_x": -88.0,
@@ -7417,12 +7417,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Paulo Lacão",
     "titulo": "MAX/MSP | Generative Music | #10 | Harmonic Series Composition",
     "enlace": "https://www.youtube.com/watch?v=EMdT_M8LpMg",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music)",
     "views": 372,
     "upload_date": "2023-08-10",
     "latent_x": -107.7300033569336,
@@ -7437,12 +7437,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Paulo Lacão",
     "titulo": "MAX/MSP | Generative Music | #6 | Sound Layers",
     "enlace": "https://www.youtube.com/watch?v=Ll-MkZeUPQU",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms"
+      "MSP Audio DSP",
+      "Generative Music"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music)",
     "views": 369,
     "upload_date": "2023-08-10",
     "latent_x": -84.27999877929688,
@@ -7457,12 +7457,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "fendoap",
     "titulo": "bubble sort with using gen~ max/msp",
     "enlace": "https://www.youtube.com/watch?v=TdIiwsAAxGc",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Gen~ Low-Level Coding)",
     "views": 357,
     "upload_date": "2022-08-10",
     "latent_x": -12.920000076293945,
@@ -7477,12 +7477,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Soundswise Productions",
     "titulo": "Live Max MSP sound design EXPLAINED",
     "enlace": "https://www.youtube.com/watch?v=rjYuv3LPqDk",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Max for Live Integration"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Max for Live Integration)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Max for Live Integration)",
     "views": 338,
     "upload_date": "2022-08-10",
     "latent_x": -38.61000061035156,
@@ -7497,11 +7497,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "sam ssaem",
     "titulo": "Organize Abstractions Using # [Max/MSP Tutorial]",
     "enlace": "https://www.youtube.com/watch?v=SThscnCV2hQ",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 328,
     "upload_date": "2025-11-12",
     "latent_x": -45.02000045776367,
@@ -7519,10 +7519,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Max for Live Integration"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP & Synthesis, Max for Live Integration)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, MSP Audio DSP, Max for Live Integration)",
     "views": 323,
     "upload_date": "2026-02-10",
     "latent_x": 58.18000030517578,
@@ -7537,12 +7537,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Wellenfront Max Lab",
     "titulo": "Shepard Tone in Max/MSP (gen~ Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=-yOuh_PNsEk",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Gen~ Low-Level Coding)",
     "views": 316,
     "upload_date": "2025-12-12",
     "latent_x": -8.930000305175781,
@@ -7560,10 +7560,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP, Gen~ Low-Level Coding)",
     "views": 314,
     "upload_date": "2026-04-11",
     "latent_x": 21.18000030517578,
@@ -7578,12 +7578,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "ozosil",
     "titulo": "Max/Msp and Arduino TEST",
     "enlace": "https://www.youtube.com/watch?v=SymnqzEmXa0",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 303,
     "upload_date": "2009-08-13",
     "latent_x": -79.76000213623047,
@@ -7598,12 +7598,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "sam ssaem",
     "titulo": "MIDI Ratcheting [Max/MSP Tutorial]",
     "enlace": "https://www.youtube.com/watch?v=hPyDBscoqGo",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 293,
     "upload_date": "2026-04-11",
     "latent_x": -77.5,
@@ -7657,12 +7657,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Wellenfront Max Lab",
     "titulo": "Wavetable Synth from Image Data in Max/MSP (gen~ Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=IXblDbR7TAc",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Gen~ Low-Level Coding)",
     "views": 225,
     "upload_date": "2026-07-12",
     "latent_x": -17.760000228881836,
@@ -7696,12 +7696,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Christopher Barn",
     "titulo": "Piano Randomiser with Light Dependent Resistors, Arduino and MAX MSP",
     "enlace": "https://www.youtube.com/watch?v=fPmOlxWaw6U",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 222,
     "upload_date": "2011-08-13",
     "latent_x": -51.34000015258789,
@@ -7716,12 +7716,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Yuki Sato",
     "titulo": "【Max MSP】FIR filter in gen~",
     "enlace": "https://www.youtube.com/watch?v=CGfOd3KLMUg",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Gen~ Low-Level Coding)",
     "views": 220,
     "upload_date": "2025-08-09",
     "latent_x": -4.820000171661377,
@@ -7736,12 +7736,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Santiago Rubio López",
     "titulo": "De Arduino a Max Msp - pines análogos (Primer intento)",
     "enlace": "https://www.youtube.com/watch?v=TF0MLkCXNoE",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 216,
     "upload_date": "2011-08-13",
     "latent_x": -69.26000213623047,
@@ -7795,12 +7795,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Wellenfront Max Lab",
     "titulo": "Polyphonic Buffer Slicing in Max/MSP (gen~ Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=Ex2uTpUed_4",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Gen~ Low-Level Coding)",
     "views": 200,
     "upload_date": "2026-06-10",
     "latent_x": -32.220001220703125,
@@ -7818,9 +7818,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 196,
     "upload_date": "2026-07-26",
     "latent_x": 15.529999732971191,
@@ -7835,11 +7835,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Hulc Mizoshita",
     "titulo": "Imitation of 4ms MSR with MAX/MSP",
     "enlace": "https://www.youtube.com/watch?v=pC_-QQhe2tw",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 191,
     "upload_date": "2020-08-10",
     "latent_x": -49.099998474121094,
@@ -7876,10 +7876,10 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Gen~ Low-Level Coding"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis, Gen~ Low-Level Coding)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP, Gen~ Low-Level Coding)",
     "views": 177,
     "upload_date": "2026-07-10",
     "latent_x": 16.940000534057617,
@@ -7894,12 +7894,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Rezan Amiruddin",
     "titulo": "Max MSP with Arduino",
     "enlace": "https://www.youtube.com/watch?v=NljtJX7qzKo",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 177,
     "upload_date": "2016-08-11",
     "latent_x": -59.47999954223633,
@@ -7914,11 +7914,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "gearwire",
     "titulo": "Cycling 74 Max/MSP And The ArtBus",
     "enlace": "https://www.youtube.com/watch?v=gLE9hBHUKQw",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP)",
     "views": 174,
     "upload_date": "2011-08-13",
     "latent_x": -50.38999938964844,
@@ -7933,13 +7933,13 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Nicole Roche",
     "titulo": "DMI: Arduino to Max/MSP to Ableton",
     "enlace": "https://www.youtube.com/watch?v=RxrnzoG-l70",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "Max for Live Integration",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Max for Live Integration, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Max for Live Integration, MIDI & Serial Hardware)",
     "views": 157,
     "upload_date": "2016-08-11",
     "latent_x": -36.459999084472656,
@@ -7957,9 +7957,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 148,
     "upload_date": "2025-11-12",
     "latent_x": 10.149999618530273,
@@ -7977,11 +7977,11 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms",
+      "MSP Audio DSP",
+      "Generative Music",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis, Generative Music & Algorithms, MIDI & Serial Hardware)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP, Generative Music, MIDI & Serial Hardware)",
     "views": 115,
     "upload_date": "2023-08-10",
     "latent_x": -55.209999084472656,
@@ -8015,12 +8015,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Christopher Barn",
     "titulo": "Type And Ping with Arduino and MAX MSP",
     "enlace": "https://www.youtube.com/watch?v=mtACd-XjbKo",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 106,
     "upload_date": "2011-08-13",
     "latent_x": -42.04999923706055,
@@ -8054,12 +8054,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Martina McGuinness",
     "titulo": "An Arduino and MAX MSP Project",
     "enlace": "https://www.youtube.com/watch?v=_EF1Rs095Pg",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 91,
     "upload_date": "2017-08-11",
     "latent_x": -56.720001220703125,
@@ -8074,12 +8074,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Christopher Konopka (opkach)",
     "titulo": "{WT - Optical Sonance : Max/MSP Prototyping}",
     "enlace": "https://www.youtube.com/watch?v=F5V4Sc0FheU",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
+      "MSP Audio DSP",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, MIDI & Serial Hardware)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, MIDI & Serial Hardware)",
     "views": 80,
     "upload_date": "2012-08-12",
     "latent_x": -89.80999755859375,
@@ -8114,12 +8114,12 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Push Twist Pop!",
     "titulo": "maxMSP hardware sequencer prototyping",
     "enlace": "https://www.youtube.com/watch?v=zHIPWFZpOpY",
-    "categoria_principal": "Generative Music & Algorithms",
+    "categoria_principal": "Generative Music",
     "tags": [
-      "Generative Music & Algorithms",
+      "Generative Music",
       "MIDI & Serial Hardware"
     ],
-    "categoria_descriptores": "Generative Music & Algorithms (Generative Music & Algorithms, MIDI & Serial Hardware)",
+    "categoria_descriptores": "Generative Music (Generative Music, MIDI & Serial Hardware)",
     "views": 67,
     "upload_date": "2021-08-10",
     "latent_x": -46.060001373291016,
@@ -8137,9 +8137,9 @@ const MAXMSP_TUTORIALS_DATA = [
     "categoria_principal": "Jitter & 3D Visuals",
     "tags": [
       "Jitter & 3D Visuals",
-      "MSP Audio DSP & Synthesis"
+      "MSP Audio DSP"
     ],
-    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP & Synthesis)",
+    "categoria_descriptores": "Jitter & 3D Visuals (Jitter & 3D Visuals, MSP Audio DSP)",
     "views": 58,
     "upload_date": "2021-08-10",
     "latent_x": -20.84000015258789,
@@ -8154,13 +8154,13 @@ const MAXMSP_TUTORIALS_DATA = [
     "autor": "Yuan_F",
     "titulo": "Five Notes - Generative Music System in Max/Msp",
     "enlace": "https://www.youtube.com/watch?v=bbF9ZOnrhIE",
-    "categoria_principal": "MSP Audio DSP & Synthesis",
+    "categoria_principal": "MSP Audio DSP",
     "tags": [
-      "MSP Audio DSP & Synthesis",
-      "Generative Music & Algorithms",
+      "MSP Audio DSP",
+      "Generative Music",
       "Max for Live Integration"
     ],
-    "categoria_descriptores": "MSP Audio DSP & Synthesis (MSP Audio DSP & Synthesis, Generative Music & Algorithms, Max for Live Integration)",
+    "categoria_descriptores": "MSP Audio DSP (MSP Audio DSP, Generative Music, Max for Live Integration)",
     "views": 54,
     "upload_date": "2025-08-09",
     "latent_x": -63.0099983215332,
@@ -8189,4 +8189,3 @@ const MAXMSP_TUTORIALS_DATA = [
     "duracion": "00:28"
   }
 ];
-window.MAXMSP_DATA = MAXMSP_TUTORIALS_DATA;

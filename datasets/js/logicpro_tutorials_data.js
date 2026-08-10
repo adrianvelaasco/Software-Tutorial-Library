@@ -277,10 +277,10 @@ const LOGICPRO_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Flex Pitch & Vocal Editing",
+      "Flex Pitch",
       "Mixing Techniques"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Flex Pitch & Vocal Editing, Mixing Techniques)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Flex Pitch, Mixing Techniques)",
     "views": 602286,
     "upload_date": "2021-08-10",
     "latent_x": 72.62999725341797,
@@ -295,11 +295,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "MusicTechHelpGuy",
     "titulo": "Logic Pro X - Video Tutorial 23 - Flex Pitch and Vocal Tuning",
     "enlace": "https://www.youtube.com/watch?v=z8tqojYN6TQ",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 581510,
     "upload_date": "2014-08-12",
     "latent_x": 48.400001525878906,
@@ -602,11 +602,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "JPMES",
     "titulo": "This vocal effect is dominating R&B",
     "enlace": "https://www.youtube.com/watch?v=TdXIAChg9TA",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 295135,
     "upload_date": "2024-08-09",
     "latent_x": 46.91999816894531,
@@ -660,12 +660,12 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Music By Mattie",
     "titulo": "1000 Hours of Vocal Mixing Tutorials in 30 Minutes",
     "enlace": "https://www.youtube.com/watch?v=UBigaeYW0mE",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing",
+      "Flex Pitch",
       "Mixing Techniques"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing, Mixing Techniques)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch, Mixing Techniques)",
     "views": 273625,
     "upload_date": "2025-08-09",
     "latent_x": 62.97999954223633,
@@ -680,11 +680,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Andrea Pejrolo",
     "titulo": "Pitch Correction in Logic Pro X",
     "enlace": "https://www.youtube.com/watch?v=gV_5zQDbHTk",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 254015,
     "upload_date": "2014-08-12",
     "latent_x": 57.56999969482422,
@@ -699,11 +699,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Nathan James Larsen",
     "titulo": "How to Use Flex Pitch in Logic Pro X | Tutorial",
     "enlace": "https://www.youtube.com/watch?v=uGScoEhjKus",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 249940,
     "upload_date": "2017-08-11",
     "latent_x": 56.83000183105469,
@@ -718,12 +718,12 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "The Band Guide",
     "titulo": "The last VOCAL EQ video you ever need to watch...",
     "enlace": "https://www.youtube.com/watch?v=DyHpBtS9Iso",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing",
+      "Flex Pitch",
       "Mixing Techniques"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing, Mixing Techniques)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch, Mixing Techniques)",
     "views": 240866,
     "upload_date": "2024-08-09",
     "latent_x": 68.87999725341797,
@@ -909,11 +909,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Music By Mattie",
     "titulo": "How to Get Pro Vocals in Logic Pro in 123 Seconds",
     "enlace": "https://www.youtube.com/watch?v=VcG4Vs660Ak",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 158975,
     "upload_date": "2024-08-09",
     "latent_x": 61.0,
@@ -1081,11 +1081,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Dubspot",
     "titulo": "Logic Pro X Tutorial: Editing Vocals and Audio Samples Using 'Flex Pitch' w/ Bill Lee",
     "enlace": "https://www.youtube.com/watch?v=jPFlo4yS_mo",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 142652,
     "upload_date": "2014-08-12",
     "latent_x": 66.30999755859375,
@@ -1138,12 +1138,12 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "MusicTechHelpGuy",
     "titulo": "Logic Pro X - #65 - Mixing (part7): Vocal Compression and EQ",
     "enlace": "https://www.youtube.com/watch?v=dhsEAkOYOcw",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing",
+      "Flex Pitch",
       "Mixing Techniques"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing, Mixing Techniques)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch, Mixing Techniques)",
     "views": 131598,
     "upload_date": "2015-08-12",
     "latent_x": 69.08999633789062,
@@ -1501,11 +1501,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "MusicTechHelpGuy",
     "titulo": "Logic Pro X - FLEX PITCH vs MELODYNE | Which is best for vocal tuning?",
     "enlace": "https://www.youtube.com/watch?v=_c6QA86jlfQ",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 97741,
     "upload_date": "2020-08-10",
     "latent_x": 41.810001373291016,
@@ -1539,11 +1539,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Music By Mattie",
     "titulo": "Fix Your Pitchy Vocals with Flex Pitch in Logic Pro X",
     "enlace": "https://www.youtube.com/watch?v=9-cRmuVrdR8",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 96162,
     "upload_date": "2024-08-09",
     "latent_x": 57.599998474121094,
@@ -1561,9 +1561,9 @@ const LOGICPRO_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Flex Pitch)",
     "views": 95540,
     "upload_date": "2021-08-10",
     "latent_x": 78.11000061035156,
@@ -1636,11 +1636,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Jordan Baywood",
     "titulo": "How to Tune Vocals in Logic Pro Tutorial | Pitch Correction & Flex Pitch Tutorial",
     "enlace": "https://www.youtube.com/watch?v=8eQYSqH-IIU",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 91475,
     "upload_date": "2021-08-10",
     "latent_x": 59.33000183105469,
@@ -1905,11 +1905,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "LogicProXnet",
     "titulo": "Logic Pro X Flex Pitch",
     "enlace": "https://www.youtube.com/watch?v=6bTXrzu7sP0",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 70695,
     "upload_date": "2013-08-12",
     "latent_x": 51.599998474121094,
@@ -1924,11 +1924,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Stephen O'Connell - Cmd Shift New",
     "titulo": "How to Quantise Audio in Logic Pro… FLEX TIME like a Pro!",
     "enlace": "https://www.youtube.com/watch?v=wHJBwsSPPzY",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 68715,
     "upload_date": "2022-08-10",
     "latent_x": 56.869998931884766,
@@ -2057,11 +2057,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Juxie",
     "titulo": "How to Create a Pro Vocal Recording Template in Logic Pro X (Rap & RnB)",
     "enlace": "https://www.youtube.com/watch?v=WaeAwTqJxMM",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 63215,
     "upload_date": "2025-08-09",
     "latent_x": 59.40999984741211,
@@ -2114,11 +2114,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "The Band Guide",
     "titulo": "Flex Pitch vs. Pitch Correction (autotune) | 5-Minute Logic Expert (Pt 19)",
     "enlace": "https://www.youtube.com/watch?v=14sTNC0lCHQ",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 60677,
     "upload_date": "2024-08-09",
     "latent_x": 40.220001220703125,
@@ -2136,9 +2136,9 @@ const LOGICPRO_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Flex Pitch)",
     "views": 60673,
     "upload_date": "2023-08-10",
     "latent_x": 76.7699966430664,
@@ -2381,11 +2381,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Spinlight Studio",
     "titulo": "Flex Pitch VS Melodyne - The Results Are SHOCKING...",
     "enlace": "https://www.youtube.com/watch?v=b5w-qMrlNWk",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 48502,
     "upload_date": "2024-08-09",
     "latent_x": 37.189998626708984,
@@ -2400,11 +2400,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Why Logic Pro Rules",
     "titulo": "Flex Pitch Ruining Your Vocals? Try 3 Simple Fixes",
     "enlace": "https://www.youtube.com/watch?v=PY6kRDRpF5A",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 47687,
     "upload_date": "2022-08-10",
     "latent_x": 64.75,
@@ -2514,11 +2514,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Sam Loose Audio Engineer",
     "titulo": "Logic Pro X - Flex Time Tempo Problem FIXED!",
     "enlace": "https://www.youtube.com/watch?v=Am1ScL0_jjA",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 43397,
     "upload_date": "2023-08-10",
     "latent_x": 48.79999923706055,
@@ -2647,11 +2647,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Why Logic Pro Rules",
     "titulo": "Logic Pro Vocal Leveling: Before Compression",
     "enlace": "https://www.youtube.com/watch?v=9eA6hVXByA0",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 39575,
     "upload_date": "2025-08-09",
     "latent_x": 53.7400016784668,
@@ -2742,11 +2742,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Why Logic Pro Rules",
     "titulo": "Save Your Vocals Like a Pro With These Flex Pitch Strategies",
     "enlace": "https://www.youtube.com/watch?v=jsr32kFfn4A",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 37486,
     "upload_date": "2019-08-11",
     "latent_x": 59.09000015258789,
@@ -2800,11 +2800,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Sean Divine",
     "titulo": "Fix Flex Pitch Timing Problems (Logic Pro)",
     "enlace": "https://www.youtube.com/watch?v=DAEPhE4vPPM",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 34448,
     "upload_date": "2020-08-10",
     "latent_x": 48.93000030517578,
@@ -2819,11 +2819,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "The Band Guide",
     "titulo": "EASY Vocal Compression in Logic Pro | Mix PRO Vocals in Logic Pt. 4",
     "enlace": "https://www.youtube.com/watch?v=4tDcfdMJhfc",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 34068,
     "upload_date": "2024-08-09",
     "latent_x": 57.470001220703125,
@@ -2857,11 +2857,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "MusicTechHelpGuy",
     "titulo": "LOGIC PRO X 201 - #16 Vocal Tuning with Flex Pitch",
     "enlace": "https://www.youtube.com/watch?v=Gm39oKCTkOI",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 33486,
     "upload_date": "2019-08-11",
     "latent_x": 54.66999816894531,
@@ -2895,11 +2895,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Jordan Baywood",
     "titulo": "How to get POWERFUL vocals using compression | Logic Pro X tutorial",
     "enlace": "https://www.youtube.com/watch?v=GuNZcIGDaL0",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 32624,
     "upload_date": "2021-08-10",
     "latent_x": 49.38999938964844,
@@ -2933,11 +2933,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "SEIDS",
     "titulo": "Everything You NEED to Know About Flex Pitch in Logic",
     "enlace": "https://www.youtube.com/watch?v=W15KmxYlsxU",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 31630,
     "upload_date": "2025-08-09",
     "latent_x": 46.630001068115234,
@@ -2974,9 +2974,9 @@ const LOGICPRO_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Flex Pitch)",
     "views": 31019,
     "upload_date": "2023-08-10",
     "latent_x": 74.12000274658203,
@@ -3145,11 +3145,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Jon Sine",
     "titulo": "CORRECTING VOCALS WITH LOGIC PRO X FLEX PITCH AND QUANTIZATION TOOL",
     "enlace": "https://www.youtube.com/watch?v=qU2RImV16dk",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 27095,
     "upload_date": "2017-08-11",
     "latent_x": 46.70000076293945,
@@ -3202,11 +3202,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "MusicTechHelpGuy",
     "titulo": "Logic Pro X - Cleaning up a Guitar Lead with Flex Pitch and Flex Time",
     "enlace": "https://www.youtube.com/watch?v=UhY6FIz7M88",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 26765,
     "upload_date": "2016-08-11",
     "latent_x": 50.18000030517578,
@@ -3221,11 +3221,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Spinlight Studio",
     "titulo": "How To Flex Time Vocals  - THE RIGHT WAY!",
     "enlace": "https://www.youtube.com/watch?v=NIke0X9xqvU",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 26730,
     "upload_date": "2024-08-09",
     "latent_x": 65.0,
@@ -3374,11 +3374,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "MusicTech",
     "titulo": "Logic Tips –Tuning Vocals with Flex Pitch",
     "enlace": "https://www.youtube.com/watch?v=XVJHu_Rkowo",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 25356,
     "upload_date": "2020-08-10",
     "latent_x": 49.56999969482422,
@@ -3892,13 +3892,13 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Yaahn Hunter Jr.",
     "titulo": "Tuning Vocals in Logic Pro | Stock Plugins Only!",
     "enlace": "https://www.youtube.com/watch?v=uKp_IkHd8C4",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing",
+      "Flex Pitch",
       "Mixing Techniques",
       "MIDI"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing, Mixing Techniques, MIDI)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch, Mixing Techniques, MIDI)",
     "views": 17330,
     "upload_date": "2022-08-10",
     "latent_x": 65.9000015258789,
@@ -4047,11 +4047,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Georges Couling - Knuckleduster Music",
     "titulo": "Vocal Tuning using Flex Pitch (Logic Pro)",
     "enlace": "https://www.youtube.com/watch?v=rmggnIuc8cQ",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 15774,
     "upload_date": "2023-08-10",
     "latent_x": 49.529998779296875,
@@ -4412,11 +4412,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Ingram Audio Co.",
     "titulo": "Quantizing Vocals Cleanly Using Logic Pro’s Flex Time",
     "enlace": "https://www.youtube.com/watch?v=q84mh7mVCFo",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 12999,
     "upload_date": "2023-08-10",
     "latent_x": 57.189998626708984,
@@ -4987,11 +4987,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "The Band Guide",
     "titulo": "PRO VOCAL TRICK to get your vocals to CUT THROUGH the mix | Parallel Vocal Compression",
     "enlace": "https://www.youtube.com/watch?v=JEbEEb2CmyM",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 8790,
     "upload_date": "2023-08-10",
     "latent_x": 53.81999969482422,
@@ -5082,11 +5082,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Maurice Chevalier",
     "titulo": "Logic Pro X - Flex Pitch Harmonies",
     "enlace": "https://www.youtube.com/watch?v=NV_cKf2_LRI",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 8247,
     "upload_date": "2020-08-10",
     "latent_x": 44.560001373291016,
@@ -5120,11 +5120,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "MTTC",
     "titulo": "Fix Out of Tune Vocals With Flex Pitch",
     "enlace": "https://www.youtube.com/watch?v=prNYIsv_F50",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 7748,
     "upload_date": "2017-08-11",
     "latent_x": 54.90999984741211,
@@ -5349,11 +5349,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Logic Pro Life",
     "titulo": "Adjusting Formants in Flex Pitch | Logic Pro X",
     "enlace": "https://www.youtube.com/watch?v=HtrpkL7smrM",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 6102,
     "upload_date": "2019-08-11",
     "latent_x": 51.599998474121094,
@@ -5520,11 +5520,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "David Jonathon",
     "titulo": "Logic Pro X: Create a Harmony using the Lead Vocal and Flex Pitch",
     "enlace": "https://www.youtube.com/watch?v=KrDnvlKIdg8",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 5388,
     "upload_date": "2016-08-11",
     "latent_x": 51.68000030517578,
@@ -5539,11 +5539,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Flo of Music",
     "titulo": "What is FLEX PITCH ? How to tune vocals in Logic Pro?",
     "enlace": "https://www.youtube.com/watch?v=oQxJjAbBTYM",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 5227,
     "upload_date": "2023-08-10",
     "latent_x": 58.95000076293945,
@@ -5558,12 +5558,12 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "MusicTechHelpGuy",
     "titulo": "Logic Pro 11 Mixing | #16 Vocal Cleanup & Tuning with Flex Pitch",
     "enlace": "https://www.youtube.com/watch?v=zJaJPKHcMO4",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing",
+      "Flex Pitch",
       "Mixing Techniques"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing, Mixing Techniques)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch, Mixing Techniques)",
     "views": 5178,
     "upload_date": "2025-08-09",
     "latent_x": 63.189998626708984,
@@ -5578,11 +5578,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "School of Synthesis",
     "titulo": "Flex Pitch Vocals in Logic Pro X",
     "enlace": "https://www.youtube.com/watch?v=CuwmvuQwtX8",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 5166,
     "upload_date": "2023-08-10",
     "latent_x": 56.439998626708984,
@@ -5675,11 +5675,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Eli Krantzberg",
     "titulo": "Creating Harmonies With Flex Pitch",
     "enlace": "https://www.youtube.com/watch?v=SkolkVN-mco",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 4735,
     "upload_date": "2018-08-11",
     "latent_x": 42.130001068115234,
@@ -5735,9 +5735,9 @@ const LOGICPRO_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Flex Pitch)",
     "views": 4095,
     "upload_date": "2019-08-11",
     "latent_x": 75.9000015258789,
@@ -5752,11 +5752,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Why Logic Pro Rules",
     "titulo": "How Compression Fixes Disappearing Vocals in Logic Pro",
     "enlace": "https://www.youtube.com/watch?v=H1_YiBIJGNY",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 3839,
     "upload_date": "2026-03-12",
     "latent_x": 61.119998931884766,
@@ -5848,12 +5848,12 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "MusicTechHelpGuy",
     "titulo": "Logic Pro 11 Mixing | #17 Vocal EQ, Compression & De Esser",
     "enlace": "https://www.youtube.com/watch?v=nC7NR4wKrWI",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing",
+      "Flex Pitch",
       "Mixing Techniques"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing, Mixing Techniques)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch, Mixing Techniques)",
     "views": 3461,
     "upload_date": "2025-08-09",
     "latent_x": 65.8499984741211,
@@ -5906,11 +5906,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Third Fret",
     "titulo": "How to Tune Your Vocals (Flex Pitch Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=srFFMTXQDiM",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 2731,
     "upload_date": "2021-08-10",
     "latent_x": 54.45000076293945,
@@ -6003,11 +6003,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Vaughn Felix Music",
     "titulo": "Fixing bad vocals with Flex Pitch | Logic Pro x",
     "enlace": "https://www.youtube.com/watch?v=utxP2eWy0wg",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 2614,
     "upload_date": "2020-08-10",
     "latent_x": 62.70000076293945,
@@ -6195,11 +6195,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Charles Potashner",
     "titulo": "Tuning Vocals Using Flex Pitch in Logic Pro X",
     "enlace": "https://www.youtube.com/watch?v=meBw4hVbQOE",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 2027,
     "upload_date": "2021-08-10",
     "latent_x": 46.77000045776367,
@@ -6252,12 +6252,12 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "MusicTechHelpGuy",
     "titulo": "Logic Pro 11 Mixing | #19 Backing Vocal Pitch Correction, EQ & Compression",
     "enlace": "https://www.youtube.com/watch?v=4GoHBxjCaW0",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing",
+      "Flex Pitch",
       "Mixing Techniques"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing, Mixing Techniques)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch, Mixing Techniques)",
     "views": 1884,
     "upload_date": "2025-08-09",
     "latent_x": 70.52999877929688,
@@ -6391,11 +6391,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Johnmunstudios",
     "titulo": "How To Use Logic Pro X: FLEX PITCH",
     "enlace": "https://www.youtube.com/watch?v=2OUchXMIWOg",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 1521,
     "upload_date": "2021-08-10",
     "latent_x": 53.15999984741211,
@@ -6562,11 +6562,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Bear Lee",
     "titulo": "How To Use Flex Pitch - Logic Pro Tutorial",
     "enlace": "https://www.youtube.com/watch?v=ekGIZVsO14g",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 843,
     "upload_date": "2020-08-10",
     "latent_x": 51.060001373291016,
@@ -6619,11 +6619,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Dan Eats and Drums",
     "titulo": "Flex Time on Rap Vocals in Logic Pro X",
     "enlace": "https://www.youtube.com/watch?v=wxrWFYC0Vuk",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 805,
     "upload_date": "2021-08-10",
     "latent_x": 61.290000915527344,
@@ -6678,11 +6678,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "FB Music",
     "titulo": "👉 Flex Pitch Features & Functions Explained 👉 Logic Pro | Tune a vocal | vocal tuning tutorial",
     "enlace": "https://www.youtube.com/watch?v=7PIUXFjiQ-4",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 702,
     "upload_date": "2024-08-09",
     "latent_x": 55.810001373291016,
@@ -6778,9 +6778,9 @@ const LOGICPRO_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Flex Pitch)",
     "views": 617,
     "upload_date": "2021-08-10",
     "latent_x": 72.88999938964844,
@@ -6966,11 +6966,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Tough Tones",
     "titulo": "Tuning and Editing Vocals (Logic Pro X & Flex Pitch) - ToughTones.com",
     "enlace": "https://www.youtube.com/watch?v=zV8t2Ed07wU",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 139,
     "upload_date": "2020-08-10",
     "latent_x": 53.209999084472656,
@@ -6985,11 +6985,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "cresshead",
     "titulo": "Autotune vocals -Flex Pitch editing in Logic Pro",
     "enlace": "https://www.youtube.com/watch?v=zNYS-ozvPzE",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 130,
     "upload_date": "2021-08-10",
     "latent_x": 48.38999938964844,
@@ -7004,11 +7004,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "Hidden Scars",
     "titulo": "Tuning Vocals with the Flex Pitch Tool in Logic Pro X, How To, Tutorial, Demo, Home Studio, Producer",
     "enlace": "https://www.youtube.com/watch?v=MCNVyaIUVOc",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 110,
     "upload_date": "2021-08-10",
     "latent_x": 41.65999984741211,
@@ -7157,11 +7157,11 @@ const LOGICPRO_TUTORIALS_DATA = [
     "autor": "LoverboyDrew",
     "titulo": "Flex Pitch Masterclass for R&B Vocals",
     "enlace": "https://www.youtube.com/watch?v=pRKiyhVlnJY",
-    "categoria_principal": "Flex Pitch & Vocal Editing",
+    "categoria_principal": "Flex Pitch",
     "tags": [
-      "Flex Pitch & Vocal Editing"
+      "Flex Pitch"
     ],
-    "categoria_descriptores": "Flex Pitch & Vocal Editing (Flex Pitch & Vocal Editing)",
+    "categoria_descriptores": "Flex Pitch (Flex Pitch)",
     "views": 24,
     "upload_date": "2026-07-10",
     "latent_x": 53.11000061035156,

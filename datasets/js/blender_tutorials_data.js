@@ -81,11 +81,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Blendy Craft",
     "titulo": "The Most Satisfying Simulations of 2025 🤯🔥 3D Physics Showcase",
     "enlace": "https://www.youtube.com/watch?v=H4ePSTpwEf8",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 5368550,
     "upload_date": "2025-08-09",
     "latent_x": -58.150001525878906,
@@ -216,11 +216,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Marble+",
     "titulo": "Next-Level 3D Blender Physics Showcase | 9 Minutes of Pure Satisfaction",
     "enlace": "https://www.youtube.com/watch?v=yQtN7QEcack",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 3701218,
     "upload_date": "2025-08-09",
     "latent_x": -48.65999984741211,
@@ -315,11 +315,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Marble+",
     "titulo": "Incredible Blender Physics Showcase | Hair particles, Cloth Simulation and more",
     "enlace": "https://www.youtube.com/watch?v=SQOBQCLaF9E",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 3071729,
     "upload_date": "2025-08-09",
     "latent_x": -43.75,
@@ -353,11 +353,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Marble+",
     "titulo": "From Soft to Puffy: 8 Minutes of Oddly Relaxing Blender Physics",
     "enlace": "https://www.youtube.com/watch?v=skNpr4sy5p0",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 2840766,
     "upload_date": "2025-10-13",
     "latent_x": -59.150001525878906,
@@ -629,9 +629,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes)",
     "views": 1633795,
     "upload_date": "2024-08-09",
     "latent_x": -35.529998779296875,
@@ -805,9 +805,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "3D Animation & Motion",
     "tags": [
       "3D Animation & Motion",
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "3D Animation & Motion (3D Animation & Motion, Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "3D Animation & Motion (3D Animation & Motion, Physics & Simulation)",
     "views": 1376572,
     "upload_date": "2024-08-09",
     "latent_x": -54.15999984741211,
@@ -1053,11 +1053,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Blender Guru",
     "titulo": "Blender Tutorial: Geometry Nodes for Beginners - Part 1",
     "enlace": "https://www.youtube.com/watch?v=aO0eUnu0hO0",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 959683,
     "upload_date": "2022-08-10",
     "latent_x": -87.37999725341797,
@@ -1366,11 +1366,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Marble+",
     "titulo": "8 Minutes of Satisfying Physics in Blender",
     "enlace": "https://www.youtube.com/watch?v=7GGgyFEOv3c",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 706272,
     "upload_date": "2025-08-09",
     "latent_x": -55.119998931884766,
@@ -1833,9 +1833,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes)",
     "views": 513205,
     "upload_date": "2025-08-09",
     "latent_x": -22.049999237060547,
@@ -1967,13 +1967,13 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Ducky 3D",
     "titulo": "Satisfying Geometry Nodes Animation (Blender Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=NyUJ6XH8A94",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural",
+      "Geometry Nodes",
       "Shading, Texturing & UVs",
       "3D Animation & Motion"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural, Shading, Texturing & UVs, 3D Animation & Motion)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes, Shading, Texturing & UVs, 3D Animation & Motion)",
     "views": 471883,
     "upload_date": "2022-08-10",
     "latent_x": -101.9000015258789,
@@ -2184,9 +2184,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "3D Animation & Motion",
     "tags": [
       "3D Animation & Motion",
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "3D Animation & Motion (3D Animation & Motion, Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "3D Animation & Motion (3D Animation & Motion, Physics & Simulation)",
     "views": 405556,
     "upload_date": "2025-08-09",
     "latent_x": -53.88999938964844,
@@ -2239,11 +2239,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Blender Guru",
     "titulo": "Blender Tutorial: Geometry Nodes for Beginners - Part 2",
     "enlace": "https://www.youtube.com/watch?v=V10GBrmYIDM",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 391041,
     "upload_date": "2022-08-10",
     "latent_x": -87.37999725341797,
@@ -2375,11 +2375,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Marble+",
     "titulo": "Unbelievable Blender Physics | Hair Particles, Cloth & Rigid Body Simulations",
     "enlace": "https://www.youtube.com/watch?v=0fm8OyZPTV8",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 354131,
     "upload_date": "2025-08-09",
     "latent_x": -54.040000915527344,
@@ -2451,11 +2451,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "CGDive (Blender Rigging Tuts)",
     "titulo": "Blender Physics Just Got Insane",
     "enlace": "https://www.youtube.com/watch?v=0huIwBTcKHU",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 327253,
     "upload_date": "2026-07-10",
     "latent_x": -34.869998931884766,
@@ -2512,9 +2512,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes)",
     "views": 321133,
     "upload_date": "2022-08-10",
     "latent_x": -33.61000061035156,
@@ -2665,9 +2665,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes)",
     "views": 287828,
     "upload_date": "2022-08-10",
     "latent_x": -30.190000534057617,
@@ -2720,11 +2720,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "PIXXO 3D",
     "titulo": "Blender 3.3 | Cloth Simulation For Beginners",
     "enlace": "https://www.youtube.com/watch?v=_hNFZ0v__no",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 282569,
     "upload_date": "2023-08-10",
     "latent_x": -50.45000076293945,
@@ -2739,11 +2739,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Blender",
     "titulo": "Procedural Textures - Blender 2.80 Fundamentals",
     "enlace": "https://www.youtube.com/watch?v=_deRNqDcwRk",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 280639,
     "upload_date": "2019-08-11",
     "latent_x": -89.0999984741211,
@@ -2777,11 +2777,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Lord GodSon",
     "titulo": "Incredible Blender Physics Showcase | Hair particles, Cloth Simulation and more",
     "enlace": "https://www.youtube.com/watch?v=_wxI6w1YuIs",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 275157,
     "upload_date": "2025-08-09",
     "latent_x": -43.75,
@@ -2796,11 +2796,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Ducky 3D",
     "titulo": "Stylized Alien Landscape w/ Geometry Nodes (Blender Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=t_Xfl9Nub-I",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 273225,
     "upload_date": "2022-08-10",
     "latent_x": -104.55000305175781,
@@ -2912,11 +2912,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "CGMatter",
     "titulo": "Blender Geometry Nodes [LEVEL 1 - FULL COURSE]",
     "enlace": "https://www.youtube.com/watch?v=ZerJnivvBn4",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 251462,
     "upload_date": "2023-08-10",
     "latent_x": -68.0,
@@ -2934,10 +2934,10 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "3D Modeling & Sculpting",
     "tags": [
       "3D Modeling & Sculpting",
-      "Geometry Nodes & Procedural",
+      "Geometry Nodes",
       "Lighting & Environment"
     ],
-    "categoria_descriptores": "3D Modeling & Sculpting (3D Modeling & Sculpting, Geometry Nodes & Procedural, Lighting & Environment)",
+    "categoria_descriptores": "3D Modeling & Sculpting (3D Modeling & Sculpting, Geometry Nodes, Lighting & Environment)",
     "views": 250384,
     "upload_date": "2022-08-10",
     "latent_x": 7.289999961853027,
@@ -3051,9 +3051,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "3D Animation & Motion",
     "tags": [
       "3D Animation & Motion",
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "3D Animation & Motion (3D Animation & Motion, Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "3D Animation & Motion (3D Animation & Motion, Physics & Simulation)",
     "views": 226774,
     "upload_date": "2022-08-10",
     "latent_x": -54.59000015258789,
@@ -3128,12 +3128,12 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Chong 3D",
     "titulo": "Blender3D - Transforming effect using Geometry nodes",
     "enlace": "https://www.youtube.com/watch?v=B2HMdtND4ws",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural",
+      "Geometry Nodes",
       "3D Animation & Motion"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural, 3D Animation & Motion)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes, 3D Animation & Motion)",
     "views": 217142,
     "upload_date": "2022-08-10",
     "latent_x": -97.16999816894531,
@@ -3167,11 +3167,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "BlenderDude",
     "titulo": "Blender Geometry Nodes 3.0 - Procedural Landscape Tutorial  - Part 01",
     "enlace": "https://www.youtube.com/watch?v=FVjsmC-UThg",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 211920,
     "upload_date": "2022-08-10",
     "latent_x": -96.5,
@@ -3186,11 +3186,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Ducky 3D",
     "titulo": "Create A Living Parasite Effect With Geometry Nodes (Blender Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=t61gMdBXjQw",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 211634,
     "upload_date": "2023-08-10",
     "latent_x": -95.73999786376953,
@@ -3264,11 +3264,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "CrossMind Studio",
     "titulo": "Fractals in Blender - Geometry Nodes Extrude Node",
     "enlace": "https://www.youtube.com/watch?v=bHWvVtuLJkM",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 204873,
     "upload_date": "2022-08-10",
     "latent_x": -70.80000305175781,
@@ -3286,9 +3286,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes)",
     "views": 201322,
     "upload_date": "2022-08-10",
     "latent_x": -38.150001525878906,
@@ -3322,11 +3322,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "harry blends",
     "titulo": "A guide to attributes & fields - blender geometry nodes",
     "enlace": "https://www.youtube.com/watch?v=a-4oCHe-hDE",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 192348,
     "upload_date": "2025-08-09",
     "latent_x": -76.81999969482422,
@@ -3341,11 +3341,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Blender",
     "titulo": "What are Blender Geometry Nodes?",
     "enlace": "https://www.youtube.com/watch?v=kMDB7c0ZiKA",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 190357,
     "upload_date": "2022-08-10",
     "latent_x": -80.37999725341797,
@@ -3476,12 +3476,12 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Edin Spiegel",
     "titulo": "How to make Eevee look like Cycles in 4 Steps | Blender Tutorial",
     "enlace": "https://www.youtube.com/watch?v=wNESyAvTPEg",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural",
+      "Geometry Nodes",
       "Cycles & EEVEE Rendering"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural, Cycles & EEVEE Rendering)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes, Cycles & EEVEE Rendering)",
     "views": 177494,
     "upload_date": "2023-08-10",
     "latent_x": -81.87000274658203,
@@ -3595,11 +3595,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "SharpWind",
     "titulo": "The ONLY Geometry Nodes Tutorial You'll Ever Need!",
     "enlace": "https://www.youtube.com/watch?v=aTeLyeVO0Dc",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 171505,
     "upload_date": "2025-08-09",
     "latent_x": -76.73999786376953,
@@ -3653,11 +3653,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "HEY Pictures",
     "titulo": "Every Node in Blender Geometry Nodes | Geometry pt.1",
     "enlace": "https://www.youtube.com/watch?v=t3gm0aWJgMA",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 168366,
     "upload_date": "2023-08-10",
     "latent_x": -70.58999633789062,
@@ -3710,11 +3710,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "victorvdr9",
     "titulo": "Puffy Cloth Tutorial | Blender 2.8 | FREE .blend file",
     "enlace": "https://www.youtube.com/watch?v=CtLNsNBW_vE",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 163058,
     "upload_date": "2020-08-10",
     "latent_x": -57.91999816894531,
@@ -3729,12 +3729,12 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Derek Elliott",
     "titulo": "Procedural Fabric w/ Fuzz and Cloth Simulation",
     "enlace": "https://www.youtube.com/watch?v=PnFDKaZuV4w",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural",
-      "Physics, Cloth & Particle Simulation"
+      "Geometry Nodes",
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural, Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes, Physics & Simulation)",
     "views": 162350,
     "upload_date": "2023-08-10",
     "latent_x": -119.56999969482422,
@@ -3788,11 +3788,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Ducky 3D",
     "titulo": "Easy Shrink Wrap Simulation With Cloth (Blender Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=gFOJ7ul19AE",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 155741,
     "upload_date": "2020-08-10",
     "latent_x": -52.86000061035156,
@@ -3807,11 +3807,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Blender Made Easy",
     "titulo": "Blender Tutorial - Freezing Effect w/ Geometry Nodes",
     "enlace": "https://www.youtube.com/watch?v=JxeKovEzWhg",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 155089,
     "upload_date": "2023-08-10",
     "latent_x": -93.6500015258789,
@@ -3829,9 +3829,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes)",
     "views": 153087,
     "upload_date": "2024-08-09",
     "latent_x": -33.349998474121094,
@@ -3849,9 +3849,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Physics & Simulation)",
     "views": 152468,
     "upload_date": "2025-08-09",
     "latent_x": -27.549999237060547,
@@ -4040,11 +4040,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Plixotic",
     "titulo": "Blender Physics Showcase | Cloth Simulation, Grass simulation  and more",
     "enlace": "https://www.youtube.com/watch?v=iMUk-x564go",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 133670,
     "upload_date": "2025-08-09",
     "latent_x": -47.380001068115234,
@@ -4135,11 +4135,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "5 Minutes Blender",
     "titulo": "Particle Physics + Rigid Body Collisions = A Genius Result 👍",
     "enlace": "https://www.youtube.com/watch?v=sSq-ueXccaU",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 121546,
     "upload_date": "2023-08-10",
     "latent_x": -49.119998931884766,
@@ -4212,12 +4212,12 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Ducky 3D",
     "titulo": "10 Minute Tutorial - Particle Flow Animation Loop in Blender  (Geometry Nodes)",
     "enlace": "https://www.youtube.com/watch?v=eBNolzjnHtE",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural",
+      "Geometry Nodes",
       "3D Animation & Motion"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural, 3D Animation & Motion)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes, 3D Animation & Motion)",
     "views": 118095,
     "upload_date": "2025-08-09",
     "latent_x": -103.86000061035156,
@@ -4270,12 +4270,12 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Aria Faith Jones",
     "titulo": "How to create Cloth Simulations Faster | Geometry Nodes | Blender",
     "enlace": "https://www.youtube.com/watch?v=R1PyU3PB2ns",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural",
-      "Physics, Cloth & Particle Simulation"
+      "Geometry Nodes",
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural, Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes, Physics & Simulation)",
     "views": 114048,
     "upload_date": "2022-08-10",
     "latent_x": -117.91000366210938,
@@ -4309,11 +4309,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "CGMatter",
     "titulo": "This effect with ONLY geometry nodes!? (condensation)",
     "enlace": "https://www.youtube.com/watch?v=hCaMkma-CLM",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 113255,
     "upload_date": "2022-08-10",
     "latent_x": -93.08000183105469,
@@ -4406,11 +4406,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Doriflow_Engine",
     "titulo": "DORIFLOW ADVANCED TUTORIAL | MULTI-PHYSICS STRESS TEST (Robot vs. Cloth, Grains, and Rigid Bodies)",
     "enlace": "https://www.youtube.com/watch?v=oveV13c2onc",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 110824,
     "upload_date": "2026-03-12",
     "latent_x": -51.189998626708984,
@@ -4446,11 +4446,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Ryan King Art",
     "titulo": "Geometry Nodes for Complete Beginners - Part 1 (Blender Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=tWvgHbZXCtA",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 109869,
     "upload_date": "2024-08-09",
     "latent_x": -88.44999694824219,
@@ -4579,12 +4579,12 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Jacob Fory",
     "titulo": "How to Make a Growth Animation in Blender — Geometry Nodes Tutorial",
     "enlace": "https://www.youtube.com/watch?v=VDKXSLDqlgg",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural",
+      "Geometry Nodes",
       "3D Animation & Motion"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural, 3D Animation & Motion)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes, 3D Animation & Motion)",
     "views": 105775,
     "upload_date": "2024-08-09",
     "latent_x": -100.06999969482422,
@@ -4637,11 +4637,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Blender Made Easy",
     "titulo": "Blender Tutorial - Procedural Chainlink Fence (Geometry Nodes)",
     "enlace": "https://www.youtube.com/watch?v=CwOHqH60X-0",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 101684,
     "upload_date": "2022-08-10",
     "latent_x": -88.7699966430664,
@@ -4697,11 +4697,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Default Cube",
     "titulo": "Goodbye Cell Fracture",
     "enlace": "https://www.youtube.com/watch?v=J4ef32l7beQ",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 98755,
     "upload_date": "2023-08-10",
     "latent_x": -114.58999633789062,
@@ -4778,9 +4778,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "Cycles & EEVEE Rendering",
     "tags": [
       "Cycles & EEVEE Rendering",
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Cycles & EEVEE Rendering (Cycles & EEVEE Rendering, Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Cycles & EEVEE Rendering (Cycles & EEVEE Rendering, Physics & Simulation)",
     "views": 95395,
     "upload_date": "2024-08-09",
     "latent_x": 120.0,
@@ -4817,9 +4817,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "3D Modeling & Sculpting",
     "tags": [
       "3D Modeling & Sculpting",
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "3D Modeling & Sculpting (3D Modeling & Sculpting, Geometry Nodes & Procedural)",
+    "categoria_descriptores": "3D Modeling & Sculpting (3D Modeling & Sculpting, Geometry Nodes)",
     "views": 94873,
     "upload_date": "2024-08-09",
     "latent_x": 8.710000038146973,
@@ -4853,11 +4853,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Aria Faith Jones",
     "titulo": "How to get Better Cloth Simulations in Blender",
     "enlace": "https://www.youtube.com/watch?v=V0ziiFFEbJo",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 93689,
     "upload_date": "2021-08-10",
     "latent_x": -60.619998931884766,
@@ -4911,11 +4911,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "BlenderDude",
     "titulo": "Blender Geometry Nodes Tutorial - Procedural Cabinet or Furniture",
     "enlace": "https://www.youtube.com/watch?v=m2FflCg6BTE",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 92260,
     "upload_date": "2022-08-10",
     "latent_x": -88.7699966430664,
@@ -4930,13 +4930,13 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Ducky 3D",
     "titulo": "Particle Flow Logo Animation in Blender (Geometry Nodes Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=oC6guqEK9J4",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural",
+      "Geometry Nodes",
       "3D Animation & Motion",
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural, 3D Animation & Motion, Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes, 3D Animation & Motion, Physics & Simulation)",
     "views": 90207,
     "upload_date": "2025-08-09",
     "latent_x": -115.51000213623047,
@@ -4992,9 +4992,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "Lighting & Environment",
     "tags": [
       "Lighting & Environment",
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Lighting & Environment (Lighting & Environment, Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Lighting & Environment (Lighting & Environment, Physics & Simulation)",
     "views": 86703,
     "upload_date": "2023-08-10",
     "latent_x": 65.9800033569336,
@@ -5012,9 +5012,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "3D Animation & Motion",
     "tags": [
       "3D Animation & Motion",
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "3D Animation & Motion (3D Animation & Motion, Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "3D Animation & Motion (3D Animation & Motion, Physics & Simulation)",
     "views": 86282,
     "upload_date": "2025-08-09",
     "latent_x": -54.0,
@@ -5048,11 +5048,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Ducky 3D",
     "titulo": "The New Way to Make Abstract models in Geometry Nodes (Blender Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=9Y-GyKBv_GU",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 83841,
     "upload_date": "2022-08-10",
     "latent_x": -71.26000213623047,
@@ -5070,9 +5070,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "Shading, Texturing & UVs",
     "tags": [
       "Shading, Texturing & UVs",
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Shading, Texturing & UVs (Shading, Texturing & UVs, Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Shading, Texturing & UVs (Shading, Texturing & UVs, Physics & Simulation)",
     "views": 83165,
     "upload_date": "2023-08-10",
     "latent_x": 53.279998779296875,
@@ -5225,9 +5225,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes)",
     "views": 77000,
     "upload_date": "2025-08-09",
     "latent_x": -36.400001525878906,
@@ -5242,11 +5242,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Markom3D",
     "titulo": "Cloth Simulations - Making a Cape in Blender Tutorial",
     "enlace": "https://www.youtube.com/watch?v=trqVZqEdw5k",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 75908,
     "upload_date": "2021-08-10",
     "latent_x": -60.619998931884766,
@@ -5261,11 +5261,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "KennyPhases",
     "titulo": "Blender 3D: Cloth-Pull Reveal Object!",
     "enlace": "https://www.youtube.com/watch?v=NBHxP8ojk9Q",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 74438,
     "upload_date": "2023-08-10",
     "latent_x": -52.91999816894531,
@@ -5318,11 +5318,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Aura Prods",
     "titulo": "🔥 Geometry Nodes Course - Blender in Spanish 2025",
     "enlace": "https://www.youtube.com/watch?v=BOIsEYWeXoI",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 72448,
     "upload_date": "2025-08-09",
     "latent_x": -68.56999969482422,
@@ -5433,11 +5433,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "MK Graphics",
     "titulo": "Blender 3.1  Rigid Body And Cloth Simulation | Elastic Rope Tutorial",
     "enlace": "https://www.youtube.com/watch?v=piggGdaVbMk",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 68233,
     "upload_date": "2022-08-10",
     "latent_x": -52.02000045776367,
@@ -5472,11 +5472,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "MK Graphics",
     "titulo": "Cloth Simulation Settings | Blender 3.0 Tutorial",
     "enlace": "https://www.youtube.com/watch?v=6ZWzEmHsIuM",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 67801,
     "upload_date": "2022-08-10",
     "latent_x": -46.040000915527344,
@@ -5494,10 +5494,10 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Geometry Nodes & Procedural",
+      "Geometry Nodes",
       "3D Animation & Motion"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes & Procedural, 3D Animation & Motion)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes, 3D Animation & Motion)",
     "views": 67032,
     "upload_date": "2022-08-10",
     "latent_x": -36.97999954223633,
@@ -5551,11 +5551,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "BlenderDude",
     "titulo": "Proximity Growth - Blender Geometry Nodes 3.0 Tutorial",
     "enlace": "https://www.youtube.com/watch?v=CWomo4_E6l8",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 63739,
     "upload_date": "2022-08-10",
     "latent_x": -83.94000244140625,
@@ -5665,11 +5665,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Default Cube",
     "titulo": "Procedural Cell Fracture Blender Geometry Nodes",
     "enlace": "https://www.youtube.com/watch?v=Y5huIOyQq_0",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 59446,
     "upload_date": "2022-08-10",
     "latent_x": -114.05999755859375,
@@ -5703,11 +5703,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Default Cube",
     "titulo": "GEOMETRY NODES. YES!!!!!!!!",
     "enlace": "https://www.youtube.com/watch?v=nsepWhTPYYA",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 58708,
     "upload_date": "2021-08-10",
     "latent_x": -84.44000244140625,
@@ -5742,11 +5742,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "5 Minutes Blender",
     "titulo": "Pseudo Rigid Body Objects Falling On Cloth | A Realistic Collision With Cloth Physics & Soft Body",
     "enlace": "https://www.youtube.com/watch?v=9m1RcagR9sw",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 58024,
     "upload_date": "2023-08-10",
     "latent_x": -63.34000015258789,
@@ -5994,11 +5994,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Mr. Cheebs",
     "titulo": "Skin Wrinkling with Cloth and Soft Bodies in Blender!",
     "enlace": "https://www.youtube.com/watch?v=YDrbyITWMGU",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 49427,
     "upload_date": "2020-08-10",
     "latent_x": -62.220001220703125,
@@ -6036,9 +6036,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Physics & Simulation)",
     "views": 48215,
     "upload_date": "2023-08-10",
     "latent_x": -28.149999618530273,
@@ -6053,11 +6053,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Yesway™",
     "titulo": "How to Understand Geometry Nodes | Blender for Beginners",
     "enlace": "https://www.youtube.com/watch?v=ETOXG3qdMKg",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 47598,
     "upload_date": "2025-08-09",
     "latent_x": -98.27999877929688,
@@ -6169,11 +6169,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "CGMatter",
     "titulo": "Blender Procedural Terracotta Tiles (for roofs!) - Geometry Nodes",
     "enlace": "https://www.youtube.com/watch?v=h-0b6oMasiE",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 43918,
     "upload_date": "2023-08-10",
     "latent_x": -82.80999755859375,
@@ -6208,12 +6208,12 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Default Cube",
     "titulo": "Solving fracture once and for all",
     "enlace": "https://www.youtube.com/watch?v=brpBEtw7y_g",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural",
-      "Physics, Cloth & Particle Simulation"
+      "Geometry Nodes",
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural, Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes, Physics & Simulation)",
     "views": 42362,
     "upload_date": "2026-04-11",
     "latent_x": -120.0,
@@ -6308,9 +6308,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes)",
     "views": 38945,
     "upload_date": "2024-08-09",
     "latent_x": -42.869998931884766,
@@ -6382,11 +6382,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "harry blends",
     "titulo": "A guide to blender’s geometry node editor",
     "enlace": "https://www.youtube.com/watch?v=R8B7Cen8FTI",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 36662,
     "upload_date": "2025-08-09",
     "latent_x": -67.95999908447266,
@@ -6401,12 +6401,12 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "CGMatter",
     "titulo": "physics with geometry nodes",
     "enlace": "https://www.youtube.com/watch?v=c_VEyNAQ4II",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural",
-      "Physics, Cloth & Particle Simulation"
+      "Geometry Nodes",
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural, Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes, Physics & Simulation)",
     "views": 36397,
     "upload_date": "2024-08-09",
     "latent_x": -119.1500015258789,
@@ -6421,11 +6421,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Ducky 3D",
     "titulo": "Powerful Light Trails in Blender 4.5 (tutorial)",
     "enlace": "https://www.youtube.com/watch?v=965bgIUHoxA",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 36233,
     "upload_date": "2025-10-13",
     "latent_x": -99.68000030517578,
@@ -6459,12 +6459,12 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Ducky 3D",
     "titulo": "10 Minute Tutorial - Organic Cell Effect In Geometry Nodes (Blender Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=5ltTn77WaFo",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural",
+      "Geometry Nodes",
       "3D Animation & Motion"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural, 3D Animation & Motion)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes, 3D Animation & Motion)",
     "views": 35178,
     "upload_date": "2025-08-09",
     "latent_x": -102.75,
@@ -6479,12 +6479,12 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Ryan King Art",
     "titulo": "Customizable Brick Wall - Geometry Nodes (Blender Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=oE3GqhSd3NA",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural",
+      "Geometry Nodes",
       "Shading, Texturing & UVs"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural, Shading, Texturing & UVs)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes, Shading, Texturing & UVs)",
     "views": 33961,
     "upload_date": "2024-08-09",
     "latent_x": -101.19999694824219,
@@ -6576,11 +6576,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Deayan Studios",
     "titulo": "Demystifying Geometry Nodes: The Ultimate Guide to Mastering Blender's Procedural Power",
     "enlace": "https://www.youtube.com/watch?v=WbrjlYM0Qno",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 31468,
     "upload_date": "2025-08-09",
     "latent_x": -76.52999877929688,
@@ -6595,11 +6595,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "CGMatter and Default Cube",
     "titulo": "Blender 5.0 Fur (Geometry Nodes)",
     "enlace": "https://www.youtube.com/watch?v=yrUiVsdImLI",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 31277,
     "upload_date": "2025-12-12",
     "latent_x": -80.37999725341797,
@@ -6654,11 +6654,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Matton3D",
     "titulo": "How to Export Cloth/Soft Body Simulations From Blender",
     "enlace": "https://www.youtube.com/watch?v=e2UdswP78W0",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 30767,
     "upload_date": "2023-08-10",
     "latent_x": -61.290000915527344,
@@ -6694,11 +6694,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "CGMatter and Default Cube",
     "titulo": "Blender 5.0 Fluid-like Particle Simulation",
     "enlace": "https://www.youtube.com/watch?v=jbXaFtq52Mw",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 29999,
     "upload_date": "2025-11-12",
     "latent_x": -37.2400016784668,
@@ -6716,9 +6716,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "3D Modeling & Sculpting",
     "tags": [
       "3D Modeling & Sculpting",
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "3D Modeling & Sculpting (3D Modeling & Sculpting, Geometry Nodes & Procedural)",
+    "categoria_descriptores": "3D Modeling & Sculpting (3D Modeling & Sculpting, Geometry Nodes)",
     "views": 29352,
     "upload_date": "2022-08-10",
     "latent_x": 8.699999809265137,
@@ -6753,11 +6753,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "CGMatter",
     "titulo": "How I Make The Impossible (with blender geometry nodes)",
     "enlace": "https://www.youtube.com/watch?v=YYqR3gfJkqg",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 28860,
     "upload_date": "2022-08-10",
     "latent_x": -82.33000183105469,
@@ -6772,11 +6772,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Kai🔸",
     "titulo": "Make Things Look Handcrafted in Blender (Blender Geometry Nodes Tutorial)",
     "enlace": "https://www.youtube.com/watch?v=EJEot0AAHHk",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 28774,
     "upload_date": "2025-08-09",
     "latent_x": -85.73999786376953,
@@ -6811,11 +6811,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "RADIUM",
     "titulo": "I spent a year in Blender's Geo Nodes, Here is what I learned",
     "enlace": "https://www.youtube.com/watch?v=WrLCzL-SYR4",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 27634,
     "upload_date": "2026-02-10",
     "latent_x": -75.12000274658203,
@@ -6830,11 +6830,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "ChuckCG",
     "titulo": "How to Create Assets with cloth simulation in Blender",
     "enlace": "https://www.youtube.com/watch?v=XXmO_hgzfms",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 27303,
     "upload_date": "2023-08-10",
     "latent_x": -48.099998474121094,
@@ -6849,11 +6849,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "uc studio",
     "titulo": "how to create Colliding Cloth simulations with Falling Objects in blender | blender tutorial",
     "enlace": "https://www.youtube.com/watch?v=susrLbfz6no",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 27222,
     "upload_date": "2024-08-09",
     "latent_x": -68.94999694824219,
@@ -6945,11 +6945,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Default Cube",
     "titulo": "'Knot Theory' - Make A NFT With Blender - Geometry Nodes",
     "enlace": "https://www.youtube.com/watch?v=Rul0Oyn5890",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 25323,
     "upload_date": "2022-08-10",
     "latent_x": -81.5,
@@ -6964,11 +6964,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Sanctus - Blender Procedural",
     "titulo": "Curso gratuito de Geometry Nodes para Blender 3D 2024 - Parte 01",
     "enlace": "https://www.youtube.com/watch?v=uUBw0LKc_cs",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 25238,
     "upload_date": "2025-08-09",
     "latent_x": -89.55999755859375,
@@ -7002,11 +7002,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Seanterelle",
     "titulo": "Blender Geometry Nodes Tutorial - Fractal Vortex",
     "enlace": "https://www.youtube.com/watch?v=WboXYvEPskw",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 24534,
     "upload_date": "2025-08-09",
     "latent_x": -87.38999938964844,
@@ -7021,11 +7021,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "CGMatter",
     "titulo": "Blender 5.0 Erosion (Geometry Nodes)",
     "enlace": "https://www.youtube.com/watch?v=qllJONjCIZU",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 24450,
     "upload_date": "2025-12-12",
     "latent_x": -80.37999725341797,
@@ -7098,11 +7098,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "RADIUM",
     "titulo": "ALL 300+ Geometry Nodes in Blender",
     "enlace": "https://www.youtube.com/watch?v=Y0zAZnbBcQU",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 23566,
     "upload_date": "2025-10-13",
     "latent_x": -80.37999725341797,
@@ -7117,12 +7117,12 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "CGMatter",
     "titulo": "fluid simulation with geometry nodes",
     "enlace": "https://www.youtube.com/watch?v=-RBbVCphQPw",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural",
-      "Physics, Cloth & Particle Simulation"
+      "Geometry Nodes",
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural, Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes, Physics & Simulation)",
     "views": 23357,
     "upload_date": "2024-08-09",
     "latent_x": -119.62999725341797,
@@ -7195,11 +7195,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Default Cube and CGMatter",
     "titulo": "A BIG change in Geometry Nodes",
     "enlace": "https://www.youtube.com/watch?v=GvP5xV_et28",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 22767,
     "upload_date": "2026-07-10",
     "latent_x": -85.83999633789062,
@@ -7217,9 +7217,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes)",
     "views": 22744,
     "upload_date": "2023-08-10",
     "latent_x": -38.5099983215332,
@@ -7253,11 +7253,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "CGMatter",
     "titulo": "NEW! SIMULATION NODES",
     "enlace": "https://www.youtube.com/watch?v=Mlrx1fPEDZo",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 22424,
     "upload_date": "2023-08-10",
     "latent_x": -42.36000061035156,
@@ -7272,11 +7272,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "MiGo Pro",
     "titulo": "Bubbles Simulation in blender - Tutorial",
     "enlace": "https://www.youtube.com/watch?v=WXdADjakAEI",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 22170,
     "upload_date": "2024-08-09",
     "latent_x": -48.83000183105469,
@@ -7311,11 +7311,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Default Cube",
     "titulo": "INSANE Bracelets  - Blender 3.0 Geometry Nodes",
     "enlace": "https://www.youtube.com/watch?v=tp1OTP0d7w0",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 21988,
     "upload_date": "2022-08-10",
     "latent_x": -94.27999877929688,
@@ -7349,11 +7349,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "CGMatter",
     "titulo": "Stacking Physics Simulations // Blender Tutorial",
     "enlace": "https://www.youtube.com/watch?v=zu_iXsEFKUc",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 21701,
     "upload_date": "2025-10-13",
     "latent_x": -56.9900016784668,
@@ -7368,11 +7368,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "CGMatter",
     "titulo": "NEW Addicting Blender Game",
     "enlace": "https://www.youtube.com/watch?v=j_8GErJJNeg",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 21339,
     "upload_date": "2022-08-10",
     "latent_x": -100.11000061035156,
@@ -7391,10 +7391,10 @@ const BLENDER_TUTORIALS_DATA = [
     "tags": [
       "Beginner Guides",
       "3D Modeling & Sculpting",
-      "Geometry Nodes & Procedural",
+      "Geometry Nodes",
       "Shading, Texturing & UVs"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, 3D Modeling & Sculpting, Geometry Nodes & Procedural, Shading, Texturing & UVs)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, 3D Modeling & Sculpting, Geometry Nodes, Shading, Texturing & UVs)",
     "views": 20550,
     "upload_date": "2024-08-09",
     "latent_x": 48.33000183105469,
@@ -7412,9 +7412,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes)",
     "views": 20418,
     "upload_date": "2026-07-10",
     "latent_x": -37.630001068115234,
@@ -7449,11 +7449,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Deepak Graphics",
     "titulo": "Adding cloth on top of table Easy Blender Cloth simulation Tutorial",
     "enlace": "https://www.youtube.com/watch?v=xZIqFoaWIJU",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 20394,
     "upload_date": "2022-08-10",
     "latent_x": -53.900001525878906,
@@ -7488,11 +7488,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Default Cube",
     "titulo": "I'll teach you Geometry Nodes",
     "enlace": "https://www.youtube.com/watch?v=JU70u6cJZqI",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 19932,
     "upload_date": "2026-01-11",
     "latent_x": -77.83000183105469,
@@ -7507,11 +7507,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "CGMatter and Default Cube",
     "titulo": "Blender 5.0 Handwriting with Geometry Nodes",
     "enlace": "https://www.youtube.com/watch?v=SBRI4ZdyAXU",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 19822,
     "upload_date": "2025-11-12",
     "latent_x": -80.37999725341797,
@@ -7565,12 +7565,12 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "CGMatter",
     "titulo": "code a smoke simulator from SCRATCH (Blender Geometry Nodes)",
     "enlace": "https://www.youtube.com/watch?v=4pOBWRHSKTs",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural",
-      "Physics, Cloth & Particle Simulation"
+      "Geometry Nodes",
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural, Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes, Physics & Simulation)",
     "views": 19442,
     "upload_date": "2024-08-09",
     "latent_x": -119.12000274658203,
@@ -7719,11 +7719,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "CGMatter",
     "titulo": "This IS NOT a Sphere!",
     "enlace": "https://www.youtube.com/watch?v=27LlWtXyN-Y",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 16493,
     "upload_date": "2022-08-10",
     "latent_x": -84.80999755859375,
@@ -7796,11 +7796,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "CGMatter",
     "titulo": "Abstract Boolean - Blender Geometry Nodes",
     "enlace": "https://www.youtube.com/watch?v=_Zcctus1M3Q",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 15732,
     "upload_date": "2022-08-10",
     "latent_x": -73.9800033569336,
@@ -7834,12 +7834,12 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "NoPoly",
     "titulo": "Beginners Guide To Texturing In Blender | How To Procedural Texture ANYTHING!",
     "enlace": "https://www.youtube.com/watch?v=nQaUsgf9ZUg",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural",
+      "Geometry Nodes",
       "Shading, Texturing & UVs"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural, Shading, Texturing & UVs)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes, Shading, Texturing & UVs)",
     "views": 15144,
     "upload_date": "2025-08-09",
     "latent_x": -101.26000213623047,
@@ -7892,11 +7892,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "PIXXO 3D",
     "titulo": "Blender: Loop Cloth Simulations | The EASY Way",
     "enlace": "https://www.youtube.com/watch?v=aAkIsQiSiqY",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 13937,
     "upload_date": "2024-08-09",
     "latent_x": -64.7699966430664,
@@ -7930,11 +7930,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "CGMatter",
     "titulo": "Procedural Bookshelf - Part 1 [Blender]",
     "enlace": "https://www.youtube.com/watch?v=_RgQjAXLZNg",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 13721,
     "upload_date": "2023-08-10",
     "latent_x": -86.87999725341797,
@@ -7949,11 +7949,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Alinwan Studios",
     "titulo": "🔥GEOMETRY NODES desde CERO a FUNDAMENTALISTA - Blender 4.5!",
     "enlace": "https://www.youtube.com/watch?v=1DIEtSvk6VY",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 13576,
     "upload_date": "2025-12-12",
     "latent_x": -69.83000183105469,
@@ -7971,9 +7971,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes)",
     "views": 13461,
     "upload_date": "2023-08-10",
     "latent_x": -33.619998931884766,
@@ -7988,12 +7988,12 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "LightArchitect",
     "titulo": "Rain Money in Blender 3d: Full Tutorial: Cloth Sim + Particle Systems",
     "enlace": "https://www.youtube.com/watch?v=vldg0X9d9m8",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation",
+      "Physics & Simulation",
       "VFX & Compositing"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation, VFX & Compositing)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation, VFX & Compositing)",
     "views": 13394,
     "upload_date": "2023-08-10",
     "latent_x": -40.33000183105469,
@@ -8066,11 +8066,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "CGMatter",
     "titulo": "Really long lists - Geometry Nodes",
     "enlace": "https://www.youtube.com/watch?v=D2KaJB_jm9M",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 12502,
     "upload_date": "2026-07-10",
     "latent_x": -70.29000091552734,
@@ -8085,11 +8085,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Deayan Studios",
     "titulo": "Mastering Blender Geometry Nodes: Practical Examples for Every Data Type",
     "enlace": "https://www.youtube.com/watch?v=M0x5o-OVza0",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 11838,
     "upload_date": "2025-09-13",
     "latent_x": -66.83999633789062,
@@ -8104,11 +8104,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "CGMatter",
     "titulo": "INFINITE TRIANGLES - Blender Geometry Nodes",
     "enlace": "https://www.youtube.com/watch?v=f7Oo828_kb8",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 11669,
     "upload_date": "2022-08-10",
     "latent_x": -69.5199966430664,
@@ -8145,9 +8145,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes)",
     "views": 11340,
     "upload_date": "2023-08-10",
     "latent_x": -33.619998931884766,
@@ -8162,11 +8162,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "InspirationTuts",
     "titulo": "Houdini Level Cloth Simulation in Blender?",
     "enlace": "https://www.youtube.com/watch?v=ivDtWRFewVM",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 11291,
     "upload_date": "2026-07-19",
     "latent_x": -49.68000030517578,
@@ -8184,9 +8184,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes)",
     "views": 11219,
     "upload_date": "2023-08-10",
     "latent_x": -31.170000076293945,
@@ -8223,11 +8223,11 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "3D Modeling & Sculpting",
     "tags": [
       "3D Modeling & Sculpting",
-      "Geometry Nodes & Procedural",
+      "Geometry Nodes",
       "Character Rigging",
       "3D Animation & Motion"
     ],
-    "categoria_descriptores": "3D Modeling & Sculpting (3D Modeling & Sculpting, Geometry Nodes & Procedural, Character Rigging, 3D Animation & Motion)",
+    "categoria_descriptores": "3D Modeling & Sculpting (3D Modeling & Sculpting, Geometry Nodes, Character Rigging, 3D Animation & Motion)",
     "views": 10540,
     "upload_date": "2025-09-13",
     "latent_x": 23.25,
@@ -8280,12 +8280,12 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "CGMatter",
     "titulo": "BB8 is great mate // Blender Tutorial (geometry nodes, rigging, and vibes)",
     "enlace": "https://www.youtube.com/watch?v=LjbduAiLjtc",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural",
+      "Geometry Nodes",
       "Character Rigging"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural, Character Rigging)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes, Character Rigging)",
     "views": 10391,
     "upload_date": "2025-08-09",
     "latent_x": -85.20999908447266,
@@ -8357,11 +8357,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "CGMatter",
     "titulo": "BEWARE Cuboid! - Blender Geometry Nodes",
     "enlace": "https://www.youtube.com/watch?v=89J9YYPCLpA",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 9922,
     "upload_date": "2022-08-10",
     "latent_x": -80.37999725341797,
@@ -8379,9 +8379,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes)",
     "views": 9871,
     "upload_date": "2023-08-10",
     "latent_x": -33.619998931884766,
@@ -8415,11 +8415,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "AeMachine",
     "titulo": "Easy Cloth Simulation Loop in Blender",
     "enlace": "https://www.youtube.com/watch?v=rtc73Fp4GgY",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 9758,
     "upload_date": "2023-08-10",
     "latent_x": -57.22999954223633,
@@ -8496,9 +8496,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "Character Rigging",
     "tags": [
       "Character Rigging",
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Character Rigging (Character Rigging, Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Character Rigging (Character Rigging, Physics & Simulation)",
     "views": 9352,
     "upload_date": "2023-08-10",
     "latent_x": -48.02000045776367,
@@ -8554,9 +8554,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "3D Animation & Motion",
     "tags": [
       "3D Animation & Motion",
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "3D Animation & Motion (3D Animation & Motion, Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "3D Animation & Motion (3D Animation & Motion, Physics & Simulation)",
     "views": 8748,
     "upload_date": "2023-08-10",
     "latent_x": -54.349998474121094,
@@ -8571,11 +8571,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Entagma",
     "titulo": "Blender Guest Tutorial: Playing with Geometry Nodes: Alien Worm - Part 1",
     "enlace": "https://www.youtube.com/watch?v=Lp91mfzdgR0",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 8388,
     "upload_date": "2025-12-12",
     "latent_x": -97.27999877929688,
@@ -8590,11 +8590,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "CGMatter",
     "titulo": "Procedural Barrel Part [1/2] - Blender Geometry Nodes",
     "enlace": "https://www.youtube.com/watch?v=YjUh1miymK4",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 8377,
     "upload_date": "2023-08-10",
     "latent_x": -82.80999755859375,
@@ -8609,11 +8609,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "CGMatter",
     "titulo": "Volume Editing - Blender Geometry Nodes Tutorial",
     "enlace": "https://www.youtube.com/watch?v=VU_FhO4Jlpg",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 7993,
     "upload_date": "2026-08-07",
     "latent_x": -79.44000244140625,
@@ -8631,9 +8631,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "3D Animation & Motion",
     "tags": [
       "3D Animation & Motion",
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "3D Animation & Motion (3D Animation & Motion, Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "3D Animation & Motion (3D Animation & Motion, Physics & Simulation)",
     "views": 7743,
     "upload_date": "2017-08-11",
     "latent_x": -54.33000183105469,
@@ -8686,11 +8686,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Default Cube",
     "titulo": "This is NOT a hockey video (Blender Geometry Nodes)",
     "enlace": "https://www.youtube.com/watch?v=4bF184qnjwg",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 7140,
     "upload_date": "2022-08-10",
     "latent_x": -98.56999969482422,
@@ -8764,11 +8764,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Default Cube",
     "titulo": "Blender 5.0 Geometry Nodes // Nodevember Day 12 - Monument",
     "enlace": "https://www.youtube.com/watch?v=sjb6gQImdpE",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 5857,
     "upload_date": "2025-12-12",
     "latent_x": -50.290000915527344,
@@ -8783,11 +8783,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "CGMatter",
     "titulo": "Wireframe - Blender Geometry Nodes Tutorial - Procedural UV Maps",
     "enlace": "https://www.youtube.com/watch?v=gfOyX2xZf2M",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 5712,
     "upload_date": "2024-08-09",
     "latent_x": -88.7699966430664,
@@ -8821,11 +8821,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Sardi Pax",
     "titulo": "Blender 2.70 Tutorial - Physics with a Cloth Sim",
     "enlace": "https://www.youtube.com/watch?v=QqJTomAi1PU",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 5500,
     "upload_date": "2014-08-12",
     "latent_x": -46.369998931884766,
@@ -8881,9 +8881,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes)",
     "views": 5139,
     "upload_date": "2023-08-10",
     "latent_x": -31.170000076293945,
@@ -8901,9 +8901,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes)",
     "views": 4957,
     "upload_date": "2023-08-10",
     "latent_x": -38.9900016784668,
@@ -8918,11 +8918,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Default Cube",
     "titulo": "Blender 5.0 Geometry Nodes // Nodevember Day 11 - Hive",
     "enlace": "https://www.youtube.com/watch?v=JYp86oU4pyQ",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 4714,
     "upload_date": "2025-12-12",
     "latent_x": -52.279998779296875,
@@ -8960,9 +8960,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes)",
     "views": 4554,
     "upload_date": "2023-08-10",
     "latent_x": -33.619998931884766,
@@ -8977,11 +8977,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "SPECTRUM.77",
     "titulo": "Incredible Blender Physics Showcase | Hair Particles, Cloth Simulation and Liquid Simulation",
     "enlace": "https://www.youtube.com/watch?v=Qo5zeU32JLM",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 4548,
     "upload_date": "2025-08-09",
     "latent_x": -41.560001373291016,
@@ -9037,11 +9037,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "by Shaysik",
     "titulo": "Incredible Blender Physics Showcase | Hair particles, Cloth Simulation and more",
     "enlace": "https://www.youtube.com/watch?v=pnnnPBGQxBo",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 3857,
     "upload_date": "2025-08-09",
     "latent_x": -43.75,
@@ -9094,11 +9094,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Default Cube",
     "titulo": "Blender 5.0 Geometry Nodes // Nodevember Days 20 & 21 - Mask & Grimoire",
     "enlace": "https://www.youtube.com/watch?v=jFejdiF00b4",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 3327,
     "upload_date": "2025-12-12",
     "latent_x": -57.83000183105469,
@@ -9132,11 +9132,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Aria Faith Jones",
     "titulo": "Blender 2.8 | Cloth Simulation + Particle Hair Dynamics | 4K PREVIEW",
     "enlace": "https://www.youtube.com/watch?v=v4z6QG65K7E",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 3099,
     "upload_date": "2020-08-10",
     "latent_x": -46.779998779296875,
@@ -9151,11 +9151,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Default Cube",
     "titulo": "Blender 5.0 Geometry Nodes // Nodevember Day 16 - Drone",
     "enlace": "https://www.youtube.com/watch?v=v1VNCRPv0wo",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 3070,
     "upload_date": "2025-12-12",
     "latent_x": -52.279998779296875,
@@ -9211,9 +9211,9 @@ const BLENDER_TUTORIALS_DATA = [
     "categoria_principal": "Beginner Guides",
     "tags": [
       "Beginner Guides",
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Beginner Guides (Beginner Guides, Geometry Nodes)",
     "views": 2428,
     "upload_date": "2026-04-11",
     "latent_x": -45.189998626708984,
@@ -9228,11 +9228,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Max Hay",
     "titulo": "Awesome Wire Generator with Geo Nodes | Blender Tutorial",
     "enlace": "https://www.youtube.com/watch?v=SvOBxvRjQ8Q",
-    "categoria_principal": "Geometry Nodes & Procedural",
+    "categoria_principal": "Geometry Nodes",
     "tags": [
-      "Geometry Nodes & Procedural"
+      "Geometry Nodes"
     ],
-    "categoria_descriptores": "Geometry Nodes & Procedural (Geometry Nodes & Procedural)",
+    "categoria_descriptores": "Geometry Nodes (Geometry Nodes)",
     "views": 2267,
     "upload_date": "2023-06-15",
     "latent_x": -73.61000061035156,
@@ -9286,11 +9286,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Deepak Graphics",
     "titulo": "Create Cloth in Blender without using Physics Simulation || Deepak Graphics",
     "enlace": "https://www.youtube.com/watch?v=uw2fzLWhmYQ",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 1463,
     "upload_date": "2023-08-10",
     "latent_x": -45.79999923706055,
@@ -9554,11 +9554,11 @@ const BLENDER_TUTORIALS_DATA = [
     "autor": "Islam Mhran",
     "titulo": "Ultimate Cloth Particle System in Blender: Step-by-Step Tutorial",
     "enlace": "https://www.youtube.com/watch?v=FnJjAunAkuI",
-    "categoria_principal": "Physics, Cloth & Particle Simulation",
+    "categoria_principal": "Physics & Simulation",
     "tags": [
-      "Physics, Cloth & Particle Simulation"
+      "Physics & Simulation"
     ],
-    "categoria_descriptores": "Physics, Cloth & Particle Simulation (Physics, Cloth & Particle Simulation)",
+    "categoria_descriptores": "Physics & Simulation (Physics & Simulation)",
     "views": 489,
     "upload_date": "2025-08-09",
     "latent_x": -43.54999923706055,
@@ -9684,4 +9684,3 @@ const BLENDER_TUTORIALS_DATA = [
     "duracion": "00:10"
   }
 ];
-window.BLENDER_DATA = BLENDER_TUTORIALS_DATA;
