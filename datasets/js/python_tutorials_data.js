@@ -15,7 +15,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 39.9900016784668,
     "latent_y": -30.809999465942383,
     "latent_z": -35.2599983215332,
-    "duration_seconds": null
+    "duration_seconds": 16012,
+    "duracion": "04:26:52"
   },
   {
     "id": 2,
@@ -34,7 +35,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -35.56999969482422,
     "latent_y": 75.30000305175781,
     "latent_z": -20.3799991607666,
-    "duration_seconds": null
+    "duration_seconds": 22447,
+    "duracion": "06:14:07"
   },
   {
     "id": 3,
@@ -53,7 +55,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -24.290000915527344,
     "latent_y": 66.75,
     "latent_z": -5.489999771118164,
-    "duration_seconds": null
+    "duration_seconds": 3606,
+    "duracion": "01:00:06"
   },
   {
     "id": 4,
@@ -71,7 +74,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 0.9900000095367432,
     "latent_y": 38.189998626708984,
     "latent_z": 80.23999786376953,
-    "duration_seconds": null
+    "duration_seconds": 39234,
+    "duracion": "10:53:54"
   },
   {
     "id": 5,
@@ -89,7 +93,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 52.68000030517578,
     "latent_y": -34.470001220703125,
     "latent_z": 22.110000610351562,
-    "duration_seconds": null
+    "duration_seconds": 43200,
+    "duracion": "12:00:00"
   },
   {
     "id": 6,
@@ -107,7 +112,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 39.029998779296875,
     "latent_y": -17.81999969482422,
     "latent_z": 1.0700000524520874,
-    "duration_seconds": null
+    "duration_seconds": 9048,
+    "duracion": "02:30:48"
   },
   {
     "id": 7,
@@ -126,7 +132,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -53.34000015258789,
     "latent_y": 70.98999786376953,
     "latent_z": -16.940000534057617,
-    "duration_seconds": null
+    "duration_seconds": 37491,
+    "duracion": "10:24:51"
   },
   {
     "id": 8,
@@ -144,7 +151,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 56.2400016784668,
     "latent_y": -44.91999816894531,
     "latent_z": 17.059999465942383,
-    "duration_seconds": null
+    "duration_seconds": 43200,
+    "duracion": "12:00:00"
   },
   {
     "id": 9,
@@ -162,7 +170,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 30.639999389648438,
     "latent_y": 11.699999809265137,
     "latent_z": -13.930000305175781,
-    "duration_seconds": null
+    "duration_seconds": 4173,
+    "duracion": "01:09:33"
   },
   {
     "id": 10,
@@ -181,7 +190,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -32.310001373291016,
     "latent_y": 70.87000274658203,
     "latent_z": -36.400001525878906,
-    "duration_seconds": null
+    "duration_seconds": 14033,
+    "duracion": "03:53:53"
   },
   {
     "id": 11,
@@ -199,7 +209,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 32.380001068115234,
     "latent_y": 11.039999961853027,
     "latent_z": 9.25,
-    "duration_seconds": null
+    "duration_seconds": 1478,
+    "duracion": "24:38"
   },
   {
     "id": 12,
@@ -217,7 +228,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 10.029999732971191,
     "latent_y": -25.709999084472656,
     "latent_z": 18.389999389648438,
-    "duration_seconds": null
+    "duration_seconds": 57468,
+    "duracion": "15:57:48"
   },
   {
     "id": 13,
@@ -235,7 +247,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 30.899999618530273,
     "latent_y": -16.719999313354492,
     "latent_z": -27.40999984741211,
-    "duration_seconds": null
+    "duration_seconds": 34684,
+    "duracion": "09:38:04"
   },
   {
     "id": 14,
@@ -253,7 +266,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -1.350000023841858,
     "latent_y": -34.279998779296875,
     "latent_z": 18.889999389648438,
-    "duration_seconds": null
+    "duration_seconds": 49210,
+    "duracion": "13:40:10"
   },
   {
     "id": 15,
@@ -271,7 +285,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 37.52000045776367,
     "latent_y": -24.899999618530273,
     "latent_z": -16.420000076293945,
-    "duration_seconds": null
+    "duration_seconds": 7340,
+    "duracion": "02:02:20"
   },
   {
     "id": 16,
@@ -289,7 +304,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 0.7200000286102295,
     "latent_y": -3.7699999809265137,
     "latent_z": -46.16999816894531,
-    "duration_seconds": null
+    "duration_seconds": 42982,
+    "duracion": "11:56:22"
   },
   {
     "id": 17,
@@ -307,7 +323,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 34.54999923706055,
     "latent_y": -20.469999313354492,
     "latent_z": -46.04999923706055,
-    "duration_seconds": null
+    "duration_seconds": 19889,
+    "duracion": "05:31:29"
   },
   {
     "id": 18,
@@ -325,7 +342,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 99.2699966430664,
     "latent_y": -32.0,
     "latent_z": -0.4399999976158142,
-    "duration_seconds": null
+    "duration_seconds": 29190,
+    "duracion": "08:06:30"
   },
   {
     "id": 19,
@@ -343,7 +361,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 24.59000015258789,
     "latent_y": 27.489999771118164,
     "latent_z": -35.689998626708984,
-    "duration_seconds": null
+    "duration_seconds": 13302,
+    "duracion": "03:41:42"
   },
   {
     "id": 20,
@@ -361,7 +380,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 1.7100000381469727,
     "latent_y": -53.400001525878906,
     "latent_z": 100.79000091552734,
-    "duration_seconds": null
+    "duration_seconds": 924,
+    "duracion": "15:24"
   },
   {
     "id": 21,
@@ -379,7 +399,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 22.969999313354492,
     "latent_y": 5.460000038146973,
     "latent_z": -69.3499984741211,
-    "duration_seconds": null
+    "duration_seconds": 10829,
+    "duracion": "03:00:29"
   },
   {
     "id": 22,
@@ -397,7 +418,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 14.569999694824219,
     "latent_y": -34.59000015258789,
     "latent_z": 81.75,
-    "duration_seconds": null
+    "duration_seconds": 454,
+    "duracion": "07:34"
   },
   {
     "id": 23,
@@ -415,7 +437,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -15.039999961853027,
     "latent_y": 59.18000030517578,
     "latent_z": 69.55000305175781,
-    "duration_seconds": null
+    "duration_seconds": 44391,
+    "duracion": "12:19:51"
   },
   {
     "id": 24,
@@ -433,7 +456,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 24.110000610351562,
     "latent_y": -30.90999984741211,
     "latent_z": -21.40999984741211,
-    "duration_seconds": null
+    "duration_seconds": 16799,
+    "duracion": "04:39:59"
   },
   {
     "id": 25,
@@ -451,7 +475,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 43.34000015258789,
     "latent_y": -6.960000038146973,
     "latent_z": -19.6299991607666,
-    "duration_seconds": null
+    "duration_seconds": 3801,
+    "duracion": "01:03:21"
   },
   {
     "id": 26,
@@ -469,7 +494,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 34.119998931884766,
     "latent_y": -48.04999923706055,
     "latent_z": -18.1200008392334,
-    "duration_seconds": null
+    "duration_seconds": 21346,
+    "duracion": "05:55:46"
   },
   {
     "id": 27,
@@ -487,7 +513,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 2.7100000381469727,
     "latent_y": -47.93000030517578,
     "latent_z": -52.810001373291016,
-    "duration_seconds": null
+    "duration_seconds": 928,
+    "duracion": "15:28"
   },
   {
     "id": 28,
@@ -506,7 +533,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -39.56999969482422,
     "latent_y": 63.15999984741211,
     "latent_z": 78.26000213623047,
-    "duration_seconds": null
+    "duration_seconds": 15733,
+    "duracion": "04:22:13"
   },
   {
     "id": 29,
@@ -525,7 +553,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 17.3700008392334,
     "latent_y": -80.12999725341797,
     "latent_z": 67.30000305175781,
-    "duration_seconds": null
+    "duration_seconds": 3185,
+    "duracion": "53:05"
   },
   {
     "id": 30,
@@ -543,7 +572,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 51.93000030517578,
     "latent_y": -24.770000457763672,
     "latent_z": -9.609999656677246,
-    "duration_seconds": null
+    "duration_seconds": 58931,
+    "duracion": "16:22:11"
   },
   {
     "id": 31,
@@ -563,7 +593,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -21.0,
     "latent_y": 93.87000274658203,
     "latent_z": 33.91999816894531,
-    "duration_seconds": null
+    "duration_seconds": 2983,
+    "duracion": "49:43"
   },
   {
     "id": 32,
@@ -582,7 +613,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 17.809999465942383,
     "latent_y": 40.779998779296875,
     "latent_z": 92.86000061035156,
-    "duration_seconds": null
+    "duration_seconds": 3626,
+    "duracion": "01:00:26"
   },
   {
     "id": 33,
@@ -600,7 +632,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 76.9000015258789,
     "latent_y": -33.27000045776367,
     "latent_z": 10.880000114440918,
-    "duration_seconds": null
+    "duration_seconds": 20251,
+    "duracion": "05:37:31"
   },
   {
     "id": 34,
@@ -618,7 +651,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -15.100000381469727,
     "latent_y": 92.80000305175781,
     "latent_z": -79.08999633789062,
-    "duration_seconds": null
+    "duration_seconds": 24728,
+    "duracion": "06:52:08"
   },
   {
     "id": 35,
@@ -637,7 +671,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -31.6200008392334,
     "latent_y": 89.75,
     "latent_z": -32.63999938964844,
-    "duration_seconds": null
+    "duration_seconds": 92245,
+    "duracion": "25:37:25"
   },
   {
     "id": 36,
@@ -656,7 +691,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -88.02999877929688,
     "latent_y": 4.079999923706055,
     "latent_z": 13.510000228881836,
-    "duration_seconds": null
+    "duration_seconds": 3756,
+    "duracion": "01:02:36"
   },
   {
     "id": 37,
@@ -674,7 +710,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 45.15999984741211,
     "latent_y": -89.18000030517578,
     "latent_z": -76.61000061035156,
-    "duration_seconds": null
+    "duration_seconds": 36454,
+    "duracion": "10:07:34"
   },
   {
     "id": 38,
@@ -693,7 +730,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -51.9900016784668,
     "latent_y": 51.38999938964844,
     "latent_z": 73.4800033569336,
-    "duration_seconds": null
+    "duration_seconds": 35782,
+    "duracion": "09:56:22"
   },
   {
     "id": 39,
@@ -712,7 +750,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -34.91999816894531,
     "latent_y": 16.770000457763672,
     "latent_z": -14.770000457763672,
-    "duration_seconds": null
+    "duration_seconds": 45050,
+    "duracion": "12:30:50"
   },
   {
     "id": 40,
@@ -730,7 +769,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 64.19999694824219,
     "latent_y": -54.529998779296875,
     "latent_z": -54.220001220703125,
-    "duration_seconds": null
+    "duration_seconds": 24222,
+    "duracion": "06:43:42"
   },
   {
     "id": 41,
@@ -748,7 +788,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 7.710000038146973,
     "latent_y": -63.2400016784668,
     "latent_z": 10.930000305175781,
-    "duration_seconds": null
+    "duration_seconds": 16382,
+    "duracion": "04:33:02"
   },
   {
     "id": 42,
@@ -766,7 +807,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -64.88999938964844,
     "latent_y": -40.220001220703125,
     "latent_z": 3.440000057220459,
-    "duration_seconds": null
+    "duration_seconds": 68427,
+    "duracion": "19:00:27"
   },
   {
     "id": 43,
@@ -784,7 +826,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 67.5999984741211,
     "latent_y": -36.7400016784668,
     "latent_z": -40.029998779296875,
-    "duration_seconds": null
+    "duration_seconds": 1061,
+    "duracion": "17:41"
   },
   {
     "id": 44,
@@ -803,7 +846,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -0.5,
     "latent_y": 84.05999755859375,
     "latent_z": 33.29999923706055,
-    "duration_seconds": null
+    "duration_seconds": 1888,
+    "duracion": "31:28"
   },
   {
     "id": 45,
@@ -822,7 +866,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -1.6399999856948853,
     "latent_y": -109.6500015258789,
     "latent_z": 58.540000915527344,
-    "duration_seconds": null
+    "duration_seconds": 3399,
+    "duracion": "56:39"
   },
   {
     "id": 46,
@@ -840,7 +885,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -79.62000274658203,
     "latent_y": -43.130001068115234,
     "latent_z": 9.920000076293945,
-    "duration_seconds": null
+    "duration_seconds": 36711,
+    "duracion": "10:11:51"
   },
   {
     "id": 47,
@@ -858,7 +904,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 30.979999542236328,
     "latent_y": -2.0299999713897705,
     "latent_z": -46.56999969482422,
-    "duration_seconds": null
+    "duration_seconds": 39608,
+    "duracion": "11:00:08"
   },
   {
     "id": 48,
@@ -876,7 +923,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 3.2100000381469727,
     "latent_y": 45.41999816894531,
     "latent_z": -79.37000274658203,
-    "duration_seconds": null
+    "duration_seconds": 400,
+    "duracion": "06:40"
   },
   {
     "id": 49,
@@ -895,7 +943,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -95.18000030517578,
     "latent_y": -17.15999984741211,
     "latent_z": -1.0099999904632568,
-    "duration_seconds": null
+    "duration_seconds": 932,
+    "duracion": "15:32"
   },
   {
     "id": 50,
@@ -914,7 +963,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 2.7699999809265137,
     "latent_y": -84.5999984741211,
     "latent_z": 58.810001373291016,
-    "duration_seconds": null
+    "duration_seconds": 7955,
+    "duracion": "02:12:35"
   },
   {
     "id": 51,
@@ -932,7 +982,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 61.13999938964844,
     "latent_y": 4.039999961853027,
     "latent_z": -31.899999618530273,
-    "duration_seconds": null
+    "duration_seconds": 247,
+    "duracion": "04:07"
   },
   {
     "id": 52,
@@ -950,7 +1001,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 17.93000030517578,
     "latent_y": -3.0,
     "latent_z": -28.639999389648438,
-    "duration_seconds": null
+    "duration_seconds": 1057,
+    "duracion": "17:37"
   },
   {
     "id": 53,
@@ -968,7 +1020,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 31.280000686645508,
     "latent_y": -21.149999618530273,
     "latent_z": -72.68000030517578,
-    "duration_seconds": null
+    "duration_seconds": 33599,
+    "duracion": "09:19:59"
   },
   {
     "id": 54,
@@ -986,7 +1039,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 98.25,
     "latent_y": -29.3700008392334,
     "latent_z": -68.58999633789062,
-    "duration_seconds": null
+    "duration_seconds": 4781,
+    "duracion": "01:19:41"
   },
   {
     "id": 55,
@@ -1005,7 +1059,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -47.720001220703125,
     "latent_y": 52.45000076293945,
     "latent_z": 43.2599983215332,
-    "duration_seconds": null
+    "duration_seconds": 3489,
+    "duracion": "58:09"
   },
   {
     "id": 56,
@@ -1023,7 +1078,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 25.309999465942383,
     "latent_y": -43.95000076293945,
     "latent_z": 20.639999389648438,
-    "duration_seconds": null
+    "duration_seconds": 3810,
+    "duracion": "01:03:30"
   },
   {
     "id": 57,
@@ -1041,7 +1097,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 59.93000030517578,
     "latent_y": -10.380000114440918,
     "latent_z": -15.720000267028809,
-    "duration_seconds": null
+    "duration_seconds": 523,
+    "duracion": "08:43"
   },
   {
     "id": 58,
@@ -1059,7 +1116,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 46.939998626708984,
     "latent_y": 37.880001068115234,
     "latent_z": -26.06999969482422,
-    "duration_seconds": null
+    "duration_seconds": 1271,
+    "duracion": "21:11"
   },
   {
     "id": 59,
@@ -1078,7 +1136,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -24.940000534057617,
     "latent_y": 108.48999786376953,
     "latent_z": -21.81999969482422,
-    "duration_seconds": null
+    "duration_seconds": 92217,
+    "duracion": "25:36:57"
   },
   {
     "id": 60,
@@ -1097,7 +1156,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -11.010000228881836,
     "latent_y": -41.63999938964844,
     "latent_z": 71.30000305175781,
-    "duration_seconds": null
+    "duration_seconds": 6319,
+    "duracion": "01:45:19"
   },
   {
     "id": 61,
@@ -1115,7 +1175,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 13.350000381469727,
     "latent_y": -87.33000183105469,
     "latent_z": -46.689998626708984,
-    "duration_seconds": null
+    "duration_seconds": 1473,
+    "duracion": "24:33"
   },
   {
     "id": 62,
@@ -1133,7 +1194,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 35.279998779296875,
     "latent_y": -91.12999725341797,
     "latent_z": -79.9800033569336,
-    "duration_seconds": null
+    "duration_seconds": 30772,
+    "duracion": "08:32:52"
   },
   {
     "id": 63,
@@ -1151,7 +1213,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -30.020000457763672,
     "latent_y": -44.91999816894531,
     "latent_z": -101.37999725341797,
-    "duration_seconds": null
+    "duration_seconds": 1020,
+    "duracion": "17:00"
   },
   {
     "id": 64,
@@ -1169,7 +1232,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 12.600000381469727,
     "latent_y": -54.2400016784668,
     "latent_z": -22.940000534057617,
-    "duration_seconds": null
+    "duration_seconds": 9775,
+    "duracion": "02:42:55"
   },
   {
     "id": 65,
@@ -1187,7 +1251,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 0.25999999046325684,
     "latent_y": -23.56999969482422,
     "latent_z": 105.69999694824219,
-    "duration_seconds": null
+    "duration_seconds": 701,
+    "duracion": "11:41"
   },
   {
     "id": 66,
@@ -1205,7 +1270,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -64.23999786376953,
     "latent_y": -87.29000091552734,
     "latent_z": -90.02999877929688,
-    "duration_seconds": null
+    "duration_seconds": 4103,
+    "duracion": "01:08:23"
   },
   {
     "id": 67,
@@ -1223,7 +1289,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 44.970001220703125,
     "latent_y": -78.8499984741211,
     "latent_z": -87.94000244140625,
-    "duration_seconds": null
+    "duration_seconds": 16603,
+    "duracion": "04:36:43"
   },
   {
     "id": 68,
@@ -1242,7 +1309,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -51.470001220703125,
     "latent_y": 18.770000457763672,
     "latent_z": -21.059999465942383,
-    "duration_seconds": null
+    "duration_seconds": 1744,
+    "duracion": "29:04"
   },
   {
     "id": 69,
@@ -1261,7 +1329,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -21.5,
     "latent_y": 21.25,
     "latent_z": -6.429999828338623,
-    "duration_seconds": null
+    "duration_seconds": 599,
+    "duracion": "09:59"
   },
   {
     "id": 70,
@@ -1279,7 +1348,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -3.2699999809265137,
     "latent_y": -50.83000183105469,
     "latent_z": -10.550000190734863,
-    "duration_seconds": null
+    "duration_seconds": 2281,
+    "duracion": "38:01"
   },
   {
     "id": 71,
@@ -1297,7 +1367,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 4.920000076293945,
     "latent_y": -36.779998779296875,
     "latent_z": 96.41999816894531,
-    "duration_seconds": null
+    "duration_seconds": 920,
+    "duracion": "15:20"
   },
   {
     "id": 72,
@@ -1316,7 +1387,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -67.88999938964844,
     "latent_y": 41.04999923706055,
     "latent_z": 84.94999694824219,
-    "duration_seconds": null
+    "duration_seconds": 1381,
+    "duracion": "23:01"
   },
   {
     "id": 73,
@@ -1334,7 +1406,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 26.049999237060547,
     "latent_y": -23.200000762939453,
     "latent_z": 16.579999923706055,
-    "duration_seconds": null
+    "duration_seconds": 674,
+    "duracion": "11:14"
   },
   {
     "id": 74,
@@ -1353,7 +1426,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -10.239999771118164,
     "latent_y": -101.63999938964844,
     "latent_z": 70.55999755859375,
-    "duration_seconds": null
+    "duration_seconds": 696,
+    "duracion": "11:36"
   },
   {
     "id": 75,
@@ -1372,7 +1446,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -7.889999866485596,
     "latent_y": 76.73999786376953,
     "latent_z": -11.229999542236328,
-    "duration_seconds": null
+    "duration_seconds": 738,
+    "duracion": "12:18"
   },
   {
     "id": 76,
@@ -1390,7 +1465,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -32.52000045776367,
     "latent_y": -83.30000305175781,
     "latent_z": -72.1500015258789,
-    "duration_seconds": null
+    "duration_seconds": 701,
+    "duracion": "11:41"
   },
   {
     "id": 77,
@@ -1408,7 +1484,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 92.51000213623047,
     "latent_y": -30.09000015258789,
     "latent_z": -51.029998779296875,
-    "duration_seconds": null
+    "duration_seconds": 630,
+    "duracion": "10:30"
   },
   {
     "id": 78,
@@ -1426,7 +1503,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -11.859999656677246,
     "latent_y": 42.369998931884766,
     "latent_z": -66.54000091552734,
-    "duration_seconds": null
+    "duration_seconds": 10760,
+    "duracion": "02:59:20"
   },
   {
     "id": 79,
@@ -1444,7 +1522,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 60.09000015258789,
     "latent_y": -65.76000213623047,
     "latent_z": -0.5099999904632568,
-    "duration_seconds": null
+    "duration_seconds": 2352,
+    "duracion": "39:12"
   },
   {
     "id": 80,
@@ -1462,7 +1541,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 100.0199966430664,
     "latent_y": -6.010000228881836,
     "latent_z": -48.709999084472656,
-    "duration_seconds": null
+    "duration_seconds": 1129,
+    "duracion": "18:49"
   },
   {
     "id": 81,
@@ -1480,7 +1560,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -23.229999542236328,
     "latent_y": 53.04999923706055,
     "latent_z": -102.87000274658203,
-    "duration_seconds": null
+    "duration_seconds": 9191,
+    "duracion": "02:33:11"
   },
   {
     "id": 82,
@@ -1498,7 +1579,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 18.770000457763672,
     "latent_y": -60.970001220703125,
     "latent_z": 108.70999908447266,
-    "duration_seconds": null
+    "duration_seconds": 1180,
+    "duracion": "19:40"
   },
   {
     "id": 83,
@@ -1518,7 +1600,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -71.5199966430664,
     "latent_y": 19.729999542236328,
     "latent_z": 55.83000183105469,
-    "duration_seconds": null
+    "duration_seconds": 563,
+    "duracion": "09:23"
   },
   {
     "id": 84,
@@ -1536,7 +1619,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 24.719999313354492,
     "latent_y": -11.59000015258789,
     "latent_z": -9.359999656677246,
-    "duration_seconds": null
+    "duration_seconds": 40181,
+    "duracion": "11:09:41"
   },
   {
     "id": 85,
@@ -1554,7 +1638,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 6.670000076293945,
     "latent_y": 19.520000457763672,
     "latent_z": -16.469999313354492,
-    "duration_seconds": null
+    "duration_seconds": 20621,
+    "duracion": "05:43:41"
   },
   {
     "id": 86,
@@ -1572,7 +1657,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 39.84000015258789,
     "latent_y": -39.65999984741211,
     "latent_z": -0.550000011920929,
-    "duration_seconds": null
+    "duration_seconds": 3320,
+    "duracion": "55:20"
   },
   {
     "id": 87,
@@ -1590,7 +1676,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 54.4900016784668,
     "latent_y": -89.66000366210938,
     "latent_z": 14.350000381469727,
-    "duration_seconds": null
+    "duration_seconds": 2361,
+    "duracion": "39:21"
   },
   {
     "id": 88,
@@ -1609,7 +1696,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -21.709999084472656,
     "latent_y": 103.41999816894531,
     "latent_z": -39.61000061035156,
-    "duration_seconds": null
+    "duration_seconds": 1234,
+    "duracion": "20:34"
   },
   {
     "id": 89,
@@ -1627,7 +1715,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 81.26000213623047,
     "latent_y": -31.65999984741211,
     "latent_z": 46.25,
-    "duration_seconds": null
+    "duration_seconds": 2275,
+    "duracion": "37:55"
   },
   {
     "id": 90,
@@ -1645,7 +1734,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -4.829999923706055,
     "latent_y": 80.51000213623047,
     "latent_z": -99.3499984741211,
-    "duration_seconds": null
+    "duration_seconds": 162,
+    "duracion": "02:42"
   },
   {
     "id": 91,
@@ -1664,7 +1754,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -21.459999084472656,
     "latent_y": 3.6700000762939453,
     "latent_z": -12.119999885559082,
-    "duration_seconds": null
+    "duration_seconds": 1307,
+    "duracion": "21:47"
   },
   {
     "id": 92,
@@ -1682,7 +1773,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 77.83999633789062,
     "latent_y": -62.63999938964844,
     "latent_z": -56.459999084472656,
-    "duration_seconds": null
+    "duration_seconds": 20486,
+    "duracion": "05:41:26"
   },
   {
     "id": 93,
@@ -1700,7 +1792,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 6.019999980926514,
     "latent_y": 77.68000030517578,
     "latent_z": -106.70999908447266,
-    "duration_seconds": null
+    "duration_seconds": 159,
+    "duracion": "02:39"
   },
   {
     "id": 94,
@@ -1719,7 +1812,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -35.84000015258789,
     "latent_y": 82.55000305175781,
     "latent_z": -6.559999942779541,
-    "duration_seconds": null
+    "duration_seconds": 18931,
+    "duracion": "05:15:31"
   },
   {
     "id": 95,
@@ -1737,7 +1831,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 88.83999633789062,
     "latent_y": -36.79999923706055,
     "latent_z": 40.459999084472656,
-    "duration_seconds": null
+    "duration_seconds": 3197,
+    "duracion": "53:17"
   },
   {
     "id": 96,
@@ -1755,7 +1850,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -17.600000381469727,
     "latent_y": 1.8700000047683716,
     "latent_z": 6.630000114440918,
-    "duration_seconds": null
+    "duration_seconds": 1833,
+    "duracion": "30:33"
   },
   {
     "id": 97,
@@ -1774,7 +1870,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -46.04999923706055,
     "latent_y": 83.5,
     "latent_z": -43.400001525878906,
-    "duration_seconds": null
+    "duration_seconds": 134200,
+    "duracion": "37:16:40"
   },
   {
     "id": 98,
@@ -1792,7 +1889,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -52.75,
     "latent_y": -35.040000915527344,
     "latent_z": -74.2300033569336,
-    "duration_seconds": null
+    "duration_seconds": 2748,
+    "duracion": "45:48"
   },
   {
     "id": 99,
@@ -1810,7 +1908,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 69.27999877929688,
     "latent_y": -40.9900016784668,
     "latent_z": -79.58999633789062,
-    "duration_seconds": null
+    "duration_seconds": 8753,
+    "duracion": "02:25:53"
   },
   {
     "id": 100,
@@ -1829,7 +1928,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -28.43000030517578,
     "latent_y": -119.41000366210938,
     "latent_z": -51.54999923706055,
-    "duration_seconds": null
+    "duration_seconds": 11429,
+    "duracion": "03:10:29"
   },
   {
     "id": 101,
@@ -1848,7 +1948,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -63.59000015258789,
     "latent_y": 6.0,
     "latent_z": -61.77000045776367,
-    "duration_seconds": null
+    "duration_seconds": 1500,
+    "duracion": "25:00"
   },
   {
     "id": 102,
@@ -1866,7 +1967,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 19.989999771118164,
     "latent_y": -16.959999084472656,
     "latent_z": -45.36000061035156,
-    "duration_seconds": null
+    "duration_seconds": 31136,
+    "duracion": "08:38:56"
   },
   {
     "id": 103,
@@ -1885,7 +1987,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -63.220001220703125,
     "latent_y": 68.66000366210938,
     "latent_z": 32.619998931884766,
-    "duration_seconds": null
+    "duration_seconds": 817,
+    "duracion": "13:37"
   },
   {
     "id": 104,
@@ -1903,7 +2006,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 45.84000015258789,
     "latent_y": -10.380000114440918,
     "latent_z": -63.459999084472656,
-    "duration_seconds": null
+    "duration_seconds": 31313,
+    "duracion": "08:41:53"
   },
   {
     "id": 105,
@@ -1922,7 +2026,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -17.110000610351562,
     "latent_y": 81.13999938964844,
     "latent_z": -37.029998779296875,
-    "duration_seconds": null
+    "duration_seconds": 324,
+    "duracion": "05:24"
   },
   {
     "id": 106,
@@ -1941,7 +2046,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -18.65999984741211,
     "latent_y": 65.72000122070312,
     "latent_z": -25.190000534057617,
-    "duration_seconds": null
+    "duration_seconds": 64834,
+    "duracion": "18:00:34"
   },
   {
     "id": 107,
@@ -1959,7 +2065,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 4.099999904632568,
     "latent_y": -20.209999084472656,
     "latent_z": -23.469999313354492,
-    "duration_seconds": null
+    "duration_seconds": 26014,
+    "duracion": "07:13:34"
   },
   {
     "id": 108,
@@ -1978,7 +2085,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -36.150001525878906,
     "latent_y": 15.960000038146973,
     "latent_z": 1.4199999570846558,
-    "duration_seconds": null
+    "duration_seconds": 614,
+    "duracion": "10:14"
   },
   {
     "id": 109,
@@ -1997,7 +2105,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -98.01000213623047,
     "latent_y": 11.890000343322754,
     "latent_z": 30.06999969482422,
-    "duration_seconds": null
+    "duration_seconds": 1789,
+    "duracion": "29:49"
   },
   {
     "id": 110,
@@ -2015,7 +2124,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 44.349998474121094,
     "latent_y": -50.189998626708984,
     "latent_z": -32.869998931884766,
-    "duration_seconds": null
+    "duration_seconds": 6485,
+    "duracion": "01:48:05"
   },
   {
     "id": 111,
@@ -2033,7 +2143,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 66.13999938964844,
     "latent_y": -96.1500015258789,
     "latent_z": -29.690000534057617,
-    "duration_seconds": null
+    "duration_seconds": 619,
+    "duracion": "10:19"
   },
   {
     "id": 112,
@@ -2052,7 +2163,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -31.260000228881836,
     "latent_y": 6.039999961853027,
     "latent_z": -25.15999984741211,
-    "duration_seconds": null
+    "duration_seconds": 5746,
+    "duracion": "01:35:46"
   },
   {
     "id": 113,
@@ -2070,7 +2182,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -31.329999923706055,
     "latent_y": -2.5799999237060547,
     "latent_z": 11.279999732971191,
-    "duration_seconds": null
+    "duration_seconds": 1827,
+    "duracion": "30:27"
   },
   {
     "id": 114,
@@ -2089,7 +2202,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -24.610000610351562,
     "latent_y": 99.80999755859375,
     "latent_z": -95.12000274658203,
-    "duration_seconds": null
+    "duration_seconds": 10074,
+    "duracion": "02:47:54"
   },
   {
     "id": 115,
@@ -2107,7 +2221,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 42.099998474121094,
     "latent_y": 7.309999942779541,
     "latent_z": -32.2599983215332,
-    "duration_seconds": null
+    "duration_seconds": 1317,
+    "duracion": "21:57"
   },
   {
     "id": 116,
@@ -2125,7 +2240,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 52.9900016784668,
     "latent_y": 50.81999969482422,
     "latent_z": -31.309999465942383,
-    "duration_seconds": null
+    "duration_seconds": 715,
+    "duracion": "11:55"
   },
   {
     "id": 117,
@@ -2143,7 +2259,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 101.30000305175781,
     "latent_y": -18.290000915527344,
     "latent_z": -27.59000015258789,
-    "duration_seconds": null
+    "duration_seconds": 1375,
+    "duracion": "22:55"
   },
   {
     "id": 118,
@@ -2161,7 +2278,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 80.68000030517578,
     "latent_y": 4.0,
     "latent_z": -40.86000061035156,
-    "duration_seconds": null
+    "duration_seconds": 1842,
+    "duracion": "30:42"
   },
   {
     "id": 119,
@@ -2179,7 +2297,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 40.09000015258789,
     "latent_y": -1.5800000429153442,
     "latent_z": -87.33999633789062,
-    "duration_seconds": null
+    "duration_seconds": 3180,
+    "duracion": "53:00"
   },
   {
     "id": 120,
@@ -2197,7 +2316,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -33.349998474121094,
     "latent_y": -93.16000366210938,
     "latent_z": -81.26000213623047,
-    "duration_seconds": null
+    "duration_seconds": 10839,
+    "duracion": "03:00:39"
   },
   {
     "id": 121,
@@ -2215,7 +2335,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 62.540000915527344,
     "latent_y": 14.3100004196167,
     "latent_z": -14.039999961853027,
-    "duration_seconds": null
+    "duration_seconds": 674,
+    "duracion": "11:14"
   },
   {
     "id": 122,
@@ -2233,7 +2354,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 38.34000015258789,
     "latent_y": -67.93000030517578,
     "latent_z": 2.140000104904175,
-    "duration_seconds": null
+    "duration_seconds": 2165,
+    "duracion": "36:05"
   },
   {
     "id": 123,
@@ -2252,7 +2374,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -23.68000030517578,
     "latent_y": 82.69999694824219,
     "latent_z": -19.8799991607666,
-    "duration_seconds": null
+    "duration_seconds": 12907,
+    "duracion": "03:35:07"
   },
   {
     "id": 124,
@@ -2270,7 +2393,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 88.72000122070312,
     "latent_y": -17.510000228881836,
     "latent_z": -43.56999969482422,
-    "duration_seconds": null
+    "duration_seconds": 838,
+    "duracion": "13:58"
   },
   {
     "id": 125,
@@ -2289,7 +2413,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -35.279998779296875,
     "latent_y": 96.51000213623047,
     "latent_z": -19.670000076293945,
-    "duration_seconds": null
+    "duration_seconds": 16542,
+    "duracion": "04:35:42"
   },
   {
     "id": 126,
@@ -2307,7 +2432,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -120.0,
     "latent_y": -69.38999938964844,
     "latent_z": 10.930000305175781,
-    "duration_seconds": null
+    "duration_seconds": 1002,
+    "duracion": "16:42"
   },
   {
     "id": 127,
@@ -2326,7 +2452,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -38.060001373291016,
     "latent_y": 103.73999786376953,
     "latent_z": -32.13999938964844,
-    "duration_seconds": null
+    "duration_seconds": 34900,
+    "duracion": "09:41:40"
   },
   {
     "id": 128,
@@ -2344,7 +2471,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 77.55999755859375,
     "latent_y": 0.5199999809265137,
     "latent_z": -63.0099983215332,
-    "duration_seconds": null
+    "duration_seconds": 349,
+    "duracion": "05:49"
   },
   {
     "id": 129,
@@ -2362,7 +2490,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 72.4000015258789,
     "latent_y": 26.799999237060547,
     "latent_z": -10.930000305175781,
-    "duration_seconds": null
+    "duration_seconds": 585,
+    "duracion": "09:45"
   },
   {
     "id": 130,
@@ -2380,7 +2509,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -25.030000686645508,
     "latent_y": 71.73999786376953,
     "latent_z": -76.0999984741211,
-    "duration_seconds": null
+    "duration_seconds": 11391,
+    "duracion": "03:09:51"
   },
   {
     "id": 131,
@@ -2398,7 +2528,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 30.290000915527344,
     "latent_y": -57.4900016784668,
     "latent_z": 30.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 10061,
+    "duracion": "02:47:41"
   },
   {
     "id": 132,
@@ -2416,7 +2547,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 51.33000183105469,
     "latent_y": -79.5,
     "latent_z": -8.609999656677246,
-    "duration_seconds": null
+    "duration_seconds": 54527,
+    "duracion": "15:08:47"
   },
   {
     "id": 133,
@@ -2434,7 +2566,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 38.34000015258789,
     "latent_y": -67.93000030517578,
     "latent_z": 2.140000104904175,
-    "duration_seconds": null
+    "duration_seconds": 2655,
+    "duracion": "44:15"
   },
   {
     "id": 134,
@@ -2452,7 +2585,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -70.33000183105469,
     "latent_y": -36.619998931884766,
     "latent_z": 23.360000610351562,
-    "duration_seconds": null
+    "duration_seconds": 364,
+    "duracion": "06:04"
   },
   {
     "id": 135,
@@ -2471,7 +2605,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -35.13999938964844,
     "latent_y": 1.4700000286102295,
     "latent_z": -5.489999771118164,
-    "duration_seconds": null
+    "duration_seconds": 881,
+    "duracion": "14:41"
   },
   {
     "id": 136,
@@ -2489,7 +2624,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 9.069999694824219,
     "latent_y": 1.9800000190734863,
     "latent_z": -4.25,
-    "duration_seconds": null
+    "duration_seconds": 3694,
+    "duracion": "01:01:34"
   },
   {
     "id": 137,
@@ -2507,7 +2643,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 28.84000015258789,
     "latent_y": 43.59000015258789,
     "latent_z": -1.350000023841858,
-    "duration_seconds": null
+    "duration_seconds": 988,
+    "duracion": "16:28"
   },
   {
     "id": 138,
@@ -2525,7 +2662,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 23.59000015258789,
     "latent_y": -43.11000061035156,
     "latent_z": -72.38999938964844,
-    "duration_seconds": null
+    "duration_seconds": 2369,
+    "duracion": "39:29"
   },
   {
     "id": 139,
@@ -2543,7 +2681,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 37.59000015258789,
     "latent_y": -95.77999877929688,
     "latent_z": -8.75,
-    "duration_seconds": null
+    "duration_seconds": 686,
+    "duracion": "11:26"
   },
   {
     "id": 140,
@@ -2561,7 +2700,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 22.670000076293945,
     "latent_y": -60.16999816894531,
     "latent_z": 1.7100000381469727,
-    "duration_seconds": null
+    "duration_seconds": 634,
+    "duracion": "10:34"
   },
   {
     "id": 141,
@@ -2579,7 +2719,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 120.0,
     "latent_y": -9.289999961853027,
     "latent_z": -2.490000009536743,
-    "duration_seconds": null
+    "duration_seconds": 46973,
+    "duracion": "13:02:53"
   },
   {
     "id": 142,
@@ -2597,7 +2738,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 110.19000244140625,
     "latent_y": -55.5,
     "latent_z": -17.190000534057617,
-    "duration_seconds": null
+    "duration_seconds": 248,
+    "duracion": "04:08"
   },
   {
     "id": 143,
@@ -2615,7 +2757,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 49.56999969482422,
     "latent_y": 8.420000076293945,
     "latent_z": -67.12000274658203,
-    "duration_seconds": null
+    "duration_seconds": 11467,
+    "duracion": "03:11:07"
   },
   {
     "id": 144,
@@ -2634,7 +2777,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -63.41999816894531,
     "latent_y": 60.310001373291016,
     "latent_z": 51.2599983215332,
-    "duration_seconds": null
+    "duration_seconds": 61412,
+    "duracion": "17:03:32"
   },
   {
     "id": 145,
@@ -2652,7 +2796,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 20.059999465942383,
     "latent_y": -89.54000091552734,
     "latent_z": -3.259999990463257,
-    "duration_seconds": null
+    "duration_seconds": 787,
+    "duracion": "13:07"
   },
   {
     "id": 146,
@@ -2670,7 +2815,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 1.5700000524520874,
     "latent_y": 55.45000076293945,
     "latent_z": 89.38999938964844,
-    "duration_seconds": null
+    "duration_seconds": 5651,
+    "duracion": "01:34:11"
   },
   {
     "id": 147,
@@ -2688,7 +2834,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 19.920000076293945,
     "latent_y": -59.529998779296875,
     "latent_z": -71.08000183105469,
-    "duration_seconds": null
+    "duration_seconds": 4516,
+    "duracion": "01:15:16"
   },
   {
     "id": 148,
@@ -2706,7 +2853,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 13.369999885559082,
     "latent_y": 7.800000190734863,
     "latent_z": 24.760000228881836,
-    "duration_seconds": null
+    "duration_seconds": 27696,
+    "duracion": "07:41:36"
   },
   {
     "id": 149,
@@ -2724,7 +2872,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -84.2300033569336,
     "latent_y": -44.52000045776367,
     "latent_z": 53.5099983215332,
-    "duration_seconds": null
+    "duration_seconds": 810,
+    "duracion": "13:30"
   },
   {
     "id": 150,
@@ -2742,7 +2891,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 31.6200008392334,
     "latent_y": -38.9900016784668,
     "latent_z": 84.83000183105469,
-    "duration_seconds": null
+    "duration_seconds": 604,
+    "duracion": "10:04"
   },
   {
     "id": 151,
@@ -2760,7 +2910,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 81.13999938964844,
     "latent_y": -32.36000061035156,
     "latent_z": -75.80999755859375,
-    "duration_seconds": null
+    "duration_seconds": 633,
+    "duracion": "10:33"
   },
   {
     "id": 152,
@@ -2779,7 +2930,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 18.43000030517578,
     "latent_y": -23.450000762939453,
     "latent_z": 120.0,
-    "duration_seconds": null
+    "duration_seconds": 14577,
+    "duracion": "04:02:57"
   },
   {
     "id": 153,
@@ -2797,7 +2949,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 88.12999725341797,
     "latent_y": -61.459999084472656,
     "latent_z": 1.7699999809265137,
-    "duration_seconds": null
+    "duration_seconds": 40139,
+    "duracion": "11:08:59"
   },
   {
     "id": 154,
@@ -2815,7 +2968,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -7.5,
     "latent_y": 41.970001220703125,
     "latent_z": 43.83000183105469,
-    "duration_seconds": null
+    "duration_seconds": 2095,
+    "duracion": "34:55"
   },
   {
     "id": 155,
@@ -2833,7 +2987,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 104.04000091552734,
     "latent_y": -65.19000244140625,
     "latent_z": -24.139999389648438,
-    "duration_seconds": null
+    "duration_seconds": 480,
+    "duracion": "08:00"
   },
   {
     "id": 156,
@@ -2851,7 +3006,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 31.110000610351562,
     "latent_y": -41.56999969482422,
     "latent_z": 104.52999877929688,
-    "duration_seconds": null
+    "duration_seconds": 1111,
+    "duracion": "18:31"
   },
   {
     "id": 157,
@@ -2869,7 +3025,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 81.37000274658203,
     "latent_y": 37.279998779296875,
     "latent_z": -7.75,
-    "duration_seconds": null
+    "duration_seconds": 1029,
+    "duracion": "17:09"
   },
   {
     "id": 158,
@@ -2889,7 +3046,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -30.190000534057617,
     "latent_y": 85.23999786376953,
     "latent_z": 38.58000183105469,
-    "duration_seconds": null
+    "duration_seconds": 8718,
+    "duracion": "02:25:18"
   },
   {
     "id": 159,
@@ -2908,7 +3066,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -47.470001220703125,
     "latent_y": 41.66999816894531,
     "latent_z": 85.19999694824219,
-    "duration_seconds": null
+    "duration_seconds": 17878,
+    "duracion": "04:57:58"
   },
   {
     "id": 160,
@@ -2926,7 +3085,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -1.2200000286102295,
     "latent_y": 70.37000274658203,
     "latent_z": 67.88999938964844,
-    "duration_seconds": null
+    "duration_seconds": 2317,
+    "duracion": "38:37"
   },
   {
     "id": 161,
@@ -2944,7 +3104,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 16.079999923706055,
     "latent_y": 58.119998931884766,
     "latent_z": -75.7699966430664,
-    "duration_seconds": null
+    "duration_seconds": 692,
+    "duracion": "11:32"
   },
   {
     "id": 162,
@@ -2962,7 +3123,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 84.80000305175781,
     "latent_y": -17.479999542236328,
     "latent_z": -74.61000061035156,
-    "duration_seconds": null
+    "duration_seconds": 808,
+    "duracion": "13:28"
   },
   {
     "id": 163,
@@ -2980,7 +3142,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -27.510000228881836,
     "latent_y": 13.069999694824219,
     "latent_z": 16.729999542236328,
-    "duration_seconds": null
+    "duration_seconds": 1109,
+    "duracion": "18:29"
   },
   {
     "id": 164,
@@ -2998,7 +3161,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 67.04000091552734,
     "latent_y": 33.20000076293945,
     "latent_z": -54.130001068115234,
-    "duration_seconds": null
+    "duration_seconds": 865,
+    "duracion": "14:25"
   },
   {
     "id": 165,
@@ -3017,7 +3181,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -102.08000183105469,
     "latent_y": -4.059999942779541,
     "latent_z": 17.059999465942383,
-    "duration_seconds": null
+    "duration_seconds": 3873,
+    "duracion": "01:04:33"
   },
   {
     "id": 166,
@@ -3036,7 +3201,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -62.220001220703125,
     "latent_y": 49.0099983215332,
     "latent_z": 35.34000015258789,
-    "duration_seconds": null
+    "duration_seconds": 3600,
+    "duracion": "01:00:00"
   },
   {
     "id": 167,
@@ -3054,7 +3220,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -28.670000076293945,
     "latent_y": 7.199999809265137,
     "latent_z": -62.790000915527344,
-    "duration_seconds": null
+    "duration_seconds": 3600,
+    "duracion": "01:00:00"
   },
   {
     "id": 168,
@@ -3072,7 +3239,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -15.0600004196167,
     "latent_y": -59.13999938964844,
     "latent_z": 102.9800033569336,
-    "duration_seconds": null
+    "duration_seconds": 571,
+    "duracion": "09:31"
   },
   {
     "id": 169,
@@ -3090,7 +3258,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -64.72000122070312,
     "latent_y": -71.83000183105469,
     "latent_z": -81.62999725341797,
-    "duration_seconds": null
+    "duration_seconds": 1020,
+    "duracion": "17:00"
   },
   {
     "id": 170,
@@ -3108,7 +3277,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 33.66999816894531,
     "latent_y": -19.84000015258789,
     "latent_z": 34.369998931884766,
-    "duration_seconds": null
+    "duration_seconds": 953,
+    "duracion": "15:53"
   },
   {
     "id": 171,
@@ -3126,7 +3296,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -73.25,
     "latent_y": -25.59000015258789,
     "latent_z": 37.20000076293945,
-    "duration_seconds": null
+    "duration_seconds": 916,
+    "duracion": "15:16"
   },
   {
     "id": 172,
@@ -3144,7 +3315,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 83.7300033569336,
     "latent_y": -39.88999938964844,
     "latent_z": -25.739999771118164,
-    "duration_seconds": null
+    "duration_seconds": 30929,
+    "duracion": "08:35:29"
   },
   {
     "id": 173,
@@ -3162,7 +3334,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 41.02000045776367,
     "latent_y": -98.05999755859375,
     "latent_z": -54.04999923706055,
-    "duration_seconds": null
+    "duration_seconds": 8913,
+    "duracion": "02:28:33"
   },
   {
     "id": 174,
@@ -3180,7 +3353,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -16.760000228881836,
     "latent_y": -84.5199966430664,
     "latent_z": -67.61000061035156,
-    "duration_seconds": null
+    "duration_seconds": 2202,
+    "duracion": "36:42"
   },
   {
     "id": 175,
@@ -3200,7 +3374,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -10.819999694824219,
     "latent_y": -63.0099983215332,
     "latent_z": 55.31999969482422,
-    "duration_seconds": null
+    "duration_seconds": 422,
+    "duracion": "07:02"
   },
   {
     "id": 176,
@@ -3218,7 +3393,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -12.90999984741211,
     "latent_y": -40.70000076293945,
     "latent_z": 93.93000030517578,
-    "duration_seconds": null
+    "duration_seconds": 85,
+    "duracion": "01:25"
   },
   {
     "id": 177,
@@ -3236,7 +3412,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 22.06999969482422,
     "latent_y": -69.63999938964844,
     "latent_z": -26.5,
-    "duration_seconds": null
+    "duration_seconds": 367,
+    "duracion": "06:07"
   },
   {
     "id": 178,
@@ -3254,7 +3431,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -45.400001525878906,
     "latent_y": 3.5199999809265137,
     "latent_z": 13.84000015258789,
-    "duration_seconds": null
+    "duration_seconds": 644,
+    "duracion": "10:44"
   },
   {
     "id": 179,
@@ -3272,7 +3450,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -28.809999465942383,
     "latent_y": 50.790000915527344,
     "latent_z": -82.9000015258789,
-    "duration_seconds": null
+    "duration_seconds": 5914,
+    "duracion": "01:38:34"
   },
   {
     "id": 180,
@@ -3290,7 +3469,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 10.369999885559082,
     "latent_y": -0.8399999737739563,
     "latent_z": -53.619998931884766,
-    "duration_seconds": null
+    "duration_seconds": 41689,
+    "duracion": "11:34:49"
   },
   {
     "id": 181,
@@ -3309,7 +3489,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 14.149999618530273,
     "latent_y": -96.8499984741211,
     "latent_z": 57.02000045776367,
-    "duration_seconds": null
+    "duration_seconds": 7549,
+    "duracion": "02:05:49"
   },
   {
     "id": 182,
@@ -3327,7 +3508,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -2.559999942779541,
     "latent_y": -27.389999389648438,
     "latent_z": 84.0999984741211,
-    "duration_seconds": null
+    "duration_seconds": 682,
+    "duracion": "11:22"
   },
   {
     "id": 183,
@@ -3346,7 +3528,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -52.060001373291016,
     "latent_y": 7.010000228881836,
     "latent_z": -4.909999847412109,
-    "duration_seconds": null
+    "duration_seconds": 1128,
+    "duracion": "18:48"
   },
   {
     "id": 184,
@@ -3364,7 +3547,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 51.310001373291016,
     "latent_y": 1.7400000095367432,
     "latent_z": -1.8300000429153442,
-    "duration_seconds": null
+    "duration_seconds": 1388,
+    "duracion": "23:08"
   },
   {
     "id": 185,
@@ -3382,7 +3566,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 46.02000045776367,
     "latent_y": 40.560001373291016,
     "latent_z": 6.320000171661377,
-    "duration_seconds": null
+    "duration_seconds": 1258,
+    "duracion": "20:58"
   },
   {
     "id": 186,
@@ -3402,7 +3587,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -54.369998931884766,
     "latent_y": 107.2699966430664,
     "latent_z": -38.65999984741211,
-    "duration_seconds": null
+    "duration_seconds": 1242,
+    "duracion": "20:42"
   },
   {
     "id": 187,
@@ -3420,7 +3606,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 49.939998626708984,
     "latent_y": -15.829999923706055,
     "latent_z": -31.1299991607666,
-    "duration_seconds": null
+    "duration_seconds": 138,
+    "duracion": "02:18"
   },
   {
     "id": 188,
@@ -3439,7 +3626,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 4.789999961853027,
     "latent_y": -84.3499984741211,
     "latent_z": 76.1500015258789,
-    "duration_seconds": null
+    "duration_seconds": 9385,
+    "duracion": "02:36:25"
   },
   {
     "id": 189,
@@ -3457,7 +3645,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 17.979999542236328,
     "latent_y": 44.689998626708984,
     "latent_z": -0.9800000190734863,
-    "duration_seconds": null
+    "duration_seconds": 968,
+    "duracion": "16:08"
   },
   {
     "id": 190,
@@ -3475,7 +3664,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 23.84000015258789,
     "latent_y": 91.0,
     "latent_z": -77.58999633789062,
-    "duration_seconds": null
+    "duration_seconds": 136,
+    "duracion": "02:16"
   },
   {
     "id": 191,
@@ -3493,7 +3683,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -3.490000009536743,
     "latent_y": -23.479999542236328,
     "latent_z": -37.470001220703125,
-    "duration_seconds": null
+    "duration_seconds": 42899,
+    "duracion": "11:54:59"
   },
   {
     "id": 192,
@@ -3512,7 +3703,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 11.569999694824219,
     "latent_y": -100.05999755859375,
     "latent_z": 72.91999816894531,
-    "duration_seconds": null
+    "duration_seconds": 4854,
+    "duracion": "01:20:54"
   },
   {
     "id": 193,
@@ -3531,7 +3723,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -48.52000045776367,
     "latent_y": 34.22999954223633,
     "latent_z": 33.2599983215332,
-    "duration_seconds": null
+    "duration_seconds": 634,
+    "duracion": "10:34"
   },
   {
     "id": 194,
@@ -3550,7 +3743,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -115.83999633789062,
     "latent_y": -0.17000000178813934,
     "latent_z": 23.079999923706055,
-    "duration_seconds": null
+    "duration_seconds": 36482,
+    "duracion": "10:08:02"
   },
   {
     "id": 195,
@@ -3568,7 +3762,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -71.95999908447266,
     "latent_y": -62.66999816894531,
     "latent_z": 7.409999847412109,
-    "duration_seconds": null
+    "duration_seconds": 7360,
+    "duracion": "02:02:40"
   },
   {
     "id": 196,
@@ -3587,7 +3782,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -7.570000171661377,
     "latent_y": 93.66000366210938,
     "latent_z": -25.639999389648438,
-    "duration_seconds": null
+    "duration_seconds": 6850,
+    "duracion": "01:54:10"
   },
   {
     "id": 197,
@@ -3606,7 +3802,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 9.579999923706055,
     "latent_y": 16.8700008392334,
     "latent_z": 63.720001220703125,
-    "duration_seconds": null
+    "duration_seconds": 4383,
+    "duracion": "01:13:03"
   },
   {
     "id": 198,
@@ -3624,7 +3821,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 74.2699966430664,
     "latent_y": -56.84000015258789,
     "latent_z": -27.799999237060547,
-    "duration_seconds": null
+    "duration_seconds": 690,
+    "duracion": "11:30"
   },
   {
     "id": 199,
@@ -3642,7 +3840,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -96.87000274658203,
     "latent_y": -54.9900016784668,
     "latent_z": 40.34000015258789,
-    "duration_seconds": null
+    "duration_seconds": 589,
+    "duracion": "09:49"
   },
   {
     "id": 200,
@@ -3660,7 +3859,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 80.9000015258789,
     "latent_y": -6.670000076293945,
     "latent_z": -23.010000228881836,
-    "duration_seconds": null
+    "duration_seconds": 1498,
+    "duracion": "24:58"
   },
   {
     "id": 201,
@@ -3678,7 +3878,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -13.180000305175781,
     "latent_y": -70.19999694824219,
     "latent_z": -88.58999633789062,
-    "duration_seconds": null
+    "duration_seconds": 1120,
+    "duracion": "18:40"
   },
   {
     "id": 202,
@@ -3696,7 +3897,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 52.31999969482422,
     "latent_y": -64.55999755859375,
     "latent_z": -19.489999771118164,
-    "duration_seconds": null
+    "duration_seconds": 18358,
+    "duracion": "05:05:58"
   },
   {
     "id": 203,
@@ -3715,7 +3917,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -36.310001373291016,
     "latent_y": 55.849998474121094,
     "latent_z": -19.540000915527344,
-    "duration_seconds": null
+    "duration_seconds": 42848,
+    "duracion": "11:54:08"
   },
   {
     "id": 204,
@@ -3733,7 +3936,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 77.83999633789062,
     "latent_y": -45.599998474121094,
     "latent_z": -16.049999237060547,
-    "duration_seconds": null
+    "duration_seconds": 321,
+    "duracion": "05:21"
   },
   {
     "id": 205,
@@ -3752,7 +3956,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -46.9900016784668,
     "latent_y": 21.43000030517578,
     "latent_z": 73.83999633789062,
-    "duration_seconds": null
+    "duration_seconds": 3994,
+    "duracion": "01:06:34"
   },
   {
     "id": 206,
@@ -3771,7 +3976,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -33.68000030517578,
     "latent_y": 103.80999755859375,
     "latent_z": -1.1799999475479126,
-    "duration_seconds": null
+    "duration_seconds": 3088,
+    "duracion": "51:28"
   },
   {
     "id": 207,
@@ -3789,7 +3995,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -64.72000122070312,
     "latent_y": -71.83000183105469,
     "latent_z": -81.62999725341797,
-    "duration_seconds": null
+    "duration_seconds": 2215,
+    "duracion": "36:55"
   },
   {
     "id": 208,
@@ -3807,7 +4014,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 51.380001068115234,
     "latent_y": 24.90999984741211,
     "latent_z": -17.209999084472656,
-    "duration_seconds": null
+    "duration_seconds": 1005,
+    "duracion": "16:45"
   },
   {
     "id": 209,
@@ -3826,7 +4034,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -50.20000076293945,
     "latent_y": 25.639999389648438,
     "latent_z": -6.039999961853027,
-    "duration_seconds": null
+    "duration_seconds": 727,
+    "duracion": "12:07"
   },
   {
     "id": 210,
@@ -3845,7 +4054,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -79.69000244140625,
     "latent_y": -29.649999618530273,
     "latent_z": -83.04000091552734,
-    "duration_seconds": null
+    "duration_seconds": 4445,
+    "duracion": "01:14:05"
   },
   {
     "id": 211,
@@ -3864,7 +4074,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -37.630001068115234,
     "latent_y": 95.41999816894531,
     "latent_z": -105.2300033569336,
-    "duration_seconds": null
+    "duration_seconds": 3790,
+    "duracion": "01:03:10"
   },
   {
     "id": 212,
@@ -3882,7 +4093,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -12.539999961853027,
     "latent_y": 57.86000061035156,
     "latent_z": -78.44999694824219,
-    "duration_seconds": null
+    "duration_seconds": 18599,
+    "duracion": "05:09:59"
   },
   {
     "id": 213,
@@ -3900,7 +4112,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 17.729999542236328,
     "latent_y": -46.54999923706055,
     "latent_z": 93.45999908447266,
-    "duration_seconds": null
+    "duration_seconds": 2796,
+    "duracion": "46:36"
   },
   {
     "id": 214,
@@ -3919,7 +4132,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -57.189998626708984,
     "latent_y": 39.4900016784668,
     "latent_z": 49.61000061035156,
-    "duration_seconds": null
+    "duration_seconds": 355,
+    "duracion": "05:55"
   },
   {
     "id": 215,
@@ -3937,7 +4151,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 61.439998626708984,
     "latent_y": -12.199999809265137,
     "latent_z": -46.2599983215332,
-    "duration_seconds": null
+    "duration_seconds": 133,
+    "duracion": "02:13"
   },
   {
     "id": 216,
@@ -3955,7 +4170,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 15.5,
     "latent_y": 68.30000305175781,
     "latent_z": 67.62999725341797,
-    "duration_seconds": null
+    "duration_seconds": 1836,
+    "duracion": "30:36"
   },
   {
     "id": 217,
@@ -3974,7 +4190,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -26.600000381469727,
     "latent_y": 83.94999694824219,
     "latent_z": -108.02999877929688,
-    "duration_seconds": null
+    "duration_seconds": 7544,
+    "duracion": "02:05:44"
   },
   {
     "id": 218,
@@ -3992,7 +4209,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 43.34000015258789,
     "latent_y": -6.960000038146973,
     "latent_z": -19.6299991607666,
-    "duration_seconds": null
+    "duration_seconds": 10332,
+    "duracion": "02:52:12"
   },
   {
     "id": 219,
@@ -4010,7 +4228,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -43.58000183105469,
     "latent_y": -46.029998779296875,
     "latent_z": -73.18000030517578,
-    "duration_seconds": null
+    "duration_seconds": 418,
+    "duracion": "06:58"
   },
   {
     "id": 220,
@@ -4028,7 +4247,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 75.29000091552734,
     "latent_y": -1.440000057220459,
     "latent_z": -1.909999966621399,
-    "duration_seconds": null
+    "duration_seconds": 8881,
+    "duracion": "02:28:01"
   },
   {
     "id": 221,
@@ -4046,7 +4266,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 31.489999771118164,
     "latent_y": -5.039999961853027,
     "latent_z": 18.200000762939453,
-    "duration_seconds": null
+    "duration_seconds": 2163,
+    "duracion": "36:03"
   },
   {
     "id": 222,
@@ -4064,7 +4285,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 51.040000915527344,
     "latent_y": -39.7400016784668,
     "latent_z": -41.47999954223633,
-    "duration_seconds": null
+    "duration_seconds": 33332,
+    "duracion": "09:15:32"
   },
   {
     "id": 223,
@@ -4082,7 +4304,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 59.220001220703125,
     "latent_y": -41.52000045776367,
     "latent_z": -6.550000190734863,
-    "duration_seconds": null
+    "duration_seconds": 2935,
+    "duracion": "48:55"
   },
   {
     "id": 224,
@@ -4100,7 +4323,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 95.08999633789062,
     "latent_y": 12.09000015258789,
     "latent_z": -10.649999618530273,
-    "duration_seconds": null
+    "duration_seconds": 1621,
+    "duracion": "27:01"
   },
   {
     "id": 225,
@@ -4118,7 +4342,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 22.399999618530273,
     "latent_y": 73.7300033569336,
     "latent_z": -61.560001373291016,
-    "duration_seconds": null
+    "duration_seconds": 1892,
+    "duracion": "31:32"
   },
   {
     "id": 226,
@@ -4137,7 +4362,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -58.869998931884766,
     "latent_y": 59.880001068115234,
     "latent_z": 84.7699966430664,
-    "duration_seconds": null
+    "duration_seconds": 1369,
+    "duracion": "22:49"
   },
   {
     "id": 227,
@@ -4156,7 +4382,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -39.27000045776367,
     "latent_y": 40.95000076293945,
     "latent_z": 50.2599983215332,
-    "duration_seconds": null
+    "duration_seconds": 16380,
+    "duracion": "04:33:00"
   },
   {
     "id": 228,
@@ -4175,7 +4402,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -50.45000076293945,
     "latent_y": 53.779998779296875,
     "latent_z": 57.810001373291016,
-    "duration_seconds": null
+    "duration_seconds": 6681,
+    "duracion": "01:51:21"
   },
   {
     "id": 229,
@@ -4193,7 +4421,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 17.329999923706055,
     "latent_y": -33.279998779296875,
     "latent_z": -6.989999771118164,
-    "duration_seconds": null
+    "duration_seconds": 35839,
+    "duracion": "09:57:19"
   },
   {
     "id": 230,
@@ -4211,7 +4440,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 9.199999809265137,
     "latent_y": 76.69000244140625,
     "latent_z": 83.44999694824219,
-    "duration_seconds": null
+    "duration_seconds": 1097,
+    "duracion": "18:17"
   },
   {
     "id": 231,
@@ -4229,7 +4459,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 29.850000381469727,
     "latent_y": -42.47999954223633,
     "latent_z": -42.77000045776367,
-    "duration_seconds": null
+    "duration_seconds": 18010,
+    "duracion": "05:00:10"
   },
   {
     "id": 232,
@@ -4248,7 +4479,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -31.809999465942383,
     "latent_y": -12.149999618530273,
     "latent_z": -17.59000015258789,
-    "duration_seconds": null
+    "duration_seconds": 395,
+    "duracion": "06:35"
   },
   {
     "id": 233,
@@ -4267,7 +4499,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -29.68000030517578,
     "latent_y": 28.690000534057617,
     "latent_z": 47.040000915527344,
-    "duration_seconds": null
+    "duration_seconds": 6308,
+    "duracion": "01:45:08"
   },
   {
     "id": 234,
@@ -4285,7 +4518,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 3.7899999618530273,
     "latent_y": -47.09000015258789,
     "latent_z": 83.0199966430664,
-    "duration_seconds": null
+    "duration_seconds": 1267,
+    "duracion": "21:07"
   },
   {
     "id": 235,
@@ -4303,7 +4537,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 13.270000457763672,
     "latent_y": -41.86000061035156,
     "latent_z": 110.13999938964844,
-    "duration_seconds": null
+    "duration_seconds": 522,
+    "duracion": "08:42"
   },
   {
     "id": 236,
@@ -4321,7 +4556,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 4.329999923706055,
     "latent_y": 66.3499984741211,
     "latent_z": -51.709999084472656,
-    "duration_seconds": null
+    "duration_seconds": 484,
+    "duracion": "08:04"
   },
   {
     "id": 237,
@@ -4339,7 +4575,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 19.719999313354492,
     "latent_y": 18.8799991607666,
     "latent_z": -43.33000183105469,
-    "duration_seconds": null
+    "duration_seconds": 11470,
+    "duracion": "03:11:10"
   },
   {
     "id": 238,
@@ -4357,7 +4594,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 46.040000915527344,
     "latent_y": -78.66000366210938,
     "latent_z": 29.190000534057617,
-    "duration_seconds": null
+    "duration_seconds": 967,
+    "duracion": "16:07"
   },
   {
     "id": 239,
@@ -4375,7 +4613,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -29.34000015258789,
     "latent_y": 12.529999732971191,
     "latent_z": -74.55999755859375,
-    "duration_seconds": null
+    "duration_seconds": 2526,
+    "duracion": "42:06"
   },
   {
     "id": 240,
@@ -4394,7 +4633,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 2.369999885559082,
     "latent_y": -96.76000213623047,
     "latent_z": 41.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 406,
+    "duracion": "06:46"
   },
   {
     "id": 241,
@@ -4412,7 +4652,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -91.76000213623047,
     "latent_y": -71.37000274658203,
     "latent_z": 31.889999389648438,
-    "duration_seconds": null
+    "duration_seconds": 973,
+    "duracion": "16:13"
   },
   {
     "id": 242,
@@ -4430,7 +4671,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 13.75,
     "latent_y": -64.76000213623047,
     "latent_z": -10.529999732971191,
-    "duration_seconds": null
+    "duration_seconds": 929,
+    "duracion": "15:29"
   },
   {
     "id": 243,
@@ -4448,7 +4690,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 32.4900016784668,
     "latent_y": -59.41999816894531,
     "latent_z": 92.19999694824219,
-    "duration_seconds": null
+    "duration_seconds": 1106,
+    "duracion": "18:26"
   },
   {
     "id": 244,
@@ -4466,7 +4709,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -20.010000228881836,
     "latent_y": 68.12999725341797,
     "latent_z": -89.41000366210938,
-    "duration_seconds": null
+    "duration_seconds": 22723,
+    "duracion": "06:18:43"
   },
   {
     "id": 245,
@@ -4484,7 +4728,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 9.479999542236328,
     "latent_y": 92.56999969482422,
     "latent_z": -55.06999969482422,
-    "duration_seconds": null
+    "duration_seconds": 1234,
+    "duracion": "20:34"
   },
   {
     "id": 246,
@@ -4502,7 +4747,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 59.93000030517578,
     "latent_y": -10.380000114440918,
     "latent_z": -15.720000267028809,
-    "duration_seconds": null
+    "duration_seconds": 1237,
+    "duracion": "20:37"
   },
   {
     "id": 247,
@@ -4521,7 +4767,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -20.829999923706055,
     "latent_y": -109.66000366210938,
     "latent_z": -46.68000030517578,
-    "duration_seconds": null
+    "duration_seconds": 2171,
+    "duracion": "36:11"
   },
   {
     "id": 248,
@@ -4539,7 +4786,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 85.80999755859375,
     "latent_y": 19.520000457763672,
     "latent_z": -38.900001525878906,
-    "duration_seconds": null
+    "duration_seconds": 1250,
+    "duracion": "20:50"
   },
   {
     "id": 249,
@@ -4557,7 +4805,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -51.31999969482422,
     "latent_y": -68.9800033569336,
     "latent_z": 11.4399995803833,
-    "duration_seconds": null
+    "duration_seconds": 1816,
+    "duracion": "30:16"
   },
   {
     "id": 250,
@@ -4576,7 +4825,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -84.44000244140625,
     "latent_y": -11.520000457763672,
     "latent_z": -3.9200000762939453,
-    "duration_seconds": null
+    "duration_seconds": 1433,
+    "duracion": "23:53"
   },
   {
     "id": 251,
@@ -4594,7 +4844,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -53.189998626708984,
     "latent_y": -38.279998779296875,
     "latent_z": 30.84000015258789,
-    "duration_seconds": null
+    "duration_seconds": 17063,
+    "duracion": "04:44:23"
   },
   {
     "id": 252,
@@ -4613,7 +4864,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -53.36000061035156,
     "latent_y": 98.0,
     "latent_z": -14.34000015258789,
-    "duration_seconds": null
+    "duration_seconds": 2994,
+    "duracion": "49:54"
   },
   {
     "id": 253,
@@ -4631,7 +4883,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 44.310001373291016,
     "latent_y": 6.650000095367432,
     "latent_z": 22.790000915527344,
-    "duration_seconds": null
+    "duration_seconds": 291,
+    "duracion": "04:51"
   },
   {
     "id": 254,
@@ -4649,7 +4902,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -5.210000038146973,
     "latent_y": -42.939998626708984,
     "latent_z": 113.1500015258789,
-    "duration_seconds": null
+    "duration_seconds": 925,
+    "duracion": "15:25"
   },
   {
     "id": 255,
@@ -4667,7 +4921,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -4.480000019073486,
     "latent_y": 76.79000091552734,
     "latent_z": -81.48999786376953,
-    "duration_seconds": null
+    "duration_seconds": 3769,
+    "duracion": "01:02:49"
   },
   {
     "id": 256,
@@ -4685,7 +4940,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -25.270000457763672,
     "latent_y": -74.5,
     "latent_z": -43.79999923706055,
-    "duration_seconds": null
+    "duration_seconds": 2363,
+    "duracion": "39:23"
   },
   {
     "id": 257,
@@ -4704,7 +4960,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -108.08999633789062,
     "latent_y": -18.399999618530273,
     "latent_z": 16.110000610351562,
-    "duration_seconds": null
+    "duration_seconds": 3509,
+    "duracion": "58:29"
   },
   {
     "id": 258,
@@ -4722,7 +4979,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 40.54999923706055,
     "latent_y": -78.55000305175781,
     "latent_z": -31.209999084472656,
-    "duration_seconds": null
+    "duration_seconds": 348,
+    "duracion": "05:48"
   },
   {
     "id": 259,
@@ -4740,7 +4998,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 60.939998626708984,
     "latent_y": -17.68000030517578,
     "latent_z": 5.460000038146973,
-    "duration_seconds": null
+    "duration_seconds": 22557,
+    "duracion": "06:15:57"
   },
   {
     "id": 260,
@@ -4758,7 +5017,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 51.369998931884766,
     "latent_y": -46.70000076293945,
     "latent_z": -79.83999633789062,
-    "duration_seconds": null
+    "duration_seconds": 391,
+    "duracion": "06:31"
   },
   {
     "id": 261,
@@ -4776,7 +5036,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 79.70999908447266,
     "latent_y": -61.81999969482422,
     "latent_z": 16.040000915527344,
-    "duration_seconds": null
+    "duration_seconds": 1474,
+    "duracion": "24:34"
   },
   {
     "id": 262,
@@ -4794,7 +5055,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 7.900000095367432,
     "latent_y": -44.63999938964844,
     "latent_z": 66.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 1403,
+    "duracion": "23:23"
   },
   {
     "id": 263,
@@ -4812,7 +5074,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -11.130000114440918,
     "latent_y": 78.72000122070312,
     "latent_z": -63.27000045776367,
-    "duration_seconds": null
+    "duration_seconds": 98592,
+    "duracion": "27:23:12"
   },
   {
     "id": 264,
@@ -4830,7 +5093,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 116.45999908447266,
     "latent_y": -18.06999969482422,
     "latent_z": 4.309999942779541,
-    "duration_seconds": null
+    "duration_seconds": 11329,
+    "duracion": "03:08:49"
   },
   {
     "id": 265,
@@ -4848,7 +5112,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -60.279998779296875,
     "latent_y": -85.12999725341797,
     "latent_z": 12.510000228881836,
-    "duration_seconds": null
+    "duration_seconds": 12623,
+    "duracion": "03:30:23"
   },
   {
     "id": 266,
@@ -4867,7 +5132,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -46.099998474121094,
     "latent_y": 2.6600000858306885,
     "latent_z": -18.3799991607666,
-    "duration_seconds": null
+    "duration_seconds": 201,
+    "duracion": "03:21"
   },
   {
     "id": 267,
@@ -4885,7 +5151,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 24.489999771118164,
     "latent_y": 51.130001068115234,
     "latent_z": 58.06999969482422,
-    "duration_seconds": null
+    "duration_seconds": 1462,
+    "duracion": "24:22"
   },
   {
     "id": 268,
@@ -4904,7 +5171,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 6.03000020980835,
     "latent_y": 83.72000122070312,
     "latent_z": 54.689998626708984,
-    "duration_seconds": null
+    "duration_seconds": 3201,
+    "duracion": "53:21"
   },
   {
     "id": 269,
@@ -4922,7 +5190,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 85.58000183105469,
     "latent_y": -73.08000183105469,
     "latent_z": -1.9299999475479126,
-    "duration_seconds": null
+    "duration_seconds": 6161,
+    "duracion": "01:42:41"
   },
   {
     "id": 270,
@@ -4940,7 +5209,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 77.41999816894531,
     "latent_y": -86.44000244140625,
     "latent_z": -35.959999084472656,
-    "duration_seconds": null
+    "duration_seconds": 2468,
+    "duracion": "41:08"
   },
   {
     "id": 271,
@@ -4958,7 +5228,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -8.40999984741211,
     "latent_y": -59.119998931884766,
     "latent_z": 85.30000305175781,
-    "duration_seconds": null
+    "duration_seconds": 7605,
+    "duracion": "02:06:45"
   },
   {
     "id": 272,
@@ -4976,7 +5247,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -11.1899995803833,
     "latent_y": 41.20000076293945,
     "latent_z": 67.45999908447266,
-    "duration_seconds": null
+    "duration_seconds": 3145,
+    "duracion": "52:25"
   },
   {
     "id": 273,
@@ -4994,7 +5266,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 32.790000915527344,
     "latent_y": 67.6500015258789,
     "latent_z": -76.38999938964844,
-    "duration_seconds": null
+    "duration_seconds": 813,
+    "duracion": "13:33"
   },
   {
     "id": 274,
@@ -5013,7 +5286,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -7.050000190734863,
     "latent_y": 113.66999816894531,
     "latent_z": -20.110000610351562,
-    "duration_seconds": null
+    "duration_seconds": 939,
+    "duracion": "15:39"
   },
   {
     "id": 275,
@@ -5032,7 +5306,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -57.720001220703125,
     "latent_y": 67.22000122070312,
     "latent_z": 64.52999877929688,
-    "duration_seconds": null
+    "duration_seconds": 20718,
+    "duracion": "05:45:18"
   },
   {
     "id": 276,
@@ -5051,7 +5326,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -57.63999938964844,
     "latent_y": 36.630001068115234,
     "latent_z": 68.62999725341797,
-    "duration_seconds": null
+    "duration_seconds": 21170,
+    "duracion": "05:52:50"
   },
   {
     "id": 277,
@@ -5069,7 +5345,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 12.75,
     "latent_y": 76.2300033569336,
     "latent_z": -84.1500015258789,
-    "duration_seconds": null
+    "duration_seconds": 227,
+    "duracion": "03:47"
   },
   {
     "id": 278,
@@ -5087,7 +5364,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 57.869998931884766,
     "latent_y": -50.939998626708984,
     "latent_z": -28.739999771118164,
-    "duration_seconds": null
+    "duration_seconds": 6461,
+    "duracion": "01:47:41"
   },
   {
     "id": 279,
@@ -5105,7 +5383,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 74.58999633789062,
     "latent_y": -23.950000762939453,
     "latent_z": -10.869999885559082,
-    "duration_seconds": null
+    "duration_seconds": 210,
+    "duracion": "03:30"
   },
   {
     "id": 280,
@@ -5124,7 +5403,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -35.619998931884766,
     "latent_y": 86.44000244140625,
     "latent_z": -94.81999969482422,
-    "duration_seconds": null
+    "duration_seconds": 415,
+    "duracion": "06:55"
   },
   {
     "id": 281,
@@ -5142,7 +5422,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 0.20999999344348907,
     "latent_y": 53.95000076293945,
     "latent_z": 72.98999786376953,
-    "duration_seconds": null
+    "duration_seconds": 4433,
+    "duracion": "01:13:53"
   },
   {
     "id": 282,
@@ -5160,7 +5441,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 6.710000038146973,
     "latent_y": 74.61000061035156,
     "latent_z": -69.33999633789062,
-    "duration_seconds": null
+    "duration_seconds": 20912,
+    "duracion": "05:48:32"
   },
   {
     "id": 283,
@@ -5179,7 +5461,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -80.51000213623047,
     "latent_y": -13.920000076293945,
     "latent_z": 14.75,
-    "duration_seconds": null
+    "duration_seconds": 1842,
+    "duracion": "30:42"
   },
   {
     "id": 284,
@@ -5198,7 +5481,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -52.810001373291016,
     "latent_y": -6.239999771118164,
     "latent_z": -64.13999938964844,
-    "duration_seconds": null
+    "duration_seconds": 1745,
+    "duracion": "29:05"
   },
   {
     "id": 285,
@@ -5217,7 +5501,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -99.2699966430664,
     "latent_y": 0.8100000023841858,
     "latent_z": 0.6499999761581421,
-    "duration_seconds": null
+    "duration_seconds": 716,
+    "duracion": "11:56"
   },
   {
     "id": 286,
@@ -5235,7 +5520,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 22.920000076293945,
     "latent_y": 56.0,
     "latent_z": -57.2599983215332,
-    "duration_seconds": null
+    "duration_seconds": 4462,
+    "duracion": "01:14:22"
   },
   {
     "id": 287,
@@ -5253,7 +5539,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -67.91000366210938,
     "latent_y": -69.4800033569336,
     "latent_z": 24.09000015258789,
-    "duration_seconds": null
+    "duration_seconds": 1276,
+    "duracion": "21:16"
   },
   {
     "id": 288,
@@ -5271,7 +5558,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 61.849998474121094,
     "latent_y": -24.81999969482422,
     "latent_z": -24.329999923706055,
-    "duration_seconds": null
+    "duration_seconds": 581,
+    "duracion": "09:41"
   },
   {
     "id": 289,
@@ -5289,7 +5577,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -79.80000305175781,
     "latent_y": -80.94000244140625,
     "latent_z": -82.47000122070312,
-    "duration_seconds": null
+    "duration_seconds": 6019,
+    "duracion": "01:40:19"
   },
   {
     "id": 290,
@@ -5307,7 +5596,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 48.7599983215332,
     "latent_y": -35.20000076293945,
     "latent_z": -19.75,
-    "duration_seconds": null
+    "duration_seconds": 15865,
+    "duracion": "04:24:25"
   },
   {
     "id": 291,
@@ -5325,7 +5615,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 41.4900016784668,
     "latent_y": 15.84000015258789,
     "latent_z": 31.079999923706055,
-    "duration_seconds": null
+    "duration_seconds": 270,
+    "duracion": "04:30"
   },
   {
     "id": 292,
@@ -5343,7 +5634,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -12.90999984741211,
     "latent_y": 42.56999969482422,
     "latent_z": -89.33000183105469,
-    "duration_seconds": null
+    "duration_seconds": 7372,
+    "duracion": "02:02:52"
   },
   {
     "id": 293,
@@ -5362,7 +5654,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -46.470001220703125,
     "latent_y": -10.510000228881836,
     "latent_z": -7.739999771118164,
-    "duration_seconds": null
+    "duration_seconds": 413,
+    "duracion": "06:53"
   },
   {
     "id": 294,
@@ -5381,7 +5674,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 7.150000095367432,
     "latent_y": 72.5,
     "latent_z": 44.93000030517578,
-    "duration_seconds": null
+    "duration_seconds": 8068,
+    "duracion": "02:14:28"
   },
   {
     "id": 295,
@@ -5400,7 +5694,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -3.369999885559082,
     "latent_y": 23.329999923706055,
     "latent_z": -80.1500015258789,
-    "duration_seconds": null
+    "duration_seconds": 1844,
+    "duracion": "30:44"
   },
   {
     "id": 296,
@@ -5418,7 +5713,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 20.600000381469727,
     "latent_y": -52.09000015258789,
     "latent_z": 76.77999877929688,
-    "duration_seconds": null
+    "duration_seconds": 3260,
+    "duracion": "54:20"
   },
   {
     "id": 297,
@@ -5436,7 +5732,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 38.939998626708984,
     "latent_y": -4.349999904632568,
     "latent_z": -72.0,
-    "duration_seconds": null
+    "duration_seconds": 31013,
+    "duracion": "08:36:53"
   },
   {
     "id": 298,
@@ -5454,7 +5751,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 73.4000015258789,
     "latent_y": -13.609999656677246,
     "latent_z": -36.040000915527344,
-    "duration_seconds": null
+    "duration_seconds": 118,
+    "duracion": "01:58"
   },
   {
     "id": 299,
@@ -5472,7 +5770,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 55.09000015258789,
     "latent_y": -48.02000045776367,
     "latent_z": 35.369998931884766,
-    "duration_seconds": null
+    "duration_seconds": 24336,
+    "duracion": "06:45:36"
   },
   {
     "id": 300,
@@ -5490,7 +5789,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -14.859999656677246,
     "latent_y": 60.06999969482422,
     "latent_z": -57.650001525878906,
-    "duration_seconds": null
+    "duration_seconds": 5636,
+    "duracion": "01:33:56"
   },
   {
     "id": 301,
@@ -5508,7 +5808,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -61.09000015258789,
     "latent_y": -51.97999954223633,
     "latent_z": 19.299999237060547,
-    "duration_seconds": null
+    "duration_seconds": 618,
+    "duracion": "10:18"
   },
   {
     "id": 302,
@@ -5526,7 +5827,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 53.63999938964844,
     "latent_y": -13.680000305175781,
     "latent_z": -76.83000183105469,
-    "duration_seconds": null
+    "duration_seconds": 3867,
+    "duracion": "01:04:27"
   },
   {
     "id": 303,
@@ -5544,7 +5846,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 65.31999969482422,
     "latent_y": 16.65999984741211,
     "latent_z": 16.280000686645508,
-    "duration_seconds": null
+    "duration_seconds": 374,
+    "duracion": "06:14"
   },
   {
     "id": 304,
@@ -5562,7 +5865,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 5.409999847412109,
     "latent_y": 45.209999084472656,
     "latent_z": -60.810001373291016,
-    "duration_seconds": null
+    "duration_seconds": 337,
+    "duracion": "05:37"
   },
   {
     "id": 305,
@@ -5581,7 +5885,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 12.850000381469727,
     "latent_y": -69.19000244140625,
     "latent_z": 54.0,
-    "duration_seconds": null
+    "duration_seconds": 737,
+    "duracion": "12:17"
   },
   {
     "id": 306,
@@ -5599,7 +5904,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 8.149999618530273,
     "latent_y": 95.12999725341797,
     "latent_z": -90.75,
-    "duration_seconds": null
+    "duration_seconds": 586,
+    "duracion": "09:46"
   },
   {
     "id": 307,
@@ -5618,7 +5924,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -50.36000061035156,
     "latent_y": 7.869999885559082,
     "latent_z": -70.72000122070312,
-    "duration_seconds": null
+    "duration_seconds": 793,
+    "duracion": "13:13"
   },
   {
     "id": 308,
@@ -5637,7 +5944,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 32.58000183105469,
     "latent_y": -70.31999969482422,
     "latent_z": 61.15999984741211,
-    "duration_seconds": null
+    "duration_seconds": 769,
+    "duracion": "12:49"
   },
   {
     "id": 309,
@@ -5655,7 +5963,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 11.630000114440918,
     "latent_y": -62.380001068115234,
     "latent_z": 89.04000091552734,
-    "duration_seconds": null
+    "duration_seconds": 1818,
+    "duracion": "30:18"
   },
   {
     "id": 310,
@@ -5674,7 +5983,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -45.34000015258789,
     "latent_y": 60.779998779296875,
     "latent_z": 28.09000015258789,
-    "duration_seconds": null
+    "duration_seconds": 1043,
+    "duracion": "17:23"
   },
   {
     "id": 311,
@@ -5692,7 +6002,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -54.20000076293945,
     "latent_y": -31.0,
     "latent_z": -40.63999938964844,
-    "duration_seconds": null
+    "duration_seconds": 413,
+    "duracion": "06:53"
   },
   {
     "id": 312,
@@ -5710,7 +6021,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -64.69000244140625,
     "latent_y": -45.11000061035156,
     "latent_z": -105.7699966430664,
-    "duration_seconds": null
+    "duration_seconds": 299,
+    "duracion": "04:59"
   },
   {
     "id": 313,
@@ -5730,7 +6042,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -23.440000534057617,
     "latent_y": 77.27999877929688,
     "latent_z": 29.899999618530273,
-    "duration_seconds": null
+    "duration_seconds": 4149,
+    "duracion": "01:09:09"
   },
   {
     "id": 314,
@@ -5748,7 +6061,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -15.0,
     "latent_y": 46.79999923706055,
     "latent_z": 84.77999877929688,
-    "duration_seconds": null
+    "duration_seconds": 40039,
+    "duracion": "11:07:19"
   },
   {
     "id": 315,
@@ -5766,7 +6080,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -30.219999313354492,
     "latent_y": -59.529998779296875,
     "latent_z": -101.01000213623047,
-    "duration_seconds": null
+    "duration_seconds": 2498,
+    "duracion": "41:38"
   },
   {
     "id": 316,
@@ -5785,7 +6100,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 4.840000152587891,
     "latent_y": -68.4000015258789,
     "latent_z": 68.30000305175781,
-    "duration_seconds": null
+    "duration_seconds": 8159,
+    "duracion": "02:15:59"
   },
   {
     "id": 317,
@@ -5803,7 +6119,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -54.02000045776367,
     "latent_y": -30.760000228881836,
     "latent_z": -97.91000366210938,
-    "duration_seconds": null
+    "duration_seconds": 752,
+    "duracion": "12:32"
   },
   {
     "id": 318,
@@ -5821,7 +6138,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -81.27999877929688,
     "latent_y": -85.13999938964844,
     "latent_z": 49.75,
-    "duration_seconds": null
+    "duration_seconds": 5365,
+    "duracion": "01:29:25"
   },
   {
     "id": 319,
@@ -5839,7 +6157,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -1.2999999523162842,
     "latent_y": 60.27000045776367,
     "latent_z": -66.9800033569336,
-    "duration_seconds": null
+    "duration_seconds": 717,
+    "duracion": "11:57"
   },
   {
     "id": 320,
@@ -5857,7 +6176,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 61.439998626708984,
     "latent_y": -89.68000030517578,
     "latent_z": -10.140000343322754,
-    "duration_seconds": null
+    "duration_seconds": 4897,
+    "duracion": "01:21:37"
   },
   {
     "id": 321,
@@ -5876,7 +6196,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 2.7699999809265137,
     "latent_y": -84.5999984741211,
     "latent_z": 58.810001373291016,
-    "duration_seconds": null
+    "duration_seconds": 18235,
+    "duracion": "05:03:55"
   },
   {
     "id": 322,
@@ -5895,7 +6216,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -102.63999938964844,
     "latent_y": 12.239999771118164,
     "latent_z": 7.639999866485596,
-    "duration_seconds": null
+    "duration_seconds": 51816,
+    "duracion": "14:23:36"
   },
   {
     "id": 323,
@@ -5914,7 +6236,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -67.93000030517578,
     "latent_y": 52.72999954223633,
     "latent_z": 65.52999877929688,
-    "duration_seconds": null
+    "duration_seconds": 3987,
+    "duracion": "01:06:27"
   },
   {
     "id": 324,
@@ -5932,7 +6255,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -52.209999084472656,
     "latent_y": -65.0,
     "latent_z": -101.7699966430664,
-    "duration_seconds": null
+    "duration_seconds": 5398,
+    "duracion": "01:29:58"
   },
   {
     "id": 325,
@@ -5950,7 +6274,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -37.470001220703125,
     "latent_y": -71.52999877929688,
     "latent_z": -89.63999938964844,
-    "duration_seconds": null
+    "duration_seconds": 33206,
+    "duracion": "09:13:26"
   },
   {
     "id": 326,
@@ -5968,7 +6293,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -24.75,
     "latent_y": -14.390000343322754,
     "latent_z": 2.259999990463257,
-    "duration_seconds": null
+    "duration_seconds": 359,
+    "duracion": "05:59"
   },
   {
     "id": 327,
@@ -5986,7 +6312,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 24.489999771118164,
     "latent_y": 38.93000030517578,
     "latent_z": -80.22000122070312,
-    "duration_seconds": null
+    "duration_seconds": 2992,
+    "duracion": "49:52"
   },
   {
     "id": 328,
@@ -6004,7 +6331,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -68.69999694824219,
     "latent_y": -54.720001220703125,
     "latent_z": 35.38999938964844,
-    "duration_seconds": null
+    "duration_seconds": 125,
+    "duracion": "02:05"
   },
   {
     "id": 329,
@@ -6023,7 +6351,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -30.920000076293945,
     "latent_y": 56.15999984741211,
     "latent_z": 46.06999969482422,
-    "duration_seconds": null
+    "duration_seconds": 4913,
+    "duracion": "01:21:53"
   },
   {
     "id": 330,
@@ -6041,7 +6370,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -76.69000244140625,
     "latent_y": -65.7699966430664,
     "latent_z": -93.5999984741211,
-    "duration_seconds": null
+    "duration_seconds": 2563,
+    "duracion": "42:43"
   },
   {
     "id": 331,
@@ -6059,7 +6389,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -21.700000762939453,
     "latent_y": -35.34000015258789,
     "latent_z": -69.30999755859375,
-    "duration_seconds": null
+    "duration_seconds": 4709,
+    "duracion": "01:18:29"
   },
   {
     "id": 332,
@@ -6079,7 +6410,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -79.30000305175781,
     "latent_y": 14.069999694824219,
     "latent_z": 47.56999969482422,
-    "duration_seconds": null
+    "duration_seconds": 16416,
+    "duracion": "04:33:36"
   },
   {
     "id": 333,
@@ -6097,7 +6429,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 52.970001220703125,
     "latent_y": -70.62999725341797,
     "latent_z": -40.95000076293945,
-    "duration_seconds": null
+    "duration_seconds": 486,
+    "duracion": "08:06"
   },
   {
     "id": 334,
@@ -6116,7 +6449,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 0.6499999761581421,
     "latent_y": -74.66000366210938,
     "latent_z": 40.380001068115234,
-    "duration_seconds": null
+    "duration_seconds": 695,
+    "duracion": "11:35"
   },
   {
     "id": 335,
@@ -6134,7 +6468,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -60.77000045776367,
     "latent_y": -22.209999084472656,
     "latent_z": -117.69999694824219,
-    "duration_seconds": null
+    "duration_seconds": 367,
+    "duracion": "06:07"
   },
   {
     "id": 336,
@@ -6152,7 +6487,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 25.260000228881836,
     "latent_y": -31.06999969482422,
     "latent_z": -90.08999633789062,
-    "duration_seconds": null
+    "duration_seconds": 2458,
+    "duracion": "40:58"
   },
   {
     "id": 337,
@@ -6170,7 +6506,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 37.04999923706055,
     "latent_y": -61.630001068115234,
     "latent_z": -52.13999938964844,
-    "duration_seconds": null
+    "duration_seconds": 1291,
+    "duracion": "21:31"
   },
   {
     "id": 338,
@@ -6189,7 +6526,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 14.149999618530273,
     "latent_y": 56.02000045776367,
     "latent_z": -120.0,
-    "duration_seconds": null
+    "duration_seconds": 810,
+    "duracion": "13:30"
   },
   {
     "id": 339,
@@ -6207,7 +6545,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 2.9800000190734863,
     "latent_y": 40.59000015258789,
     "latent_z": 58.08000183105469,
-    "duration_seconds": null
+    "duration_seconds": 2450,
+    "duracion": "40:50"
   },
   {
     "id": 340,
@@ -6227,7 +6566,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -30.600000381469727,
     "latent_y": 92.72000122070312,
     "latent_z": 21.100000381469727,
-    "duration_seconds": null
+    "duration_seconds": 242,
+    "duracion": "04:02"
   },
   {
     "id": 341,
@@ -6245,7 +6585,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -22.600000381469727,
     "latent_y": -76.37999725341797,
     "latent_z": -112.27999877929688,
-    "duration_seconds": null
+    "duration_seconds": 274,
+    "duracion": "04:34"
   },
   {
     "id": 342,
@@ -6264,7 +6605,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -34.130001068115234,
     "latent_y": 42.119998931884766,
     "latent_z": 34.0099983215332,
-    "duration_seconds": null
+    "duration_seconds": 5422,
+    "duracion": "01:30:22"
   },
   {
     "id": 343,
@@ -6282,7 +6624,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -7.230000019073486,
     "latent_y": 58.77000045776367,
     "latent_z": -96.63999938964844,
-    "duration_seconds": null
+    "duration_seconds": 2250,
+    "duracion": "37:30"
   },
   {
     "id": 344,
@@ -6301,7 +6644,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -67.4800033569336,
     "latent_y": 81.0,
     "latent_z": 54.56999969482422,
-    "duration_seconds": null
+    "duration_seconds": 53,
+    "duracion": "00:53"
   },
   {
     "id": 345,
@@ -6319,7 +6663,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -76.27999877929688,
     "latent_y": -48.7599983215332,
     "latent_z": -49.81999969482422,
-    "duration_seconds": null
+    "duration_seconds": 1283,
+    "duracion": "21:23"
   },
   {
     "id": 346,
@@ -6338,7 +6683,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -34.58000183105469,
     "latent_y": 97.48999786376953,
     "latent_z": -49.349998474121094,
-    "duration_seconds": null
+    "duration_seconds": 7513,
+    "duracion": "02:05:13"
   },
   {
     "id": 347,
@@ -6356,7 +6702,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 16.8700008392334,
     "latent_y": -35.4900016784668,
     "latent_z": -36.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 42854,
+    "duracion": "11:54:14"
   },
   {
     "id": 348,
@@ -6374,7 +6721,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 2.2100000381469727,
     "latent_y": 63.040000915527344,
     "latent_z": -81.0,
-    "duration_seconds": null
+    "duration_seconds": 1739,
+    "duracion": "28:59"
   },
   {
     "id": 349,
@@ -6392,7 +6740,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 8.5,
     "latent_y": 42.790000915527344,
     "latent_z": -96.9000015258789,
-    "duration_seconds": null
+    "duration_seconds": 2426,
+    "duracion": "40:26"
   },
   {
     "id": 350,
@@ -6410,7 +6759,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 1.440000057220459,
     "latent_y": -19.469999313354492,
     "latent_z": -10.039999961853027,
-    "duration_seconds": null
+    "duration_seconds": 7041,
+    "duracion": "01:57:21"
   },
   {
     "id": 351,
@@ -6428,7 +6778,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 26.479999542236328,
     "latent_y": 59.2599983215332,
     "latent_z": -95.16000366210938,
-    "duration_seconds": null
+    "duration_seconds": 716,
+    "duracion": "11:56"
   },
   {
     "id": 352,
@@ -6446,7 +6797,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 19.06999969482422,
     "latent_y": -26.799999237060547,
     "latent_z": 98.69999694824219,
-    "duration_seconds": null
+    "duration_seconds": 714,
+    "duracion": "11:54"
   },
   {
     "id": 353,
@@ -6465,7 +6817,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -16.09000015258789,
     "latent_y": -95.76000213623047,
     "latent_z": 50.119998931884766,
-    "duration_seconds": null
+    "duration_seconds": 1124,
+    "duracion": "18:44"
   },
   {
     "id": 354,
@@ -6484,7 +6837,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -47.15999984741211,
     "latent_y": 90.33999633789062,
     "latent_z": -26.780000686645508,
-    "duration_seconds": null
+    "duration_seconds": 1950,
+    "duracion": "32:30"
   },
   {
     "id": 355,
@@ -6503,7 +6857,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -12.520000457763672,
     "latent_y": -118.58000183105469,
     "latent_z": -43.689998626708984,
-    "duration_seconds": null
+    "duration_seconds": 12885,
+    "duracion": "03:34:45"
   },
   {
     "id": 356,
@@ -6521,7 +6876,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -90.02999877929688,
     "latent_y": -50.83000183105469,
     "latent_z": -6.150000095367432,
-    "duration_seconds": null
+    "duration_seconds": 357,
+    "duracion": "05:57"
   },
   {
     "id": 357,
@@ -6539,7 +6895,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 67.56999969482422,
     "latent_y": -22.3700008392334,
     "latent_z": -56.189998626708984,
-    "duration_seconds": null
+    "duration_seconds": 885,
+    "duracion": "14:45"
   },
   {
     "id": 358,
@@ -6558,7 +6915,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 20.1299991607666,
     "latent_y": -84.01000213623047,
     "latent_z": 47.529998779296875,
-    "duration_seconds": null
+    "duration_seconds": 8640,
+    "duracion": "02:24:00"
   },
   {
     "id": 359,
@@ -6576,7 +6934,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -33.56999969482422,
     "latent_y": -83.37999725341797,
     "latent_z": -104.06999969482422,
-    "duration_seconds": null
+    "duration_seconds": 218,
+    "duracion": "03:38"
   },
   {
     "id": 360,
@@ -6594,7 +6953,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 9.600000381469727,
     "latent_y": 63.099998474121094,
     "latent_z": -93.68000030517578,
-    "duration_seconds": null
+    "duration_seconds": 892,
+    "duracion": "14:52"
   },
   {
     "id": 361,
@@ -6612,7 +6972,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -28.270000457763672,
     "latent_y": -51.84000015258789,
     "latent_z": -88.70999908447266,
-    "duration_seconds": null
+    "duration_seconds": 1608,
+    "duracion": "26:48"
   },
   {
     "id": 362,
@@ -6630,7 +6991,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -103.75,
     "latent_y": -46.869998931884766,
     "latent_z": 10.430000305175781,
-    "duration_seconds": null
+    "duration_seconds": 353,
+    "duracion": "05:53"
   },
   {
     "id": 363,
@@ -6648,7 +7010,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -48.65999984741211,
     "latent_y": -61.7599983215332,
     "latent_z": 37.70000076293945,
-    "duration_seconds": null
+    "duration_seconds": 990,
+    "duracion": "16:30"
   },
   {
     "id": 364,
@@ -6666,7 +7029,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -49.79999923706055,
     "latent_y": -35.56999969482422,
     "latent_z": -119.45999908447266,
-    "duration_seconds": null
+    "duration_seconds": 64,
+    "duracion": "01:04"
   },
   {
     "id": 365,
@@ -6684,7 +7048,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 14.40999984741211,
     "latent_y": 40.709999084472656,
     "latent_z": 69.30000305175781,
-    "duration_seconds": null
+    "duration_seconds": 1804,
+    "duracion": "30:04"
   },
   {
     "id": 366,
@@ -6702,7 +7067,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -61.13999938964844,
     "latent_y": -72.97000122070312,
     "latent_z": 42.58000183105469,
-    "duration_seconds": null
+    "duration_seconds": 882,
+    "duracion": "14:42"
   },
   {
     "id": 367,
@@ -6720,7 +7086,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 14.630000114440918,
     "latent_y": 55.619998931884766,
     "latent_z": 78.16000366210938,
-    "duration_seconds": null
+    "duration_seconds": 2098,
+    "duracion": "34:58"
   },
   {
     "id": 368,
@@ -6738,7 +7105,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -37.900001525878906,
     "latent_y": -21.969999313354492,
     "latent_z": -106.1500015258789,
-    "duration_seconds": null
+    "duration_seconds": 4613,
+    "duracion": "01:16:53"
   },
   {
     "id": 369,
@@ -6756,7 +7124,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -45.650001525878906,
     "latent_y": -55.61000061035156,
     "latent_z": -56.11000061035156,
-    "duration_seconds": null
+    "duration_seconds": 752,
+    "duracion": "12:32"
   },
   {
     "id": 370,
@@ -6774,7 +7143,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -101.11000061035156,
     "latent_y": -87.8499984741211,
     "latent_z": 22.110000610351562,
-    "duration_seconds": null
+    "duration_seconds": 611,
+    "duracion": "10:11"
   },
   {
     "id": 371,
@@ -6793,7 +7163,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -42.119998931884766,
     "latent_y": 116.5,
     "latent_z": -19.040000915527344,
-    "duration_seconds": null
+    "duration_seconds": 6937,
+    "duracion": "01:55:37"
   },
   {
     "id": 372,
@@ -6812,7 +7183,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -48.0,
     "latent_y": 69.73999786376953,
     "latent_z": 49.119998931884766,
-    "duration_seconds": null
+    "duration_seconds": 1145,
+    "duracion": "19:05"
   },
   {
     "id": 373,
@@ -6830,7 +7202,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 89.5999984741211,
     "latent_y": -8.140000343322754,
     "latent_z": 15.260000228881836,
-    "duration_seconds": null
+    "duration_seconds": 32954,
+    "duracion": "09:09:14"
   },
   {
     "id": 374,
@@ -6849,7 +7222,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -26.540000915527344,
     "latent_y": 120.0,
     "latent_z": -41.59000015258789,
-    "duration_seconds": null
+    "duration_seconds": 2057,
+    "duracion": "34:17"
   },
   {
     "id": 375,
@@ -6867,7 +7241,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 52.47999954223633,
     "latent_y": 18.239999771118164,
     "latent_z": -51.349998474121094,
-    "duration_seconds": null
+    "duration_seconds": 1179,
+    "duracion": "19:39"
   },
   {
     "id": 376,
@@ -6885,7 +7260,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 15.890000343322754,
     "latent_y": -24.110000610351562,
     "latent_z": -61.869998931884766,
-    "duration_seconds": null
+    "duration_seconds": 16943,
+    "duracion": "04:42:23"
   },
   {
     "id": 377,
@@ -6903,7 +7279,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -7.809999942779541,
     "latent_y": -58.95000076293945,
     "latent_z": -95.7300033569336,
-    "duration_seconds": null
+    "duration_seconds": 18078,
+    "duracion": "05:01:18"
   },
   {
     "id": 378,
@@ -6921,7 +7298,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -103.18000030517578,
     "latent_y": -67.9800033569336,
     "latent_z": 14.619999885559082,
-    "duration_seconds": null
+    "duration_seconds": 732,
+    "duracion": "12:12"
   },
   {
     "id": 379,
@@ -6939,7 +7317,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -60.470001220703125,
     "latent_y": -63.70000076293945,
     "latent_z": -49.099998474121094,
-    "duration_seconds": null
+    "duration_seconds": 1624,
+    "duracion": "27:04"
   },
   {
     "id": 380,
@@ -6957,7 +7336,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 26.049999237060547,
     "latent_y": -20.829999923706055,
     "latent_z": 80.25,
-    "duration_seconds": null
+    "duration_seconds": 774,
+    "duracion": "12:54"
   },
   {
     "id": 381,
@@ -6976,7 +7356,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -61.16999816894531,
     "latent_y": -1.3700000047683716,
     "latent_z": -75.26000213623047,
-    "duration_seconds": null
+    "duration_seconds": 5007,
+    "duracion": "01:23:27"
   },
   {
     "id": 382,
@@ -6994,7 +7375,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -31.5,
     "latent_y": 51.099998474121094,
     "latent_z": -64.48999786376953,
-    "duration_seconds": null
+    "duration_seconds": 4327,
+    "duracion": "01:12:07"
   },
   {
     "id": 383,
@@ -7013,7 +7395,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -81.66999816894531,
     "latent_y": -29.219999313354492,
     "latent_z": -70.33000183105469,
-    "duration_seconds": null
+    "duration_seconds": 559,
+    "duracion": "09:19"
   },
   {
     "id": 384,
@@ -7032,7 +7415,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -97.30999755859375,
     "latent_y": -9.899999618530273,
     "latent_z": 29.25,
-    "duration_seconds": null
+    "duration_seconds": 1050,
+    "duracion": "17:30"
   },
   {
     "id": 385,
@@ -7050,7 +7434,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -54.369998931884766,
     "latent_y": -73.5199966430664,
     "latent_z": -34.63999938964844,
-    "duration_seconds": null
+    "duration_seconds": 2612,
+    "duracion": "43:32"
   },
   {
     "id": 386,
@@ -7069,7 +7454,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -8.569999694824219,
     "latent_y": 78.73999786376953,
     "latent_z": 47.75,
-    "duration_seconds": null
+    "duration_seconds": 572,
+    "duracion": "09:32"
   },
   {
     "id": 387,
@@ -7088,7 +7474,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -32.5,
     "latent_y": -120.0,
     "latent_z": -34.13999938964844,
-    "duration_seconds": null
+    "duration_seconds": 1253,
+    "duracion": "20:53"
   },
   {
     "id": 388,
@@ -7107,7 +7494,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -20.25,
     "latent_y": 1.0,
     "latent_z": -73.25,
-    "duration_seconds": null
+    "duration_seconds": 284,
+    "duracion": "04:44"
   },
   {
     "id": 389,
@@ -7125,7 +7513,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 25.06999969482422,
     "latent_y": 80.66999816894531,
     "latent_z": -96.1500015258789,
-    "duration_seconds": null
+    "duration_seconds": 208,
+    "duracion": "03:28"
   },
   {
     "id": 390,
@@ -7144,7 +7533,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 29.219999313354492,
     "latent_y": -93.83000183105469,
     "latent_z": 66.20999908447266,
-    "duration_seconds": null
+    "duration_seconds": 16751,
+    "duracion": "04:39:11"
   },
   {
     "id": 391,
@@ -7162,7 +7552,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -10.100000381469727,
     "latent_y": 69.94000244140625,
     "latent_z": 84.19000244140625,
-    "duration_seconds": null
+    "duration_seconds": 802,
+    "duracion": "13:22"
   },
   {
     "id": 392,
@@ -7180,7 +7571,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 46.369998931884766,
     "latent_y": -39.75,
     "latent_z": -58.08000183105469,
-    "duration_seconds": null
+    "duration_seconds": 808,
+    "duracion": "13:28"
   },
   {
     "id": 393,
@@ -7198,7 +7590,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 11.09000015258789,
     "latent_y": 45.59000015258789,
     "latent_z": 42.2599983215332,
-    "duration_seconds": null
+    "duration_seconds": 3847,
+    "duracion": "01:04:07"
   },
   {
     "id": 394,
@@ -7216,7 +7609,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -70.80000305175781,
     "latent_y": -93.66999816894531,
     "latent_z": -72.44000244140625,
-    "duration_seconds": null
+    "duration_seconds": 464,
+    "duracion": "07:44"
   },
   {
     "id": 395,
@@ -7235,7 +7629,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -20.360000610351562,
     "latent_y": 93.1500015258789,
     "latent_z": -8.100000381469727,
-    "duration_seconds": null
+    "duration_seconds": 723,
+    "duracion": "12:03"
   },
   {
     "id": 396,
@@ -7253,7 +7648,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 1.7000000476837158,
     "latent_y": 93.01000213623047,
     "latent_z": -70.68000030517578,
-    "duration_seconds": null
+    "duration_seconds": 1099,
+    "duracion": "18:19"
   },
   {
     "id": 397,
@@ -7272,7 +7668,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -5.539999961853027,
     "latent_y": 18.829999923706055,
     "latent_z": 71.9800033569336,
-    "duration_seconds": null
+    "duration_seconds": 2063,
+    "duracion": "34:23"
   },
   {
     "id": 398,
@@ -7290,7 +7687,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 6.820000171661377,
     "latent_y": -89.87999725341797,
     "latent_z": -10.050000190734863,
-    "duration_seconds": null
+    "duration_seconds": 1255,
+    "duracion": "20:55"
   },
   {
     "id": 399,
@@ -7308,7 +7706,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -85.41000366210938,
     "latent_y": -69.11000061035156,
     "latent_z": -6.630000114440918,
-    "duration_seconds": null
+    "duration_seconds": 331,
+    "duracion": "05:31"
   },
   {
     "id": 400,
@@ -7326,7 +7725,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -43.9900016784668,
     "latent_y": -60.45000076293945,
     "latent_z": -113.69999694824219,
-    "duration_seconds": null
+    "duration_seconds": 346,
+    "duracion": "05:46"
   },
   {
     "id": 401,
@@ -7345,7 +7745,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -7.019999980926514,
     "latent_y": -100.11000061035156,
     "latent_z": 85.7699966430664,
-    "duration_seconds": null
+    "duration_seconds": 886,
+    "duracion": "14:46"
   },
   {
     "id": 402,
@@ -7364,7 +7765,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -6.079999923706055,
     "latent_y": 19.25,
     "latent_z": 58.9900016784668,
-    "duration_seconds": null
+    "duration_seconds": 1724,
+    "duracion": "28:44"
   },
   {
     "id": 403,
@@ -7383,7 +7785,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -38.93000030517578,
     "latent_y": -16.850000381469727,
     "latent_z": 12.270000457763672,
-    "duration_seconds": null
+    "duration_seconds": 170,
+    "duracion": "02:50"
   },
   {
     "id": 404,
@@ -7401,7 +7804,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -81.5999984741211,
     "latent_y": -63.70000076293945,
     "latent_z": 42.869998931884766,
-    "duration_seconds": null
+    "duration_seconds": 320,
+    "duracion": "05:20"
   },
   {
     "id": 405,
@@ -7419,7 +7823,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 41.130001068115234,
     "latent_y": -65.29000091552734,
     "latent_z": 30.399999618530273,
-    "duration_seconds": null
+    "duration_seconds": 150,
+    "duracion": "02:30"
   },
   {
     "id": 406,
@@ -7437,7 +7842,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -61.41999816894531,
     "latent_y": -48.68000030517578,
     "latent_z": -81.47000122070312,
-    "duration_seconds": null
+    "duration_seconds": 3408,
+    "duracion": "56:48"
   },
   {
     "id": 407,
@@ -7455,7 +7861,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 26.1299991607666,
     "latent_y": -35.849998474121094,
     "latent_z": 65.86000061035156,
-    "duration_seconds": null
+    "duration_seconds": 1787,
+    "duracion": "29:47"
   },
   {
     "id": 408,
@@ -7475,7 +7882,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -19.989999771118164,
     "latent_y": -6.480000019073486,
     "latent_z": 26.920000076293945,
-    "duration_seconds": null
+    "duration_seconds": 1072,
+    "duracion": "17:52"
   },
   {
     "id": 409,
@@ -7493,7 +7901,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -58.939998626708984,
     "latent_y": -55.779998779296875,
     "latent_z": -64.79000091552734,
-    "duration_seconds": null
+    "duration_seconds": 4517,
+    "duracion": "01:15:17"
   },
   {
     "id": 410,
@@ -7511,7 +7920,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 104.5999984741211,
     "latent_y": -41.459999084472656,
     "latent_z": -10.050000190734863,
-    "duration_seconds": null
+    "duration_seconds": 35347,
+    "duracion": "09:49:07"
   },
   {
     "id": 411,
@@ -7529,7 +7939,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -23.31999969482422,
     "latent_y": -47.77000045776367,
     "latent_z": -119.3499984741211,
-    "duration_seconds": null
+    "duration_seconds": 308,
+    "duracion": "05:08"
   },
   {
     "id": 412,
@@ -7547,7 +7958,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -48.72999954223633,
     "latent_y": -78.22000122070312,
     "latent_z": -55.099998474121094,
-    "duration_seconds": null
+    "duration_seconds": 703,
+    "duracion": "11:43"
   },
   {
     "id": 413,
@@ -7566,7 +7978,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -44.119998931884766,
     "latent_y": 77.81999969482422,
     "latent_z": -105.1500015258789,
-    "duration_seconds": null
+    "duration_seconds": 323,
+    "duracion": "05:23"
   },
   {
     "id": 414,
@@ -7584,7 +7997,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -58.529998779296875,
     "latent_y": -74.27999877929688,
     "latent_z": -118.30000305175781,
-    "duration_seconds": null
+    "duration_seconds": 3310,
+    "duracion": "55:10"
   },
   {
     "id": 415,
@@ -7602,7 +8016,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -13.84000015258789,
     "latent_y": -31.530000686645508,
     "latent_z": -96.4000015258789,
-    "duration_seconds": null
+    "duration_seconds": 338,
+    "duracion": "05:38"
   },
   {
     "id": 416,
@@ -7620,7 +8035,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 7.320000171661377,
     "latent_y": 57.09000015258789,
     "latent_z": 56.88999938964844,
-    "duration_seconds": null
+    "duration_seconds": 8056,
+    "duracion": "02:14:16"
   },
   {
     "id": 417,
@@ -7639,7 +8055,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -46.33000183105469,
     "latent_y": -0.8899999856948853,
     "latent_z": -80.69999694824219,
-    "duration_seconds": null
+    "duration_seconds": 862,
+    "duracion": "14:22"
   },
   {
     "id": 418,
@@ -7657,7 +8074,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -80.29000091552734,
     "latent_y": -57.61000061035156,
     "latent_z": 21.979999542236328,
-    "duration_seconds": null
+    "duration_seconds": 317,
+    "duracion": "05:17"
   },
   {
     "id": 419,
@@ -7675,7 +8093,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -112.75,
     "latent_y": -52.77000045776367,
     "latent_z": 25.15999984741211,
-    "duration_seconds": null
+    "duration_seconds": 261,
+    "duracion": "04:21"
   },
   {
     "id": 420,
@@ -7694,7 +8113,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -45.470001220703125,
     "latent_y": 25.290000915527344,
     "latent_z": 54.20000076293945,
-    "duration_seconds": null
+    "duration_seconds": 27416,
+    "duracion": "07:36:56"
   },
   {
     "id": 421,
@@ -7712,7 +8132,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -85.58000183105469,
     "latent_y": -82.16999816894531,
     "latent_z": -61.33000183105469,
-    "duration_seconds": null
+    "duration_seconds": 2011,
+    "duracion": "33:31"
   },
   {
     "id": 422,
@@ -7730,7 +8151,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -36.290000915527344,
     "latent_y": -34.209999084472656,
     "latent_z": -40.09000015258789,
-    "duration_seconds": null
+    "duration_seconds": 2056,
+    "duracion": "34:16"
   },
   {
     "id": 423,
@@ -7749,7 +8171,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -4.179999828338623,
     "latent_y": 63.189998626708984,
     "latent_z": 37.9900016784668,
-    "duration_seconds": null
+    "duration_seconds": 3269,
+    "duracion": "54:29"
   },
   {
     "id": 424,
@@ -7767,7 +8190,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -98.80999755859375,
     "latent_y": -36.290000915527344,
     "latent_z": 38.09000015258789,
-    "duration_seconds": null
+    "duration_seconds": 208,
+    "duracion": "03:28"
   },
   {
     "id": 425,
@@ -7785,7 +8209,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -0.36000001430511475,
     "latent_y": -62.90999984741211,
     "latent_z": -30.700000762939453,
-    "duration_seconds": null
+    "duration_seconds": 216,
+    "duracion": "03:36"
   },
   {
     "id": 426,
@@ -7803,7 +8228,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -47.459999084472656,
     "latent_y": -41.18000030517578,
     "latent_z": -104.95999908447266,
-    "duration_seconds": null
+    "duration_seconds": 371,
+    "duracion": "06:11"
   },
   {
     "id": 427,
@@ -7821,7 +8247,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -77.54000091552734,
     "latent_y": -63.79999923706055,
     "latent_z": -70.13999938964844,
-    "duration_seconds": null
+    "duration_seconds": 3543,
+    "duracion": "59:03"
   },
   {
     "id": 428,
@@ -7840,7 +8267,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -92.69999694824219,
     "latent_y": -45.310001373291016,
     "latent_z": -76.2300033569336,
-    "duration_seconds": null
+    "duration_seconds": 895,
+    "duracion": "14:55"
   },
   {
     "id": 429,
@@ -7859,7 +8287,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -12.09000015258789,
     "latent_y": -81.27999877929688,
     "latent_z": 71.30999755859375,
-    "duration_seconds": null
+    "duration_seconds": 588,
+    "duracion": "09:48"
   },
   {
     "id": 430,
@@ -7877,7 +8306,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -0.5199999809265137,
     "latent_y": -72.05000305175781,
     "latent_z": 106.9800033569336,
-    "duration_seconds": null
+    "duration_seconds": 2112,
+    "duracion": "35:12"
   },
   {
     "id": 431,
@@ -7895,7 +8325,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -71.69999694824219,
     "latent_y": -87.0,
     "latent_z": -51.7400016784668,
-    "duration_seconds": null
+    "duration_seconds": 344,
+    "duracion": "05:44"
   },
   {
     "id": 432,
@@ -7914,7 +8345,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -32.68000030517578,
     "latent_y": -2.9000000953674316,
     "latent_z": 28.6200008392334,
-    "duration_seconds": null
+    "duration_seconds": 2501,
+    "duracion": "41:41"
   },
   {
     "id": 433,
@@ -7933,7 +8365,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -92.69999694824219,
     "latent_y": -45.310001373291016,
     "latent_z": -76.2300033569336,
-    "duration_seconds": null
+    "duration_seconds": 1751,
+    "duracion": "29:11"
   },
   {
     "id": 434,
@@ -7952,7 +8385,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 0.8600000143051147,
     "latent_y": 53.56999969482422,
     "latent_z": -118.25,
-    "duration_seconds": null
+    "duration_seconds": 4095,
+    "duracion": "01:08:15"
   },
   {
     "id": 435,
@@ -7970,7 +8404,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -89.05000305175781,
     "latent_y": -60.68000030517578,
     "latent_z": 6.440000057220459,
-    "duration_seconds": null
+    "duration_seconds": 1038,
+    "duracion": "17:18"
   },
   {
     "id": 436,
@@ -7988,7 +8423,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 60.54999923706055,
     "latent_y": -6.989999771118164,
     "latent_z": 24.469999313354492,
-    "duration_seconds": null
+    "duration_seconds": 217,
+    "duracion": "03:37"
   },
   {
     "id": 437,
@@ -8006,7 +8442,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -83.77999877929688,
     "latent_y": -73.05000305175781,
     "latent_z": 18.899999618530273,
-    "duration_seconds": null
+    "duration_seconds": 1225,
+    "duracion": "20:25"
   },
   {
     "id": 438,
@@ -8025,7 +8462,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 20.989999771118164,
     "latent_y": -85.9800033569336,
     "latent_z": 83.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 730,
+    "duracion": "12:10"
   },
   {
     "id": 439,
@@ -8044,7 +8482,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -38.68000030517578,
     "latent_y": 44.400001525878906,
     "latent_z": 69.25,
-    "duration_seconds": null
+    "duration_seconds": 1315,
+    "duracion": "21:55"
   },
   {
     "id": 440,
@@ -8062,7 +8501,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -35.4900016784668,
     "latent_y": -69.76000213623047,
     "latent_z": -54.65999984741211,
-    "duration_seconds": null
+    "duration_seconds": 14923,
+    "duracion": "04:08:43"
   },
   {
     "id": 441,
@@ -8080,7 +8520,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 71.80000305175781,
     "latent_y": 10.25,
     "latent_z": 44.279998779296875,
-    "duration_seconds": null
+    "duration_seconds": 191,
+    "duracion": "03:11"
   },
   {
     "id": 442,
@@ -8098,7 +8539,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -38.13999938964844,
     "latent_y": -59.720001220703125,
     "latent_z": -38.54999923706055,
-    "duration_seconds": null
+    "duration_seconds": 996,
+    "duracion": "16:36"
   },
   {
     "id": 443,
@@ -8117,7 +8559,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -44.40999984741211,
     "latent_y": -120.0,
     "latent_z": -38.310001373291016,
-    "duration_seconds": null
+    "duration_seconds": 3540,
+    "duracion": "59:00"
   },
   {
     "id": 444,
@@ -8135,7 +8578,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -27.59000015258789,
     "latent_y": -58.369998931884766,
     "latent_z": -68.29000091552734,
-    "duration_seconds": null
+    "duration_seconds": 757,
+    "duracion": "12:37"
   },
   {
     "id": 445,
@@ -8154,7 +8598,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -46.65999984741211,
     "latent_y": -102.7699966430664,
     "latent_z": -30.770000457763672,
-    "duration_seconds": null
+    "duration_seconds": 1889,
+    "duracion": "31:29"
   },
   {
     "id": 446,
@@ -8172,7 +8617,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -67.63999938964844,
     "latent_y": -76.80999755859375,
     "latent_z": -66.97000122070312,
-    "duration_seconds": null
+    "duration_seconds": 246,
+    "duracion": "04:06"
   },
   {
     "id": 447,
@@ -8190,7 +8636,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 61.939998626708984,
     "latent_y": 2.869999885559082,
     "latent_z": 46.59000015258789,
-    "duration_seconds": null
+    "duration_seconds": 503,
+    "duracion": "08:23"
   },
   {
     "id": 448,
@@ -8208,7 +8655,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -45.650001525878906,
     "latent_y": -55.61000061035156,
     "latent_z": -56.11000061035156,
-    "duration_seconds": null
+    "duration_seconds": 1041,
+    "duracion": "17:21"
   },
   {
     "id": 449,
@@ -8226,7 +8674,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -44.869998931884766,
     "latent_y": -65.31999969482422,
     "latent_z": -70.56999969482422,
-    "duration_seconds": null
+    "duration_seconds": 363,
+    "duracion": "06:03"
   },
   {
     "id": 450,
@@ -8244,7 +8693,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -90.19000244140625,
     "latent_y": -37.29999923706055,
     "latent_z": 21.6299991607666,
-    "duration_seconds": null
+    "duration_seconds": 101,
+    "duracion": "01:41"
   },
   {
     "id": 451,
@@ -8262,7 +8712,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -76.33000183105469,
     "latent_y": -87.06999969482422,
     "latent_z": 29.399999618530273,
-    "duration_seconds": null
+    "duration_seconds": 889,
+    "duracion": "14:49"
   },
   {
     "id": 452,
@@ -8280,7 +8731,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 8.65999984741211,
     "latent_y": -9.670000076293945,
     "latent_z": 89.70999908447266,
-    "duration_seconds": null
+    "duration_seconds": 201,
+    "duracion": "03:21"
   },
   {
     "id": 453,
@@ -8298,7 +8750,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -57.869998931884766,
     "latent_y": -39.849998474121094,
     "latent_z": -59.5099983215332,
-    "duration_seconds": null
+    "duration_seconds": 526,
+    "duracion": "08:46"
   },
   {
     "id": 454,
@@ -8317,7 +8770,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -115.0199966430664,
     "latent_y": -6.5,
     "latent_z": 0.6899999976158142,
-    "duration_seconds": null
+    "duration_seconds": 435,
+    "duracion": "07:15"
   },
   {
     "id": 455,
@@ -8335,7 +8789,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -55.65999984741211,
     "latent_y": -46.439998626708984,
     "latent_z": -35.349998474121094,
-    "duration_seconds": null
+    "duration_seconds": 500,
+    "duracion": "08:20"
   },
   {
     "id": 456,
@@ -8354,7 +8809,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -39.47999954223633,
     "latent_y": -103.05999755859375,
     "latent_z": -42.619998931884766,
-    "duration_seconds": null
+    "duration_seconds": 478,
+    "duracion": "07:58"
   },
   {
     "id": 457,
@@ -8373,7 +8829,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -75.91000366210938,
     "latent_y": 45.04999923706055,
     "latent_z": 49.93000030517578,
-    "duration_seconds": null
+    "duration_seconds": 536,
+    "duracion": "08:56"
   },
   {
     "id": 458,
@@ -8391,7 +8848,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -109.91000366210938,
     "latent_y": -61.11000061035156,
     "latent_z": -2.2300000190734863,
-    "duration_seconds": null
+    "duration_seconds": 248,
+    "duracion": "04:08"
   },
   {
     "id": 459,
@@ -8409,7 +8867,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -7.599999904632568,
     "latent_y": 54.150001525878906,
     "latent_z": 56.220001220703125,
-    "duration_seconds": null
+    "duration_seconds": 3988,
+    "duracion": "01:06:28"
   },
   {
     "id": 460,
@@ -8427,7 +8886,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -101.05999755859375,
     "latent_y": -78.5999984741211,
     "latent_z": 2.549999952316284,
-    "duration_seconds": null
+    "duration_seconds": 448,
+    "duracion": "07:28"
   },
   {
     "id": 461,
@@ -8446,7 +8906,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -37.29999923706055,
     "latent_y": 71.80000305175781,
     "latent_z": 66.33000183105469,
-    "duration_seconds": null
+    "duration_seconds": 942,
+    "duracion": "15:42"
   },
   {
     "id": 462,
@@ -8464,7 +8925,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -109.31999969482422,
     "latent_y": -70.5199966430664,
     "latent_z": 30.8700008392334,
-    "duration_seconds": null
+    "duration_seconds": 122,
+    "duracion": "02:02"
   },
   {
     "id": 463,
@@ -8482,7 +8944,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -95.04000091552734,
     "latent_y": -55.619998931884766,
     "latent_z": 24.1200008392334,
-    "duration_seconds": null
+    "duration_seconds": 397,
+    "duracion": "06:37"
   },
   {
     "id": 464,
@@ -8500,7 +8963,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -99.20999908447266,
     "latent_y": -68.02999877929688,
     "latent_z": 53.5099983215332,
-    "duration_seconds": null
+    "duration_seconds": 174,
+    "duracion": "02:54"
   },
   {
     "id": 465,
@@ -8518,7 +8982,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -42.90999984741211,
     "latent_y": -35.22999954223633,
     "latent_z": -61.09000015258789,
-    "duration_seconds": null
+    "duration_seconds": 263,
+    "duracion": "04:23"
   },
   {
     "id": 466,
@@ -8536,7 +9001,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -83.70999908447266,
     "latent_y": -85.08999633789062,
     "latent_z": 4.059999942779541,
-    "duration_seconds": null
+    "duration_seconds": 144,
+    "duracion": "02:24"
   },
   {
     "id": 467,
@@ -8554,7 +9020,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -83.51000213623047,
     "latent_y": -47.33000183105469,
     "latent_z": 34.86000061035156,
-    "duration_seconds": null
+    "duration_seconds": 188,
+    "duracion": "03:08"
   },
   {
     "id": 468,
@@ -8572,7 +9039,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -43.290000915527344,
     "latent_y": -52.18000030517578,
     "latent_z": -93.76000213623047,
-    "duration_seconds": null
+    "duration_seconds": 200,
+    "duracion": "03:20"
   },
   {
     "id": 469,
@@ -8590,7 +9058,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -66.0,
     "latent_y": -35.68000030517578,
     "latent_z": 44.83000183105469,
-    "duration_seconds": null
+    "duration_seconds": 948,
+    "duracion": "15:48"
   },
   {
     "id": 470,
@@ -8609,7 +9078,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -27.709999084472656,
     "latent_y": -100.5199966430664,
     "latent_z": -29.950000762939453,
-    "duration_seconds": null
+    "duration_seconds": 378,
+    "duracion": "06:18"
   },
   {
     "id": 471,
@@ -8627,7 +9097,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -30.920000076293945,
     "latent_y": -49.099998474121094,
     "latent_z": -53.459999084472656,
-    "duration_seconds": null
+    "duration_seconds": 423,
+    "duracion": "07:03"
   },
   {
     "id": 472,
@@ -8645,7 +9116,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -55.58000183105469,
     "latent_y": -86.33999633789062,
     "latent_z": -72.48999786376953,
-    "duration_seconds": null
+    "duration_seconds": 785,
+    "duracion": "13:05"
   },
   {
     "id": 473,
@@ -8663,7 +9135,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": 7.650000095367432,
     "latent_y": -25.06999969482422,
     "latent_z": 69.2699966430664,
-    "duration_seconds": null
+    "duration_seconds": 2225,
+    "duracion": "37:05"
   },
   {
     "id": 474,
@@ -8681,7 +9154,8 @@ const PYTHON_TUTORIALS_DATA = [
     "latent_x": -35.93000030517578,
     "latent_y": -31.84000015258789,
     "latent_z": -88.37000274658203,
-    "duration_seconds": null
+    "duration_seconds": 142,
+    "duracion": "02:22"
   }
 ];
 window.PYTHON_DATA = PYTHON_TUTORIALS_DATA;

@@ -15,7 +15,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 19.579999923706055,
     "latent_y": -0.009999999776482582,
     "latent_z": -13.8100004196167,
-    "duration_seconds": null
+    "duration_seconds": 11221,
+    "duracion": "03:07:01"
   },
   {
     "id": 2,
@@ -33,7 +34,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 16.790000915527344,
     "latent_y": 3.0999999046325684,
     "latent_z": 32.68000030517578,
-    "duration_seconds": null
+    "duration_seconds": 2216,
+    "duracion": "36:56"
   },
   {
     "id": 3,
@@ -51,7 +53,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 68.45999908447266,
     "latent_y": 49.5,
     "latent_z": -2.309999942779541,
-    "duration_seconds": null
+    "duration_seconds": 588,
+    "duracion": "09:48"
   },
   {
     "id": 4,
@@ -69,7 +72,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 0.10999999940395355,
     "latent_y": -13.630000114440918,
     "latent_z": 0.550000011920929,
-    "duration_seconds": null
+    "duration_seconds": 2733,
+    "duracion": "45:33"
   },
   {
     "id": 5,
@@ -87,7 +91,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 6.090000152587891,
     "latent_y": -14.079999923706055,
     "latent_z": 103.9000015258789,
-    "duration_seconds": null
+    "duration_seconds": 458,
+    "duracion": "07:38"
   },
   {
     "id": 6,
@@ -105,7 +110,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -41.79999923706055,
     "latent_y": 17.040000915527344,
     "latent_z": -41.52000045776367,
-    "duration_seconds": null
+    "duration_seconds": 385,
+    "duracion": "06:25"
   },
   {
     "id": 7,
@@ -123,7 +129,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 119.7300033569336,
     "latent_y": 0.6100000143051147,
     "latent_z": -2.7799999713897705,
-    "duration_seconds": null
+    "duration_seconds": 377,
+    "duracion": "06:17"
   },
   {
     "id": 8,
@@ -141,7 +148,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -16.6200008392334,
     "latent_y": 30.510000228881836,
     "latent_z": 36.29999923706055,
-    "duration_seconds": null
+    "duration_seconds": 973,
+    "duracion": "16:13"
   },
   {
     "id": 9,
@@ -161,7 +169,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -77.43000030517578,
     "latent_y": -8.3100004196167,
     "latent_z": 55.61000061035156,
-    "duration_seconds": null
+    "duration_seconds": 666,
+    "duracion": "11:06"
   },
   {
     "id": 10,
@@ -179,7 +188,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 12.359999656677246,
     "latent_y": 10.779999732971191,
     "latent_z": 98.52999877929688,
-    "duration_seconds": null
+    "duration_seconds": 848,
+    "duracion": "14:08"
   },
   {
     "id": 11,
@@ -197,7 +207,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 49.630001068115234,
     "latent_y": 61.70000076293945,
     "latent_z": 0.49000000953674316,
-    "duration_seconds": null
+    "duration_seconds": 532,
+    "duracion": "08:52"
   },
   {
     "id": 12,
@@ -215,7 +226,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -73.36000061035156,
     "latent_y": 75.98999786376953,
     "latent_z": 36.34000015258789,
-    "duration_seconds": null
+    "duration_seconds": 1828,
+    "duracion": "30:28"
   },
   {
     "id": 13,
@@ -233,7 +245,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -43.16999816894531,
     "latent_y": 84.55000305175781,
     "latent_z": -0.07999999821186066,
-    "duration_seconds": null
+    "duration_seconds": 1105,
+    "duracion": "18:25"
   },
   {
     "id": 14,
@@ -251,7 +264,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 30.510000228881836,
     "latent_y": 44.09000015258789,
     "latent_z": -35.79999923706055,
-    "duration_seconds": null
+    "duration_seconds": 543,
+    "duracion": "09:03"
   },
   {
     "id": 15,
@@ -269,7 +283,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -63.83000183105469,
     "latent_y": 114.0999984741211,
     "latent_z": 12.630000114440918,
-    "duration_seconds": null
+    "duration_seconds": 1815,
+    "duracion": "30:15"
   },
   {
     "id": 16,
@@ -287,7 +302,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -47.0,
     "latent_y": 21.209999084472656,
     "latent_z": 78.68000030517578,
-    "duration_seconds": null
+    "duration_seconds": 209,
+    "duracion": "03:29"
   },
   {
     "id": 17,
@@ -305,7 +321,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -14.180000305175781,
     "latent_y": -17.1200008392334,
     "latent_z": -7.389999866485596,
-    "duration_seconds": null
+    "duration_seconds": 2926,
+    "duracion": "48:46"
   },
   {
     "id": 18,
@@ -323,7 +340,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -71.33000183105469,
     "latent_y": -14.779999732971191,
     "latent_z": 24.020000457763672,
-    "duration_seconds": null
+    "duration_seconds": 1430,
+    "duracion": "23:50"
   },
   {
     "id": 19,
@@ -341,7 +359,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 36.72999954223633,
     "latent_y": 2.809999942779541,
     "latent_z": -3.3299999237060547,
-    "duration_seconds": null
+    "duration_seconds": 23273,
+    "duracion": "06:27:53"
   },
   {
     "id": 20,
@@ -361,7 +380,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -22.309999465942383,
     "latent_y": -60.630001068115234,
     "latent_z": -8.859999656677246,
-    "duration_seconds": null
+    "duration_seconds": 483,
+    "duracion": "08:03"
   },
   {
     "id": 21,
@@ -379,7 +399,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -1.3200000524520874,
     "latent_y": 6.139999866485596,
     "latent_z": 79.12000274658203,
-    "duration_seconds": null
+    "duration_seconds": 472,
+    "duracion": "07:52"
   },
   {
     "id": 22,
@@ -397,7 +418,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -20.219999313354492,
     "latent_y": -26.75,
     "latent_z": 119.5,
-    "duration_seconds": null
+    "duration_seconds": 549,
+    "duracion": "09:09"
   },
   {
     "id": 23,
@@ -415,7 +437,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 52.36000061035156,
     "latent_y": -5.179999828338623,
     "latent_z": 19.06999969482422,
-    "duration_seconds": null
+    "duration_seconds": 352,
+    "duracion": "05:52"
   },
   {
     "id": 24,
@@ -433,7 +456,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 1.9299999475479126,
     "latent_y": 23.850000381469727,
     "latent_z": 77.20999908447266,
-    "duration_seconds": null
+    "duration_seconds": 435,
+    "duracion": "07:15"
   },
   {
     "id": 25,
@@ -451,7 +475,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 0.4399999976158142,
     "latent_y": -53.02000045776367,
     "latent_z": -26.6200008392334,
-    "duration_seconds": null
+    "duration_seconds": 1765,
+    "duracion": "29:25"
   },
   {
     "id": 26,
@@ -469,7 +494,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 8.539999961853027,
     "latent_y": 20.690000534057617,
     "latent_z": 14.0600004196167,
-    "duration_seconds": null
+    "duration_seconds": 1352,
+    "duracion": "22:32"
   },
   {
     "id": 27,
@@ -487,7 +513,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -65.29000091552734,
     "latent_y": 60.88999938964844,
     "latent_z": 50.40999984741211,
-    "duration_seconds": null
+    "duration_seconds": 3544,
+    "duracion": "59:04"
   },
   {
     "id": 28,
@@ -505,7 +532,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 59.099998474121094,
     "latent_y": 70.33000183105469,
     "latent_z": -10.84000015258789,
-    "duration_seconds": null
+    "duration_seconds": 1891,
+    "duracion": "31:31"
   },
   {
     "id": 29,
@@ -523,7 +551,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 6.190000057220459,
     "latent_y": -7.53000020980835,
     "latent_z": 116.44999694824219,
-    "duration_seconds": null
+    "duration_seconds": 60,
+    "duracion": "01:00"
   },
   {
     "id": 30,
@@ -541,7 +570,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 38.56999969482422,
     "latent_y": 28.059999465942383,
     "latent_z": 3.5299999713897705,
-    "duration_seconds": null
+    "duration_seconds": 11954,
+    "duracion": "03:19:14"
   },
   {
     "id": 31,
@@ -560,7 +590,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -63.83000183105469,
     "latent_y": -2.2100000381469727,
     "latent_z": -12.75,
-    "duration_seconds": null
+    "duration_seconds": 92,
+    "duracion": "01:32"
   },
   {
     "id": 32,
@@ -578,7 +609,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -24.65999984741211,
     "latent_y": 90.37000274658203,
     "latent_z": 3.6500000953674316,
-    "duration_seconds": null
+    "duration_seconds": 932,
+    "duracion": "15:32"
   },
   {
     "id": 33,
@@ -597,7 +629,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -28.59000015258789,
     "latent_y": 26.68000030517578,
     "latent_z": 98.08000183105469,
-    "duration_seconds": null
+    "duration_seconds": 653,
+    "duracion": "10:53"
   },
   {
     "id": 34,
@@ -615,7 +648,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 48.34000015258789,
     "latent_y": 78.95999908447266,
     "latent_z": 10.770000457763672,
-    "duration_seconds": null
+    "duration_seconds": 927,
+    "duracion": "15:27"
   },
   {
     "id": 35,
@@ -633,7 +667,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 22.420000076293945,
     "latent_y": 98.33000183105469,
     "latent_z": 24.59000015258789,
-    "duration_seconds": null
+    "duration_seconds": 254,
+    "duracion": "04:14"
   },
   {
     "id": 36,
@@ -651,7 +686,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -44.029998779296875,
     "latent_y": -3.5299999713897705,
     "latent_z": 100.91999816894531,
-    "duration_seconds": null
+    "duration_seconds": 2065,
+    "duracion": "34:25"
   },
   {
     "id": 37,
@@ -669,7 +705,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -57.88999938964844,
     "latent_y": 90.31999969482422,
     "latent_z": 44.540000915527344,
-    "duration_seconds": null
+    "duration_seconds": 2532,
+    "duracion": "42:12"
   },
   {
     "id": 38,
@@ -687,7 +724,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 69.62999725341797,
     "latent_y": 69.80999755859375,
     "latent_z": -48.310001373291016,
-    "duration_seconds": null
+    "duration_seconds": 926,
+    "duracion": "15:26"
   },
   {
     "id": 39,
@@ -705,7 +743,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -70.2699966430664,
     "latent_y": 70.26000213623047,
     "latent_z": 4.590000152587891,
-    "duration_seconds": null
+    "duration_seconds": 1455,
+    "duracion": "24:15"
   },
   {
     "id": 40,
@@ -723,7 +762,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 0.11999999731779099,
     "latent_y": -23.780000686645508,
     "latent_z": 77.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 1866,
+    "duracion": "31:06"
   },
   {
     "id": 41,
@@ -741,7 +781,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 1.1200000047683716,
     "latent_y": 22.06999969482422,
     "latent_z": 41.7599983215332,
-    "duration_seconds": null
+    "duration_seconds": 951,
+    "duracion": "15:51"
   },
   {
     "id": 42,
@@ -760,7 +801,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 36.33000183105469,
     "latent_y": -47.81999969482422,
     "latent_z": 80.95999908447266,
-    "duration_seconds": null
+    "duration_seconds": 3212,
+    "duracion": "53:32"
   },
   {
     "id": 43,
@@ -778,7 +820,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 5.21999979019165,
     "latent_y": -30.889999389648438,
     "latent_z": -1.7000000476837158,
-    "duration_seconds": null
+    "duration_seconds": 1458,
+    "duracion": "24:18"
   },
   {
     "id": 44,
@@ -796,7 +839,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 55.22999954223633,
     "latent_y": 57.06999969482422,
     "latent_z": -27.920000076293945,
-    "duration_seconds": null
+    "duration_seconds": 979,
+    "duracion": "16:19"
   },
   {
     "id": 45,
@@ -814,7 +858,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 1.2599999904632568,
     "latent_y": -67.9800033569336,
     "latent_z": -29.1200008392334,
-    "duration_seconds": null
+    "duration_seconds": 540,
+    "duracion": "09:00"
   },
   {
     "id": 46,
@@ -832,7 +877,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 22.59000015258789,
     "latent_y": 10.819999694824219,
     "latent_z": 27.760000228881836,
-    "duration_seconds": null
+    "duration_seconds": 1423,
+    "duracion": "23:43"
   },
   {
     "id": 47,
@@ -850,7 +896,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 67.31999969482422,
     "latent_y": -12.970000267028809,
     "latent_z": -0.8500000238418579,
-    "duration_seconds": null
+    "duration_seconds": 254,
+    "duracion": "04:14"
   },
   {
     "id": 48,
@@ -868,7 +915,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -7.550000190734863,
     "latent_y": 25.239999771118164,
     "latent_z": 29.059999465942383,
-    "duration_seconds": null
+    "duration_seconds": 1732,
+    "duracion": "28:52"
   },
   {
     "id": 49,
@@ -886,7 +934,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 60.2400016784668,
     "latent_y": 32.72999954223633,
     "latent_z": -1.0399999618530273,
-    "duration_seconds": null
+    "duration_seconds": 1755,
+    "duracion": "29:15"
   },
   {
     "id": 50,
@@ -904,7 +953,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -31.219999313354492,
     "latent_y": -90.30999755859375,
     "latent_z": 17.780000686645508,
-    "duration_seconds": null
+    "duration_seconds": 436,
+    "duracion": "07:16"
   },
   {
     "id": 51,
@@ -922,7 +972,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -32.36000061035156,
     "latent_y": 1.7799999713897705,
     "latent_z": 54.79999923706055,
-    "duration_seconds": null
+    "duration_seconds": 948,
+    "duracion": "15:48"
   },
   {
     "id": 52,
@@ -940,7 +991,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -37.650001525878906,
     "latent_y": -42.939998626708984,
     "latent_z": -63.880001068115234,
-    "duration_seconds": null
+    "duration_seconds": 703,
+    "duracion": "11:43"
   },
   {
     "id": 53,
@@ -958,7 +1010,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -17.06999969482422,
     "latent_y": 21.6299991607666,
     "latent_z": 5.659999847412109,
-    "duration_seconds": null
+    "duration_seconds": 1560,
+    "duracion": "26:00"
   },
   {
     "id": 54,
@@ -976,7 +1029,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -22.469999313354492,
     "latent_y": -3.4700000286102295,
     "latent_z": 94.55999755859375,
-    "duration_seconds": null
+    "duration_seconds": 1026,
+    "duracion": "17:06"
   },
   {
     "id": 55,
@@ -994,7 +1048,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 51.470001220703125,
     "latent_y": 70.5199966430664,
     "latent_z": 41.349998474121094,
-    "duration_seconds": null
+    "duration_seconds": 1176,
+    "duracion": "19:36"
   },
   {
     "id": 56,
@@ -1012,7 +1067,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -19.549999237060547,
     "latent_y": -28.190000534057617,
     "latent_z": 89.7699966430664,
-    "duration_seconds": null
+    "duration_seconds": 825,
+    "duracion": "13:45"
   },
   {
     "id": 57,
@@ -1030,7 +1086,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 78.44999694824219,
     "latent_y": 94.55999755859375,
     "latent_z": 13.739999771118164,
-    "duration_seconds": null
+    "duration_seconds": 2000,
+    "duracion": "33:20"
   },
   {
     "id": 58,
@@ -1048,7 +1105,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -88.19999694824219,
     "latent_y": -2.0299999713897705,
     "latent_z": -55.11000061035156,
-    "duration_seconds": null
+    "duration_seconds": 199,
+    "duracion": "03:19"
   },
   {
     "id": 59,
@@ -1066,7 +1124,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 93.76000213623047,
     "latent_y": -29.18000030517578,
     "latent_z": 22.309999465942383,
-    "duration_seconds": null
+    "duration_seconds": 830,
+    "duracion": "13:50"
   },
   {
     "id": 60,
@@ -1084,7 +1143,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 55.65999984741211,
     "latent_y": -10.699999809265137,
     "latent_z": 33.29999923706055,
-    "duration_seconds": null
+    "duration_seconds": 1180,
+    "duracion": "19:40"
   },
   {
     "id": 61,
@@ -1102,7 +1162,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -67.1500015258789,
     "latent_y": -98.93000030517578,
     "latent_z": 13.520000457763672,
-    "duration_seconds": null
+    "duration_seconds": 58,
+    "duracion": "00:58"
   },
   {
     "id": 62,
@@ -1120,7 +1181,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -17.25,
     "latent_y": 17.219999313354492,
     "latent_z": 33.150001525878906,
-    "duration_seconds": null
+    "duration_seconds": 1298,
+    "duracion": "21:38"
   },
   {
     "id": 63,
@@ -1138,7 +1200,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 14.140000343322754,
     "latent_y": 6.889999866485596,
     "latent_z": 85.30000305175781,
-    "duration_seconds": null
+    "duration_seconds": 773,
+    "duracion": "12:53"
   },
   {
     "id": 64,
@@ -1156,7 +1219,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 57.45000076293945,
     "latent_y": 2.740000009536743,
     "latent_z": 8.319999694824219,
-    "duration_seconds": null
+    "duration_seconds": 479,
+    "duracion": "07:59"
   },
   {
     "id": 65,
@@ -1174,7 +1238,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -25.229999542236328,
     "latent_y": -7.019999980926514,
     "latent_z": 4.659999847412109,
-    "duration_seconds": null
+    "duration_seconds": 2194,
+    "duracion": "36:34"
   },
   {
     "id": 66,
@@ -1192,7 +1257,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 27.18000030517578,
     "latent_y": -3.5899999141693115,
     "latent_z": 12.470000267028809,
-    "duration_seconds": null
+    "duration_seconds": 2481,
+    "duracion": "41:21"
   },
   {
     "id": 67,
@@ -1210,7 +1276,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 92.30999755859375,
     "latent_y": 8.239999771118164,
     "latent_z": 69.37999725341797,
-    "duration_seconds": null
+    "duration_seconds": 4510,
+    "duracion": "01:15:10"
   },
   {
     "id": 68,
@@ -1228,7 +1295,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 83.12999725341797,
     "latent_y": 26.010000228881836,
     "latent_z": 20.790000915527344,
-    "duration_seconds": null
+    "duration_seconds": 60,
+    "duracion": "01:00"
   },
   {
     "id": 69,
@@ -1246,7 +1314,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 27.860000610351562,
     "latent_y": 23.149999618530273,
     "latent_z": -20.56999969482422,
-    "duration_seconds": null
+    "duration_seconds": 7591,
+    "duracion": "02:06:31"
   },
   {
     "id": 70,
@@ -1265,7 +1334,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 43.720001220703125,
     "latent_y": -39.099998474121094,
     "latent_z": 68.86000061035156,
-    "duration_seconds": null
+    "duration_seconds": 800,
+    "duracion": "13:20"
   },
   {
     "id": 71,
@@ -1283,7 +1353,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -55.0099983215332,
     "latent_y": -101.87000274658203,
     "latent_z": 1.25,
-    "duration_seconds": null
+    "duration_seconds": 1738,
+    "duracion": "28:58"
   },
   {
     "id": 72,
@@ -1301,7 +1372,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -96.4000015258789,
     "latent_y": 73.2699966430664,
     "latent_z": 41.08000183105469,
-    "duration_seconds": null
+    "duration_seconds": 2541,
+    "duracion": "42:21"
   },
   {
     "id": 73,
@@ -1319,7 +1391,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 8.029999732971191,
     "latent_y": 10.899999618530273,
     "latent_z": 69.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 771,
+    "duracion": "12:51"
   },
   {
     "id": 74,
@@ -1337,7 +1410,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 9.65999984741211,
     "latent_y": 43.59000015258789,
     "latent_z": -106.69000244140625,
-    "duration_seconds": null
+    "duration_seconds": 1662,
+    "duracion": "27:42"
   },
   {
     "id": 75,
@@ -1356,7 +1430,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -28.149999618530273,
     "latent_y": 37.529998779296875,
     "latent_z": 90.04000091552734,
-    "duration_seconds": null
+    "duration_seconds": 297,
+    "duracion": "04:57"
   },
   {
     "id": 76,
@@ -1374,7 +1449,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -51.77000045776367,
     "latent_y": 63.77000045776367,
     "latent_z": -9.029999732971191,
-    "duration_seconds": null
+    "duration_seconds": 648,
+    "duracion": "10:48"
   },
   {
     "id": 77,
@@ -1392,7 +1468,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 33.04999923706055,
     "latent_y": 36.630001068115234,
     "latent_z": -82.80999755859375,
-    "duration_seconds": null
+    "duration_seconds": 1277,
+    "duracion": "21:17"
   },
   {
     "id": 78,
@@ -1411,7 +1488,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -58.79999923706055,
     "latent_y": -55.529998779296875,
     "latent_z": 10.130000114440918,
-    "duration_seconds": null
+    "duration_seconds": 299,
+    "duracion": "04:59"
   },
   {
     "id": 79,
@@ -1429,7 +1507,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -37.619998931884766,
     "latent_y": 72.4800033569336,
     "latent_z": 31.520000457763672,
-    "duration_seconds": null
+    "duration_seconds": 4244,
+    "duracion": "01:10:44"
   },
   {
     "id": 80,
@@ -1447,7 +1526,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -58.79999923706055,
     "latent_y": -23.690000534057617,
     "latent_z": -84.91000366210938,
-    "duration_seconds": null
+    "duration_seconds": 1272,
+    "duracion": "21:12"
   },
   {
     "id": 81,
@@ -1466,7 +1546,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 39.70000076293945,
     "latent_y": 48.22999954223633,
     "latent_z": -60.18000030517578,
-    "duration_seconds": null
+    "duration_seconds": 1912,
+    "duracion": "31:52"
   },
   {
     "id": 82,
@@ -1484,7 +1565,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 31.290000915527344,
     "latent_y": -13.850000381469727,
     "latent_z": 24.479999542236328,
-    "duration_seconds": null
+    "duration_seconds": 1706,
+    "duracion": "28:26"
   },
   {
     "id": 83,
@@ -1502,7 +1584,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -34.720001220703125,
     "latent_y": 49.33000183105469,
     "latent_z": 1.0399999618530273,
-    "duration_seconds": null
+    "duration_seconds": 2715,
+    "duracion": "45:15"
   },
   {
     "id": 84,
@@ -1521,7 +1604,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 35.75,
     "latent_y": -38.97999954223633,
     "latent_z": 58.15999984741211,
-    "duration_seconds": null
+    "duration_seconds": 741,
+    "duracion": "12:21"
   },
   {
     "id": 85,
@@ -1539,7 +1623,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -10.4399995803833,
     "latent_y": 1.9199999570846558,
     "latent_z": -5.929999828338623,
-    "duration_seconds": null
+    "duration_seconds": 1183,
+    "duracion": "19:43"
   },
   {
     "id": 86,
@@ -1557,7 +1642,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -9.0600004196167,
     "latent_y": 1.809999942779541,
     "latent_z": 61.34000015258789,
-    "duration_seconds": null
+    "duration_seconds": 743,
+    "duracion": "12:23"
   },
   {
     "id": 87,
@@ -1575,7 +1661,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -56.70000076293945,
     "latent_y": 84.8499984741211,
     "latent_z": 10.800000190734863,
-    "duration_seconds": null
+    "duration_seconds": 484,
+    "duracion": "08:04"
   },
   {
     "id": 88,
@@ -1593,7 +1680,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -5.070000171661377,
     "latent_y": 9.489999771118164,
     "latent_z": 115.04000091552734,
-    "duration_seconds": null
+    "duration_seconds": 489,
+    "duracion": "08:09"
   },
   {
     "id": 89,
@@ -1611,7 +1699,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 44.939998626708984,
     "latent_y": -29.350000381469727,
     "latent_z": 15.739999771118164,
-    "duration_seconds": null
+    "duration_seconds": 4330,
+    "duracion": "01:12:10"
   },
   {
     "id": 90,
@@ -1630,7 +1719,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -75.12999725341797,
     "latent_y": -45.27000045776367,
     "latent_z": -50.33000183105469,
-    "duration_seconds": null
+    "duration_seconds": 3440,
+    "duracion": "57:20"
   },
   {
     "id": 91,
@@ -1648,7 +1738,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 49.529998779296875,
     "latent_y": 82.37000274658203,
     "latent_z": -20.790000915527344,
-    "duration_seconds": null
+    "duration_seconds": 534,
+    "duracion": "08:54"
   },
   {
     "id": 92,
@@ -1666,7 +1757,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -45.59000015258789,
     "latent_y": 9.220000267028809,
     "latent_z": 83.83999633789062,
-    "duration_seconds": null
+    "duration_seconds": 982,
+    "duracion": "16:22"
   },
   {
     "id": 93,
@@ -1684,7 +1776,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 72.36000061035156,
     "latent_y": 79.13999938964844,
     "latent_z": -43.900001525878906,
-    "duration_seconds": null
+    "duration_seconds": 279,
+    "duracion": "04:39"
   },
   {
     "id": 94,
@@ -1702,7 +1795,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 21.489999771118164,
     "latent_y": 22.950000762939453,
     "latent_z": 6.010000228881836,
-    "duration_seconds": null
+    "duration_seconds": 1127,
+    "duracion": "18:47"
   },
   {
     "id": 95,
@@ -1720,7 +1814,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -10.479999542236328,
     "latent_y": -21.3700008392334,
     "latent_z": 101.22000122070312,
-    "duration_seconds": null
+    "duration_seconds": 993,
+    "duracion": "16:33"
   },
   {
     "id": 96,
@@ -1738,7 +1833,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -45.65999984741211,
     "latent_y": 27.209999084472656,
     "latent_z": -59.83000183105469,
-    "duration_seconds": null
+    "duration_seconds": 244,
+    "duracion": "04:04"
   },
   {
     "id": 97,
@@ -1756,7 +1852,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -35.400001525878906,
     "latent_y": 7.110000133514404,
     "latent_z": -53.099998474121094,
-    "duration_seconds": null
+    "duration_seconds": 545,
+    "duracion": "09:05"
   },
   {
     "id": 98,
@@ -1774,7 +1871,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -77.27999877929688,
     "latent_y": -14.319999694824219,
     "latent_z": -46.2599983215332,
-    "duration_seconds": null
+    "duration_seconds": 765,
+    "duracion": "12:45"
   },
   {
     "id": 99,
@@ -1792,7 +1890,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 48.439998626708984,
     "latent_y": 69.47000122070312,
     "latent_z": 23.020000457763672,
-    "duration_seconds": null
+    "duration_seconds": 1458,
+    "duracion": "24:18"
   },
   {
     "id": 100,
@@ -1810,7 +1909,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -81.69999694824219,
     "latent_y": 75.91999816894531,
     "latent_z": -5.840000152587891,
-    "duration_seconds": null
+    "duration_seconds": 574,
+    "duracion": "09:34"
   },
   {
     "id": 101,
@@ -1828,7 +1928,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 17.65999984741211,
     "latent_y": -52.529998779296875,
     "latent_z": -28.299999237060547,
-    "duration_seconds": null
+    "duration_seconds": 500,
+    "duracion": "08:20"
   },
   {
     "id": 102,
@@ -1846,7 +1947,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -53.599998474121094,
     "latent_y": -111.63999938964844,
     "latent_z": 15.010000228881836,
-    "duration_seconds": null
+    "duration_seconds": 62,
+    "duracion": "01:02"
   },
   {
     "id": 103,
@@ -1864,7 +1966,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 35.02000045776367,
     "latent_y": -15.430000305175781,
     "latent_z": 0.4000000059604645,
-    "duration_seconds": null
+    "duration_seconds": 1377,
+    "duracion": "22:57"
   },
   {
     "id": 104,
@@ -1882,7 +1985,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 0.550000011920929,
     "latent_y": -3.559999942779541,
     "latent_z": 91.16000366210938,
-    "duration_seconds": null
+    "duration_seconds": 783,
+    "duracion": "13:03"
   },
   {
     "id": 105,
@@ -1900,7 +2004,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 6.440000057220459,
     "latent_y": 57.02000045776367,
     "latent_z": -5.460000038146973,
-    "duration_seconds": null
+    "duration_seconds": 852,
+    "duracion": "14:12"
   },
   {
     "id": 106,
@@ -1918,7 +2023,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -56.93000030517578,
     "latent_y": -100.80000305175781,
     "latent_z": 29.170000076293945,
-    "duration_seconds": null
+    "duration_seconds": 1610,
+    "duracion": "26:50"
   },
   {
     "id": 107,
@@ -1936,7 +2042,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -41.41999816894531,
     "latent_y": -15.09000015258789,
     "latent_z": -55.31999969482422,
-    "duration_seconds": null
+    "duration_seconds": 420,
+    "duracion": "07:00"
   },
   {
     "id": 108,
@@ -1955,7 +2062,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -14.65999984741211,
     "latent_y": 40.0,
     "latent_z": 101.7699966430664,
-    "duration_seconds": null
+    "duration_seconds": 110,
+    "duracion": "01:50"
   },
   {
     "id": 109,
@@ -1973,7 +2081,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -62.59000015258789,
     "latent_y": 80.80000305175781,
     "latent_z": -6.809999942779541,
-    "duration_seconds": null
+    "duration_seconds": 1176,
+    "duracion": "19:36"
   },
   {
     "id": 110,
@@ -1991,7 +2100,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -70.91999816894531,
     "latent_y": -8.390000343322754,
     "latent_z": 12.729999542236328,
-    "duration_seconds": null
+    "duration_seconds": 148,
+    "duracion": "02:28"
   },
   {
     "id": 111,
@@ -2010,7 +2120,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -51.790000915527344,
     "latent_y": -57.61000061035156,
     "latent_z": 25.549999237060547,
-    "duration_seconds": null
+    "duration_seconds": 180,
+    "duracion": "03:00"
   },
   {
     "id": 112,
@@ -2029,7 +2140,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 43.720001220703125,
     "latent_y": -39.099998474121094,
     "latent_z": 68.86000061035156,
-    "duration_seconds": null
+    "duration_seconds": 780,
+    "duracion": "13:00"
   },
   {
     "id": 113,
@@ -2049,7 +2161,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -92.41000366210938,
     "latent_y": 5.099999904632568,
     "latent_z": -15.260000228881836,
-    "duration_seconds": null
+    "duration_seconds": 343,
+    "duracion": "05:43"
   },
   {
     "id": 114,
@@ -2068,7 +2181,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -75.2699966430664,
     "latent_y": -49.20000076293945,
     "latent_z": 22.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 165,
+    "duracion": "02:45"
   },
   {
     "id": 115,
@@ -2087,7 +2201,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -56.650001525878906,
     "latent_y": 35.130001068115234,
     "latent_z": 30.229999542236328,
-    "duration_seconds": null
+    "duration_seconds": 112,
+    "duracion": "01:52"
   },
   {
     "id": 116,
@@ -2106,7 +2221,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -53.150001525878906,
     "latent_y": -42.060001373291016,
     "latent_z": 18.850000381469727,
-    "duration_seconds": null
+    "duration_seconds": 818,
+    "duracion": "13:38"
   },
   {
     "id": 117,
@@ -2124,7 +2240,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 6.489999771118164,
     "latent_y": 69.20999908447266,
     "latent_z": -26.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 547,
+    "duracion": "09:07"
   },
   {
     "id": 118,
@@ -2143,7 +2260,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -72.41000366210938,
     "latent_y": -12.170000076293945,
     "latent_z": -12.100000381469727,
-    "duration_seconds": null
+    "duration_seconds": 81,
+    "duracion": "01:21"
   },
   {
     "id": 119,
@@ -2161,7 +2279,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 73.08000183105469,
     "latent_y": 53.09000015258789,
     "latent_z": 19.8700008392334,
-    "duration_seconds": null
+    "duration_seconds": 1432,
+    "duracion": "23:52"
   },
   {
     "id": 120,
@@ -2179,7 +2298,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -85.16000366210938,
     "latent_y": -7.679999828338623,
     "latent_z": 18.719999313354492,
-    "duration_seconds": null
+    "duration_seconds": 1074,
+    "duracion": "17:54"
   },
   {
     "id": 121,
@@ -2197,7 +2317,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -6.929999828338623,
     "latent_y": -12.0600004196167,
     "latent_z": 73.94000244140625,
-    "duration_seconds": null
+    "duration_seconds": 1788,
+    "duracion": "29:48"
   },
   {
     "id": 122,
@@ -2215,7 +2336,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -12.6899995803833,
     "latent_y": 19.170000076293945,
     "latent_z": 80.44999694824219,
-    "duration_seconds": null
+    "duration_seconds": 2625,
+    "duracion": "43:45"
   },
   {
     "id": 123,
@@ -2235,7 +2357,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -11.920000076293945,
     "latent_y": -62.0099983215332,
     "latent_z": -1.399999976158142,
-    "duration_seconds": null
+    "duration_seconds": 109,
+    "duracion": "01:49"
   },
   {
     "id": 124,
@@ -2253,7 +2376,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -18.989999771118164,
     "latent_y": 32.709999084472656,
     "latent_z": -18.729999542236328,
-    "duration_seconds": null
+    "duration_seconds": 1894,
+    "duracion": "31:34"
   },
   {
     "id": 125,
@@ -2271,7 +2395,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 89.02999877929688,
     "latent_y": 5.71999979019165,
     "latent_z": 53.290000915527344,
-    "duration_seconds": null
+    "duration_seconds": 2314,
+    "duracion": "38:34"
   },
   {
     "id": 126,
@@ -2290,7 +2415,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -73.86000061035156,
     "latent_y": -4.760000228881836,
     "latent_z": 70.75,
-    "duration_seconds": null
+    "duration_seconds": 102,
+    "duracion": "01:42"
   },
   {
     "id": 127,
@@ -2308,7 +2434,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -68.48999786376953,
     "latent_y": 22.1299991607666,
     "latent_z": -65.38999938964844,
-    "duration_seconds": null
+    "duration_seconds": 221,
+    "duracion": "03:41"
   },
   {
     "id": 128,
@@ -2326,7 +2453,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -7.690000057220459,
     "latent_y": 28.729999542236328,
     "latent_z": -85.83000183105469,
-    "duration_seconds": null
+    "duration_seconds": 561,
+    "duracion": "09:21"
   },
   {
     "id": 129,
@@ -2344,7 +2472,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 32.869998931884766,
     "latent_y": -31.899999618530273,
     "latent_z": -57.15999984741211,
-    "duration_seconds": null
+    "duration_seconds": 853,
+    "duracion": "14:13"
   },
   {
     "id": 130,
@@ -2362,7 +2491,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -87.41000366210938,
     "latent_y": -20.450000762939453,
     "latent_z": 25.5,
-    "duration_seconds": null
+    "duration_seconds": 1580,
+    "duracion": "26:20"
   },
   {
     "id": 131,
@@ -2380,7 +2510,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -48.529998779296875,
     "latent_y": -94.6500015258789,
     "latent_z": 15.380000114440918,
-    "duration_seconds": null
+    "duration_seconds": 110,
+    "duracion": "01:50"
   },
   {
     "id": 132,
@@ -2398,7 +2529,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -84.31999969482422,
     "latent_y": 57.97999954223633,
     "latent_z": 50.310001373291016,
-    "duration_seconds": null
+    "duration_seconds": 3543,
+    "duracion": "59:03"
   },
   {
     "id": 133,
@@ -2417,7 +2549,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -56.650001525878906,
     "latent_y": 35.130001068115234,
     "latent_z": 30.229999542236328,
-    "duration_seconds": null
+    "duration_seconds": 128,
+    "duracion": "02:08"
   },
   {
     "id": 134,
@@ -2435,7 +2568,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 23.459999084472656,
     "latent_y": 60.97999954223633,
     "latent_z": 38.29999923706055,
-    "duration_seconds": null
+    "duration_seconds": 881,
+    "duracion": "14:41"
   },
   {
     "id": 135,
@@ -2453,7 +2587,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 63.4900016784668,
     "latent_y": 13.640000343322754,
     "latent_z": 24.84000015258789,
-    "duration_seconds": null
+    "duration_seconds": 174,
+    "duracion": "02:54"
   },
   {
     "id": 136,
@@ -2471,7 +2606,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -8.529999732971191,
     "latent_y": -13.279999732971191,
     "latent_z": 8.640000343322754,
-    "duration_seconds": null
+    "duration_seconds": 3635,
+    "duracion": "01:00:35"
   },
   {
     "id": 137,
@@ -2489,7 +2625,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -47.88999938964844,
     "latent_y": 106.06999969482422,
     "latent_z": -11.119999885559082,
-    "duration_seconds": null
+    "duration_seconds": 401,
+    "duracion": "06:41"
   },
   {
     "id": 138,
@@ -2507,7 +2644,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -35.529998779296875,
     "latent_y": -32.029998779296875,
     "latent_z": 88.83000183105469,
-    "duration_seconds": null
+    "duration_seconds": 1112,
+    "duracion": "18:32"
   },
   {
     "id": 139,
@@ -2525,7 +2663,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -51.33000183105469,
     "latent_y": 120.0,
     "latent_z": 14.979999542236328,
-    "duration_seconds": null
+    "duration_seconds": 234,
+    "duracion": "03:54"
   },
   {
     "id": 140,
@@ -2543,7 +2682,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 120.0,
     "latent_y": -10.510000228881836,
     "latent_z": -5.28000020980835,
-    "duration_seconds": null
+    "duration_seconds": 264,
+    "duracion": "04:24"
   },
   {
     "id": 141,
@@ -2561,7 +2701,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 49.630001068115234,
     "latent_y": 61.70000076293945,
     "latent_z": 0.49000000953674316,
-    "duration_seconds": null
+    "duration_seconds": 741,
+    "duracion": "12:21"
   },
   {
     "id": 142,
@@ -2579,7 +2720,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -35.869998931884766,
     "latent_y": -2.9800000190734863,
     "latent_z": -65.0,
-    "duration_seconds": null
+    "duration_seconds": 592,
+    "duracion": "09:52"
   },
   {
     "id": 143,
@@ -2597,7 +2739,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 54.90999984741211,
     "latent_y": -50.939998626708984,
     "latent_z": 33.2400016784668,
-    "duration_seconds": null
+    "duration_seconds": 2431,
+    "duracion": "40:31"
   },
   {
     "id": 144,
@@ -2615,7 +2758,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -84.31999969482422,
     "latent_y": 57.97999954223633,
     "latent_z": 50.310001373291016,
-    "duration_seconds": null
+    "duration_seconds": 4002,
+    "duracion": "01:06:42"
   },
   {
     "id": 145,
@@ -2634,7 +2778,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -48.939998626708984,
     "latent_y": -69.76000213623047,
     "latent_z": 13.829999923706055,
-    "duration_seconds": null
+    "duration_seconds": 371,
+    "duracion": "06:11"
   },
   {
     "id": 146,
@@ -2652,7 +2797,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 27.450000762939453,
     "latent_y": 32.130001068115234,
     "latent_z": 32.27000045776367,
-    "duration_seconds": null
+    "duration_seconds": 1024,
+    "duracion": "17:04"
   },
   {
     "id": 147,
@@ -2670,7 +2816,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 94.58999633789062,
     "latent_y": 11.649999618530273,
     "latent_z": -38.47999954223633,
-    "duration_seconds": null
+    "duration_seconds": 609,
+    "duracion": "10:09"
   },
   {
     "id": 148,
@@ -2688,7 +2835,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 50.84000015258789,
     "latent_y": 41.68000030517578,
     "latent_z": 8.430000305175781,
-    "duration_seconds": null
+    "duration_seconds": 747,
+    "duracion": "12:27"
   },
   {
     "id": 149,
@@ -2707,7 +2855,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -113.19999694824219,
     "latent_y": 50.86000061035156,
     "latent_z": 14.520000457763672,
-    "duration_seconds": null
+    "duration_seconds": 450,
+    "duracion": "07:30"
   },
   {
     "id": 150,
@@ -2725,7 +2874,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 79.66000366210938,
     "latent_y": 60.91999816894531,
     "latent_z": 37.040000915527344,
-    "duration_seconds": null
+    "duration_seconds": 1512,
+    "duracion": "25:12"
   },
   {
     "id": 151,
@@ -2744,7 +2894,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -73.86000061035156,
     "latent_y": -4.760000228881836,
     "latent_z": 70.75,
-    "duration_seconds": null
+    "duration_seconds": 138,
+    "duracion": "02:18"
   },
   {
     "id": 152,
@@ -2762,7 +2913,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 63.880001068115234,
     "latent_y": -13.25,
     "latent_z": 18.610000610351562,
-    "duration_seconds": null
+    "duration_seconds": 2597,
+    "duracion": "43:17"
   },
   {
     "id": 153,
@@ -2780,7 +2932,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 4.449999809265137,
     "latent_y": 48.099998474121094,
     "latent_z": 41.72999954223633,
-    "duration_seconds": null
+    "duration_seconds": 604,
+    "duracion": "10:04"
   },
   {
     "id": 154,
@@ -2799,7 +2952,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -18.559999465942383,
     "latent_y": 77.58000183105469,
     "latent_z": 64.0,
-    "duration_seconds": null
+    "duration_seconds": 537,
+    "duracion": "08:57"
   },
   {
     "id": 155,
@@ -2817,7 +2971,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -23.670000076293945,
     "latent_y": 14.319999694824219,
     "latent_z": 70.0,
-    "duration_seconds": null
+    "duration_seconds": 927,
+    "duracion": "15:27"
   },
   {
     "id": 156,
@@ -2837,7 +2992,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -75.20999908447266,
     "latent_y": 30.389999389648438,
     "latent_z": 24.219999313354492,
-    "duration_seconds": null
+    "duration_seconds": 39,
+    "duracion": "00:39"
   },
   {
     "id": 157,
@@ -2855,7 +3011,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -64.98999786376953,
     "latent_y": -35.2400016784668,
     "latent_z": -68.12999725341797,
-    "duration_seconds": null
+    "duration_seconds": 602,
+    "duracion": "10:02"
   },
   {
     "id": 158,
@@ -2873,7 +3030,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -36.61000061035156,
     "latent_y": -103.86000061035156,
     "latent_z": 9.289999961853027,
-    "duration_seconds": null
+    "duration_seconds": 141,
+    "duracion": "02:21"
   },
   {
     "id": 159,
@@ -2891,7 +3049,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -33.150001525878906,
     "latent_y": 83.44000244140625,
     "latent_z": -13.220000267028809,
-    "duration_seconds": null
+    "duration_seconds": 1582,
+    "duracion": "26:22"
   },
   {
     "id": 160,
@@ -2909,7 +3068,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -69.66999816894531,
     "latent_y": 90.12999725341797,
     "latent_z": 18.59000015258789,
-    "duration_seconds": null
+    "duration_seconds": 1460,
+    "duracion": "24:20"
   },
   {
     "id": 161,
@@ -2927,7 +3087,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -62.720001220703125,
     "latent_y": -1.8600000143051147,
     "latent_z": -76.66000366210938,
-    "duration_seconds": null
+    "duration_seconds": 720,
+    "duracion": "12:00"
   },
   {
     "id": 162,
@@ -2946,7 +3107,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -80.47000122070312,
     "latent_y": -60.2400016784668,
     "latent_z": 7.869999885559082,
-    "duration_seconds": null
+    "duration_seconds": 327,
+    "duracion": "05:27"
   },
   {
     "id": 163,
@@ -2964,7 +3126,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -31.020000457763672,
     "latent_y": -38.97999954223633,
     "latent_z": 101.30999755859375,
-    "duration_seconds": null
+    "duration_seconds": 3521,
+    "duracion": "58:41"
   },
   {
     "id": 164,
@@ -2982,7 +3145,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 35.099998474121094,
     "latent_y": 31.579999923706055,
     "latent_z": 21.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 2173,
+    "duracion": "36:13"
   },
   {
     "id": 165,
@@ -3001,7 +3165,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 38.77000045776367,
     "latent_y": -56.209999084472656,
     "latent_z": 66.69999694824219,
-    "duration_seconds": null
+    "duration_seconds": 410,
+    "duracion": "06:50"
   },
   {
     "id": 166,
@@ -3019,7 +3184,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 119.56999969482422,
     "latent_y": 29.360000610351562,
     "latent_z": -17.18000030517578,
-    "duration_seconds": null
+    "duration_seconds": 710,
+    "duracion": "11:50"
   },
   {
     "id": 167,
@@ -3037,7 +3203,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 66.7300033569336,
     "latent_y": 47.31999969482422,
     "latent_z": -23.719999313354492,
-    "duration_seconds": null
+    "duration_seconds": 511,
+    "duracion": "08:31"
   },
   {
     "id": 168,
@@ -3055,7 +3222,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 2.069999933242798,
     "latent_y": 17.809999465942383,
     "latent_z": -74.23999786376953,
-    "duration_seconds": null
+    "duration_seconds": 478,
+    "duracion": "07:58"
   },
   {
     "id": 169,
@@ -3074,7 +3242,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -35.86000061035156,
     "latent_y": 39.58000183105469,
     "latent_z": 101.70999908447266,
-    "duration_seconds": null
+    "duration_seconds": 1490,
+    "duracion": "24:50"
   },
   {
     "id": 170,
@@ -3092,7 +3261,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 30.8700008392334,
     "latent_y": -11.930000305175781,
     "latent_z": -21.579999923706055,
-    "duration_seconds": null
+    "duration_seconds": 2850,
+    "duracion": "47:30"
   },
   {
     "id": 171,
@@ -3110,7 +3280,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -18.420000076293945,
     "latent_y": -104.83999633789062,
     "latent_z": 4.690000057220459,
-    "duration_seconds": null
+    "duration_seconds": 3510,
+    "duracion": "58:30"
   },
   {
     "id": 172,
@@ -3128,7 +3299,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 10.449999809265137,
     "latent_y": -12.15999984741211,
     "latent_z": 68.51000213623047,
-    "duration_seconds": null
+    "duration_seconds": 1528,
+    "duracion": "25:28"
   },
   {
     "id": 173,
@@ -3146,7 +3318,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 50.84000015258789,
     "latent_y": 41.68000030517578,
     "latent_z": 8.430000305175781,
-    "duration_seconds": null
+    "duration_seconds": 533,
+    "duracion": "08:53"
   },
   {
     "id": 174,
@@ -3164,7 +3337,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 81.3499984741211,
     "latent_y": 62.88999938964844,
     "latent_z": -51.689998626708984,
-    "duration_seconds": null
+    "duration_seconds": 837,
+    "duracion": "13:57"
   },
   {
     "id": 175,
@@ -3183,7 +3357,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -60.04999923706055,
     "latent_y": -67.33999633789062,
     "latent_z": 42.25,
-    "duration_seconds": null
+    "duration_seconds": 810,
+    "duracion": "13:30"
   },
   {
     "id": 176,
@@ -3201,7 +3376,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 15.180000305175781,
     "latent_y": 9.0600004196167,
     "latent_z": -83.52999877929688,
-    "duration_seconds": null
+    "duration_seconds": 823,
+    "duracion": "13:43"
   },
   {
     "id": 177,
@@ -3219,7 +3395,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -59.31999969482422,
     "latent_y": 58.119998931884766,
     "latent_z": 11.430000305175781,
-    "duration_seconds": null
+    "duration_seconds": 93,
+    "duracion": "01:33"
   },
   {
     "id": 178,
@@ -3238,7 +3415,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 54.7400016784668,
     "latent_y": 33.790000915527344,
     "latent_z": -61.959999084472656,
-    "duration_seconds": null
+    "duration_seconds": 777,
+    "duracion": "12:57"
   },
   {
     "id": 179,
@@ -3256,7 +3434,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -39.150001525878906,
     "latent_y": -105.86000061035156,
     "latent_z": 23.399999618530273,
-    "duration_seconds": null
+    "duration_seconds": 214,
+    "duracion": "03:34"
   },
   {
     "id": 180,
@@ -3274,7 +3453,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 116.18000030517578,
     "latent_y": 43.220001220703125,
     "latent_z": 8.5,
-    "duration_seconds": null
+    "duration_seconds": 454,
+    "duracion": "07:34"
   },
   {
     "id": 181,
@@ -3293,7 +3473,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -4.800000190734863,
     "latent_y": 84.33000183105469,
     "latent_z": 54.90999984741211,
-    "duration_seconds": null
+    "duration_seconds": 890,
+    "duracion": "14:50"
   },
   {
     "id": 182,
@@ -3311,7 +3492,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -49.25,
     "latent_y": -22.030000686645508,
     "latent_z": 108.93000030517578,
-    "duration_seconds": null
+    "duration_seconds": 536,
+    "duracion": "08:56"
   },
   {
     "id": 183,
@@ -3329,7 +3511,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 47.63999938964844,
     "latent_y": -5.820000171661377,
     "latent_z": -13.5,
-    "duration_seconds": null
+    "duration_seconds": 30998,
+    "duracion": "08:36:38"
   },
   {
     "id": 184,
@@ -3348,7 +3531,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -65.20999908447266,
     "latent_y": -75.0,
     "latent_z": 5.079999923706055,
-    "duration_seconds": null
+    "duration_seconds": 430,
+    "duracion": "07:10"
   },
   {
     "id": 185,
@@ -3366,7 +3550,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 35.22999954223633,
     "latent_y": 71.7300033569336,
     "latent_z": -5.5,
-    "duration_seconds": null
+    "duration_seconds": 1303,
+    "duracion": "21:43"
   },
   {
     "id": 186,
@@ -3384,7 +3569,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -44.970001220703125,
     "latent_y": -9.380000114440918,
     "latent_z": 120.0,
-    "duration_seconds": null
+    "duration_seconds": 259,
+    "duracion": "04:19"
   },
   {
     "id": 187,
@@ -3402,7 +3588,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -65.44999694824219,
     "latent_y": 17.329999923706055,
     "latent_z": -46.41999816894531,
-    "duration_seconds": null
+    "duration_seconds": 583,
+    "duracion": "09:43"
   },
   {
     "id": 188,
@@ -3420,7 +3607,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -40.91999816894531,
     "latent_y": -19.649999618530273,
     "latent_z": -40.810001373291016,
-    "duration_seconds": null
+    "duration_seconds": 1307,
+    "duracion": "21:47"
   },
   {
     "id": 189,
@@ -3438,7 +3626,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -58.130001068115234,
     "latent_y": -16.75,
     "latent_z": -43.290000915527344,
-    "duration_seconds": null
+    "duration_seconds": 768,
+    "duracion": "12:48"
   },
   {
     "id": 190,
@@ -3456,7 +3645,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 75.91000366210938,
     "latent_y": 11.3100004196167,
     "latent_z": 7.75,
-    "duration_seconds": null
+    "duration_seconds": 639,
+    "duracion": "10:39"
   },
   {
     "id": 191,
@@ -3474,7 +3664,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 26.5,
     "latent_y": 18.829999923706055,
     "latent_z": -9.770000457763672,
-    "duration_seconds": null
+    "duration_seconds": 489,
+    "duracion": "08:09"
   },
   {
     "id": 192,
@@ -3492,7 +3683,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -54.47999954223633,
     "latent_y": 72.79000091552734,
     "latent_z": 4.630000114440918,
-    "duration_seconds": null
+    "duration_seconds": 1235,
+    "duracion": "20:35"
   },
   {
     "id": 193,
@@ -3510,7 +3702,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -70.44000244140625,
     "latent_y": 54.36000061035156,
     "latent_z": -3.930000066757202,
-    "duration_seconds": null
+    "duration_seconds": 1293,
+    "duracion": "21:33"
   },
   {
     "id": 194,
@@ -3528,7 +3721,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 89.44000244140625,
     "latent_y": 40.06999969482422,
     "latent_z": 4.809999942779541,
-    "duration_seconds": null
+    "duration_seconds": 346,
+    "duracion": "05:46"
   },
   {
     "id": 195,
@@ -3546,7 +3740,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -55.040000915527344,
     "latent_y": -29.5,
     "latent_z": 99.68000030517578,
-    "duration_seconds": null
+    "duration_seconds": 766,
+    "duracion": "12:46"
   },
   {
     "id": 196,
@@ -3564,7 +3759,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -39.40999984741211,
     "latent_y": 82.68000030517578,
     "latent_z": 16.8799991607666,
-    "duration_seconds": null
+    "duration_seconds": 148,
+    "duracion": "02:28"
   },
   {
     "id": 197,
@@ -3582,7 +3778,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -9.09000015258789,
     "latent_y": -14.619999885559082,
     "latent_z": 91.13999938964844,
-    "duration_seconds": null
+    "duration_seconds": 1944,
+    "duracion": "32:24"
   },
   {
     "id": 198,
@@ -3600,7 +3797,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -1.2400000095367432,
     "latent_y": -42.290000915527344,
     "latent_z": 88.37000274658203,
-    "duration_seconds": null
+    "duration_seconds": 1166,
+    "duracion": "19:26"
   },
   {
     "id": 199,
@@ -3619,7 +3817,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -51.790000915527344,
     "latent_y": -57.61000061035156,
     "latent_z": 25.549999237060547,
-    "duration_seconds": null
+    "duration_seconds": 448,
+    "duracion": "07:28"
   },
   {
     "id": 200,
@@ -3637,7 +3836,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 50.59000015258789,
     "latent_y": 28.010000228881836,
     "latent_z": -15.859999656677246,
-    "duration_seconds": null
+    "duration_seconds": 726,
+    "duracion": "12:06"
   },
   {
     "id": 201,
@@ -3655,7 +3855,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 17.43000030517578,
     "latent_y": 3.680000066757202,
     "latent_z": 2.690000057220459,
-    "duration_seconds": null
+    "duration_seconds": 5301,
+    "duracion": "01:28:21"
   },
   {
     "id": 202,
@@ -3673,7 +3874,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 75.55999755859375,
     "latent_y": 15.289999961853027,
     "latent_z": -30.979999542236328,
-    "duration_seconds": null
+    "duration_seconds": 98,
+    "duracion": "01:38"
   },
   {
     "id": 203,
@@ -3692,7 +3894,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -19.440000534057617,
     "latent_y": 88.12000274658203,
     "latent_z": 54.189998626708984,
-    "duration_seconds": null
+    "duration_seconds": 3134,
+    "duracion": "52:14"
   },
   {
     "id": 204,
@@ -3710,7 +3913,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 0.7300000190734863,
     "latent_y": 21.5,
     "latent_z": -35.0099983215332,
-    "duration_seconds": null
+    "duration_seconds": 696,
+    "duracion": "11:36"
   },
   {
     "id": 205,
@@ -3729,7 +3933,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 31.6299991607666,
     "latent_y": -6.239999771118164,
     "latent_z": 95.08999633789062,
-    "duration_seconds": null
+    "duration_seconds": 1357,
+    "duracion": "22:37"
   },
   {
     "id": 206,
@@ -3747,7 +3952,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 110.4800033569336,
     "latent_y": 11.640000343322754,
     "latent_z": 54.4900016784668,
-    "duration_seconds": null
+    "duration_seconds": 4213,
+    "duracion": "01:10:13"
   },
   {
     "id": 207,
@@ -3765,7 +3971,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 74.58999633789062,
     "latent_y": -9.539999961853027,
     "latent_z": -8.380000114440918,
-    "duration_seconds": null
+    "duration_seconds": 876,
+    "duracion": "14:36"
   },
   {
     "id": 208,
@@ -3783,7 +3990,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 8.300000190734863,
     "latent_y": 23.90999984741211,
     "latent_z": -111.91999816894531,
-    "duration_seconds": null
+    "duration_seconds": 264,
+    "duracion": "04:24"
   },
   {
     "id": 209,
@@ -3801,7 +4009,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -35.68000030517578,
     "latent_y": 66.22000122070312,
     "latent_z": 4.880000114440918,
-    "duration_seconds": null
+    "duration_seconds": 2095,
+    "duracion": "34:55"
   },
   {
     "id": 210,
@@ -3819,7 +4028,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 11.359999656677246,
     "latent_y": -62.459999084472656,
     "latent_z": -19.18000030517578,
-    "duration_seconds": null
+    "duration_seconds": 964,
+    "duracion": "16:04"
   },
   {
     "id": 211,
@@ -3837,7 +4047,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -79.41000366210938,
     "latent_y": -21.780000686645508,
     "latent_z": 13.300000190734863,
-    "duration_seconds": null
+    "duration_seconds": 699,
+    "duracion": "11:39"
   },
   {
     "id": 212,
@@ -3855,7 +4066,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -37.209999084472656,
     "latent_y": -90.11000061035156,
     "latent_z": 1.0499999523162842,
-    "duration_seconds": null
+    "duration_seconds": 367,
+    "duracion": "06:07"
   },
   {
     "id": 213,
@@ -3873,7 +4085,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 67.11000061035156,
     "latent_y": 14.729999542236328,
     "latent_z": -8.869999885559082,
-    "duration_seconds": null
+    "duration_seconds": 2336,
+    "duracion": "38:56"
   },
   {
     "id": 214,
@@ -3891,7 +4104,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -15.930000305175781,
     "latent_y": -87.93000030517578,
     "latent_z": 9.859999656677246,
-    "duration_seconds": null
+    "duration_seconds": 647,
+    "duracion": "10:47"
   },
   {
     "id": 215,
@@ -3910,7 +4124,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -34.279998779296875,
     "latent_y": -65.9800033569336,
     "latent_z": 24.780000686645508,
-    "duration_seconds": null
+    "duration_seconds": 412,
+    "duracion": "06:52"
   },
   {
     "id": 216,
@@ -3928,7 +4143,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 48.619998931884766,
     "latent_y": 18.040000915527344,
     "latent_z": -2.4100000858306885,
-    "duration_seconds": null
+    "duration_seconds": 1150,
+    "duracion": "19:10"
   },
   {
     "id": 217,
@@ -3947,7 +4163,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -47.16999816894531,
     "latent_y": -44.68000030517578,
     "latent_z": 2.0,
-    "duration_seconds": null
+    "duration_seconds": 1068,
+    "duracion": "17:48"
   },
   {
     "id": 218,
@@ -3965,7 +4182,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 113.08999633789062,
     "latent_y": 31.899999618530273,
     "latent_z": -25.5,
-    "duration_seconds": null
+    "duration_seconds": 760,
+    "duracion": "12:40"
   },
   {
     "id": 219,
@@ -3983,7 +4201,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -73.62000274658203,
     "latent_y": 7.659999847412109,
     "latent_z": -54.18000030517578,
-    "duration_seconds": null
+    "duration_seconds": 942,
+    "duracion": "15:42"
   },
   {
     "id": 220,
@@ -4001,7 +4220,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -22.979999542236328,
     "latent_y": 4.429999828338623,
     "latent_z": 82.87000274658203,
-    "duration_seconds": null
+    "duration_seconds": 1017,
+    "duracion": "16:57"
   },
   {
     "id": 221,
@@ -4019,7 +4239,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 4.090000152587891,
     "latent_y": -29.989999771118164,
     "latent_z": 94.62999725341797,
-    "duration_seconds": null
+    "duration_seconds": 876,
+    "duracion": "14:36"
   },
   {
     "id": 222,
@@ -4037,7 +4258,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -18.959999084472656,
     "latent_y": 75.66999816894531,
     "latent_z": 15.9399995803833,
-    "duration_seconds": null
+    "duration_seconds": 1168,
+    "duracion": "19:28"
   },
   {
     "id": 223,
@@ -4055,7 +4277,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -30.450000762939453,
     "latent_y": 10.710000038146973,
     "latent_z": 96.0999984741211,
-    "duration_seconds": null
+    "duration_seconds": 259,
+    "duracion": "04:19"
   },
   {
     "id": 224,
@@ -4073,7 +4296,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 22.190000534057617,
     "latent_y": 24.389999389648438,
     "latent_z": 83.70999908447266,
-    "duration_seconds": null
+    "duration_seconds": 426,
+    "duracion": "07:06"
   },
   {
     "id": 225,
@@ -4091,7 +4315,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 45.65999984741211,
     "latent_y": 12.920000076293945,
     "latent_z": 53.720001220703125,
-    "duration_seconds": null
+    "duration_seconds": 1045,
+    "duracion": "17:25"
   },
   {
     "id": 226,
@@ -4109,7 +4334,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 28.040000915527344,
     "latent_y": 97.9000015258789,
     "latent_z": 32.79999923706055,
-    "duration_seconds": null
+    "duration_seconds": 190,
+    "duracion": "03:10"
   },
   {
     "id": 227,
@@ -4127,7 +4353,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 80.56999969482422,
     "latent_y": -10.829999923706055,
     "latent_z": 59.84000015258789,
-    "duration_seconds": null
+    "duration_seconds": 215,
+    "duracion": "03:35"
   },
   {
     "id": 228,
@@ -4145,7 +4372,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -91.61000061035156,
     "latent_y": 85.06999969482422,
     "latent_z": 25.530000686645508,
-    "duration_seconds": null
+    "duration_seconds": 531,
+    "duracion": "08:51"
   },
   {
     "id": 229,
@@ -4163,7 +4391,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -0.25,
     "latent_y": 20.690000534057617,
     "latent_z": 89.91999816894531,
-    "duration_seconds": null
+    "duration_seconds": 612,
+    "duracion": "10:12"
   },
   {
     "id": 230,
@@ -4181,7 +4410,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 1.9900000095367432,
     "latent_y": 37.86000061035156,
     "latent_z": -0.7900000214576721,
-    "duration_seconds": null
+    "duration_seconds": 613,
+    "duracion": "10:13"
   },
   {
     "id": 231,
@@ -4199,7 +4429,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -28.0,
     "latent_y": -94.80999755859375,
     "latent_z": 32.95000076293945,
-    "duration_seconds": null
+    "duration_seconds": 403,
+    "duracion": "06:43"
   },
   {
     "id": 232,
@@ -4217,7 +4448,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 105.58999633789062,
     "latent_y": 15.829999923706055,
     "latent_z": 14.989999771118164,
-    "duration_seconds": null
+    "duration_seconds": 671,
+    "duracion": "11:11"
   },
   {
     "id": 233,
@@ -4235,7 +4467,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -1.4600000381469727,
     "latent_y": -3.180000066757202,
     "latent_z": -23.290000915527344,
-    "duration_seconds": null
+    "duration_seconds": 1410,
+    "duracion": "23:30"
   },
   {
     "id": 234,
@@ -4253,7 +4486,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 28.90999984741211,
     "latent_y": 4.920000076293945,
     "latent_z": -47.0099983215332,
-    "duration_seconds": null
+    "duration_seconds": 966,
+    "duracion": "16:06"
   },
   {
     "id": 235,
@@ -4272,7 +4506,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -75.30000305175781,
     "latent_y": -64.86000061035156,
     "latent_z": 35.70000076293945,
-    "duration_seconds": null
+    "duration_seconds": 1156,
+    "duracion": "19:16"
   },
   {
     "id": 236,
@@ -4290,7 +4525,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 2.390000104904175,
     "latent_y": -16.8799991607666,
     "latent_z": -11.390000343322754,
-    "duration_seconds": null
+    "duration_seconds": 2117,
+    "duracion": "35:17"
   },
   {
     "id": 237,
@@ -4308,7 +4544,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 81.81999969482422,
     "latent_y": 45.189998626708984,
     "latent_z": -31.479999542236328,
-    "duration_seconds": null
+    "duration_seconds": 204,
+    "duracion": "03:24"
   },
   {
     "id": 238,
@@ -4327,7 +4564,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -29.809999465942383,
     "latent_y": -68.06999969482422,
     "latent_z": 10.5600004196167,
-    "duration_seconds": null
+    "duration_seconds": 6018,
+    "duracion": "01:40:18"
   },
   {
     "id": 239,
@@ -4345,7 +4583,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 5.070000171661377,
     "latent_y": 62.849998474121094,
     "latent_z": -97.55000305175781,
-    "duration_seconds": null
+    "duration_seconds": 1183,
+    "duracion": "19:43"
   },
   {
     "id": 240,
@@ -4363,7 +4602,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -88.20999908447266,
     "latent_y": 60.41999816894531,
     "latent_z": 6.760000228881836,
-    "duration_seconds": null
+    "duration_seconds": 74,
+    "duracion": "01:14"
   },
   {
     "id": 241,
@@ -4383,7 +4623,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -71.22000122070312,
     "latent_y": -31.06999969482422,
     "latent_z": -19.440000534057617,
-    "duration_seconds": null
+    "duration_seconds": 48,
+    "duracion": "00:48"
   },
   {
     "id": 242,
@@ -4401,7 +4642,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -50.0,
     "latent_y": -31.18000030517578,
     "latent_z": -50.959999084472656,
-    "duration_seconds": null
+    "duration_seconds": 481,
+    "duracion": "08:01"
   },
   {
     "id": 243,
@@ -4419,7 +4661,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -66.76000213623047,
     "latent_y": 97.83000183105469,
     "latent_z": -0.28999999165534973,
-    "duration_seconds": null
+    "duration_seconds": 1156,
+    "duracion": "19:16"
   },
   {
     "id": 244,
@@ -4437,7 +4680,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -31.299999237060547,
     "latent_y": -16.360000610351562,
     "latent_z": 99.12999725341797,
-    "duration_seconds": null
+    "duration_seconds": 3076,
+    "duracion": "51:16"
   },
   {
     "id": 245,
@@ -4455,7 +4699,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -78.04000091552734,
     "latent_y": 64.13999938964844,
     "latent_z": 60.900001525878906,
-    "duration_seconds": null
+    "duration_seconds": 2670,
+    "duracion": "44:30"
   },
   {
     "id": 246,
@@ -4473,7 +4718,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -37.209999084472656,
     "latent_y": -90.11000061035156,
     "latent_z": 1.0499999523162842,
-    "duration_seconds": null
+    "duration_seconds": 273,
+    "duracion": "04:33"
   },
   {
     "id": 247,
@@ -4491,7 +4737,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 95.19999694824219,
     "latent_y": 65.05999755859375,
     "latent_z": -9.300000190734863,
-    "duration_seconds": null
+    "duration_seconds": 1421,
+    "duracion": "23:41"
   },
   {
     "id": 248,
@@ -4510,7 +4757,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -90.37000274658203,
     "latent_y": -12.920000076293945,
     "latent_z": -17.290000915527344,
-    "duration_seconds": null
+    "duration_seconds": 275,
+    "duracion": "04:35"
   },
   {
     "id": 249,
@@ -4528,7 +4776,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -75.41000366210938,
     "latent_y": 103.63999938964844,
     "latent_z": 32.880001068115234,
-    "duration_seconds": null
+    "duration_seconds": 402,
+    "duracion": "06:42"
   },
   {
     "id": 250,
@@ -4546,7 +4795,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 39.56999969482422,
     "latent_y": 8.15999984741211,
     "latent_z": 32.900001525878906,
-    "duration_seconds": null
+    "duration_seconds": 644,
+    "duracion": "10:44"
   },
   {
     "id": 251,
@@ -4564,7 +4814,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -108.98999786376953,
     "latent_y": 89.98999786376953,
     "latent_z": 8.720000267028809,
-    "duration_seconds": null
+    "duration_seconds": 150,
+    "duracion": "02:30"
   },
   {
     "id": 252,
@@ -4582,7 +4833,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 92.91999816894531,
     "latent_y": -25.979999542236328,
     "latent_z": 13.010000228881836,
-    "duration_seconds": null
+    "duration_seconds": 2308,
+    "duracion": "38:28"
   },
   {
     "id": 253,
@@ -4601,7 +4853,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -73.55000305175781,
     "latent_y": -34.54999923706055,
     "latent_z": -41.88999938964844,
-    "duration_seconds": null
+    "duration_seconds": 837,
+    "duracion": "13:57"
   },
   {
     "id": 254,
@@ -4619,7 +4872,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 9.970000267028809,
     "latent_y": 23.469999313354492,
     "latent_z": -41.310001373291016,
-    "duration_seconds": null
+    "duration_seconds": 830,
+    "duracion": "13:50"
   },
   {
     "id": 255,
@@ -4638,7 +4892,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -112.23999786376953,
     "latent_y": 17.360000610351562,
     "latent_z": -33.77000045776367,
-    "duration_seconds": null
+    "duration_seconds": 229,
+    "duracion": "03:49"
   },
   {
     "id": 256,
@@ -4657,7 +4912,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -73.0199966430664,
     "latent_y": -79.94999694824219,
     "latent_z": 24.709999084472656,
-    "duration_seconds": null
+    "duration_seconds": 129,
+    "duracion": "02:09"
   },
   {
     "id": 257,
@@ -4675,7 +4931,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -29.3700008392334,
     "latent_y": 8.430000305175781,
     "latent_z": 108.7300033569336,
-    "duration_seconds": null
+    "duration_seconds": 193,
+    "duracion": "03:13"
   },
   {
     "id": 258,
@@ -4694,7 +4951,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -48.43000030517578,
     "latent_y": -11.210000038146973,
     "latent_z": 25.18000030517578,
-    "duration_seconds": null
+    "duration_seconds": 3646,
+    "duracion": "01:00:46"
   },
   {
     "id": 259,
@@ -4713,7 +4971,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -66.69999694824219,
     "latent_y": 4.5,
     "latent_z": 62.7599983215332,
-    "duration_seconds": null
+    "duration_seconds": 107,
+    "duracion": "01:47"
   },
   {
     "id": 260,
@@ -4732,7 +4991,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -106.12999725341797,
     "latent_y": 20.579999923706055,
     "latent_z": -19.6200008392334,
-    "duration_seconds": null
+    "duration_seconds": 1773,
+    "duracion": "29:33"
   },
   {
     "id": 261,
@@ -4750,7 +5010,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -84.04000091552734,
     "latent_y": 74.41999816894531,
     "latent_z": 51.439998626708984,
-    "duration_seconds": null
+    "duration_seconds": 1956,
+    "duracion": "32:36"
   },
   {
     "id": 262,
@@ -4768,7 +5029,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -26.75,
     "latent_y": -19.299999237060547,
     "latent_z": 62.75,
-    "duration_seconds": null
+    "duration_seconds": 1031,
+    "duracion": "17:11"
   },
   {
     "id": 263,
@@ -4786,7 +5048,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -64.97000122070312,
     "latent_y": 13.390000343322754,
     "latent_z": -84.91000366210938,
-    "duration_seconds": null
+    "duration_seconds": 703,
+    "duracion": "11:43"
   },
   {
     "id": 264,
@@ -4804,7 +5067,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 68.25,
     "latent_y": 37.68000030517578,
     "latent_z": 9.859999656677246,
-    "duration_seconds": null
+    "duration_seconds": 2096,
+    "duracion": "34:56"
   },
   {
     "id": 265,
@@ -4822,7 +5086,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 7.949999809265137,
     "latent_y": 19.540000915527344,
     "latent_z": -10.770000457763672,
-    "duration_seconds": null
+    "duration_seconds": 3476,
+    "duracion": "57:56"
   },
   {
     "id": 266,
@@ -4840,7 +5105,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -14.640000343322754,
     "latent_y": 10.600000381469727,
     "latent_z": 99.93000030517578,
-    "duration_seconds": null
+    "duration_seconds": 173,
+    "duracion": "02:53"
   },
   {
     "id": 267,
@@ -4858,7 +5124,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -72.37999725341797,
     "latent_y": 67.0999984741211,
     "latent_z": -21.479999542236328,
-    "duration_seconds": null
+    "duration_seconds": 1509,
+    "duracion": "25:09"
   },
   {
     "id": 268,
@@ -4876,7 +5143,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 75.97000122070312,
     "latent_y": 42.06999969482422,
     "latent_z": 29.030000686645508,
-    "duration_seconds": null
+    "duration_seconds": 360,
+    "duracion": "06:00"
   },
   {
     "id": 269,
@@ -4894,7 +5162,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 60.70000076293945,
     "latent_y": 4.579999923706055,
     "latent_z": -26.010000228881836,
-    "duration_seconds": null
+    "duration_seconds": 72,
+    "duracion": "01:12"
   },
   {
     "id": 270,
@@ -4912,7 +5181,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -94.45999908447266,
     "latent_y": 18.31999969482422,
     "latent_z": -61.0099983215332,
-    "duration_seconds": null
+    "duration_seconds": 2130,
+    "duracion": "35:30"
   },
   {
     "id": 271,
@@ -4931,7 +5201,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 63.72999954223633,
     "latent_y": 50.34000015258789,
     "latent_z": -62.189998626708984,
-    "duration_seconds": null
+    "duration_seconds": 267,
+    "duracion": "04:27"
   },
   {
     "id": 272,
@@ -4949,7 +5220,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -94.08000183105469,
     "latent_y": -12.149999618530273,
     "latent_z": -79.05999755859375,
-    "duration_seconds": null
+    "duration_seconds": 385,
+    "duracion": "06:25"
   },
   {
     "id": 273,
@@ -4968,7 +5240,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -35.599998474121094,
     "latent_y": -75.33999633789062,
     "latent_z": 37.7400016784668,
-    "duration_seconds": null
+    "duration_seconds": 360,
+    "duracion": "06:00"
   },
   {
     "id": 274,
@@ -4986,7 +5259,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 15.5,
     "latent_y": 70.41999816894531,
     "latent_z": 14.0,
-    "duration_seconds": null
+    "duration_seconds": 604,
+    "duracion": "10:04"
   },
   {
     "id": 275,
@@ -5004,7 +5278,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -14.010000228881836,
     "latent_y": -88.81999969482422,
     "latent_z": 29.31999969482422,
-    "duration_seconds": null
+    "duration_seconds": 270,
+    "duracion": "04:30"
   },
   {
     "id": 276,
@@ -5022,7 +5297,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 86.0,
     "latent_y": 27.239999771118164,
     "latent_z": -0.6100000143051147,
-    "duration_seconds": null
+    "duration_seconds": 951,
+    "duracion": "15:51"
   },
   {
     "id": 277,
@@ -5041,7 +5317,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -41.060001373291016,
     "latent_y": -55.2400016784668,
     "latent_z": 13.529999732971191,
-    "duration_seconds": null
+    "duration_seconds": 378,
+    "duracion": "06:18"
   },
   {
     "id": 278,
@@ -5059,7 +5336,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -83.75,
     "latent_y": 61.45000076293945,
     "latent_z": 25.309999465942383,
-    "duration_seconds": null
+    "duration_seconds": 617,
+    "duracion": "10:17"
   },
   {
     "id": 279,
@@ -5077,7 +5355,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -19.610000610351562,
     "latent_y": -40.93000030517578,
     "latent_z": 73.01000213623047,
-    "duration_seconds": null
+    "duration_seconds": 245,
+    "duracion": "04:05"
   },
   {
     "id": 280,
@@ -5096,7 +5375,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -73.86000061035156,
     "latent_y": -4.760000228881836,
     "latent_z": 70.75,
-    "duration_seconds": null
+    "duration_seconds": 126,
+    "duracion": "02:06"
   },
   {
     "id": 281,
@@ -5114,7 +5394,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 61.77000045776367,
     "latent_y": -53.380001068115234,
     "latent_z": 24.450000762939453,
-    "duration_seconds": null
+    "duration_seconds": 1111,
+    "duracion": "18:31"
   },
   {
     "id": 282,
@@ -5132,7 +5413,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 89.16999816894531,
     "latent_y": -18.59000015258789,
     "latent_z": 36.869998931884766,
-    "duration_seconds": null
+    "duration_seconds": 1162,
+    "duracion": "19:22"
   },
   {
     "id": 283,
@@ -5150,7 +5432,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 81.12999725341797,
     "latent_y": 63.58000183105469,
     "latent_z": 8.40999984741211,
-    "duration_seconds": null
+    "duration_seconds": 1245,
+    "duracion": "20:45"
   },
   {
     "id": 284,
@@ -5168,7 +5451,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 59.119998931884766,
     "latent_y": 33.630001068115234,
     "latent_z": -96.51000213623047,
-    "duration_seconds": null
+    "duration_seconds": 991,
+    "duracion": "16:31"
   },
   {
     "id": 285,
@@ -5186,7 +5470,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -14.0,
     "latent_y": 20.719999313354492,
     "latent_z": -106.58999633789062,
-    "duration_seconds": null
+    "duration_seconds": 536,
+    "duracion": "08:56"
   },
   {
     "id": 286,
@@ -5204,7 +5489,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -44.150001525878906,
     "latent_y": -3.7799999713897705,
     "latent_z": -40.18000030517578,
-    "duration_seconds": null
+    "duration_seconds": 2837,
+    "duracion": "47:17"
   },
   {
     "id": 287,
@@ -5222,7 +5508,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 33.04999923706055,
     "latent_y": 36.630001068115234,
     "latent_z": -82.80999755859375,
-    "duration_seconds": null
+    "duration_seconds": 1725,
+    "duracion": "28:45"
   },
   {
     "id": 288,
@@ -5240,7 +5527,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 26.520000457763672,
     "latent_y": 8.630000114440918,
     "latent_z": -112.18000030517578,
-    "duration_seconds": null
+    "duration_seconds": 295,
+    "duracion": "04:55"
   },
   {
     "id": 289,
@@ -5258,7 +5546,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -75.81999969482422,
     "latent_y": -18.110000610351562,
     "latent_z": -75.36000061035156,
-    "duration_seconds": null
+    "duration_seconds": 127,
+    "duracion": "02:07"
   },
   {
     "id": 290,
@@ -5276,7 +5565,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -87.05999755859375,
     "latent_y": 90.2300033569336,
     "latent_z": -7.849999904632568,
-    "duration_seconds": null
+    "duration_seconds": 1563,
+    "duracion": "26:03"
   },
   {
     "id": 291,
@@ -5294,7 +5584,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 38.90999984741211,
     "latent_y": 38.36000061035156,
     "latent_z": 50.08000183105469,
-    "duration_seconds": null
+    "duration_seconds": 954,
+    "duracion": "15:54"
   },
   {
     "id": 292,
@@ -5314,7 +5605,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -86.2300033569336,
     "latent_y": -28.739999771118164,
     "latent_z": -26.940000534057617,
-    "duration_seconds": null
+    "duration_seconds": 99,
+    "duracion": "01:39"
   },
   {
     "id": 293,
@@ -5332,7 +5624,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -37.189998626708984,
     "latent_y": -8.1899995803833,
     "latent_z": 88.83000183105469,
-    "duration_seconds": null
+    "duration_seconds": 806,
+    "duracion": "13:26"
   },
   {
     "id": 294,
@@ -5350,7 +5643,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -56.650001525878906,
     "latent_y": 10.569999694824219,
     "latent_z": -32.18000030517578,
-    "duration_seconds": null
+    "duration_seconds": 190,
+    "duracion": "03:10"
   },
   {
     "id": 295,
@@ -5368,7 +5662,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 20.489999771118164,
     "latent_y": 4.320000171661377,
     "latent_z": -23.190000534057617,
-    "duration_seconds": null
+    "duration_seconds": 2520,
+    "duracion": "42:00"
   },
   {
     "id": 296,
@@ -5386,7 +5681,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -46.45000076293945,
     "latent_y": -17.489999771118164,
     "latent_z": -28.729999542236328,
-    "duration_seconds": null
+    "duration_seconds": 1266,
+    "duracion": "21:06"
   },
   {
     "id": 297,
@@ -5404,7 +5700,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 27.6200008392334,
     "latent_y": -17.399999618530273,
     "latent_z": 38.40999984741211,
-    "duration_seconds": null
+    "duration_seconds": 1754,
+    "duracion": "29:14"
   },
   {
     "id": 298,
@@ -5422,7 +5719,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 15.859999656677246,
     "latent_y": -16.1299991607666,
     "latent_z": 13.9399995803833,
-    "duration_seconds": null
+    "duration_seconds": 1192,
+    "duracion": "19:52"
   },
   {
     "id": 299,
@@ -5440,7 +5738,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 91.04000091552734,
     "latent_y": -8.4399995803833,
     "latent_z": 10.449999809265137,
-    "duration_seconds": null
+    "duration_seconds": 1080,
+    "duracion": "18:00"
   },
   {
     "id": 300,
@@ -5458,7 +5757,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 36.34000015258789,
     "latent_y": 55.04999923706055,
     "latent_z": 29.959999084472656,
-    "duration_seconds": null
+    "duration_seconds": 697,
+    "duracion": "11:37"
   },
   {
     "id": 301,
@@ -5476,7 +5776,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 44.22999954223633,
     "latent_y": -17.190000534057617,
     "latent_z": 14.430000305175781,
-    "duration_seconds": null
+    "duration_seconds": 2469,
+    "duracion": "41:09"
   },
   {
     "id": 302,
@@ -5494,7 +5795,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -61.790000915527344,
     "latent_y": 93.3499984741211,
     "latent_z": -20.979999542236328,
-    "duration_seconds": null
+    "duration_seconds": 382,
+    "duracion": "06:22"
   },
   {
     "id": 303,
@@ -5512,7 +5814,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -13.569999694824219,
     "latent_y": -11.239999771118164,
     "latent_z": 58.06999969482422,
-    "duration_seconds": null
+    "duration_seconds": 1065,
+    "duracion": "17:45"
   },
   {
     "id": 304,
@@ -5530,7 +5833,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -54.310001373291016,
     "latent_y": -2.4200000762939453,
     "latent_z": -51.0,
-    "duration_seconds": null
+    "duration_seconds": 283,
+    "duracion": "04:43"
   },
   {
     "id": 305,
@@ -5548,7 +5852,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -17.290000915527344,
     "latent_y": -106.5,
     "latent_z": 18.010000228881836,
-    "duration_seconds": null
+    "duration_seconds": 650,
+    "duracion": "10:50"
   },
   {
     "id": 306,
@@ -5566,7 +5871,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -37.099998474121094,
     "latent_y": -120.0,
     "latent_z": 14.819999694824219,
-    "duration_seconds": null
+    "duration_seconds": 240,
+    "duracion": "04:00"
   },
   {
     "id": 307,
@@ -5585,7 +5891,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -52.459999084472656,
     "latent_y": -75.25,
     "latent_z": 26.84000015258789,
-    "duration_seconds": null
+    "duration_seconds": 508,
+    "duracion": "08:28"
   },
   {
     "id": 308,
@@ -5604,7 +5911,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -28.90999984741211,
     "latent_y": -41.310001373291016,
     "latent_z": 11.380000114440918,
-    "duration_seconds": null
+    "duration_seconds": 482,
+    "duracion": "08:02"
   },
   {
     "id": 309,
@@ -5622,7 +5930,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 7.329999923706055,
     "latent_y": -57.91999816894531,
     "latent_z": -38.09000015258789,
-    "duration_seconds": null
+    "duration_seconds": 95,
+    "duracion": "01:35"
   },
   {
     "id": 310,
@@ -5640,7 +5949,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -38.970001220703125,
     "latent_y": -115.48999786376953,
     "latent_z": -2.200000047683716,
-    "duration_seconds": null
+    "duration_seconds": 724,
+    "duracion": "12:04"
   },
   {
     "id": 311,
@@ -5658,7 +5968,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -99.08999633789062,
     "latent_y": -10.850000381469727,
     "latent_z": -45.7400016784668,
-    "duration_seconds": null
+    "duration_seconds": 843,
+    "duracion": "14:03"
   },
   {
     "id": 312,
@@ -5676,7 +5987,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 14.199999809265137,
     "latent_y": 43.150001525878906,
     "latent_z": -7.199999809265137,
-    "duration_seconds": null
+    "duration_seconds": 944,
+    "duracion": "15:44"
   },
   {
     "id": 313,
@@ -5694,7 +6006,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -31.260000228881836,
     "latent_y": -3.559999942779541,
     "latent_z": 71.4000015258789,
-    "duration_seconds": null
+    "duration_seconds": 1672,
+    "duracion": "27:52"
   },
   {
     "id": 314,
@@ -5713,7 +6026,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -20.100000381469727,
     "latent_y": -61.33000183105469,
     "latent_z": 33.52000045776367,
-    "duration_seconds": null
+    "duration_seconds": 400,
+    "duracion": "06:40"
   },
   {
     "id": 315,
@@ -5731,7 +6045,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -31.399999618530273,
     "latent_y": -20.950000762939453,
     "latent_z": -67.1500015258789,
-    "duration_seconds": null
+    "duration_seconds": 730,
+    "duracion": "12:10"
   },
   {
     "id": 316,
@@ -5749,7 +6064,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -49.709999084472656,
     "latent_y": -20.110000610351562,
     "latent_z": -71.54000091552734,
-    "duration_seconds": null
+    "duration_seconds": 900,
+    "duracion": "15:00"
   },
   {
     "id": 317,
@@ -5767,7 +6083,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -78.66999816894531,
     "latent_y": 2.680000066757202,
     "latent_z": -69.20999908447266,
-    "duration_seconds": null
+    "duration_seconds": 392,
+    "duracion": "06:32"
   },
   {
     "id": 318,
@@ -5785,7 +6102,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -8.619999885559082,
     "latent_y": -29.520000457763672,
     "latent_z": 64.77999877929688,
-    "duration_seconds": null
+    "duration_seconds": 1600,
+    "duracion": "26:40"
   },
   {
     "id": 319,
@@ -5803,7 +6121,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 14.90999984741211,
     "latent_y": -19.100000381469727,
     "latent_z": 83.33000183105469,
-    "duration_seconds": null
+    "duration_seconds": 2994,
+    "duracion": "49:54"
   },
   {
     "id": 320,
@@ -5821,7 +6140,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -50.369998931884766,
     "latent_y": 69.80000305175781,
     "latent_z": 16.8799991607666,
-    "duration_seconds": null
+    "duration_seconds": 999,
+    "duracion": "16:39"
   },
   {
     "id": 321,
@@ -5840,7 +6160,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -98.63999938964844,
     "latent_y": 31.100000381469727,
     "latent_z": -37.68000030517578,
-    "duration_seconds": null
+    "duration_seconds": 543,
+    "duracion": "09:03"
   },
   {
     "id": 322,
@@ -5858,7 +6179,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -26.270000457763672,
     "latent_y": -14.029999732971191,
     "latent_z": 79.18000030517578,
-    "duration_seconds": null
+    "duration_seconds": 1034,
+    "duracion": "17:14"
   },
   {
     "id": 323,
@@ -5876,7 +6198,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -102.08000183105469,
     "latent_y": 66.33999633789062,
     "latent_z": -12.430000305175781,
-    "duration_seconds": null
+    "duration_seconds": 157,
+    "duracion": "02:37"
   },
   {
     "id": 324,
@@ -5895,7 +6218,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -21.6299991607666,
     "latent_y": 71.0,
     "latent_z": 51.630001068115234,
-    "duration_seconds": null
+    "duration_seconds": 588,
+    "duracion": "09:48"
   },
   {
     "id": 325,
@@ -5914,7 +6238,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -120.0,
     "latent_y": 63.06999969482422,
     "latent_z": 19.739999771118164,
-    "duration_seconds": null
+    "duration_seconds": 785,
+    "duracion": "13:05"
   },
   {
     "id": 326,
@@ -5932,7 +6257,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -53.630001068115234,
     "latent_y": -7.559999942779541,
     "latent_z": -63.52000045776367,
-    "duration_seconds": null
+    "duration_seconds": 1064,
+    "duracion": "17:44"
   },
   {
     "id": 327,
@@ -5952,7 +6278,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -44.189998626708984,
     "latent_y": -24.68000030517578,
     "latent_z": 26.1200008392334,
-    "duration_seconds": null
+    "duration_seconds": 324,
+    "duracion": "05:24"
   },
   {
     "id": 328,
@@ -5970,7 +6297,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 92.3499984741211,
     "latent_y": 54.380001068115234,
     "latent_z": 22.030000686645508,
-    "duration_seconds": null
+    "duration_seconds": 1051,
+    "duracion": "17:31"
   },
   {
     "id": 329,
@@ -5989,7 +6317,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 51.790000915527344,
     "latent_y": 44.880001068115234,
     "latent_z": -69.87999725341797,
-    "duration_seconds": null
+    "duration_seconds": 887,
+    "duracion": "14:47"
   },
   {
     "id": 330,
@@ -6007,7 +6336,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 49.310001373291016,
     "latent_y": 21.530000686645508,
     "latent_z": -83.56999969482422,
-    "duration_seconds": null
+    "duration_seconds": 2605,
+    "duracion": "43:25"
   },
   {
     "id": 331,
@@ -6025,7 +6355,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 18.389999389648438,
     "latent_y": -67.19000244140625,
     "latent_z": -31.1299991607666,
-    "duration_seconds": null
+    "duration_seconds": 596,
+    "duracion": "09:56"
   },
   {
     "id": 332,
@@ -6043,7 +6374,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 75.61000061035156,
     "latent_y": 99.58999633789062,
     "latent_z": 5.03000020980835,
-    "duration_seconds": null
+    "duration_seconds": 158,
+    "duracion": "02:38"
   },
   {
     "id": 333,
@@ -6061,7 +6393,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -1.6200000047683716,
     "latent_y": 39.689998626708984,
     "latent_z": -71.61000061035156,
-    "duration_seconds": null
+    "duration_seconds": 546,
+    "duracion": "09:06"
   },
   {
     "id": 334,
@@ -6079,7 +6412,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -44.380001068115234,
     "latent_y": 65.51000213623047,
     "latent_z": -26.010000228881836,
-    "duration_seconds": null
+    "duration_seconds": 3854,
+    "duracion": "01:04:14"
   },
   {
     "id": 335,
@@ -6098,7 +6432,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -107.31999969482422,
     "latent_y": 48.2599983215332,
     "latent_z": 23.979999542236328,
-    "duration_seconds": null
+    "duration_seconds": 56,
+    "duracion": "00:56"
   },
   {
     "id": 336,
@@ -6116,7 +6451,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -57.13999938964844,
     "latent_y": 78.33000183105469,
     "latent_z": 27.700000762939453,
-    "duration_seconds": null
+    "duration_seconds": 997,
+    "duracion": "16:37"
   },
   {
     "id": 337,
@@ -6136,7 +6472,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -16.6200008392334,
     "latent_y": -29.079999923706055,
     "latent_z": -48.47999954223633,
-    "duration_seconds": null
+    "duration_seconds": 558,
+    "duracion": "09:18"
   },
   {
     "id": 338,
@@ -6156,7 +6493,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -88.11000061035156,
     "latent_y": 28.239999771118164,
     "latent_z": -17.649999618530273,
-    "duration_seconds": null
+    "duration_seconds": 784,
+    "duracion": "13:04"
   },
   {
     "id": 339,
@@ -6175,7 +6513,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -80.16000366210938,
     "latent_y": -7.349999904632568,
     "latent_z": -24.360000610351562,
-    "duration_seconds": null
+    "duration_seconds": 58,
+    "duracion": "00:58"
   },
   {
     "id": 340,
@@ -6193,7 +6532,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 50.61000061035156,
     "latent_y": 31.520000457763672,
     "latent_z": -28.260000228881836,
-    "duration_seconds": null
+    "duration_seconds": 1635,
+    "duracion": "27:15"
   },
   {
     "id": 341,
@@ -6212,7 +6552,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -30.459999084472656,
     "latent_y": 79.23999786376953,
     "latent_z": 57.36000061035156,
-    "duration_seconds": null
+    "duration_seconds": 462,
+    "duracion": "07:42"
   },
   {
     "id": 342,
@@ -6230,7 +6571,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -59.439998626708984,
     "latent_y": 59.25,
     "latent_z": 27.90999984741211,
-    "duration_seconds": null
+    "duration_seconds": 1282,
+    "duracion": "21:22"
   },
   {
     "id": 343,
@@ -6248,7 +6590,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -49.06999969482422,
     "latent_y": -24.90999984741211,
     "latent_z": 69.13999938964844,
-    "duration_seconds": null
+    "duration_seconds": 392,
+    "duracion": "06:32"
   },
   {
     "id": 344,
@@ -6266,7 +6609,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 22.940000534057617,
     "latent_y": -39.59000015258789,
     "latent_z": -0.8700000047683716,
-    "duration_seconds": null
+    "duration_seconds": 680,
+    "duracion": "11:20"
   },
   {
     "id": 345,
@@ -6285,7 +6629,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -47.18000030517578,
     "latent_y": -63.95000076293945,
     "latent_z": -0.8899999856948853,
-    "duration_seconds": null
+    "duration_seconds": 1174,
+    "duracion": "19:34"
   },
   {
     "id": 346,
@@ -6303,7 +6648,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 38.47999954223633,
     "latent_y": 40.790000915527344,
     "latent_z": -8.279999732971191,
-    "duration_seconds": null
+    "duration_seconds": 850,
+    "duracion": "14:10"
   },
   {
     "id": 347,
@@ -6321,7 +6667,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 8.069999694824219,
     "latent_y": 43.83000183105469,
     "latent_z": -20.290000915527344,
-    "duration_seconds": null
+    "duration_seconds": 397,
+    "duracion": "06:37"
   },
   {
     "id": 348,
@@ -6339,7 +6686,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 57.66999816894531,
     "latent_y": 26.6299991607666,
     "latent_z": 10.930000305175781,
-    "duration_seconds": null
+    "duration_seconds": 1328,
+    "duracion": "22:08"
   },
   {
     "id": 349,
@@ -6357,7 +6705,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 98.87999725341797,
     "latent_y": 54.31999969482422,
     "latent_z": -10.329999923706055,
-    "duration_seconds": null
+    "duration_seconds": 1835,
+    "duracion": "30:35"
   },
   {
     "id": 350,
@@ -6375,7 +6724,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -17.520000457763672,
     "latent_y": -6.539999961853027,
     "latent_z": 109.2300033569336,
-    "duration_seconds": null
+    "duration_seconds": 1466,
+    "duracion": "24:26"
   },
   {
     "id": 351,
@@ -6393,7 +6743,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -98.72000122070312,
     "latent_y": 77.25,
     "latent_z": 5.059999942779541,
-    "duration_seconds": null
+    "duration_seconds": 1446,
+    "duracion": "24:06"
   },
   {
     "id": 352,
@@ -6411,7 +6762,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -67.9800033569336,
     "latent_y": 72.23999786376953,
     "latent_z": 17.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 1632,
+    "duracion": "27:12"
   },
   {
     "id": 353,
@@ -6429,7 +6781,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -39.79999923706055,
     "latent_y": -40.2400016784668,
     "latent_z": -74.52999877929688,
-    "duration_seconds": null
+    "duration_seconds": 430,
+    "duracion": "07:10"
   },
   {
     "id": 354,
@@ -6447,7 +6800,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 57.66999816894531,
     "latent_y": 26.6299991607666,
     "latent_z": 10.930000305175781,
-    "duration_seconds": null
+    "duration_seconds": 1084,
+    "duracion": "18:04"
   },
   {
     "id": 355,
@@ -6465,7 +6819,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 24.309999465942383,
     "latent_y": 59.77000045776367,
     "latent_z": 11.949999809265137,
-    "duration_seconds": null
+    "duration_seconds": 1398,
+    "duracion": "23:18"
   },
   {
     "id": 356,
@@ -6483,7 +6838,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 11.800000190734863,
     "latent_y": 79.62000274658203,
     "latent_z": -27.920000076293945,
-    "duration_seconds": null
+    "duration_seconds": 1036,
+    "duracion": "17:16"
   },
   {
     "id": 357,
@@ -6501,7 +6857,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 6.670000076293945,
     "latent_y": 44.970001220703125,
     "latent_z": 18.979999542236328,
-    "duration_seconds": null
+    "duration_seconds": 595,
+    "duracion": "09:55"
   },
   {
     "id": 358,
@@ -6520,7 +6877,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -83.87999725341797,
     "latent_y": -43.4900016784668,
     "latent_z": -37.75,
-    "duration_seconds": null
+    "duration_seconds": 278,
+    "duracion": "04:38"
   },
   {
     "id": 359,
@@ -6538,7 +6896,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 38.91999816894531,
     "latent_y": 34.970001220703125,
     "latent_z": -97.48999786376953,
-    "duration_seconds": null
+    "duration_seconds": 135,
+    "duracion": "02:15"
   },
   {
     "id": 360,
@@ -6556,7 +6915,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -42.18000030517578,
     "latent_y": -47.290000915527344,
     "latent_z": 80.01000213623047,
-    "duration_seconds": null
+    "duration_seconds": 185,
+    "duracion": "03:05"
   },
   {
     "id": 361,
@@ -6574,7 +6934,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -68.58999633789062,
     "latent_y": -0.5799999833106995,
     "latent_z": -41.63999938964844,
-    "duration_seconds": null
+    "duration_seconds": 711,
+    "duracion": "11:51"
   },
   {
     "id": 362,
@@ -6592,7 +6953,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 35.2400016784668,
     "latent_y": 5.96999979019165,
     "latent_z": -16.15999984741211,
-    "duration_seconds": null
+    "duration_seconds": 13315,
+    "duracion": "03:41:55"
   },
   {
     "id": 363,
@@ -6610,7 +6972,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -48.31999969482422,
     "latent_y": 100.02999877929688,
     "latent_z": 8.930000305175781,
-    "duration_seconds": null
+    "duration_seconds": 655,
+    "duracion": "10:55"
   },
   {
     "id": 364,
@@ -6628,7 +6991,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -49.279998779296875,
     "latent_y": 42.099998474121094,
     "latent_z": 3.319999933242798,
-    "duration_seconds": null
+    "duration_seconds": 903,
+    "duracion": "15:03"
   },
   {
     "id": 365,
@@ -6646,7 +7010,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -52.36000061035156,
     "latent_y": 94.76000213623047,
     "latent_z": 24.920000076293945,
-    "duration_seconds": null
+    "duration_seconds": 2059,
+    "duracion": "34:19"
   },
   {
     "id": 366,
@@ -6665,7 +7030,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -108.87000274658203,
     "latent_y": 32.310001373291016,
     "latent_z": -24.6299991607666,
-    "duration_seconds": null
+    "duration_seconds": 5526,
+    "duracion": "01:32:06"
   },
   {
     "id": 367,
@@ -6683,7 +7049,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 29.209999084472656,
     "latent_y": 49.880001068115234,
     "latent_z": -15.84000015258789,
-    "duration_seconds": null
+    "duration_seconds": 424,
+    "duracion": "07:04"
   },
   {
     "id": 368,
@@ -6702,7 +7069,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 27.739999771118164,
     "latent_y": -46.13999938964844,
     "latent_z": 70.04000091552734,
-    "duration_seconds": null
+    "duration_seconds": 1870,
+    "duracion": "31:10"
   },
   {
     "id": 369,
@@ -6720,7 +7088,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -86.47000122070312,
     "latent_y": 110.51000213623047,
     "latent_z": 29.3700008392334,
-    "duration_seconds": null
+    "duration_seconds": 441,
+    "duracion": "07:21"
   },
   {
     "id": 370,
@@ -6738,7 +7107,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 88.2300033569336,
     "latent_y": 21.670000076293945,
     "latent_z": 41.939998626708984,
-    "duration_seconds": null
+    "duration_seconds": 3435,
+    "duracion": "57:15"
   },
   {
     "id": 371,
@@ -6756,7 +7126,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -52.52000045776367,
     "latent_y": -17.760000228881836,
     "latent_z": 84.51000213623047,
-    "duration_seconds": null
+    "duration_seconds": 439,
+    "duracion": "07:19"
   },
   {
     "id": 372,
@@ -6774,7 +7145,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 19.93000030517578,
     "latent_y": 37.099998474121094,
     "latent_z": -94.70999908447266,
-    "duration_seconds": null
+    "duration_seconds": 759,
+    "duracion": "12:39"
   },
   {
     "id": 373,
@@ -6792,7 +7164,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 45.36000061035156,
     "latent_y": 18.280000686645508,
     "latent_z": -101.48999786376953,
-    "duration_seconds": null
+    "duration_seconds": 1043,
+    "duracion": "17:23"
   },
   {
     "id": 374,
@@ -6811,7 +7184,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -61.47999954223633,
     "latent_y": -45.20000076293945,
     "latent_z": -37.130001068115234,
-    "duration_seconds": null
+    "duration_seconds": 1561,
+    "duracion": "26:01"
   },
   {
     "id": 375,
@@ -6829,7 +7203,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 4.300000190734863,
     "latent_y": 4.949999809265137,
     "latent_z": 19.25,
-    "duration_seconds": null
+    "duration_seconds": 595,
+    "duracion": "09:55"
   },
   {
     "id": 376,
@@ -6847,7 +7222,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -62.560001373291016,
     "latent_y": -20.780000686645508,
     "latent_z": -57.68000030517578,
-    "duration_seconds": null
+    "duration_seconds": 320,
+    "duracion": "05:20"
   },
   {
     "id": 377,
@@ -6865,7 +7241,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 71.2699966430664,
     "latent_y": 35.119998931884766,
     "latent_z": 53.220001220703125,
-    "duration_seconds": null
+    "duration_seconds": 4060,
+    "duracion": "01:07:40"
   },
   {
     "id": 378,
@@ -6883,7 +7260,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -0.5899999737739563,
     "latent_y": -12.640000343322754,
     "latent_z": 32.34000015258789,
-    "duration_seconds": null
+    "duration_seconds": 1220,
+    "duracion": "20:20"
   },
   {
     "id": 379,
@@ -6901,7 +7279,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -82.63999938964844,
     "latent_y": 6.119999885559082,
     "latent_z": -40.150001525878906,
-    "duration_seconds": null
+    "duration_seconds": 245,
+    "duracion": "04:05"
   },
   {
     "id": 380,
@@ -6919,7 +7298,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 58.59000015258789,
     "latent_y": 55.02000045776367,
     "latent_z": 27.479999542236328,
-    "duration_seconds": null
+    "duration_seconds": 136,
+    "duracion": "02:16"
   },
   {
     "id": 381,
@@ -6937,7 +7317,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 54.31999969482422,
     "latent_y": 31.690000534057617,
     "latent_z": 30.360000610351562,
-    "duration_seconds": null
+    "duration_seconds": 394,
+    "duracion": "06:34"
   },
   {
     "id": 382,
@@ -6955,7 +7336,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 71.62999725341797,
     "latent_y": 72.62999725341797,
     "latent_z": 21.899999618530273,
-    "duration_seconds": null
+    "duration_seconds": 2313,
+    "duracion": "38:33"
   },
   {
     "id": 383,
@@ -6973,7 +7355,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 68.44999694824219,
     "latent_y": -44.88999938964844,
     "latent_z": -7.010000228881836,
-    "duration_seconds": null
+    "duration_seconds": 220,
+    "duracion": "03:40"
   },
   {
     "id": 384,
@@ -6991,7 +7374,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 86.13999938964844,
     "latent_y": 24.239999771118164,
     "latent_z": 53.4900016784668,
-    "duration_seconds": null
+    "duration_seconds": 5253,
+    "duracion": "01:27:33"
   },
   {
     "id": 385,
@@ -7011,7 +7395,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -83.36000061035156,
     "latent_y": -35.5099983215332,
     "latent_z": -15.829999923706055,
-    "duration_seconds": null
+    "duration_seconds": 75,
+    "duracion": "01:15"
   },
   {
     "id": 386,
@@ -7029,7 +7414,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -36.47999954223633,
     "latent_y": -10.550000190734863,
     "latent_z": -86.08000183105469,
-    "duration_seconds": null
+    "duration_seconds": 950,
+    "duracion": "15:50"
   },
   {
     "id": 387,
@@ -7047,7 +7433,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 40.72999954223633,
     "latent_y": -25.940000534057617,
     "latent_z": -51.36000061035156,
-    "duration_seconds": null
+    "duration_seconds": 102,
+    "duracion": "01:42"
   },
   {
     "id": 388,
@@ -7065,7 +7452,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 25.610000610351562,
     "latent_y": 26.899999618530273,
     "latent_z": -105.0199966430664,
-    "duration_seconds": null
+    "duration_seconds": 1643,
+    "duracion": "27:23"
   },
   {
     "id": 389,
@@ -7083,7 +7471,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -104.62999725341797,
     "latent_y": 6.659999847412109,
     "latent_z": -63.95000076293945,
-    "duration_seconds": null
+    "duration_seconds": 360,
+    "duracion": "06:00"
   },
   {
     "id": 390,
@@ -7101,7 +7490,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 57.16999816894531,
     "latent_y": -20.65999984741211,
     "latent_z": -41.83000183105469,
-    "duration_seconds": null
+    "duration_seconds": 123,
+    "duracion": "02:03"
   },
   {
     "id": 391,
@@ -7119,7 +7509,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 59.040000915527344,
     "latent_y": -38.22999954223633,
     "latent_z": -8.949999809265137,
-    "duration_seconds": null
+    "duration_seconds": 89,
+    "duracion": "01:29"
   },
   {
     "id": 392,
@@ -7137,7 +7528,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -84.87000274658203,
     "latent_y": -21.3799991607666,
     "latent_z": -60.16999816894531,
-    "duration_seconds": null
+    "duration_seconds": 527,
+    "duracion": "08:47"
   },
   {
     "id": 393,
@@ -7155,7 +7547,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 93.22000122070312,
     "latent_y": 10.90999984741211,
     "latent_z": -11.170000076293945,
-    "duration_seconds": null
+    "duration_seconds": 754,
+    "duracion": "12:34"
   },
   {
     "id": 394,
@@ -7174,7 +7567,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -66.5,
     "latent_y": -65.48999786376953,
     "latent_z": 19.530000686645508,
-    "duration_seconds": null
+    "duration_seconds": 901,
+    "duracion": "15:01"
   },
   {
     "id": 395,
@@ -7193,7 +7587,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -32.27000045776367,
     "latent_y": -45.38999938964844,
     "latent_z": 27.780000686645508,
-    "duration_seconds": null
+    "duration_seconds": 417,
+    "duracion": "06:57"
   },
   {
     "id": 396,
@@ -7211,7 +7606,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -85.95999908447266,
     "latent_y": 111.70999908447266,
     "latent_z": -3.5199999809265137,
-    "duration_seconds": null
+    "duration_seconds": 2168,
+    "duracion": "36:08"
   },
   {
     "id": 397,
@@ -7229,7 +7625,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -83.5,
     "latent_y": 77.43000030517578,
     "latent_z": 14.180000305175781,
-    "duration_seconds": null
+    "duration_seconds": 187,
+    "duracion": "03:07"
   },
   {
     "id": 398,
@@ -7248,7 +7645,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -67.45999908447266,
     "latent_y": -7.46999979019165,
     "latent_z": 97.38999938964844,
-    "duration_seconds": null
+    "duration_seconds": 1655,
+    "duracion": "27:35"
   },
   {
     "id": 399,
@@ -7267,7 +7665,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -15.8100004196167,
     "latent_y": -15.0,
     "latent_z": -49.52000045776367,
-    "duration_seconds": null
+    "duration_seconds": 969,
+    "duracion": "16:09"
   },
   {
     "id": 400,
@@ -7285,7 +7684,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -73.0199966430664,
     "latent_y": 84.62999725341797,
     "latent_z": 5.429999828338623,
-    "duration_seconds": null
+    "duration_seconds": 2736,
+    "duracion": "45:36"
   },
   {
     "id": 401,
@@ -7303,7 +7703,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 74.5999984741211,
     "latent_y": 19.549999237060547,
     "latent_z": 46.630001068115234,
-    "duration_seconds": null
+    "duration_seconds": 450,
+    "duracion": "07:30"
   },
   {
     "id": 402,
@@ -7321,7 +7722,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 79.62000274658203,
     "latent_y": 27.780000686645508,
     "latent_z": 74.63999938964844,
-    "duration_seconds": null
+    "duration_seconds": 60,
+    "duracion": "01:00"
   },
   {
     "id": 403,
@@ -7339,7 +7741,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -51.90999984741211,
     "latent_y": 15.460000038146973,
     "latent_z": 105.04000091552734,
-    "duration_seconds": null
+    "duration_seconds": 168,
+    "duracion": "02:48"
   },
   {
     "id": 404,
@@ -7357,7 +7760,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 31.329999923706055,
     "latent_y": 1.940000057220459,
     "latent_z": -93.73999786376953,
-    "duration_seconds": null
+    "duration_seconds": 156,
+    "duracion": "02:36"
   },
   {
     "id": 405,
@@ -7375,7 +7779,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -85.93000030517578,
     "latent_y": 96.2300033569336,
     "latent_z": 10.279999732971191,
-    "duration_seconds": null
+    "duration_seconds": 1644,
+    "duracion": "27:24"
   },
   {
     "id": 406,
@@ -7393,7 +7798,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -13.569999694824219,
     "latent_y": 44.599998474121094,
     "latent_z": -99.33000183105469,
-    "duration_seconds": null
+    "duration_seconds": 63,
+    "duracion": "01:03"
   },
   {
     "id": 407,
@@ -7411,7 +7817,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 99.79000091552734,
     "latent_y": 35.47999954223633,
     "latent_z": 47.45000076293945,
-    "duration_seconds": null
+    "duration_seconds": 52,
+    "duracion": "00:52"
   },
   {
     "id": 408,
@@ -7429,7 +7836,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -2.7799999713897705,
     "latent_y": 12.609999656677246,
     "latent_z": -91.48999786376953,
-    "duration_seconds": null
+    "duration_seconds": 592,
+    "duracion": "09:52"
   },
   {
     "id": 409,
@@ -7447,7 +7855,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -28.270000457763672,
     "latent_y": 100.80999755859375,
     "latent_z": 26.079999923706055,
-    "duration_seconds": null
+    "duration_seconds": 60,
+    "duracion": "01:00"
   },
   {
     "id": 410,
@@ -7465,7 +7874,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 14.369999885559082,
     "latent_y": 20.729999542236328,
     "latent_z": -95.86000061035156,
-    "duration_seconds": null
+    "duration_seconds": 540,
+    "duracion": "09:00"
   },
   {
     "id": 411,
@@ -7483,7 +7893,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 92.02999877929688,
     "latent_y": 29.670000076293945,
     "latent_z": 71.55000305175781,
-    "duration_seconds": null
+    "duration_seconds": 49,
+    "duracion": "00:49"
   },
   {
     "id": 412,
@@ -7501,7 +7912,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 114.19000244140625,
     "latent_y": 34.25,
     "latent_z": 40.79999923706055,
-    "duration_seconds": null
+    "duration_seconds": 55,
+    "duracion": "00:55"
   },
   {
     "id": 413,
@@ -7520,7 +7932,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -20.969999313354492,
     "latent_y": -54.81999969482422,
     "latent_z": 19.190000534057617,
-    "duration_seconds": null
+    "duration_seconds": 305,
+    "duracion": "05:05"
   },
   {
     "id": 414,
@@ -7538,7 +7951,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 89.02999877929688,
     "latent_y": 5.71999979019165,
     "latent_z": 53.290000915527344,
-    "duration_seconds": null
+    "duration_seconds": 3830,
+    "duracion": "01:03:50"
   },
   {
     "id": 415,
@@ -7556,7 +7970,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -68.48999786376953,
     "latent_y": 22.1299991607666,
     "latent_z": -65.38999938964844,
-    "duration_seconds": null
+    "duration_seconds": 365,
+    "duracion": "06:05"
   },
   {
     "id": 416,
@@ -7574,7 +7989,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 12.779999732971191,
     "latent_y": 28.65999984741211,
     "latent_z": -83.16000366210938,
-    "duration_seconds": null
+    "duration_seconds": 789,
+    "duracion": "13:09"
   },
   {
     "id": 417,
@@ -7593,7 +8009,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -39.720001220703125,
     "latent_y": -57.54999923706055,
     "latent_z": 38.060001373291016,
-    "duration_seconds": null
+    "duration_seconds": 226,
+    "duracion": "03:46"
   },
   {
     "id": 418,
@@ -7611,7 +8028,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 70.44000244140625,
     "latent_y": -21.780000686645508,
     "latent_z": -34.66999816894531,
-    "duration_seconds": null
+    "duration_seconds": 224,
+    "duracion": "03:44"
   },
   {
     "id": 419,
@@ -7629,7 +8047,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 96.95999908447266,
     "latent_y": 3.700000047683716,
     "latent_z": 40.20000076293945,
-    "duration_seconds": null
+    "duration_seconds": 1478,
+    "duracion": "24:38"
   },
   {
     "id": 420,
@@ -7647,7 +8066,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 102.70999908447266,
     "latent_y": -16.84000015258789,
     "latent_z": -31.829999923706055,
-    "duration_seconds": null
+    "duration_seconds": 137,
+    "duracion": "02:17"
   },
   {
     "id": 421,
@@ -7665,7 +8085,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 100.91000366210938,
     "latent_y": -7.96999979019165,
     "latent_z": -36.38999938964844,
-    "duration_seconds": null
+    "duration_seconds": 123,
+    "duracion": "02:03"
   },
   {
     "id": 422,
@@ -7683,7 +8104,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -48.25,
     "latent_y": 7.849999904632568,
     "latent_z": -74.9000015258789,
-    "duration_seconds": null
+    "duration_seconds": 127,
+    "duracion": "02:07"
   },
   {
     "id": 423,
@@ -7701,7 +8123,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 5.869999885559082,
     "latent_y": 45.279998779296875,
     "latent_z": -87.55000305175781,
-    "duration_seconds": null
+    "duration_seconds": 249,
+    "duracion": "04:09"
   },
   {
     "id": 424,
@@ -7719,7 +8142,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 23.299999237060547,
     "latent_y": 54.5099983215332,
     "latent_z": -89.51000213623047,
-    "duration_seconds": null
+    "duration_seconds": 359,
+    "duracion": "05:59"
   },
   {
     "id": 425,
@@ -7737,7 +8161,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 24.399999618530273,
     "latent_y": 35.83000183105469,
     "latent_z": -120.0,
-    "duration_seconds": null
+    "duration_seconds": 356,
+    "duracion": "05:56"
   },
   {
     "id": 426,
@@ -7755,7 +8180,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 2.2799999713897705,
     "latent_y": 31.440000534057617,
     "latent_z": -98.6500015258789,
-    "duration_seconds": null
+    "duration_seconds": 901,
+    "duracion": "15:01"
   },
   {
     "id": 427,
@@ -7773,7 +8199,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 28.719999313354492,
     "latent_y": 41.11000061035156,
     "latent_z": 7.769999980926514,
-    "duration_seconds": null
+    "duration_seconds": 2851,
+    "duracion": "47:31"
   },
   {
     "id": 428,
@@ -7792,7 +8219,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -95.66000366210938,
     "latent_y": 23.469999313354492,
     "latent_z": -27.09000015258789,
-    "duration_seconds": null
+    "duration_seconds": 2677,
+    "duracion": "44:37"
   },
   {
     "id": 429,
@@ -7810,7 +8238,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 56.33000183105469,
     "latent_y": 25.34000015258789,
     "latent_z": -53.650001525878906,
-    "duration_seconds": null
+    "duration_seconds": 771,
+    "duracion": "12:51"
   },
   {
     "id": 430,
@@ -7828,7 +8257,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 65.94999694824219,
     "latent_y": 7.460000038146973,
     "latent_z": 61.130001068115234,
-    "duration_seconds": null
+    "duration_seconds": 522,
+    "duracion": "08:42"
   },
   {
     "id": 431,
@@ -7846,7 +8276,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -54.61000061035156,
     "latent_y": 7.570000171661377,
     "latent_z": -59.97999954223633,
-    "duration_seconds": null
+    "duration_seconds": 128,
+    "duracion": "02:08"
   },
   {
     "id": 432,
@@ -7864,7 +8295,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -70.36000061035156,
     "latent_y": -6.75,
     "latent_z": -60.06999969482422,
-    "duration_seconds": null
+    "duration_seconds": 321,
+    "duracion": "05:21"
   },
   {
     "id": 433,
@@ -7882,7 +8314,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 38.72999954223633,
     "latent_y": 62.869998931884766,
     "latent_z": 67.33999633789062,
-    "duration_seconds": null
+    "duration_seconds": 10256,
+    "duracion": "02:50:56"
   },
   {
     "id": 434,
@@ -7901,7 +8334,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -56.88999938964844,
     "latent_y": -43.86000061035156,
     "latent_z": 37.4900016784668,
-    "duration_seconds": null
+    "duration_seconds": 666,
+    "duracion": "11:06"
   },
   {
     "id": 435,
@@ -7919,7 +8353,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 9.100000381469727,
     "latent_y": 5.869999885559082,
     "latent_z": -101.37000274658203,
-    "duration_seconds": null
+    "duration_seconds": 564,
+    "duracion": "09:24"
   },
   {
     "id": 436,
@@ -7937,7 +8372,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 30.540000915527344,
     "latent_y": 20.670000076293945,
     "latent_z": -90.41000366210938,
-    "duration_seconds": null
+    "duration_seconds": 59,
+    "duracion": "00:59"
   },
   {
     "id": 437,
@@ -7955,7 +8391,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 30.34000015258789,
     "latent_y": 48.650001525878906,
     "latent_z": -104.19999694824219,
-    "duration_seconds": null
+    "duration_seconds": 806,
+    "duracion": "13:26"
   },
   {
     "id": 438,
@@ -7973,7 +8410,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 102.0199966430664,
     "latent_y": -8.34000015258789,
     "latent_z": 53.91999816894531,
-    "duration_seconds": null
+    "duration_seconds": 708,
+    "duracion": "11:48"
   },
   {
     "id": 439,
@@ -7991,7 +8429,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 40.38999938964844,
     "latent_y": 15.279999732971191,
     "latent_z": 13.130000114440918,
-    "duration_seconds": null
+    "duration_seconds": 695,
+    "duracion": "11:35"
   },
   {
     "id": 440,
@@ -8009,7 +8448,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 41.5099983215332,
     "latent_y": 34.209999084472656,
     "latent_z": -116.6500015258789,
-    "duration_seconds": null
+    "duration_seconds": 448,
+    "duracion": "07:28"
   },
   {
     "id": 441,
@@ -8027,7 +8467,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 51.47999954223633,
     "latent_y": 9.850000381469727,
     "latent_z": -46.720001220703125,
-    "duration_seconds": null
+    "duration_seconds": 825,
+    "duracion": "13:45"
   },
   {
     "id": 442,
@@ -8045,7 +8486,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 109.87000274658203,
     "latent_y": 2.609999895095825,
     "latent_z": 27.959999084472656,
-    "duration_seconds": null
+    "duration_seconds": 1816,
+    "duracion": "30:16"
   },
   {
     "id": 443,
@@ -8063,7 +8505,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 18.06999969482422,
     "latent_y": 50.4900016784668,
     "latent_z": -73.5999984741211,
-    "duration_seconds": null
+    "duration_seconds": 346,
+    "duracion": "05:46"
   },
   {
     "id": 444,
@@ -8082,7 +8525,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -76.02999877929688,
     "latent_y": 42.0099983215332,
     "latent_z": 12.739999771118164,
-    "duration_seconds": null
+    "duration_seconds": 492,
+    "duracion": "08:12"
   },
   {
     "id": 445,
@@ -8100,7 +8544,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 48.290000915527344,
     "latent_y": 57.209999084472656,
     "latent_z": 69.5199966430664,
-    "duration_seconds": null
+    "duration_seconds": 5909,
+    "duracion": "01:38:29"
   },
   {
     "id": 446,
@@ -8118,7 +8563,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 30.75,
     "latent_y": 17.610000610351562,
     "latent_z": -74.20999908447266,
-    "duration_seconds": null
+    "duration_seconds": 1571,
+    "duracion": "26:11"
   },
   {
     "id": 447,
@@ -8136,7 +8582,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 19.209999084472656,
     "latent_y": 34.4900016784668,
     "latent_z": -69.63999938964844,
-    "duration_seconds": null
+    "duration_seconds": 252,
+    "duracion": "04:12"
   },
   {
     "id": 448,
@@ -8154,7 +8601,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 39.2599983215332,
     "latent_y": 4.010000228881836,
     "latent_z": 57.119998931884766,
-    "duration_seconds": null
+    "duration_seconds": 1885,
+    "duracion": "31:25"
   },
   {
     "id": 449,
@@ -8172,7 +8620,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 89.02999877929688,
     "latent_y": 5.71999979019165,
     "latent_z": 53.290000915527344,
-    "duration_seconds": null
+    "duration_seconds": 132,
+    "duracion": "02:12"
   },
   {
     "id": 450,
@@ -8190,7 +8639,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 22.040000915527344,
     "latent_y": -4.389999866485596,
     "latent_z": -43.08000183105469,
-    "duration_seconds": null
+    "duration_seconds": 394,
+    "duracion": "06:34"
   },
   {
     "id": 451,
@@ -8208,7 +8658,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 76.0999984741211,
     "latent_y": 0.30000001192092896,
     "latent_z": 43.93000030517578,
-    "duration_seconds": null
+    "duration_seconds": 60,
+    "duracion": "01:00"
   },
   {
     "id": 452,
@@ -8226,7 +8677,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 74.4000015258789,
     "latent_y": 35.68000030517578,
     "latent_z": -16.739999771118164,
-    "duration_seconds": null
+    "duration_seconds": 167,
+    "duracion": "02:47"
   },
   {
     "id": 453,
@@ -8244,7 +8696,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": -38.16999816894531,
     "latent_y": 56.45000076293945,
     "latent_z": 20.5,
-    "duration_seconds": null
+    "duration_seconds": 39,
+    "duracion": "00:39"
   },
   {
     "id": 454,
@@ -8262,7 +8715,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 44.060001373291016,
     "latent_y": 49.45000076293945,
     "latent_z": -90.70999908447266,
-    "duration_seconds": null
+    "duration_seconds": 147,
+    "duracion": "02:27"
   },
   {
     "id": 455,
@@ -8280,7 +8734,8 @@ const PHOTOSHOP_TUTORIALS_DATA = [
     "latent_x": 54.54999923706055,
     "latent_y": -29.280000686645508,
     "latent_z": -36.7599983215332,
-    "duration_seconds": null
+    "duration_seconds": 153,
+    "duracion": "02:33"
   }
 ];
 window.PHOTOSHOP_DATA = PHOTOSHOP_TUTORIALS_DATA;

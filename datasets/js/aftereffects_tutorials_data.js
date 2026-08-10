@@ -15,7 +15,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 57.33000183105469,
     "latent_y": 33.61000061035156,
     "latent_z": -25.8799991607666,
-    "duration_seconds": null
+    "duration_seconds": 609,
+    "duracion": "10:09"
   },
   {
     "id": 2,
@@ -33,7 +34,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -94.97000122070312,
     "latent_y": -12.920000076293945,
     "latent_z": -21.690000534057617,
-    "duration_seconds": null
+    "duration_seconds": 2212,
+    "duracion": "36:52"
   },
   {
     "id": 3,
@@ -51,7 +53,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -28.040000915527344,
     "latent_y": 66.76000213623047,
     "latent_z": 37.599998474121094,
-    "duration_seconds": null
+    "duration_seconds": 582,
+    "duracion": "09:42"
   },
   {
     "id": 4,
@@ -69,7 +72,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 47.540000915527344,
     "latent_y": -39.4900016784668,
     "latent_z": 44.869998931884766,
-    "duration_seconds": null
+    "duration_seconds": 2435,
+    "duracion": "40:35"
   },
   {
     "id": 5,
@@ -87,7 +91,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -91.81999969482422,
     "latent_y": 24.030000686645508,
     "latent_z": -21.010000228881836,
-    "duration_seconds": null
+    "duration_seconds": 1241,
+    "duracion": "20:41"
   },
   {
     "id": 6,
@@ -105,7 +110,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 112.69999694824219,
     "latent_y": -11.029999732971191,
     "latent_z": 5.630000114440918,
-    "duration_seconds": null
+    "duration_seconds": 420,
+    "duracion": "07:00"
   },
   {
     "id": 7,
@@ -123,7 +129,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -91.41000366210938,
     "latent_y": 32.31999969482422,
     "latent_z": -59.13999938964844,
-    "duration_seconds": null
+    "duration_seconds": 1247,
+    "duracion": "20:47"
   },
   {
     "id": 8,
@@ -141,7 +148,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 45.400001525878906,
     "latent_y": 14.350000381469727,
     "latent_z": -12.819999694824219,
-    "duration_seconds": null
+    "duration_seconds": 41419,
+    "duracion": "11:30:19"
   },
   {
     "id": 9,
@@ -159,7 +167,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -41.18000030517578,
     "latent_y": -50.619998931884766,
     "latent_z": 33.650001525878906,
-    "duration_seconds": null
+    "duration_seconds": 304,
+    "duracion": "05:04"
   },
   {
     "id": 10,
@@ -177,7 +186,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 57.290000915527344,
     "latent_y": -34.189998626708984,
     "latent_z": 29.399999618530273,
-    "duration_seconds": null
+    "duration_seconds": 3371,
+    "duracion": "56:11"
   },
   {
     "id": 11,
@@ -195,7 +205,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 96.29000091552734,
     "latent_y": 41.11000061035156,
     "latent_z": -8.84000015258789,
-    "duration_seconds": null
+    "duration_seconds": 15920,
+    "duracion": "04:25:20"
   },
   {
     "id": 12,
@@ -213,7 +224,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 39.02000045776367,
     "latent_y": -30.229999542236328,
     "latent_z": 27.139999389648438,
-    "duration_seconds": null
+    "duration_seconds": 2139,
+    "duracion": "35:39"
   },
   {
     "id": 13,
@@ -231,7 +243,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 42.72999954223633,
     "latent_y": -16.209999084472656,
     "latent_z": 8.130000114440918,
-    "duration_seconds": null
+    "duration_seconds": 1448,
+    "duracion": "24:08"
   },
   {
     "id": 14,
@@ -249,7 +262,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -87.45999908447266,
     "latent_y": 2.890000104904175,
     "latent_z": -18.780000686645508,
-    "duration_seconds": null
+    "duration_seconds": 1753,
+    "duracion": "29:13"
   },
   {
     "id": 15,
@@ -267,7 +281,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -48.630001068115234,
     "latent_y": 58.040000915527344,
     "latent_z": 41.66999816894531,
-    "duration_seconds": null
+    "duration_seconds": 400,
+    "duracion": "06:40"
   },
   {
     "id": 16,
@@ -285,7 +300,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 67.5,
     "latent_y": 44.400001525878906,
     "latent_z": -46.18000030517578,
-    "duration_seconds": null
+    "duration_seconds": 3521,
+    "duracion": "58:41"
   },
   {
     "id": 17,
@@ -303,7 +319,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 50.040000915527344,
     "latent_y": -20.229999542236328,
     "latent_z": 38.65999984741211,
-    "duration_seconds": null
+    "duration_seconds": 1975,
+    "duracion": "32:55"
   },
   {
     "id": 18,
@@ -322,7 +339,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 28.889999389648438,
     "latent_y": 32.029998779296875,
     "latent_z": -71.22000122070312,
-    "duration_seconds": null
+    "duration_seconds": 40,
+    "duracion": "00:40"
   },
   {
     "id": 19,
@@ -340,7 +358,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 20.59000015258789,
     "latent_y": 34.31999969482422,
     "latent_z": 43.0,
-    "duration_seconds": null
+    "duration_seconds": 1214,
+    "duracion": "20:14"
   },
   {
     "id": 20,
@@ -358,7 +377,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 107.61000061035156,
     "latent_y": -31.200000762939453,
     "latent_z": -13.239999771118164,
-    "duration_seconds": null
+    "duration_seconds": 298,
+    "duracion": "04:58"
   },
   {
     "id": 21,
@@ -376,7 +396,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 25.65999984741211,
     "latent_y": -12.930000305175781,
     "latent_z": -8.479999542236328,
-    "duration_seconds": null
+    "duration_seconds": 414,
+    "duracion": "06:54"
   },
   {
     "id": 22,
@@ -394,7 +415,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 56.47999954223633,
     "latent_y": 22.899999618530273,
     "latent_z": -8.739999771118164,
-    "duration_seconds": null
+    "duration_seconds": 4616,
+    "duracion": "01:16:56"
   },
   {
     "id": 23,
@@ -413,7 +435,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -18.31999969482422,
     "latent_y": 65.76000213623047,
     "latent_z": -59.119998931884766,
-    "duration_seconds": null
+    "duration_seconds": 769,
+    "duracion": "12:49"
   },
   {
     "id": 24,
@@ -431,7 +454,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 43.81999969482422,
     "latent_y": -12.25,
     "latent_z": -6.070000171661377,
-    "duration_seconds": null
+    "duration_seconds": 2354,
+    "duracion": "39:14"
   },
   {
     "id": 25,
@@ -449,7 +473,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 115.81999969482422,
     "latent_y": 2.8399999141693115,
     "latent_z": -4.590000152587891,
-    "duration_seconds": null
+    "duration_seconds": 3920,
+    "duracion": "01:05:20"
   },
   {
     "id": 26,
@@ -467,7 +492,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 57.290000915527344,
     "latent_y": -34.189998626708984,
     "latent_z": 29.399999618530273,
-    "duration_seconds": null
+    "duration_seconds": 2861,
+    "duracion": "47:41"
   },
   {
     "id": 27,
@@ -485,7 +511,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 32.290000915527344,
     "latent_y": -24.760000228881836,
     "latent_z": -24.15999984741211,
-    "duration_seconds": null
+    "duration_seconds": 718,
+    "duracion": "11:58"
   },
   {
     "id": 28,
@@ -504,7 +531,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -5.400000095367432,
     "latent_y": 68.58000183105469,
     "latent_z": 74.04000091552734,
-    "duration_seconds": null
+    "duration_seconds": 1026,
+    "duracion": "17:06"
   },
   {
     "id": 29,
@@ -522,7 +550,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 64.45999908447266,
     "latent_y": 0.03999999910593033,
     "latent_z": -40.22999954223633,
-    "duration_seconds": null
+    "duration_seconds": 557,
+    "duracion": "09:17"
   },
   {
     "id": 30,
@@ -540,7 +569,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 11.390000343322754,
     "latent_y": 67.55000305175781,
     "latent_z": -66.33999633789062,
-    "duration_seconds": null
+    "duration_seconds": 820,
+    "duracion": "13:40"
   },
   {
     "id": 31,
@@ -558,7 +588,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 3.509999990463257,
     "latent_y": 22.34000015258789,
     "latent_z": 22.549999237060547,
-    "duration_seconds": null
+    "duration_seconds": 407,
+    "duracion": "06:47"
   },
   {
     "id": 32,
@@ -576,7 +607,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 77.47000122070312,
     "latent_y": 19.030000686645508,
     "latent_z": -14.350000381469727,
-    "duration_seconds": null
+    "duration_seconds": 723,
+    "duracion": "12:03"
   },
   {
     "id": 33,
@@ -594,7 +626,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 97.45999908447266,
     "latent_y": -40.779998779296875,
     "latent_z": -44.66999816894531,
-    "duration_seconds": null
+    "duration_seconds": 481,
+    "duracion": "08:01"
   },
   {
     "id": 34,
@@ -613,7 +646,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -8.119999885559082,
     "latent_y": 64.80999755859375,
     "latent_z": -46.0099983215332,
-    "duration_seconds": null
+    "duration_seconds": 56,
+    "duracion": "00:56"
   },
   {
     "id": 35,
@@ -631,7 +665,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 70.0999984741211,
     "latent_y": -51.619998931884766,
     "latent_z": 33.20000076293945,
-    "duration_seconds": null
+    "duration_seconds": 1086,
+    "duracion": "18:06"
   },
   {
     "id": 36,
@@ -649,7 +684,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 23.43000030517578,
     "latent_y": 81.91000366210938,
     "latent_z": -78.22000122070312,
-    "duration_seconds": null
+    "duration_seconds": 879,
+    "duracion": "14:39"
   },
   {
     "id": 37,
@@ -667,7 +703,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 53.45000076293945,
     "latent_y": 10.140000343322754,
     "latent_z": 28.010000228881836,
-    "duration_seconds": null
+    "duration_seconds": 749,
+    "duracion": "12:29"
   },
   {
     "id": 38,
@@ -687,7 +724,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -15.050000190734863,
     "latent_y": -36.040000915527344,
     "latent_z": -116.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 155,
+    "duracion": "02:35"
   },
   {
     "id": 39,
@@ -705,7 +743,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -108.44000244140625,
     "latent_y": 8.800000190734863,
     "latent_z": -15.479999542236328,
-    "duration_seconds": null
+    "duration_seconds": 2622,
+    "duracion": "43:42"
   },
   {
     "id": 40,
@@ -723,7 +762,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 11.789999961853027,
     "latent_y": 75.91999816894531,
     "latent_z": -50.41999816894531,
-    "duration_seconds": null
+    "duration_seconds": 773,
+    "duracion": "12:53"
   },
   {
     "id": 41,
@@ -743,7 +783,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -0.41999998688697815,
     "latent_y": 74.38999938964844,
     "latent_z": -4.110000133514404,
-    "duration_seconds": null
+    "duration_seconds": 1414,
+    "duracion": "23:34"
   },
   {
     "id": 42,
@@ -761,7 +802,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -104.76000213623047,
     "latent_y": 8.770000457763672,
     "latent_z": -46.29999923706055,
-    "duration_seconds": null
+    "duration_seconds": 1382,
+    "duracion": "23:02"
   },
   {
     "id": 43,
@@ -779,7 +821,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -54.5,
     "latent_y": 40.15999984741211,
     "latent_z": 42.38999938964844,
-    "duration_seconds": null
+    "duration_seconds": 1395,
+    "duracion": "23:15"
   },
   {
     "id": 44,
@@ -797,7 +840,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -55.689998626708984,
     "latent_y": -89.37999725341797,
     "latent_z": 50.369998931884766,
-    "duration_seconds": null
+    "duration_seconds": 129,
+    "duracion": "02:09"
   },
   {
     "id": 45,
@@ -817,7 +861,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -29.799999237060547,
     "latent_y": -64.25,
     "latent_z": -31.959999084472656,
-    "duration_seconds": null
+    "duration_seconds": 1574,
+    "duracion": "26:14"
   },
   {
     "id": 46,
@@ -835,7 +880,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 71.91999816894531,
     "latent_y": -26.850000381469727,
     "latent_z": -35.15999984741211,
-    "duration_seconds": null
+    "duration_seconds": 540,
+    "duracion": "09:00"
   },
   {
     "id": 47,
@@ -853,7 +899,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -66.70999908447266,
     "latent_y": -95.56999969482422,
     "latent_z": 32.06999969482422,
-    "duration_seconds": null
+    "duration_seconds": 347,
+    "duracion": "05:47"
   },
   {
     "id": 48,
@@ -872,7 +919,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -44.619998931884766,
     "latent_y": 115.62000274658203,
     "latent_z": 3.0999999046325684,
-    "duration_seconds": null
+    "duration_seconds": 669,
+    "duracion": "11:09"
   },
   {
     "id": 49,
@@ -890,7 +938,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 83.19999694824219,
     "latent_y": 16.329999923706055,
     "latent_z": -34.29999923706055,
-    "duration_seconds": null
+    "duration_seconds": 258,
+    "duracion": "04:18"
   },
   {
     "id": 50,
@@ -908,7 +957,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 65.4800033569336,
     "latent_y": -55.72999954223633,
     "latent_z": -28.420000076293945,
-    "duration_seconds": null
+    "duration_seconds": 547,
+    "duracion": "09:07"
   },
   {
     "id": 51,
@@ -926,7 +976,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 67.08999633789062,
     "latent_y": -0.8500000238418579,
     "latent_z": 54.869998931884766,
-    "duration_seconds": null
+    "duration_seconds": 1656,
+    "duracion": "27:36"
   },
   {
     "id": 52,
@@ -944,7 +995,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 6.960000038146973,
     "latent_y": 71.4000015258789,
     "latent_z": -81.56999969482422,
-    "duration_seconds": null
+    "duration_seconds": 717,
+    "duracion": "11:57"
   },
   {
     "id": 53,
@@ -962,7 +1014,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 56.58000183105469,
     "latent_y": -1.190000057220459,
     "latent_z": 9.770000457763672,
-    "duration_seconds": null
+    "duration_seconds": 1860,
+    "duracion": "31:00"
   },
   {
     "id": 54,
@@ -980,7 +1033,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -1.409999966621399,
     "latent_y": 17.780000686645508,
     "latent_z": -18.84000015258789,
-    "duration_seconds": null
+    "duration_seconds": 1415,
+    "duracion": "23:35"
   },
   {
     "id": 55,
@@ -1000,7 +1054,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 4.170000076293945,
     "latent_y": 101.0199966430664,
     "latent_z": -5.699999809265137,
-    "duration_seconds": null
+    "duration_seconds": 841,
+    "duracion": "14:01"
   },
   {
     "id": 56,
@@ -1018,7 +1073,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 53.790000915527344,
     "latent_y": -17.799999237060547,
     "latent_z": 21.360000610351562,
-    "duration_seconds": null
+    "duration_seconds": 2393,
+    "duracion": "39:53"
   },
   {
     "id": 57,
@@ -1037,7 +1093,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -70.2699966430664,
     "latent_y": 30.290000915527344,
     "latent_z": -19.809999465942383,
-    "duration_seconds": null
+    "duration_seconds": 395,
+    "duracion": "06:35"
   },
   {
     "id": 58,
@@ -1055,7 +1112,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 6.260000228881836,
     "latent_y": 24.600000381469727,
     "latent_z": 106.6500015258789,
-    "duration_seconds": null
+    "duration_seconds": 1715,
+    "duracion": "28:35"
   },
   {
     "id": 59,
@@ -1073,7 +1131,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -110.06999969482422,
     "latent_y": -3.430000066757202,
     "latent_z": -33.25,
-    "duration_seconds": null
+    "duration_seconds": 1239,
+    "duracion": "20:39"
   },
   {
     "id": 60,
@@ -1091,7 +1150,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 14.149999618530273,
     "latent_y": 87.61000061035156,
     "latent_z": -63.2599983215332,
-    "duration_seconds": null
+    "duration_seconds": 177,
+    "duracion": "02:57"
   },
   {
     "id": 61,
@@ -1109,7 +1169,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -67.52999877929688,
     "latent_y": 63.900001525878906,
     "latent_z": 72.4800033569336,
-    "duration_seconds": null
+    "duration_seconds": 492,
+    "duracion": "08:12"
   },
   {
     "id": 62,
@@ -1127,7 +1188,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 72.54000091552734,
     "latent_y": -0.5799999833106995,
     "latent_z": -3.630000114440918,
-    "duration_seconds": null
+    "duration_seconds": 457,
+    "duracion": "07:37"
   },
   {
     "id": 63,
@@ -1146,7 +1208,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -32.31999969482422,
     "latent_y": 72.2699966430664,
     "latent_z": -49.310001373291016,
-    "duration_seconds": null
+    "duration_seconds": 963,
+    "duracion": "16:03"
   },
   {
     "id": 64,
@@ -1165,7 +1228,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 3.5799999237060547,
     "latent_y": 71.2699966430664,
     "latent_z": 19.600000381469727,
-    "duration_seconds": null
+    "duration_seconds": 2373,
+    "duracion": "39:33"
   },
   {
     "id": 65,
@@ -1184,7 +1248,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -14.989999771118164,
     "latent_y": 79.27999877929688,
     "latent_z": 66.87999725341797,
-    "duration_seconds": null
+    "duration_seconds": 995,
+    "duracion": "16:35"
   },
   {
     "id": 66,
@@ -1202,7 +1267,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 115.80999755859375,
     "latent_y": 27.700000762939453,
     "latent_z": -10.149999618530273,
-    "duration_seconds": null
+    "duration_seconds": 60,
+    "duracion": "01:00"
   },
   {
     "id": 67,
@@ -1220,7 +1286,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -40.220001220703125,
     "latent_y": -89.36000061035156,
     "latent_z": 39.5099983215332,
-    "duration_seconds": null
+    "duration_seconds": 577,
+    "duracion": "09:37"
   },
   {
     "id": 68,
@@ -1238,7 +1305,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 27.690000534057617,
     "latent_y": -30.350000381469727,
     "latent_z": 14.079999923706055,
-    "duration_seconds": null
+    "duration_seconds": 786,
+    "duracion": "13:06"
   },
   {
     "id": 69,
@@ -1256,7 +1324,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 39.130001068115234,
     "latent_y": -4.5,
     "latent_z": 88.56999969482422,
-    "duration_seconds": null
+    "duration_seconds": 804,
+    "duracion": "13:24"
   },
   {
     "id": 70,
@@ -1274,7 +1343,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 16.469999313354492,
     "latent_y": -21.489999771118164,
     "latent_z": 35.029998779296875,
-    "duration_seconds": null
+    "duration_seconds": 635,
+    "duracion": "10:35"
   },
   {
     "id": 71,
@@ -1293,7 +1363,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -54.34000015258789,
     "latent_y": -51.869998931884766,
     "latent_z": 7.179999828338623,
-    "duration_seconds": null
+    "duration_seconds": 288,
+    "duracion": "04:48"
   },
   {
     "id": 72,
@@ -1311,7 +1382,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 36.52000045776367,
     "latent_y": -3.490000009536743,
     "latent_z": -20.75,
-    "duration_seconds": null
+    "duration_seconds": 382,
+    "duracion": "06:22"
   },
   {
     "id": 73,
@@ -1329,7 +1401,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 10.380000114440918,
     "latent_y": 6.829999923706055,
     "latent_z": 83.16000366210938,
-    "duration_seconds": null
+    "duration_seconds": 1327,
+    "duracion": "22:07"
   },
   {
     "id": 74,
@@ -1348,7 +1421,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -23.100000381469727,
     "latent_y": -21.75,
     "latent_z": -105.63999938964844,
-    "duration_seconds": null
+    "duration_seconds": 601,
+    "duracion": "10:01"
   },
   {
     "id": 75,
@@ -1367,7 +1441,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -8.300000190734863,
     "latent_y": 78.05000305175781,
     "latent_z": 55.09000015258789,
-    "duration_seconds": null
+    "duration_seconds": 286,
+    "duracion": "04:46"
   },
   {
     "id": 76,
@@ -1385,7 +1460,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 24.190000534057617,
     "latent_y": 15.65999984741211,
     "latent_z": 9.970000267028809,
-    "duration_seconds": null
+    "duration_seconds": 560,
+    "duracion": "09:20"
   },
   {
     "id": 77,
@@ -1403,7 +1479,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 58.099998474121094,
     "latent_y": 11.130000114440918,
     "latent_z": -61.77000045776367,
-    "duration_seconds": null
+    "duration_seconds": 1258,
+    "duracion": "20:58"
   },
   {
     "id": 78,
@@ -1421,7 +1498,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -97.62999725341797,
     "latent_y": 25.270000457763672,
     "latent_z": -44.529998779296875,
-    "duration_seconds": null
+    "duration_seconds": 356,
+    "duracion": "05:56"
   },
   {
     "id": 79,
@@ -1440,7 +1518,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 24.579999923706055,
     "latent_y": -31.84000015258789,
     "latent_z": -95.95999908447266,
-    "duration_seconds": null
+    "duration_seconds": 426,
+    "duracion": "07:06"
   },
   {
     "id": 80,
@@ -1458,7 +1537,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 5.050000190734863,
     "latent_y": -28.15999984741211,
     "latent_z": -0.5799999833106995,
-    "duration_seconds": null
+    "duration_seconds": 482,
+    "duracion": "08:02"
   },
   {
     "id": 81,
@@ -1476,7 +1556,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 59.619998931884766,
     "latent_y": 46.130001068115234,
     "latent_z": -14.890000343322754,
-    "duration_seconds": null
+    "duration_seconds": 629,
+    "duracion": "10:29"
   },
   {
     "id": 82,
@@ -1494,7 +1575,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 29.40999984741211,
     "latent_y": 71.94000244140625,
     "latent_z": -60.779998779296875,
-    "duration_seconds": null
+    "duration_seconds": 1507,
+    "duracion": "25:07"
   },
   {
     "id": 83,
@@ -1513,7 +1595,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -54.709999084472656,
     "latent_y": 25.68000030517578,
     "latent_z": -16.020000457763672,
-    "duration_seconds": null
+    "duration_seconds": 1661,
+    "duracion": "27:41"
   },
   {
     "id": 84,
@@ -1533,7 +1616,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -31.610000610351562,
     "latent_y": -42.869998931884766,
     "latent_z": -114.9800033569336,
-    "duration_seconds": null
+    "duration_seconds": 167,
+    "duracion": "02:47"
   },
   {
     "id": 85,
@@ -1551,7 +1635,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 47.689998626708984,
     "latent_y": -7.690000057220459,
     "latent_z": -39.84000015258789,
-    "duration_seconds": null
+    "duration_seconds": 245,
+    "duracion": "04:05"
   },
   {
     "id": 86,
@@ -1569,7 +1654,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -116.41000366210938,
     "latent_y": 26.549999237060547,
     "latent_z": -49.900001525878906,
-    "duration_seconds": null
+    "duration_seconds": 796,
+    "duracion": "13:16"
   },
   {
     "id": 87,
@@ -1589,7 +1675,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -50.220001220703125,
     "latent_y": 25.059999465942383,
     "latent_z": -40.18000030517578,
-    "duration_seconds": null
+    "duration_seconds": 652,
+    "duracion": "10:52"
   },
   {
     "id": 88,
@@ -1608,7 +1695,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 28.450000762939453,
     "latent_y": -45.84000015258789,
     "latent_z": -93.63999938964844,
-    "duration_seconds": null
+    "duration_seconds": 105,
+    "duracion": "01:45"
   },
   {
     "id": 89,
@@ -1626,7 +1714,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 66.30999755859375,
     "latent_y": -45.380001068115234,
     "latent_z": -54.52000045776367,
-    "duration_seconds": null
+    "duration_seconds": 600,
+    "duracion": "10:00"
   },
   {
     "id": 90,
@@ -1644,7 +1733,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -107.18000030517578,
     "latent_y": 32.31999969482422,
     "latent_z": -30.850000381469727,
-    "duration_seconds": null
+    "duration_seconds": 207,
+    "duracion": "03:27"
   },
   {
     "id": 91,
@@ -1662,7 +1752,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 68.91000366210938,
     "latent_y": 51.939998626708984,
     "latent_z": 37.349998474121094,
-    "duration_seconds": null
+    "duration_seconds": 586,
+    "duracion": "09:46"
   },
   {
     "id": 92,
@@ -1680,7 +1771,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -14.84000015258789,
     "latent_y": -64.05999755859375,
     "latent_z": 13.25,
-    "duration_seconds": null
+    "duration_seconds": 80,
+    "duracion": "01:20"
   },
   {
     "id": 93,
@@ -1698,7 +1790,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -44.40999984741211,
     "latent_y": -69.94000244140625,
     "latent_z": 43.83000183105469,
-    "duration_seconds": null
+    "duration_seconds": 570,
+    "duracion": "09:30"
   },
   {
     "id": 94,
@@ -1718,7 +1811,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -84.83999633789062,
     "latent_y": -67.69000244140625,
     "latent_z": -28.6200008392334,
-    "duration_seconds": null
+    "duration_seconds": 620,
+    "duracion": "10:20"
   },
   {
     "id": 95,
@@ -1736,7 +1830,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 37.93000030517578,
     "latent_y": -82.7699966430664,
     "latent_z": 13.899999618530273,
-    "duration_seconds": null
+    "duration_seconds": 2834,
+    "duracion": "47:14"
   },
   {
     "id": 96,
@@ -1754,7 +1849,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 22.68000030517578,
     "latent_y": 52.79999923706055,
     "latent_z": -63.650001525878906,
-    "duration_seconds": null
+    "duration_seconds": 369,
+    "duracion": "06:09"
   },
   {
     "id": 97,
@@ -1772,7 +1868,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 95.16000366210938,
     "latent_y": 10.149999618530273,
     "latent_z": 23.860000610351562,
-    "duration_seconds": null
+    "duration_seconds": 627,
+    "duracion": "10:27"
   },
   {
     "id": 98,
@@ -1790,7 +1887,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 19.010000228881836,
     "latent_y": -51.68000030517578,
     "latent_z": -69.37000274658203,
-    "duration_seconds": null
+    "duration_seconds": 295,
+    "duracion": "04:55"
   },
   {
     "id": 99,
@@ -1808,7 +1906,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 87.6500015258789,
     "latent_y": 43.77000045776367,
     "latent_z": -19.290000915527344,
-    "duration_seconds": null
+    "duration_seconds": 3923,
+    "duracion": "01:05:23"
   },
   {
     "id": 100,
@@ -1826,7 +1925,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 46.70000076293945,
     "latent_y": 37.630001068115234,
     "latent_z": -21.030000686645508,
-    "duration_seconds": null
+    "duration_seconds": 645,
+    "duracion": "10:45"
   },
   {
     "id": 101,
@@ -1844,7 +1944,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 90.66000366210938,
     "latent_y": 25.030000686645508,
     "latent_z": 10.430000305175781,
-    "duration_seconds": null
+    "duration_seconds": 9117,
+    "duracion": "02:31:57"
   },
   {
     "id": 102,
@@ -1862,7 +1963,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -61.43000030517578,
     "latent_y": 77.81999969482422,
     "latent_z": 70.0199966430664,
-    "duration_seconds": null
+    "duration_seconds": 819,
+    "duracion": "13:39"
   },
   {
     "id": 103,
@@ -1881,7 +1983,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -70.2300033569336,
     "latent_y": -39.45000076293945,
     "latent_z": 44.439998626708984,
-    "duration_seconds": null
+    "duration_seconds": 439,
+    "duracion": "07:19"
   },
   {
     "id": 104,
@@ -1899,7 +2002,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -21.770000457763672,
     "latent_y": -86.79000091552734,
     "latent_z": 38.81999969482422,
-    "duration_seconds": null
+    "duration_seconds": 499,
+    "duracion": "08:19"
   },
   {
     "id": 105,
@@ -1917,7 +2021,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 92.30999755859375,
     "latent_y": 23.059999465942383,
     "latent_z": 48.61000061035156,
-    "duration_seconds": null
+    "duration_seconds": 3532,
+    "duracion": "58:52"
   },
   {
     "id": 106,
@@ -1935,7 +2040,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 37.68000030517578,
     "latent_y": -0.30000001192092896,
     "latent_z": 20.690000534057617,
-    "duration_seconds": null
+    "duration_seconds": 1180,
+    "duracion": "19:40"
   },
   {
     "id": 107,
@@ -1954,7 +2060,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -22.209999084472656,
     "latent_y": 62.939998626708984,
     "latent_z": -36.470001220703125,
-    "duration_seconds": null
+    "duration_seconds": 83,
+    "duracion": "01:23"
   },
   {
     "id": 108,
@@ -1972,7 +2079,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -34.189998626708984,
     "latent_y": 61.150001525878906,
     "latent_z": 53.650001525878906,
-    "duration_seconds": null
+    "duration_seconds": 4662,
+    "duracion": "01:17:42"
   },
   {
     "id": 109,
@@ -1990,7 +2098,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -31.530000686645508,
     "latent_y": -76.77999877929688,
     "latent_z": 5.880000114440918,
-    "duration_seconds": null
+    "duration_seconds": 2412,
+    "duracion": "40:12"
   },
   {
     "id": 110,
@@ -2008,7 +2117,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -37.86000061035156,
     "latent_y": -120.0,
     "latent_z": 30.479999542236328,
-    "duration_seconds": null
+    "duration_seconds": 6512,
+    "duracion": "01:48:32"
   },
   {
     "id": 111,
@@ -2026,7 +2136,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -36.65999984741211,
     "latent_y": -77.79000091552734,
     "latent_z": 26.989999771118164,
-    "duration_seconds": null
+    "duration_seconds": 494,
+    "duracion": "08:14"
   },
   {
     "id": 112,
@@ -2044,7 +2155,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -51.9900016784668,
     "latent_y": 68.12999725341797,
     "latent_z": 55.2400016784668,
-    "duration_seconds": null
+    "duration_seconds": 2315,
+    "duracion": "38:35"
   },
   {
     "id": 113,
@@ -2062,7 +2174,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 28.729999542236328,
     "latent_y": 41.41999816894531,
     "latent_z": 11.430000305175781,
-    "duration_seconds": null
+    "duration_seconds": 779,
+    "duracion": "12:59"
   },
   {
     "id": 114,
@@ -2080,7 +2193,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 98.86000061035156,
     "latent_y": -48.720001220703125,
     "latent_z": 16.479999542236328,
-    "duration_seconds": null
+    "duration_seconds": 608,
+    "duracion": "10:08"
   },
   {
     "id": 115,
@@ -2099,7 +2213,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -34.619998931884766,
     "latent_y": 54.849998474121094,
     "latent_z": -51.689998626708984,
-    "duration_seconds": null
+    "duration_seconds": 434,
+    "duracion": "07:14"
   },
   {
     "id": 116,
@@ -2117,7 +2232,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 20.299999237060547,
     "latent_y": 8.430000305175781,
     "latent_z": -12.149999618530273,
-    "duration_seconds": null
+    "duration_seconds": 761,
+    "duracion": "12:41"
   },
   {
     "id": 117,
@@ -2135,7 +2251,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -46.060001373291016,
     "latent_y": -89.9000015258789,
     "latent_z": 1.7200000286102295,
-    "duration_seconds": null
+    "duration_seconds": 61,
+    "duracion": "01:01"
   },
   {
     "id": 118,
@@ -2153,7 +2270,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 1.9700000286102295,
     "latent_y": 49.380001068115234,
     "latent_z": -63.70000076293945,
-    "duration_seconds": null
+    "duration_seconds": 178,
+    "duracion": "02:58"
   },
   {
     "id": 119,
@@ -2171,7 +2289,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 41.33000183105469,
     "latent_y": 32.459999084472656,
     "latent_z": 23.31999969482422,
-    "duration_seconds": null
+    "duration_seconds": 290,
+    "duracion": "04:50"
   },
   {
     "id": 120,
@@ -2189,7 +2308,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -53.599998474121094,
     "latent_y": 50.720001220703125,
     "latent_z": 25.969999313354492,
-    "duration_seconds": null
+    "duration_seconds": 447,
+    "duracion": "07:27"
   },
   {
     "id": 121,
@@ -2207,7 +2327,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 56.36000061035156,
     "latent_y": 48.88999938964844,
     "latent_z": 39.72999954223633,
-    "duration_seconds": null
+    "duration_seconds": 291,
+    "duracion": "04:51"
   },
   {
     "id": 122,
@@ -2225,7 +2346,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 90.91999816894531,
     "latent_y": -16.110000610351562,
     "latent_z": -6.75,
-    "duration_seconds": null
+    "duration_seconds": 870,
+    "duracion": "14:30"
   },
   {
     "id": 123,
@@ -2243,7 +2365,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -45.47999954223633,
     "latent_y": 66.63999938964844,
     "latent_z": 29.360000610351562,
-    "duration_seconds": null
+    "duration_seconds": 27,
+    "duracion": "00:27"
   },
   {
     "id": 124,
@@ -2261,7 +2384,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 23.170000076293945,
     "latent_y": 18.6299991607666,
     "latent_z": 79.5999984741211,
-    "duration_seconds": null
+    "duration_seconds": 733,
+    "duracion": "12:13"
   },
   {
     "id": 125,
@@ -2279,7 +2403,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 8.399999618530273,
     "latent_y": -44.040000915527344,
     "latent_z": 19.969999313354492,
-    "duration_seconds": null
+    "duration_seconds": 286,
+    "duracion": "04:46"
   },
   {
     "id": 126,
@@ -2297,7 +2422,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 42.31999969482422,
     "latent_y": 61.790000915527344,
     "latent_z": 13.970000267028809,
-    "duration_seconds": null
+    "duration_seconds": 711,
+    "duracion": "11:51"
   },
   {
     "id": 127,
@@ -2315,7 +2441,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -48.90999984741211,
     "latent_y": -62.459999084472656,
     "latent_z": 27.260000228881836,
-    "duration_seconds": null
+    "duration_seconds": 593,
+    "duracion": "09:53"
   },
   {
     "id": 128,
@@ -2334,7 +2461,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -15.960000038146973,
     "latent_y": -28.290000915527344,
     "latent_z": -69.38999938964844,
-    "duration_seconds": null
+    "duration_seconds": 249,
+    "duracion": "04:09"
   },
   {
     "id": 129,
@@ -2352,7 +2480,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 40.97999954223633,
     "latent_y": 36.900001525878906,
     "latent_z": -37.18000030517578,
-    "duration_seconds": null
+    "duration_seconds": 999,
+    "duracion": "16:39"
   },
   {
     "id": 130,
@@ -2371,7 +2500,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -31.190000534057617,
     "latent_y": -14.239999771118164,
     "latent_z": -72.27999877929688,
-    "duration_seconds": null
+    "duration_seconds": 1179,
+    "duracion": "19:39"
   },
   {
     "id": 131,
@@ -2391,7 +2521,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -7.159999847412109,
     "latent_y": 104.94000244140625,
     "latent_z": 7.46999979019165,
-    "duration_seconds": null
+    "duration_seconds": 742,
+    "duracion": "12:22"
   },
   {
     "id": 132,
@@ -2409,7 +2540,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -7.590000152587891,
     "latent_y": -85.6500015258789,
     "latent_z": -58.91999816894531,
-    "duration_seconds": null
+    "duration_seconds": 1239,
+    "duracion": "20:39"
   },
   {
     "id": 133,
@@ -2428,7 +2560,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -74.69000244140625,
     "latent_y": 28.299999237060547,
     "latent_z": 51.33000183105469,
-    "duration_seconds": null
+    "duration_seconds": 257,
+    "duracion": "04:17"
   },
   {
     "id": 134,
@@ -2446,7 +2579,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 58.16999816894531,
     "latent_y": -14.210000038146973,
     "latent_z": -4.190000057220459,
-    "duration_seconds": null
+    "duration_seconds": 190,
+    "duracion": "03:10"
   },
   {
     "id": 135,
@@ -2464,7 +2598,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 85.48999786376953,
     "latent_y": 11.640000343322754,
     "latent_z": 12.430000305175781,
-    "duration_seconds": null
+    "duration_seconds": 372,
+    "duracion": "06:12"
   },
   {
     "id": 136,
@@ -2482,7 +2617,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 95.87000274658203,
     "latent_y": -60.31999969482422,
     "latent_z": -7.210000038146973,
-    "duration_seconds": null
+    "duration_seconds": 2620,
+    "duracion": "43:40"
   },
   {
     "id": 137,
@@ -2500,7 +2636,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -88.16000366210938,
     "latent_y": 52.040000915527344,
     "latent_z": 18.010000228881836,
-    "duration_seconds": null
+    "duration_seconds": 580,
+    "duracion": "09:40"
   },
   {
     "id": 138,
@@ -2518,7 +2655,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 73.37999725341797,
     "latent_y": -32.470001220703125,
     "latent_z": -68.38999938964844,
-    "duration_seconds": null
+    "duration_seconds": 552,
+    "duracion": "09:12"
   },
   {
     "id": 139,
@@ -2537,7 +2675,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 6.400000095367432,
     "latent_y": -59.40999984741211,
     "latent_z": -48.720001220703125,
-    "duration_seconds": null
+    "duration_seconds": 891,
+    "duracion": "14:51"
   },
   {
     "id": 140,
@@ -2555,7 +2694,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 83.66000366210938,
     "latent_y": -33.02000045776367,
     "latent_z": -17.399999618530273,
-    "duration_seconds": null
+    "duration_seconds": 409,
+    "duracion": "06:49"
   },
   {
     "id": 141,
@@ -2573,7 +2713,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 2.380000114440918,
     "latent_y": -71.9000015258789,
     "latent_z": -86.2300033569336,
-    "duration_seconds": null
+    "duration_seconds": 394,
+    "duracion": "06:34"
   },
   {
     "id": 142,
@@ -2591,7 +2732,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 45.77000045776367,
     "latent_y": 25.760000228881836,
     "latent_z": 32.220001220703125,
-    "duration_seconds": null
+    "duration_seconds": 1110,
+    "duracion": "18:30"
   },
   {
     "id": 143,
@@ -2610,7 +2752,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -78.63999938964844,
     "latent_y": -55.97999954223633,
     "latent_z": 37.900001525878906,
-    "duration_seconds": null
+    "duration_seconds": 236,
+    "duracion": "03:56"
   },
   {
     "id": 144,
@@ -2629,7 +2772,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -3.2100000381469727,
     "latent_y": -14.649999618530273,
     "latent_z": -109.27999877929688,
-    "duration_seconds": null
+    "duration_seconds": 1406,
+    "duracion": "23:26"
   },
   {
     "id": 145,
@@ -2648,7 +2792,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -4.659999847412109,
     "latent_y": -62.33000183105469,
     "latent_z": -103.2300033569336,
-    "duration_seconds": null
+    "duration_seconds": 551,
+    "duracion": "09:11"
   },
   {
     "id": 146,
@@ -2666,7 +2811,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -82.47000122070312,
     "latent_y": 15.4399995803833,
     "latent_z": -36.650001525878906,
-    "duration_seconds": null
+    "duration_seconds": 1039,
+    "duracion": "17:19"
   },
   {
     "id": 147,
@@ -2684,7 +2830,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -2.630000114440918,
     "latent_y": -0.019999999552965164,
     "latent_z": -9.819999694824219,
-    "duration_seconds": null
+    "duration_seconds": 360,
+    "duracion": "06:00"
   },
   {
     "id": 148,
@@ -2702,7 +2849,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -91.79000091552734,
     "latent_y": -1.4800000190734863,
     "latent_z": -38.0,
-    "duration_seconds": null
+    "duration_seconds": 972,
+    "duracion": "16:12"
   },
   {
     "id": 149,
@@ -2720,7 +2868,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 25.170000076293945,
     "latent_y": 12.010000228881836,
     "latent_z": -39.47999954223633,
-    "duration_seconds": null
+    "duration_seconds": 484,
+    "duracion": "08:04"
   },
   {
     "id": 150,
@@ -2738,7 +2887,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 57.0,
     "latent_y": 8.550000190734863,
     "latent_z": 53.02000045776367,
-    "duration_seconds": null
+    "duration_seconds": 1158,
+    "duracion": "19:18"
   },
   {
     "id": 151,
@@ -2756,7 +2906,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 52.15999984741211,
     "latent_y": 54.36000061035156,
     "latent_z": 8.109999656677246,
-    "duration_seconds": null
+    "duration_seconds": 1345,
+    "duracion": "22:25"
   },
   {
     "id": 152,
@@ -2775,7 +2926,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -64.83999633789062,
     "latent_y": -116.63999938964844,
     "latent_z": -1.5099999904632568,
-    "duration_seconds": null
+    "duration_seconds": 547,
+    "duracion": "09:07"
   },
   {
     "id": 153,
@@ -2793,7 +2945,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -47.77000045776367,
     "latent_y": -100.8499984741211,
     "latent_z": 28.6200008392334,
-    "duration_seconds": null
+    "duration_seconds": 445,
+    "duracion": "07:25"
   },
   {
     "id": 154,
@@ -2811,7 +2964,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 55.77000045776367,
     "latent_y": -0.5299999713897705,
     "latent_z": -55.79999923706055,
-    "duration_seconds": null
+    "duration_seconds": 300,
+    "duracion": "05:00"
   },
   {
     "id": 155,
@@ -2830,7 +2984,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -0.20999999344348907,
     "latent_y": 85.62999725341797,
     "latent_z": 25.700000762939453,
-    "duration_seconds": null
+    "duration_seconds": 419,
+    "duracion": "06:59"
   },
   {
     "id": 156,
@@ -2848,7 +3003,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -24.690000534057617,
     "latent_y": -36.5099983215332,
     "latent_z": 84.41000366210938,
-    "duration_seconds": null
+    "duration_seconds": 236,
+    "duracion": "03:56"
   },
   {
     "id": 157,
@@ -2866,7 +3022,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -63.630001068115234,
     "latent_y": 35.54999923706055,
     "latent_z": 22.31999969482422,
-    "duration_seconds": null
+    "duration_seconds": 410,
+    "duracion": "06:50"
   },
   {
     "id": 158,
@@ -2884,7 +3041,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 19.700000762939453,
     "latent_y": -28.040000915527344,
     "latent_z": 78.58999633789062,
-    "duration_seconds": null
+    "duration_seconds": 287,
+    "duracion": "04:47"
   },
   {
     "id": 159,
@@ -2903,7 +3061,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 1.7899999618530273,
     "latent_y": -29.959999084472656,
     "latent_z": -80.41999816894531,
-    "duration_seconds": null
+    "duration_seconds": 688,
+    "duracion": "11:28"
   },
   {
     "id": 160,
@@ -2923,7 +3082,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -57.779998779296875,
     "latent_y": -64.62999725341797,
     "latent_z": -24.010000228881836,
-    "duration_seconds": null
+    "duration_seconds": 511,
+    "duracion": "08:31"
   },
   {
     "id": 161,
@@ -2941,7 +3101,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -24.479999542236328,
     "latent_y": -83.25,
     "latent_z": 19.020000457763672,
-    "duration_seconds": null
+    "duration_seconds": 965,
+    "duracion": "16:05"
   },
   {
     "id": 162,
@@ -2959,7 +3120,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -119.7300033569336,
     "latent_y": -1.2699999809265137,
     "latent_z": -51.15999984741211,
-    "duration_seconds": null
+    "duration_seconds": 797,
+    "duracion": "13:17"
   },
   {
     "id": 163,
@@ -2977,7 +3139,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 109.72000122070312,
     "latent_y": -2.0199999809265137,
     "latent_z": -44.59000015258789,
-    "duration_seconds": null
+    "duration_seconds": 410,
+    "duracion": "06:50"
   },
   {
     "id": 164,
@@ -2995,7 +3158,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -42.56999969482422,
     "latent_y": 7.409999847412109,
     "latent_z": -0.9800000190734863,
-    "duration_seconds": null
+    "duration_seconds": 218,
+    "duracion": "03:38"
   },
   {
     "id": 165,
@@ -3014,7 +3178,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -3.4700000286102295,
     "latent_y": 85.06999969482422,
     "latent_z": 71.16999816894531,
-    "duration_seconds": null
+    "duration_seconds": 872,
+    "duracion": "14:32"
   },
   {
     "id": 166,
@@ -3034,7 +3199,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 10.359999656677246,
     "latent_y": 97.54000091552734,
     "latent_z": 10.369999885559082,
-    "duration_seconds": null
+    "duration_seconds": 736,
+    "duracion": "12:16"
   },
   {
     "id": 167,
@@ -3053,7 +3219,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -2.059999942779541,
     "latent_y": -76.4800033569336,
     "latent_z": -17.030000686645508,
-    "duration_seconds": null
+    "duration_seconds": 1826,
+    "duracion": "30:26"
   },
   {
     "id": 168,
@@ -3071,7 +3238,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 69.44999694824219,
     "latent_y": 25.520000457763672,
     "latent_z": 17.68000030517578,
-    "duration_seconds": null
+    "duration_seconds": 3599,
+    "duracion": "59:59"
   },
   {
     "id": 169,
@@ -3090,7 +3258,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -41.619998931884766,
     "latent_y": -7.269999980926514,
     "latent_z": -40.66999816894531,
-    "duration_seconds": null
+    "duration_seconds": 827,
+    "duracion": "13:47"
   },
   {
     "id": 170,
@@ -3108,7 +3277,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 78.18000030517578,
     "latent_y": 75.29000091552734,
     "latent_z": -3.490000009536743,
-    "duration_seconds": null
+    "duration_seconds": 467,
+    "duracion": "07:47"
   },
   {
     "id": 171,
@@ -3129,7 +3299,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -14.460000038146973,
     "latent_y": 89.7300033569336,
     "latent_z": -10.119999885559082,
-    "duration_seconds": null
+    "duration_seconds": 732,
+    "duracion": "12:12"
   },
   {
     "id": 172,
@@ -3147,7 +3318,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 14.890000343322754,
     "latent_y": 3.75,
     "latent_z": 118.76000213623047,
-    "duration_seconds": null
+    "duration_seconds": 720,
+    "duracion": "12:00"
   },
   {
     "id": 173,
@@ -3165,7 +3337,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 51.08000183105469,
     "latent_y": -34.47999954223633,
     "latent_z": -10.510000228881836,
-    "duration_seconds": null
+    "duration_seconds": 2168,
+    "duracion": "36:08"
   },
   {
     "id": 174,
@@ -3183,7 +3356,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 29.139999389648438,
     "latent_y": 63.189998626708984,
     "latent_z": -78.30999755859375,
-    "duration_seconds": null
+    "duration_seconds": 733,
+    "duracion": "12:13"
   },
   {
     "id": 175,
@@ -3201,7 +3375,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -52.72999954223633,
     "latent_y": 93.33000183105469,
     "latent_z": 51.900001525878906,
-    "duration_seconds": null
+    "duration_seconds": 394,
+    "duracion": "06:34"
   },
   {
     "id": 176,
@@ -3221,7 +3396,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -4.940000057220459,
     "latent_y": 86.41999816894531,
     "latent_z": 5.579999923706055,
-    "duration_seconds": null
+    "duration_seconds": 672,
+    "duracion": "11:12"
   },
   {
     "id": 177,
@@ -3239,7 +3415,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -103.48999786376953,
     "latent_y": 14.770000457763672,
     "latent_z": -62.7599983215332,
-    "duration_seconds": null
+    "duration_seconds": 11,
+    "duracion": "00:11"
   },
   {
     "id": 178,
@@ -3258,7 +3435,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -41.06999969482422,
     "latent_y": -41.060001373291016,
     "latent_z": -1.5299999713897705,
-    "duration_seconds": null
+    "duration_seconds": 830,
+    "duracion": "13:50"
   },
   {
     "id": 179,
@@ -3276,7 +3454,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -70.88999938964844,
     "latent_y": 48.43000030517578,
     "latent_z": 37.9900016784668,
-    "duration_seconds": null
+    "duration_seconds": 361,
+    "duracion": "06:01"
   },
   {
     "id": 180,
@@ -3294,7 +3473,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 71.05999755859375,
     "latent_y": -22.579999923706055,
     "latent_z": -12.720000267028809,
-    "duration_seconds": null
+    "duration_seconds": 258,
+    "duracion": "04:18"
   },
   {
     "id": 181,
@@ -3312,7 +3492,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 104.62999725341797,
     "latent_y": -31.399999618530273,
     "latent_z": -42.33000183105469,
-    "duration_seconds": null
+    "duration_seconds": 1098,
+    "duracion": "18:18"
   },
   {
     "id": 182,
@@ -3330,7 +3511,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 108.79000091552734,
     "latent_y": -18.139999389648438,
     "latent_z": 30.780000686645508,
-    "duration_seconds": null
+    "duration_seconds": 63,
+    "duracion": "01:03"
   },
   {
     "id": 183,
@@ -3348,7 +3530,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 75.52999877929688,
     "latent_y": -42.310001373291016,
     "latent_z": 2.140000104904175,
-    "duration_seconds": null
+    "duration_seconds": 300,
+    "duracion": "05:00"
   },
   {
     "id": 184,
@@ -3366,7 +3549,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -5.230000019073486,
     "latent_y": 61.65999984741211,
     "latent_z": -73.48999786376953,
-    "duration_seconds": null
+    "duration_seconds": 352,
+    "duracion": "05:52"
   },
   {
     "id": 185,
@@ -3384,7 +3568,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -39.939998626708984,
     "latent_y": -89.0,
     "latent_z": 17.639999389648438,
-    "duration_seconds": null
+    "duration_seconds": 2048,
+    "duracion": "34:08"
   },
   {
     "id": 186,
@@ -3403,7 +3588,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -20.889999389648438,
     "latent_y": -0.8999999761581421,
     "latent_z": -82.68000030517578,
-    "duration_seconds": null
+    "duration_seconds": 454,
+    "duracion": "07:34"
   },
   {
     "id": 187,
@@ -3421,7 +3607,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 15.920000076293945,
     "latent_y": 19.739999771118164,
     "latent_z": 1.1100000143051147,
-    "duration_seconds": null
+    "duration_seconds": 316,
+    "duracion": "05:16"
   },
   {
     "id": 188,
@@ -3439,7 +3626,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 42.380001068115234,
     "latent_y": -45.47999954223633,
     "latent_z": 7.900000095367432,
-    "duration_seconds": null
+    "duration_seconds": 356,
+    "duracion": "05:56"
   },
   {
     "id": 189,
@@ -3457,7 +3645,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 14.100000381469727,
     "latent_y": -43.93000030517578,
     "latent_z": -16.600000381469727,
-    "duration_seconds": null
+    "duration_seconds": 342,
+    "duracion": "05:42"
   },
   {
     "id": 190,
@@ -3476,7 +3665,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -48.72999954223633,
     "latent_y": -60.63999938964844,
     "latent_z": -3.7699999809265137,
-    "duration_seconds": null
+    "duration_seconds": 1049,
+    "duracion": "17:29"
   },
   {
     "id": 191,
@@ -3494,7 +3684,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -4.019999980926514,
     "latent_y": -54.81999969482422,
     "latent_z": -67.11000061035156,
-    "duration_seconds": null
+    "duration_seconds": 374,
+    "duracion": "06:14"
   },
   {
     "id": 192,
@@ -3512,7 +3703,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -13.899999618530273,
     "latent_y": 54.939998626708984,
     "latent_z": 36.47999954223633,
-    "duration_seconds": null
+    "duration_seconds": 354,
+    "duracion": "05:54"
   },
   {
     "id": 193,
@@ -3530,7 +3722,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 64.5199966430664,
     "latent_y": 51.45000076293945,
     "latent_z": -34.88999938964844,
-    "duration_seconds": null
+    "duration_seconds": 3531,
+    "duracion": "58:51"
   },
   {
     "id": 194,
@@ -3549,7 +3742,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -57.65999984741211,
     "latent_y": -33.79999923706055,
     "latent_z": 0.019999999552965164,
-    "duration_seconds": null
+    "duration_seconds": 663,
+    "duracion": "11:03"
   },
   {
     "id": 195,
@@ -3567,7 +3761,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 112.91999816894531,
     "latent_y": -15.550000190734863,
     "latent_z": -18.5,
-    "duration_seconds": null
+    "duration_seconds": 746,
+    "duracion": "12:26"
   },
   {
     "id": 196,
@@ -3586,7 +3781,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 36.18000030517578,
     "latent_y": 25.15999984741211,
     "latent_z": -84.31999969482422,
-    "duration_seconds": null
+    "duration_seconds": 2411,
+    "duracion": "40:11"
   },
   {
     "id": 197,
@@ -3604,7 +3800,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -38.369998931884766,
     "latent_y": 86.9000015258789,
     "latent_z": 61.63999938964844,
-    "duration_seconds": null
+    "duration_seconds": 1239,
+    "duracion": "20:39"
   },
   {
     "id": 198,
@@ -3624,7 +3821,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -50.38999938964844,
     "latent_y": -21.719999313354492,
     "latent_z": -54.189998626708984,
-    "duration_seconds": null
+    "duration_seconds": 287,
+    "duracion": "04:47"
   },
   {
     "id": 199,
@@ -3642,7 +3840,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -16.780000686645508,
     "latent_y": -75.83000183105469,
     "latent_z": -88.70999908447266,
-    "duration_seconds": null
+    "duration_seconds": 254,
+    "duracion": "04:14"
   },
   {
     "id": 200,
@@ -3660,7 +3859,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -13.550000190734863,
     "latent_y": -88.05999755859375,
     "latent_z": -80.05000305175781,
-    "duration_seconds": null
+    "duration_seconds": 187,
+    "duracion": "03:07"
   },
   {
     "id": 201,
@@ -3679,7 +3879,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -28.8700008392334,
     "latent_y": 4.190000057220459,
     "latent_z": 13.119999885559082,
-    "duration_seconds": null
+    "duration_seconds": 1977,
+    "duracion": "32:57"
   },
   {
     "id": 202,
@@ -3697,7 +3898,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 46.47999954223633,
     "latent_y": 28.850000381469727,
     "latent_z": -0.5299999713897705,
-    "duration_seconds": null
+    "duration_seconds": 4258,
+    "duracion": "01:10:58"
   },
   {
     "id": 203,
@@ -3715,7 +3917,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -16.510000228881836,
     "latent_y": 61.20000076293945,
     "latent_z": -88.0199966430664,
-    "duration_seconds": null
+    "duration_seconds": 438,
+    "duracion": "07:18"
   },
   {
     "id": 204,
@@ -3733,7 +3936,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 66.0999984741211,
     "latent_y": 42.380001068115234,
     "latent_z": -3.6600000858306885,
-    "duration_seconds": null
+    "duration_seconds": 544,
+    "duracion": "09:04"
   },
   {
     "id": 205,
@@ -3751,7 +3955,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 87.55999755859375,
     "latent_y": -32.900001525878906,
     "latent_z": 53.349998474121094,
-    "duration_seconds": null
+    "duration_seconds": 332,
+    "duracion": "05:32"
   },
   {
     "id": 206,
@@ -3769,7 +3974,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -33.63999938964844,
     "latent_y": 16.809999465942383,
     "latent_z": -2.809999942779541,
-    "duration_seconds": null
+    "duration_seconds": 779,
+    "duracion": "12:59"
   },
   {
     "id": 207,
@@ -3787,7 +3993,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 48.439998626708984,
     "latent_y": 14.34000015258789,
     "latent_z": -28.93000030517578,
-    "duration_seconds": null
+    "duration_seconds": 12007,
+    "duracion": "03:20:07"
   },
   {
     "id": 208,
@@ -3806,7 +4013,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -40.040000915527344,
     "latent_y": 1.8300000429153442,
     "latent_z": 48.18000030517578,
-    "duration_seconds": null
+    "duration_seconds": 2072,
+    "duracion": "34:32"
   },
   {
     "id": 209,
@@ -3825,7 +4033,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -67.0199966430664,
     "latent_y": -104.0199966430664,
     "latent_z": 3.9200000762939453,
-    "duration_seconds": null
+    "duration_seconds": 758,
+    "duracion": "12:38"
   },
   {
     "id": 210,
@@ -3843,7 +4052,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 57.0,
     "latent_y": 8.550000190734863,
     "latent_z": 53.02000045776367,
-    "duration_seconds": null
+    "duration_seconds": 1358,
+    "duracion": "22:38"
   },
   {
     "id": 211,
@@ -3861,7 +4071,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -100.2699966430664,
     "latent_y": 13.069999694824219,
     "latent_z": -31.790000915527344,
-    "duration_seconds": null
+    "duration_seconds": 881,
+    "duracion": "14:41"
   },
   {
     "id": 212,
@@ -3879,7 +4090,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -38.93000030517578,
     "latent_y": 77.2300033569336,
     "latent_z": 43.15999984741211,
-    "duration_seconds": null
+    "duration_seconds": 292,
+    "duracion": "04:52"
   },
   {
     "id": 213,
@@ -3897,7 +4109,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 5.849999904632568,
     "latent_y": -5.420000076293945,
     "latent_z": -39.400001525878906,
-    "duration_seconds": null
+    "duration_seconds": 214,
+    "duracion": "03:34"
   },
   {
     "id": 214,
@@ -3915,7 +4128,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 33.52000045776367,
     "latent_y": -32.25,
     "latent_z": -3.640000104904175,
-    "duration_seconds": null
+    "duration_seconds": 309,
+    "duracion": "05:09"
   },
   {
     "id": 215,
@@ -3933,7 +4147,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 55.81999969482422,
     "latent_y": -61.65999984741211,
     "latent_z": -19.520000457763672,
-    "duration_seconds": null
+    "duration_seconds": 79,
+    "duracion": "01:19"
   },
   {
     "id": 216,
@@ -3952,7 +4167,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -18.43000030517578,
     "latent_y": -78.41000366210938,
     "latent_z": -13.270000457763672,
-    "duration_seconds": null
+    "duration_seconds": 2060,
+    "duracion": "34:20"
   },
   {
     "id": 217,
@@ -3970,7 +4186,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 38.849998474121094,
     "latent_y": 3.4200000762939453,
     "latent_z": 1.059999942779541,
-    "duration_seconds": null
+    "duration_seconds": 623,
+    "duracion": "10:23"
   },
   {
     "id": 218,
@@ -3990,7 +4207,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -42.5,
     "latent_y": 32.220001220703125,
     "latent_z": -30.309999465942383,
-    "duration_seconds": null
+    "duration_seconds": 621,
+    "duracion": "10:21"
   },
   {
     "id": 219,
@@ -4009,7 +4227,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 19.239999771118164,
     "latent_y": 22.18000030517578,
     "latent_z": -78.87999725341797,
-    "duration_seconds": null
+    "duration_seconds": 1537,
+    "duracion": "25:37"
   },
   {
     "id": 220,
@@ -4028,7 +4247,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -63.400001525878906,
     "latent_y": -52.9900016784668,
     "latent_z": -3.950000047683716,
-    "duration_seconds": null
+    "duration_seconds": 376,
+    "duracion": "06:16"
   },
   {
     "id": 221,
@@ -4048,7 +4268,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -57.61000061035156,
     "latent_y": 36.0,
     "latent_z": -33.380001068115234,
-    "duration_seconds": null
+    "duration_seconds": 313,
+    "duracion": "05:13"
   },
   {
     "id": 222,
@@ -4066,7 +4287,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 97.81999969482422,
     "latent_y": 10.260000228881836,
     "latent_z": -20.270000457763672,
-    "duration_seconds": null
+    "duration_seconds": 850,
+    "duracion": "14:10"
   },
   {
     "id": 223,
@@ -4084,7 +4306,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -48.08000183105469,
     "latent_y": -74.58999633789062,
     "latent_z": 14.289999961853027,
-    "duration_seconds": null
+    "duration_seconds": 920,
+    "duracion": "15:20"
   },
   {
     "id": 224,
@@ -4103,7 +4326,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -43.7400016784668,
     "latent_y": 101.77999877929688,
     "latent_z": -8.420000076293945,
-    "duration_seconds": null
+    "duration_seconds": 491,
+    "duracion": "08:11"
   },
   {
     "id": 225,
@@ -4121,7 +4345,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 8.529999732971191,
     "latent_y": -55.22999954223633,
     "latent_z": -85.30000305175781,
-    "duration_seconds": null
+    "duration_seconds": 343,
+    "duracion": "05:43"
   },
   {
     "id": 226,
@@ -4139,7 +4364,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 120.0,
     "latent_y": -5.159999847412109,
     "latent_z": -14.0600004196167,
-    "duration_seconds": null
+    "duration_seconds": 532,
+    "duracion": "08:52"
   },
   {
     "id": 227,
@@ -4158,7 +4384,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -56.939998626708984,
     "latent_y": 102.30999755859375,
     "latent_z": 6.699999809265137,
-    "duration_seconds": null
+    "duration_seconds": 441,
+    "duracion": "07:21"
   },
   {
     "id": 228,
@@ -4176,7 +4403,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 59.18000030517578,
     "latent_y": -29.360000610351562,
     "latent_z": 6.150000095367432,
-    "duration_seconds": null
+    "duration_seconds": 1754,
+    "duracion": "29:14"
   },
   {
     "id": 229,
@@ -4194,7 +4422,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -52.18000030517578,
     "latent_y": 54.43000030517578,
     "latent_z": 7.039999961853027,
-    "duration_seconds": null
+    "duration_seconds": 507,
+    "duracion": "08:27"
   },
   {
     "id": 230,
@@ -4212,7 +4441,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 63.63999938964844,
     "latent_y": 17.709999084472656,
     "latent_z": 4.829999923706055,
-    "duration_seconds": null
+    "duration_seconds": 2105,
+    "duracion": "35:05"
   },
   {
     "id": 231,
@@ -4230,7 +4460,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -5.619999885559082,
     "latent_y": -35.4900016784668,
     "latent_z": 101.08000183105469,
-    "duration_seconds": null
+    "duration_seconds": 396,
+    "duracion": "06:36"
   },
   {
     "id": 232,
@@ -4249,7 +4480,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -10.380000114440918,
     "latent_y": -91.2300033569336,
     "latent_z": -15.380000114440918,
-    "duration_seconds": null
+    "duration_seconds": 187,
+    "duracion": "03:07"
   },
   {
     "id": 233,
@@ -4268,7 +4500,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -22.770000457763672,
     "latent_y": 50.220001220703125,
     "latent_z": -65.48999786376953,
-    "duration_seconds": null
+    "duration_seconds": 611,
+    "duracion": "10:11"
   },
   {
     "id": 234,
@@ -4287,7 +4520,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 20.690000534057617,
     "latent_y": -41.33000183105469,
     "latent_z": -105.47000122070312,
-    "duration_seconds": null
+    "duration_seconds": 172,
+    "duracion": "02:52"
   },
   {
     "id": 235,
@@ -4307,7 +4541,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -67.75,
     "latent_y": -71.5,
     "latent_z": -32.529998779296875,
-    "duration_seconds": null
+    "duration_seconds": 369,
+    "duracion": "06:09"
   },
   {
     "id": 236,
@@ -4327,7 +4562,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 4.659999847412109,
     "latent_y": 86.2300033569336,
     "latent_z": -16.0,
-    "duration_seconds": null
+    "duration_seconds": 957,
+    "duracion": "15:57"
   },
   {
     "id": 237,
@@ -4345,7 +4581,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -33.630001068115234,
     "latent_y": 49.81999969482422,
     "latent_z": 28.510000228881836,
-    "duration_seconds": null
+    "duration_seconds": 382,
+    "duracion": "06:22"
   },
   {
     "id": 238,
@@ -4364,7 +4601,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -59.209999084472656,
     "latent_y": 13.859999656677246,
     "latent_z": -26.200000762939453,
-    "duration_seconds": null
+    "duration_seconds": 411,
+    "duracion": "06:51"
   },
   {
     "id": 239,
@@ -4383,7 +4621,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -82.11000061035156,
     "latent_y": -55.630001068115234,
     "latent_z": 0.5600000023841858,
-    "duration_seconds": null
+    "duration_seconds": 477,
+    "duracion": "07:57"
   },
   {
     "id": 240,
@@ -4401,7 +4640,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -70.33999633789062,
     "latent_y": 6.960000038146973,
     "latent_z": -48.68000030517578,
-    "duration_seconds": null
+    "duration_seconds": 620,
+    "duracion": "10:20"
   },
   {
     "id": 241,
@@ -4419,7 +4659,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -46.36000061035156,
     "latent_y": 69.55000305175781,
     "latent_z": 6.340000152587891,
-    "duration_seconds": null
+    "duration_seconds": 387,
+    "duracion": "06:27"
   },
   {
     "id": 242,
@@ -4437,7 +4678,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -1.909999966621399,
     "latent_y": 79.20999908447266,
     "latent_z": -65.66999816894531,
-    "duration_seconds": null
+    "duration_seconds": 263,
+    "duracion": "04:23"
   },
   {
     "id": 243,
@@ -4455,7 +4697,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -66.41000366210938,
     "latent_y": -70.19999694824219,
     "latent_z": 19.65999984741211,
-    "duration_seconds": null
+    "duration_seconds": 523,
+    "duracion": "08:43"
   },
   {
     "id": 244,
@@ -4473,7 +4716,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -59.88999938964844,
     "latent_y": 77.97000122070312,
     "latent_z": 18.920000076293945,
-    "duration_seconds": null
+    "duration_seconds": 315,
+    "duracion": "05:15"
   },
   {
     "id": 245,
@@ -4493,7 +4737,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -18.18000030517578,
     "latent_y": -48.06999969482422,
     "latent_z": -104.81999969482422,
-    "duration_seconds": null
+    "duration_seconds": 393,
+    "duracion": "06:33"
   },
   {
     "id": 246,
@@ -4511,7 +4756,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -24.65999984741211,
     "latent_y": -64.01000213623047,
     "latent_z": 35.16999816894531,
-    "duration_seconds": null
+    "duration_seconds": 191,
+    "duracion": "03:11"
   },
   {
     "id": 247,
@@ -4529,7 +4775,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 18.81999969482422,
     "latent_y": -69.55999755859375,
     "latent_z": -95.05999755859375,
-    "duration_seconds": null
+    "duration_seconds": 405,
+    "duracion": "06:45"
   },
   {
     "id": 248,
@@ -4548,7 +4795,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -43.209999084472656,
     "latent_y": 96.33999633789062,
     "latent_z": 5.389999866485596,
-    "duration_seconds": null
+    "duration_seconds": 292,
+    "duracion": "04:52"
   },
   {
     "id": 249,
@@ -4567,7 +4815,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -32.470001220703125,
     "latent_y": -6.380000114440918,
     "latent_z": -115.55000305175781,
-    "duration_seconds": null
+    "duration_seconds": 184,
+    "duracion": "03:04"
   },
   {
     "id": 250,
@@ -4586,7 +4835,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -16.90999984741211,
     "latent_y": 50.7400016784668,
     "latent_z": -48.97999954223633,
-    "duration_seconds": null
+    "duration_seconds": 1200,
+    "duracion": "20:00"
   },
   {
     "id": 251,
@@ -4604,7 +4854,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -100.20999908447266,
     "latent_y": -18.0,
     "latent_z": -47.040000915527344,
-    "duration_seconds": null
+    "duration_seconds": 301,
+    "duracion": "05:01"
   },
   {
     "id": 252,
@@ -4623,7 +4874,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -59.529998779296875,
     "latent_y": 111.37000274658203,
     "latent_z": -10.770000457763672,
-    "duration_seconds": null
+    "duration_seconds": 377,
+    "duracion": "06:17"
   },
   {
     "id": 253,
@@ -4641,7 +4893,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 19.959999084472656,
     "latent_y": 69.33000183105469,
     "latent_z": -94.93000030517578,
-    "duration_seconds": null
+    "duration_seconds": 248,
+    "duracion": "04:08"
   },
   {
     "id": 254,
@@ -4659,7 +4912,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 29.559999465942383,
     "latent_y": -11.220000267028809,
     "latent_z": 108.20999908447266,
-    "duration_seconds": null
+    "duration_seconds": 516,
+    "duracion": "08:36"
   },
   {
     "id": 255,
@@ -4677,7 +4931,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 65.19000244140625,
     "latent_y": -25.68000030517578,
     "latent_z": -76.26000213623047,
-    "duration_seconds": null
+    "duration_seconds": 503,
+    "duracion": "08:23"
   },
   {
     "id": 256,
@@ -4695,7 +4950,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 80.16999816894531,
     "latent_y": 5.760000228881836,
     "latent_z": -20.850000381469727,
-    "duration_seconds": null
+    "duration_seconds": 415,
+    "duracion": "06:55"
   },
   {
     "id": 257,
@@ -4714,7 +4970,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -75.76000213623047,
     "latent_y": -50.220001220703125,
     "latent_z": 53.58000183105469,
-    "duration_seconds": null
+    "duration_seconds": 29,
+    "duracion": "00:29"
   },
   {
     "id": 258,
@@ -4732,7 +4989,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -92.70999908447266,
     "latent_y": 41.06999969482422,
     "latent_z": 26.940000534057617,
-    "duration_seconds": null
+    "duration_seconds": 517,
+    "duracion": "08:37"
   },
   {
     "id": 259,
@@ -4751,7 +5009,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -36.2400016784668,
     "latent_y": -14.380000114440918,
     "latent_z": 44.040000915527344,
-    "duration_seconds": null
+    "duration_seconds": 12064,
+    "duracion": "03:21:04"
   },
   {
     "id": 260,
@@ -4770,7 +5029,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -33.95000076293945,
     "latent_y": -49.54999923706055,
     "latent_z": -87.91999816894531,
-    "duration_seconds": null
+    "duration_seconds": 1570,
+    "duracion": "26:10"
   },
   {
     "id": 261,
@@ -4788,7 +5048,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 86.5199966430664,
     "latent_y": -7.460000038146973,
     "latent_z": -29.530000686645508,
-    "duration_seconds": null
+    "duration_seconds": 337,
+    "duracion": "05:37"
   },
   {
     "id": 262,
@@ -4806,7 +5067,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 97.20999908447266,
     "latent_y": 45.529998779296875,
     "latent_z": 4.679999828338623,
-    "duration_seconds": null
+    "duration_seconds": 16096,
+    "duracion": "04:28:16"
   },
   {
     "id": 263,
@@ -4824,7 +5086,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -87.83999633789062,
     "latent_y": 11.4399995803833,
     "latent_z": -51.599998474121094,
-    "duration_seconds": null
+    "duration_seconds": 1105,
+    "duracion": "18:25"
   },
   {
     "id": 264,
@@ -4842,7 +5105,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -62.68000030517578,
     "latent_y": -116.9000015258789,
     "latent_z": 26.889999389648438,
-    "duration_seconds": null
+    "duration_seconds": 561,
+    "duracion": "09:21"
   },
   {
     "id": 265,
@@ -4861,7 +5125,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -49.04999923706055,
     "latent_y": -17.219999313354492,
     "latent_z": -36.5,
-    "duration_seconds": null
+    "duration_seconds": 813,
+    "duracion": "13:33"
   },
   {
     "id": 266,
@@ -4881,7 +5146,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 4.170000076293945,
     "latent_y": 101.0199966430664,
     "latent_z": -5.699999809265137,
-    "duration_seconds": null
+    "duration_seconds": 703,
+    "duracion": "11:43"
   },
   {
     "id": 267,
@@ -4899,7 +5165,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 40.209999084472656,
     "latent_y": -45.7599983215332,
     "latent_z": -22.450000762939453,
-    "duration_seconds": null
+    "duration_seconds": 1024,
+    "duracion": "17:04"
   },
   {
     "id": 268,
@@ -4917,7 +5184,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -57.75,
     "latent_y": -90.31999969482422,
     "latent_z": 17.75,
-    "duration_seconds": null
+    "duration_seconds": 696,
+    "duracion": "11:36"
   },
   {
     "id": 269,
@@ -4936,7 +5204,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 24.43000030517578,
     "latent_y": 36.029998779296875,
     "latent_z": -82.91999816894531,
-    "duration_seconds": null
+    "duration_seconds": 433,
+    "duracion": "07:13"
   },
   {
     "id": 270,
@@ -4954,7 +5223,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 83.87999725341797,
     "latent_y": 25.760000228881836,
     "latent_z": -47.470001220703125,
-    "duration_seconds": null
+    "duration_seconds": 807,
+    "duracion": "13:27"
   },
   {
     "id": 271,
@@ -4972,7 +5242,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 99.4000015258789,
     "latent_y": 13.720000267028809,
     "latent_z": 3.700000047683716,
-    "duration_seconds": null
+    "duration_seconds": 56,
+    "duracion": "00:56"
   },
   {
     "id": 272,
@@ -4991,7 +5262,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -7.099999904632568,
     "latent_y": -29.959999084472656,
     "latent_z": -97.94999694824219,
-    "duration_seconds": null
+    "duration_seconds": 146,
+    "duracion": "02:26"
   },
   {
     "id": 273,
@@ -5010,7 +5282,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -66.43000030517578,
     "latent_y": 14.149999618530273,
     "latent_z": -12.109999656677246,
-    "duration_seconds": null
+    "duration_seconds": 3302,
+    "duracion": "55:02"
   },
   {
     "id": 274,
@@ -5028,7 +5301,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 79.04000091552734,
     "latent_y": 18.65999984741211,
     "latent_z": 47.38999938964844,
-    "duration_seconds": null
+    "duration_seconds": 3756,
+    "duracion": "01:02:36"
   },
   {
     "id": 275,
@@ -5047,7 +5321,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -21.989999771118164,
     "latent_y": -1.2300000190734863,
     "latent_z": 42.5,
-    "duration_seconds": null
+    "duration_seconds": 1199,
+    "duracion": "19:59"
   },
   {
     "id": 276,
@@ -5065,7 +5340,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 38.880001068115234,
     "latent_y": -87.9800033569336,
     "latent_z": -25.760000228881836,
-    "duration_seconds": null
+    "duration_seconds": 240,
+    "duracion": "04:00"
   },
   {
     "id": 277,
@@ -5084,7 +5360,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -29.729999542236328,
     "latent_y": 25.290000915527344,
     "latent_z": 107.51000213623047,
-    "duration_seconds": null
+    "duration_seconds": 2183,
+    "duracion": "36:23"
   },
   {
     "id": 278,
@@ -5102,7 +5379,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 107.88999938964844,
     "latent_y": 33.470001220703125,
     "latent_z": -44.22999954223633,
-    "duration_seconds": null
+    "duration_seconds": 307,
+    "duracion": "05:07"
   },
   {
     "id": 279,
@@ -5120,7 +5398,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 84.73999786376953,
     "latent_y": -21.670000076293945,
     "latent_z": 47.59000015258789,
-    "duration_seconds": null
+    "duration_seconds": 347,
+    "duracion": "05:47"
   },
   {
     "id": 280,
@@ -5138,7 +5417,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -82.41000366210938,
     "latent_y": -10.550000190734863,
     "latent_z": -50.310001373291016,
-    "duration_seconds": null
+    "duration_seconds": 382,
+    "duracion": "06:22"
   },
   {
     "id": 281,
@@ -5156,7 +5436,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 31.389999389648438,
     "latent_y": -48.529998779296875,
     "latent_z": 96.91000366210938,
-    "duration_seconds": null
+    "duration_seconds": 523,
+    "duracion": "08:43"
   },
   {
     "id": 282,
@@ -5176,7 +5457,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -29.75,
     "latent_y": 0.44999998807907104,
     "latent_z": 25.920000076293945,
-    "duration_seconds": null
+    "duration_seconds": 1327,
+    "duracion": "22:07"
   },
   {
     "id": 283,
@@ -5194,7 +5476,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -59.88999938964844,
     "latent_y": 77.97000122070312,
     "latent_z": 18.920000076293945,
-    "duration_seconds": null
+    "duration_seconds": 481,
+    "duracion": "08:01"
   },
   {
     "id": 284,
@@ -5212,7 +5495,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 53.93000030517578,
     "latent_y": -2.2699999809265137,
     "latent_z": -6.489999771118164,
-    "duration_seconds": null
+    "duration_seconds": 424,
+    "duracion": "07:04"
   },
   {
     "id": 285,
@@ -5230,7 +5514,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -9.25,
     "latent_y": 16.600000381469727,
     "latent_z": 87.30999755859375,
-    "duration_seconds": null
+    "duration_seconds": 525,
+    "duracion": "08:45"
   },
   {
     "id": 286,
@@ -5248,7 +5533,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 28.020000457763672,
     "latent_y": 3.259999990463257,
     "latent_z": 35.7599983215332,
-    "duration_seconds": null
+    "duration_seconds": 282,
+    "duracion": "04:42"
   },
   {
     "id": 287,
@@ -5266,7 +5552,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -43.470001220703125,
     "latent_y": -109.08999633789062,
     "latent_z": 14.800000190734863,
-    "duration_seconds": null
+    "duration_seconds": 577,
+    "duracion": "09:37"
   },
   {
     "id": 288,
@@ -5284,7 +5571,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -81.58000183105469,
     "latent_y": 65.87000274658203,
     "latent_z": 30.059999465942383,
-    "duration_seconds": null
+    "duration_seconds": 297,
+    "duracion": "04:57"
   },
   {
     "id": 289,
@@ -5302,7 +5590,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 29.309999465942383,
     "latent_y": 26.389999389648438,
     "latent_z": -15.3100004196167,
-    "duration_seconds": null
+    "duration_seconds": 1270,
+    "duracion": "21:10"
   },
   {
     "id": 290,
@@ -5320,7 +5609,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 73.91999816894531,
     "latent_y": -15.270000457763672,
     "latent_z": 8.390000343322754,
-    "duration_seconds": null
+    "duration_seconds": 1187,
+    "duracion": "19:47"
   },
   {
     "id": 291,
@@ -5338,7 +5628,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -4.570000171661377,
     "latent_y": 43.2400016784668,
     "latent_z": -81.33999633789062,
-    "duration_seconds": null
+    "duration_seconds": 312,
+    "duracion": "05:12"
   },
   {
     "id": 292,
@@ -5356,7 +5647,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 4.940000057220459,
     "latent_y": -25.389999389648438,
     "latent_z": 90.16000366210938,
-    "duration_seconds": null
+    "duration_seconds": 283,
+    "duracion": "04:43"
   },
   {
     "id": 293,
@@ -5374,7 +5666,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 61.11000061035156,
     "latent_y": -1.340000033378601,
     "latent_z": -19.799999237060547,
-    "duration_seconds": null
+    "duration_seconds": 463,
+    "duracion": "07:43"
   },
   {
     "id": 294,
@@ -5394,7 +5687,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -23.270000457763672,
     "latent_y": -60.0099983215332,
     "latent_z": -22.889999389648438,
-    "duration_seconds": null
+    "duration_seconds": 1828,
+    "duracion": "30:28"
   },
   {
     "id": 295,
@@ -5413,7 +5707,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -32.220001220703125,
     "latent_y": -34.72999954223633,
     "latent_z": -95.97000122070312,
-    "duration_seconds": null
+    "duration_seconds": 334,
+    "duracion": "05:34"
   },
   {
     "id": 296,
@@ -5431,7 +5726,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 78.18000030517578,
     "latent_y": 75.29000091552734,
     "latent_z": -3.490000009536743,
-    "duration_seconds": null
+    "duration_seconds": 860,
+    "duracion": "14:20"
   },
   {
     "id": 297,
@@ -5450,7 +5746,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -62.349998474121094,
     "latent_y": -53.66999816894531,
     "latent_z": 51.5099983215332,
-    "duration_seconds": null
+    "duration_seconds": 118,
+    "duracion": "01:58"
   },
   {
     "id": 298,
@@ -5468,7 +5765,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 5.670000076293945,
     "latent_y": 27.3799991607666,
     "latent_z": 81.22000122070312,
-    "duration_seconds": null
+    "duration_seconds": 848,
+    "duracion": "14:08"
   },
   {
     "id": 299,
@@ -5486,7 +5784,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -12.069999694824219,
     "latent_y": -8.460000038146973,
     "latent_z": -12.4399995803833,
-    "duration_seconds": null
+    "duration_seconds": 420,
+    "duracion": "07:00"
   },
   {
     "id": 300,
@@ -5504,7 +5803,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -38.290000915527344,
     "latent_y": -106.0,
     "latent_z": -6.269999980926514,
-    "duration_seconds": null
+    "duration_seconds": 754,
+    "duracion": "12:34"
   },
   {
     "id": 301,
@@ -5523,7 +5823,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -21.690000534057617,
     "latent_y": -21.229999542236328,
     "latent_z": -87.79000091552734,
-    "duration_seconds": null
+    "duration_seconds": 379,
+    "duracion": "06:19"
   },
   {
     "id": 302,
@@ -5541,7 +5842,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -37.290000915527344,
     "latent_y": 47.33000183105469,
     "latent_z": 10.029999732971191,
-    "duration_seconds": null
+    "duration_seconds": 543,
+    "duracion": "09:03"
   },
   {
     "id": 303,
@@ -5560,7 +5862,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -27.190000534057617,
     "latent_y": -0.9900000095367432,
     "latent_z": 57.81999969482422,
-    "duration_seconds": null
+    "duration_seconds": 1324,
+    "duracion": "22:04"
   },
   {
     "id": 304,
@@ -5578,7 +5881,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -20.81999969482422,
     "latent_y": -99.94999694824219,
     "latent_z": 8.289999961853027,
-    "duration_seconds": null
+    "duration_seconds": 66,
+    "duracion": "01:06"
   },
   {
     "id": 305,
@@ -5596,7 +5900,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 43.16999816894531,
     "latent_y": -74.08000183105469,
     "latent_z": -9.84000015258789,
-    "duration_seconds": null
+    "duration_seconds": 4698,
+    "duracion": "01:18:18"
   },
   {
     "id": 306,
@@ -5615,7 +5920,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -33.68000030517578,
     "latent_y": -34.43000030517578,
     "latent_z": -76.38999938964844,
-    "duration_seconds": null
+    "duration_seconds": 720,
+    "duracion": "12:00"
   },
   {
     "id": 307,
@@ -5634,7 +5940,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -55.83000183105469,
     "latent_y": 90.69000244140625,
     "latent_z": -8.399999618530273,
-    "duration_seconds": null
+    "duration_seconds": 310,
+    "duracion": "05:10"
   },
   {
     "id": 308,
@@ -5652,7 +5959,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 65.23999786376953,
     "latent_y": -18.219999313354492,
     "latent_z": -43.130001068115234,
-    "duration_seconds": null
+    "duration_seconds": 914,
+    "duracion": "15:14"
   },
   {
     "id": 309,
@@ -5670,7 +5978,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -34.95000076293945,
     "latent_y": 44.43000030517578,
     "latent_z": 44.029998779296875,
-    "duration_seconds": null
+    "duration_seconds": 583,
+    "duracion": "09:43"
   },
   {
     "id": 310,
@@ -5688,7 +5997,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -8.739999771118164,
     "latent_y": 3.0799999237060547,
     "latent_z": 114.2699966430664,
-    "duration_seconds": null
+    "duration_seconds": 970,
+    "duracion": "16:10"
   },
   {
     "id": 311,
@@ -5706,7 +6016,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -64.44999694824219,
     "latent_y": 64.20999908447266,
     "latent_z": 33.220001220703125,
-    "duration_seconds": null
+    "duration_seconds": 455,
+    "duracion": "07:35"
   },
   {
     "id": 312,
@@ -5724,7 +6035,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -72.43000030517578,
     "latent_y": 73.48999786376953,
     "latent_z": 47.790000915527344,
-    "duration_seconds": null
+    "duration_seconds": 339,
+    "duracion": "05:39"
   },
   {
     "id": 313,
@@ -5742,7 +6054,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 21.200000762939453,
     "latent_y": 8.020000457763672,
     "latent_z": 99.20999908447266,
-    "duration_seconds": null
+    "duration_seconds": 1494,
+    "duracion": "24:54"
   },
   {
     "id": 314,
@@ -5760,7 +6073,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 6.429999828338623,
     "latent_y": -10.380000114440918,
     "latent_z": 74.79000091552734,
-    "duration_seconds": null
+    "duration_seconds": 395,
+    "duracion": "06:35"
   },
   {
     "id": 315,
@@ -5778,7 +6092,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 25.68000030517578,
     "latent_y": -65.2300033569336,
     "latent_z": 3.630000114440918,
-    "duration_seconds": null
+    "duration_seconds": 153,
+    "duracion": "02:33"
   },
   {
     "id": 316,
@@ -5797,7 +6112,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -21.690000534057617,
     "latent_y": -21.229999542236328,
     "latent_z": -87.79000091552734,
-    "duration_seconds": null
+    "duration_seconds": 262,
+    "duracion": "04:22"
   },
   {
     "id": 317,
@@ -5817,7 +6133,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -43.79999923706055,
     "latent_y": -34.58000183105469,
     "latent_z": -55.310001373291016,
-    "duration_seconds": null
+    "duration_seconds": 578,
+    "duracion": "09:38"
   },
   {
     "id": 318,
@@ -5835,7 +6152,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -120.0,
     "latent_y": 14.989999771118164,
     "latent_z": -33.619998931884766,
-    "duration_seconds": null
+    "duration_seconds": 821,
+    "duracion": "13:41"
   },
   {
     "id": 319,
@@ -5853,7 +6171,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -68.08999633789062,
     "latent_y": 90.9800033569336,
     "latent_z": 45.529998779296875,
-    "duration_seconds": null
+    "duration_seconds": 505,
+    "duracion": "08:25"
   },
   {
     "id": 320,
@@ -5871,7 +6190,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 86.01000213623047,
     "latent_y": -21.559999465942383,
     "latent_z": 15.039999961853027,
-    "duration_seconds": null
+    "duration_seconds": 666,
+    "duracion": "11:06"
   },
   {
     "id": 321,
@@ -5889,7 +6209,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 13.3100004196167,
     "latent_y": 56.47999954223633,
     "latent_z": -50.90999984741211,
-    "duration_seconds": null
+    "duration_seconds": 372,
+    "duracion": "06:12"
   },
   {
     "id": 322,
@@ -5909,7 +6230,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 4.170000076293945,
     "latent_y": 101.0199966430664,
     "latent_z": -5.699999809265137,
-    "duration_seconds": null
+    "duration_seconds": 976,
+    "duracion": "16:16"
   },
   {
     "id": 323,
@@ -5927,7 +6249,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -33.5099983215332,
     "latent_y": 99.69999694824219,
     "latent_z": 37.369998931884766,
-    "duration_seconds": null
+    "duration_seconds": 454,
+    "duracion": "07:34"
   },
   {
     "id": 324,
@@ -5946,7 +6269,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -42.599998474121094,
     "latent_y": -20.940000534057617,
     "latent_z": -85.3499984741211,
-    "duration_seconds": null
+    "duration_seconds": 2295,
+    "duracion": "38:15"
   },
   {
     "id": 325,
@@ -5964,7 +6288,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 19.360000610351562,
     "latent_y": -8.850000381469727,
     "latent_z": 88.44000244140625,
-    "duration_seconds": null
+    "duration_seconds": 705,
+    "duracion": "11:45"
   },
   {
     "id": 326,
@@ -5984,7 +6309,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 14.069999694824219,
     "latent_y": 82.16000366210938,
     "latent_z": 0.27000001072883606,
-    "duration_seconds": null
+    "duration_seconds": 1015,
+    "duracion": "16:55"
   },
   {
     "id": 327,
@@ -6003,7 +6329,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -33.88999938964844,
     "latent_y": 65.58999633789062,
     "latent_z": -66.66999816894531,
-    "duration_seconds": null
+    "duration_seconds": 385,
+    "duracion": "06:25"
   },
   {
     "id": 328,
@@ -6021,7 +6348,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -11.949999809265137,
     "latent_y": 77.93000030517578,
     "latent_z": -80.54000091552734,
-    "duration_seconds": null
+    "duration_seconds": 733,
+    "duracion": "12:13"
   },
   {
     "id": 329,
@@ -6039,7 +6367,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -66.7300033569336,
     "latent_y": 66.5199966430664,
     "latent_z": 1.75,
-    "duration_seconds": null
+    "duration_seconds": 501,
+    "duracion": "08:21"
   },
   {
     "id": 330,
@@ -6057,7 +6386,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -82.29000091552734,
     "latent_y": -87.37000274658203,
     "latent_z": 40.869998931884766,
-    "duration_seconds": null
+    "duration_seconds": 380,
+    "duracion": "06:20"
   },
   {
     "id": 331,
@@ -6075,7 +6405,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 9.609999656677246,
     "latent_y": -8.010000228881836,
     "latent_z": 101.37000274658203,
-    "duration_seconds": null
+    "duration_seconds": 926,
+    "duracion": "15:26"
   },
   {
     "id": 332,
@@ -6093,7 +6424,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -65.08000183105469,
     "latent_y": -81.43000030517578,
     "latent_z": 3.740000009536743,
-    "duration_seconds": null
+    "duration_seconds": 321,
+    "duracion": "05:21"
   },
   {
     "id": 333,
@@ -6111,7 +6443,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -78.0,
     "latent_y": 86.79000091552734,
     "latent_z": 29.0,
-    "duration_seconds": null
+    "duration_seconds": 482,
+    "duracion": "08:02"
   },
   {
     "id": 334,
@@ -6129,7 +6462,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 71.05999755859375,
     "latent_y": -3.319999933242798,
     "latent_z": 28.020000457763672,
-    "duration_seconds": null
+    "duration_seconds": 359,
+    "duracion": "05:59"
   },
   {
     "id": 335,
@@ -6147,7 +6481,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -14.229999542236328,
     "latent_y": -16.940000534057617,
     "latent_z": 87.62000274658203,
-    "duration_seconds": null
+    "duration_seconds": 229,
+    "duracion": "03:49"
   },
   {
     "id": 336,
@@ -6165,7 +6500,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 10.90999984741211,
     "latent_y": -84.83999633789062,
     "latent_z": -73.30999755859375,
-    "duration_seconds": null
+    "duration_seconds": 311,
+    "duracion": "05:11"
   },
   {
     "id": 337,
@@ -6184,7 +6520,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 13.529999732971191,
     "latent_y": 81.13999938964844,
     "latent_z": 24.5,
-    "duration_seconds": null
+    "duration_seconds": 847,
+    "duracion": "14:07"
   },
   {
     "id": 338,
@@ -6203,7 +6540,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -3.130000114440918,
     "latent_y": -12.3100004196167,
     "latent_z": -89.30999755859375,
-    "duration_seconds": null
+    "duration_seconds": 1024,
+    "duracion": "17:04"
   },
   {
     "id": 339,
@@ -6221,7 +6559,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -56.0,
     "latent_y": 72.88999938964844,
     "latent_z": 40.099998474121094,
-    "duration_seconds": null
+    "duration_seconds": 541,
+    "duracion": "09:01"
   },
   {
     "id": 340,
@@ -6239,7 +6578,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -78.73999786376953,
     "latent_y": -90.51000213623047,
     "latent_z": 17.950000762939453,
-    "duration_seconds": null
+    "duration_seconds": 1179,
+    "duracion": "19:39"
   },
   {
     "id": 341,
@@ -6257,7 +6597,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -39.779998779296875,
     "latent_y": 33.349998474121094,
     "latent_z": 29.239999771118164,
-    "duration_seconds": null
+    "duration_seconds": 390,
+    "duracion": "06:30"
   },
   {
     "id": 342,
@@ -6275,7 +6616,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -0.09000000357627869,
     "latent_y": -6.559999942779541,
     "latent_z": 89.27999877929688,
-    "duration_seconds": null
+    "duration_seconds": 498,
+    "duracion": "08:18"
   },
   {
     "id": 343,
@@ -6293,7 +6635,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -74.11000061035156,
     "latent_y": -2.930000066757202,
     "latent_z": -33.90999984741211,
-    "duration_seconds": null
+    "duration_seconds": 202,
+    "duracion": "03:22"
   },
   {
     "id": 344,
@@ -6311,7 +6654,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 30.170000076293945,
     "latent_y": -18.790000915527344,
     "latent_z": -54.2400016784668,
-    "duration_seconds": null
+    "duration_seconds": 525,
+    "duracion": "08:45"
   },
   {
     "id": 345,
@@ -6329,7 +6673,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 53.130001068115234,
     "latent_y": -18.559999465942383,
     "latent_z": -21.360000610351562,
-    "duration_seconds": null
+    "duration_seconds": 313,
+    "duracion": "05:13"
   },
   {
     "id": 346,
@@ -6347,7 +6692,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -33.83000183105469,
     "latent_y": -111.51000213623047,
     "latent_z": 44.29999923706055,
-    "duration_seconds": null
+    "duration_seconds": 211,
+    "duracion": "03:31"
   },
   {
     "id": 347,
@@ -6365,7 +6711,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -12.979999542236328,
     "latent_y": -106.8499984741211,
     "latent_z": 26.75,
-    "duration_seconds": null
+    "duration_seconds": 419,
+    "duracion": "06:59"
   },
   {
     "id": 348,
@@ -6383,7 +6730,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 14.4399995803833,
     "latent_y": -39.7599983215332,
     "latent_z": 116.16999816894531,
-    "duration_seconds": null
+    "duration_seconds": 498,
+    "duracion": "08:18"
   },
   {
     "id": 349,
@@ -6401,7 +6749,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -33.130001068115234,
     "latent_y": 83.2699966430664,
     "latent_z": 24.639999389648438,
-    "duration_seconds": null
+    "duration_seconds": 345,
+    "duracion": "05:45"
   },
   {
     "id": 350,
@@ -6419,7 +6768,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -64.88999938964844,
     "latent_y": -73.30999755859375,
     "latent_z": 37.459999084472656,
-    "duration_seconds": null
+    "duration_seconds": 1181,
+    "duracion": "19:41"
   },
   {
     "id": 351,
@@ -6437,7 +6787,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 11.920000076293945,
     "latent_y": -14.930000305175781,
     "latent_z": -27.360000610351562,
-    "duration_seconds": null
+    "duration_seconds": 344,
+    "duracion": "05:44"
   },
   {
     "id": 352,
@@ -6455,7 +6806,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -31.3799991607666,
     "latent_y": -101.58000183105469,
     "latent_z": 26.850000381469727,
-    "duration_seconds": null
+    "duration_seconds": 968,
+    "duracion": "16:08"
   },
   {
     "id": 353,
@@ -6473,7 +6825,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 4.900000095367432,
     "latent_y": 90.22000122070312,
     "latent_z": -81.20999908447266,
-    "duration_seconds": null
+    "duration_seconds": 2466,
+    "duracion": "41:06"
   },
   {
     "id": 354,
@@ -6491,7 +6844,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -86.55999755859375,
     "latent_y": 37.54999923706055,
     "latent_z": -36.15999984741211,
-    "duration_seconds": null
+    "duration_seconds": 377,
+    "duracion": "06:17"
   },
   {
     "id": 355,
@@ -6509,7 +6863,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 15.6899995803833,
     "latent_y": -4.71999979019165,
     "latent_z": 20.079999923706055,
-    "duration_seconds": null
+    "duration_seconds": 730,
+    "duracion": "12:10"
   },
   {
     "id": 356,
@@ -6527,7 +6882,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -62.34000015258789,
     "latent_y": 52.540000915527344,
     "latent_z": 52.4900016784668,
-    "duration_seconds": null
+    "duration_seconds": 4878,
+    "duracion": "01:21:18"
   },
   {
     "id": 357,
@@ -6546,7 +6902,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -38.439998626708984,
     "latent_y": 19.719999313354492,
     "latent_z": 97.6500015258789,
-    "duration_seconds": null
+    "duration_seconds": 413,
+    "duracion": "06:53"
   },
   {
     "id": 358,
@@ -6565,7 +6922,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -15.600000381469727,
     "latent_y": 81.16999816894531,
     "latent_z": -47.40999984741211,
-    "duration_seconds": null
+    "duration_seconds": 68,
+    "duracion": "01:08"
   },
   {
     "id": 359,
@@ -6583,7 +6941,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -54.849998474121094,
     "latent_y": 89.94000244140625,
     "latent_z": 29.530000686645508,
-    "duration_seconds": null
+    "duration_seconds": 427,
+    "duracion": "07:07"
   },
   {
     "id": 360,
@@ -6601,7 +6960,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 77.8499984741211,
     "latent_y": -88.5999984741211,
     "latent_z": -11.680000305175781,
-    "duration_seconds": null
+    "duration_seconds": 1452,
+    "duracion": "24:12"
   },
   {
     "id": 361,
@@ -6620,7 +6980,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -16.690000534057617,
     "latent_y": -4.239999771118164,
     "latent_z": -99.44999694824219,
-    "duration_seconds": null
+    "duration_seconds": 920,
+    "duracion": "15:20"
   },
   {
     "id": 362,
@@ -6638,7 +6999,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 11.9399995803833,
     "latent_y": 54.36000061035156,
     "latent_z": -78.12999725341797,
-    "duration_seconds": null
+    "duration_seconds": 2263,
+    "duracion": "37:43"
   },
   {
     "id": 363,
@@ -6656,7 +7018,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 70.68000030517578,
     "latent_y": -15.479999542236328,
     "latent_z": -80.52999877929688,
-    "duration_seconds": null
+    "duration_seconds": 398,
+    "duracion": "06:38"
   },
   {
     "id": 364,
@@ -6674,7 +7037,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -85.16000366210938,
     "latent_y": 81.19000244140625,
     "latent_z": 15.460000038146973,
-    "duration_seconds": null
+    "duration_seconds": 456,
+    "duracion": "07:36"
   },
   {
     "id": 365,
@@ -6692,7 +7056,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 42.04999923706055,
     "latent_y": -34.47999954223633,
     "latent_z": -44.54999923706055,
-    "duration_seconds": null
+    "duration_seconds": 515,
+    "duracion": "08:35"
   },
   {
     "id": 366,
@@ -6710,7 +7075,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 2.0999999046325684,
     "latent_y": -24.889999389648438,
     "latent_z": -34.709999084472656,
-    "duration_seconds": null
+    "duration_seconds": 790,
+    "duracion": "13:10"
   },
   {
     "id": 367,
@@ -6728,7 +7094,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 5.590000152587891,
     "latent_y": 8.0600004196167,
     "latent_z": 63.81999969482422,
-    "duration_seconds": null
+    "duration_seconds": 1205,
+    "duracion": "20:05"
   },
   {
     "id": 368,
@@ -6746,7 +7113,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -96.58999633789062,
     "latent_y": -4.650000095367432,
     "latent_z": -57.849998474121094,
-    "duration_seconds": null
+    "duration_seconds": 4155,
+    "duracion": "01:09:15"
   },
   {
     "id": 369,
@@ -6767,7 +7135,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -71.12000274658203,
     "latent_y": -53.900001525878906,
     "latent_z": -29.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 758,
+    "duracion": "12:38"
   },
   {
     "id": 370,
@@ -6785,7 +7154,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -9.9399995803833,
     "latent_y": -21.290000915527344,
     "latent_z": 74.19000244140625,
-    "duration_seconds": null
+    "duration_seconds": 619,
+    "duracion": "10:19"
   },
   {
     "id": 371,
@@ -6803,7 +7173,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 1.8799999952316284,
     "latent_y": -8.779999732971191,
     "latent_z": 16.309999465942383,
-    "duration_seconds": null
+    "duration_seconds": 703,
+    "duracion": "11:43"
   },
   {
     "id": 372,
@@ -6822,7 +7193,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -70.01000213623047,
     "latent_y": -41.380001068115234,
     "latent_z": 9.1899995803833,
-    "duration_seconds": null
+    "duration_seconds": 314,
+    "duracion": "05:14"
   },
   {
     "id": 373,
@@ -6840,7 +7212,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -2.309999942779541,
     "latent_y": -72.76000213623047,
     "latent_z": -71.55999755859375,
-    "duration_seconds": null
+    "duration_seconds": 1130,
+    "duracion": "18:50"
   },
   {
     "id": 374,
@@ -6859,7 +7232,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -15.369999885559082,
     "latent_y": -40.13999938964844,
     "latent_z": -84.9000015258789,
-    "duration_seconds": null
+    "duration_seconds": 926,
+    "duracion": "15:26"
   },
   {
     "id": 375,
@@ -6877,7 +7251,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -70.6500015258789,
     "latent_y": 59.970001220703125,
     "latent_z": 18.729999542236328,
-    "duration_seconds": null
+    "duration_seconds": 545,
+    "duracion": "09:05"
   },
   {
     "id": 376,
@@ -6895,7 +7270,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -29.729999542236328,
     "latent_y": 65.43000030517578,
     "latent_z": 18.149999618530273,
-    "duration_seconds": null
+    "duration_seconds": 494,
+    "duracion": "08:14"
   },
   {
     "id": 377,
@@ -6914,7 +7290,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -68.80000305175781,
     "latent_y": 99.61000061035156,
     "latent_z": -2.1500000953674316,
-    "duration_seconds": null
+    "duration_seconds": 585,
+    "duracion": "09:45"
   },
   {
     "id": 378,
@@ -6932,7 +7309,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -31.8799991607666,
     "latent_y": -78.79000091552734,
     "latent_z": 54.040000915527344,
-    "duration_seconds": null
+    "duration_seconds": 406,
+    "duracion": "06:46"
   },
   {
     "id": 379,
@@ -6950,7 +7328,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -56.2400016784668,
     "latent_y": -114.30000305175781,
     "latent_z": 44.08000183105469,
-    "duration_seconds": null
+    "duration_seconds": 1680,
+    "duracion": "28:00"
   },
   {
     "id": 380,
@@ -6968,7 +7347,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -33.119998931884766,
     "latent_y": -5.849999904632568,
     "latent_z": 83.66000366210938,
-    "duration_seconds": null
+    "duration_seconds": 1202,
+    "duracion": "20:02"
   },
   {
     "id": 381,
@@ -6988,7 +7368,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -20.770000457763672,
     "latent_y": 107.36000061035156,
     "latent_z": -9.449999809265137,
-    "duration_seconds": null
+    "duration_seconds": 2688,
+    "duracion": "44:48"
   },
   {
     "id": 382,
@@ -7006,7 +7387,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 9.170000076293945,
     "latent_y": -66.0999984741211,
     "latent_z": -63.33000183105469,
-    "duration_seconds": null
+    "duration_seconds": 194,
+    "duracion": "03:14"
   },
   {
     "id": 383,
@@ -7025,7 +7407,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -52.31999969482422,
     "latent_y": -36.72999954223633,
     "latent_z": 17.229999542236328,
-    "duration_seconds": null
+    "duration_seconds": 706,
+    "duracion": "11:46"
   },
   {
     "id": 384,
@@ -7044,7 +7427,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -62.790000915527344,
     "latent_y": -84.98999786376953,
     "latent_z": -23.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 393,
+    "duracion": "06:33"
   },
   {
     "id": 385,
@@ -7062,7 +7446,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -6.590000152587891,
     "latent_y": -14.329999923706055,
     "latent_z": 102.80999755859375,
-    "duration_seconds": null
+    "duration_seconds": 232,
+    "duracion": "03:52"
   },
   {
     "id": 386,
@@ -7081,7 +7466,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -42.810001373291016,
     "latent_y": -0.20000000298023224,
     "latent_z": -82.80000305175781,
-    "duration_seconds": null
+    "duration_seconds": 440,
+    "duracion": "07:20"
   },
   {
     "id": 387,
@@ -7103,7 +7489,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -50.33000183105469,
     "latent_y": -56.400001525878906,
     "latent_z": -42.560001373291016,
-    "duration_seconds": null
+    "duration_seconds": 504,
+    "duracion": "08:24"
   },
   {
     "id": 388,
@@ -7122,7 +7509,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -21.989999771118164,
     "latent_y": -1.2300000190734863,
     "latent_z": 42.5,
-    "duration_seconds": null
+    "duration_seconds": 807,
+    "duracion": "13:27"
   },
   {
     "id": 389,
@@ -7141,7 +7529,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -19.260000228881836,
     "latent_y": -83.1500015258789,
     "latent_z": -24.90999984741211,
-    "duration_seconds": null
+    "duration_seconds": 301,
+    "duracion": "05:01"
   },
   {
     "id": 390,
@@ -7159,7 +7548,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -19.709999084472656,
     "latent_y": -14.079999923706055,
     "latent_z": 120.0,
-    "duration_seconds": null
+    "duration_seconds": 267,
+    "duracion": "04:27"
   },
   {
     "id": 391,
@@ -7177,7 +7567,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 14.4399995803833,
     "latent_y": -39.7599983215332,
     "latent_z": 116.16999816894531,
-    "duration_seconds": null
+    "duration_seconds": 508,
+    "duracion": "08:28"
   },
   {
     "id": 392,
@@ -7196,7 +7587,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -72.27999877929688,
     "latent_y": -36.630001068115234,
     "latent_z": -8.289999961853027,
-    "duration_seconds": null
+    "duration_seconds": 390,
+    "duracion": "06:30"
   },
   {
     "id": 393,
@@ -7214,7 +7606,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -52.040000915527344,
     "latent_y": -82.83000183105469,
     "latent_z": 29.860000610351562,
-    "duration_seconds": null
+    "duration_seconds": 95,
+    "duracion": "01:35"
   },
   {
     "id": 394,
@@ -7232,7 +7625,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 6.420000076293945,
     "latent_y": -15.739999771118164,
     "latent_z": 115.68000030517578,
-    "duration_seconds": null
+    "duration_seconds": 191,
+    "duracion": "03:11"
   },
   {
     "id": 395,
@@ -7251,7 +7645,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -21.690000534057617,
     "latent_y": -21.229999542236328,
     "latent_z": -87.79000091552734,
-    "duration_seconds": null
+    "duration_seconds": 176,
+    "duracion": "02:56"
   },
   {
     "id": 396,
@@ -7269,7 +7664,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 31.469999313354492,
     "latent_y": 48.08000183105469,
     "latent_z": -15.90999984741211,
-    "duration_seconds": null
+    "duration_seconds": 722,
+    "duracion": "12:02"
   },
   {
     "id": 397,
@@ -7287,7 +7683,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -4.320000171661377,
     "latent_y": 75.93000030517578,
     "latent_z": -95.58999633789062,
-    "duration_seconds": null
+    "duration_seconds": 240,
+    "duracion": "04:00"
   },
   {
     "id": 398,
@@ -7306,7 +7703,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -24.729999542236328,
     "latent_y": 81.66999816894531,
     "latent_z": -63.59000015258789,
-    "duration_seconds": null
+    "duration_seconds": 733,
+    "duracion": "12:13"
   },
   {
     "id": 399,
@@ -7324,7 +7722,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -7.340000152587891,
     "latent_y": -61.56999969482422,
     "latent_z": -81.80999755859375,
-    "duration_seconds": null
+    "duration_seconds": 1203,
+    "duracion": "20:03"
   },
   {
     "id": 400,
@@ -7342,7 +7741,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -78.41999816894531,
     "latent_y": 11.210000038146973,
     "latent_z": -66.5999984741211,
-    "duration_seconds": null
+    "duration_seconds": 504,
+    "duracion": "08:24"
   },
   {
     "id": 401,
@@ -7360,7 +7760,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 18.8799991607666,
     "latent_y": -67.75,
     "latent_z": -77.36000061035156,
-    "duration_seconds": null
+    "duration_seconds": 270,
+    "duracion": "04:30"
   },
   {
     "id": 402,
@@ -7379,7 +7780,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -45.27000045776367,
     "latent_y": 45.970001220703125,
     "latent_z": 65.12999725341797,
-    "duration_seconds": null
+    "duration_seconds": 162,
+    "duracion": "02:42"
   },
   {
     "id": 403,
@@ -7398,7 +7800,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -8.920000076293945,
     "latent_y": -12.210000038146973,
     "latent_z": -70.7699966430664,
-    "duration_seconds": null
+    "duration_seconds": 438,
+    "duracion": "07:18"
   },
   {
     "id": 404,
@@ -7418,7 +7821,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -71.69000244140625,
     "latent_y": -67.58999633789062,
     "latent_z": -17.899999618530273,
-    "duration_seconds": null
+    "duration_seconds": 211,
+    "duracion": "03:31"
   },
   {
     "id": 405,
@@ -7436,7 +7840,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 21.989999771118164,
     "latent_y": -43.279998779296875,
     "latent_z": 81.81999969482422,
-    "duration_seconds": null
+    "duration_seconds": 920,
+    "duracion": "15:20"
   },
   {
     "id": 406,
@@ -7454,7 +7859,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -6.25,
     "latent_y": -81.29000091552734,
     "latent_z": 27.75,
-    "duration_seconds": null
+    "duration_seconds": 578,
+    "duracion": "09:38"
   },
   {
     "id": 407,
@@ -7472,7 +7878,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -17.059999465942383,
     "latent_y": -0.7799999713897705,
     "latent_z": 96.38999938964844,
-    "duration_seconds": null
+    "duration_seconds": 368,
+    "duracion": "06:08"
   },
   {
     "id": 408,
@@ -7491,7 +7898,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -43.650001525878906,
     "latent_y": -22.68000030517578,
     "latent_z": -103.62999725341797,
-    "duration_seconds": null
+    "duration_seconds": 263,
+    "duracion": "04:23"
   },
   {
     "id": 409,
@@ -7511,7 +7919,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 4.170000076293945,
     "latent_y": 101.0199966430664,
     "latent_z": -5.699999809265137,
-    "duration_seconds": null
+    "duration_seconds": 994,
+    "duracion": "16:34"
   },
   {
     "id": 410,
@@ -7529,7 +7938,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 4.940000057220459,
     "latent_y": -25.389999389648438,
     "latent_z": 90.16000366210938,
-    "duration_seconds": null
+    "duration_seconds": 341,
+    "duracion": "05:41"
   },
   {
     "id": 411,
@@ -7547,7 +7957,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 57.630001068115234,
     "latent_y": -72.98999786376953,
     "latent_z": 16.100000381469727,
-    "duration_seconds": null
+    "duration_seconds": 1142,
+    "duracion": "19:02"
   },
   {
     "id": 412,
@@ -7565,7 +7976,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 6.199999809265137,
     "latent_y": -24.93000030517578,
     "latent_z": 60.470001220703125,
-    "duration_seconds": null
+    "duration_seconds": 60,
+    "duracion": "01:00"
   },
   {
     "id": 413,
@@ -7583,7 +7995,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 17.299999237060547,
     "latent_y": -7.829999923706055,
     "latent_z": 9.020000457763672,
-    "duration_seconds": null
+    "duration_seconds": 419,
+    "duracion": "06:59"
   },
   {
     "id": 414,
@@ -7602,7 +8015,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -39.4900016784668,
     "latent_y": -14.5,
     "latent_z": 57.13999938964844,
-    "duration_seconds": null
+    "duration_seconds": 999,
+    "duracion": "16:39"
   },
   {
     "id": 415,
@@ -7622,7 +8036,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -35.810001373291016,
     "latent_y": -27.940000534057617,
     "latent_z": -47.560001373291016,
-    "duration_seconds": null
+    "duration_seconds": 448,
+    "duracion": "07:28"
   },
   {
     "id": 416,
@@ -7640,7 +8055,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -11.289999961853027,
     "latent_y": -1.2000000476837158,
     "latent_z": 76.18000030517578,
-    "duration_seconds": null
+    "duration_seconds": 367,
+    "duracion": "06:07"
   },
   {
     "id": 417,
@@ -7660,7 +8076,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -54.34000015258789,
     "latent_y": -36.400001525878906,
     "latent_z": -88.38999938964844,
-    "duration_seconds": null
+    "duration_seconds": 323,
+    "duracion": "05:23"
   },
   {
     "id": 418,
@@ -7678,7 +8095,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 3.3499999046325684,
     "latent_y": 57.06999969482422,
     "latent_z": -91.66000366210938,
-    "duration_seconds": null
+    "duration_seconds": 188,
+    "duracion": "03:08"
   },
   {
     "id": 419,
@@ -7696,7 +8114,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -27.6299991607666,
     "latent_y": -19.06999969482422,
     "latent_z": 102.91000366210938,
-    "duration_seconds": null
+    "duration_seconds": 208,
+    "duracion": "03:28"
   },
   {
     "id": 420,
@@ -7714,7 +8133,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 18.979999542236328,
     "latent_y": -27.3700008392334,
     "latent_z": 99.76000213623047,
-    "duration_seconds": null
+    "duration_seconds": 613,
+    "duracion": "10:13"
   },
   {
     "id": 421,
@@ -7733,7 +8153,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -89.56999969482422,
     "latent_y": 58.970001220703125,
     "latent_z": 51.959999084472656,
-    "duration_seconds": null
+    "duration_seconds": 597,
+    "duracion": "09:57"
   },
   {
     "id": 422,
@@ -7751,7 +8172,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -23.40999984741211,
     "latent_y": -66.0,
     "latent_z": -70.88999938964844,
-    "duration_seconds": null
+    "duration_seconds": 193,
+    "duracion": "03:13"
   },
   {
     "id": 423,
@@ -7769,7 +8191,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 59.130001068115234,
     "latent_y": -83.91999816894531,
     "latent_z": -4.789999961853027,
-    "duration_seconds": null
+    "duration_seconds": 89,
+    "duracion": "01:29"
   },
   {
     "id": 424,
@@ -7787,7 +8210,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -32.869998931884766,
     "latent_y": -60.33000183105469,
     "latent_z": 18.610000610351562,
-    "duration_seconds": null
+    "duration_seconds": 199,
+    "duracion": "03:19"
   },
   {
     "id": 425,
@@ -7805,7 +8229,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 67.91000366210938,
     "latent_y": -66.91999816894531,
     "latent_z": -10.369999885559082,
-    "duration_seconds": null
+    "duration_seconds": 110,
+    "duracion": "01:50"
   },
   {
     "id": 426,
@@ -7823,7 +8248,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -0.20999999344348907,
     "latent_y": -89.37000274658203,
     "latent_z": -96.5999984741211,
-    "duration_seconds": null
+    "duration_seconds": 420,
+    "duracion": "07:00"
   },
   {
     "id": 427,
@@ -7843,7 +8269,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -66.38999938964844,
     "latent_y": 120.0,
     "latent_z": 9.079999923706055,
-    "duration_seconds": null
+    "duration_seconds": 169,
+    "duracion": "02:49"
   },
   {
     "id": 428,
@@ -7861,7 +8288,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -74.11000061035156,
     "latent_y": 26.469999313354492,
     "latent_z": -50.16999816894531,
-    "duration_seconds": null
+    "duration_seconds": 468,
+    "duracion": "07:48"
   },
   {
     "id": 429,
@@ -7879,7 +8307,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -2.430000066757202,
     "latent_y": -42.97999954223633,
     "latent_z": 80.5999984741211,
-    "duration_seconds": null
+    "duration_seconds": 1649,
+    "duracion": "27:29"
   },
   {
     "id": 430,
@@ -7897,7 +8326,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 44.400001525878906,
     "latent_y": -65.4000015258789,
     "latent_z": 9.039999961853027,
-    "duration_seconds": null
+    "duration_seconds": 1232,
+    "duracion": "20:32"
   },
   {
     "id": 431,
@@ -7915,7 +8345,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 69.2699966430664,
     "latent_y": -78.05000305175781,
     "latent_z": -25.600000381469727,
-    "duration_seconds": null
+    "duration_seconds": 290,
+    "duracion": "04:50"
   },
   {
     "id": 432,
@@ -7934,7 +8365,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -24.540000915527344,
     "latent_y": -21.90999984741211,
     "latent_z": 50.619998931884766,
-    "duration_seconds": null
+    "duration_seconds": 2973,
+    "duracion": "49:33"
   },
   {
     "id": 433,
@@ -7952,7 +8384,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 0.6800000071525574,
     "latent_y": 6.829999923706055,
     "latent_z": 98.75,
-    "duration_seconds": null
+    "duration_seconds": 263,
+    "duracion": "04:23"
   },
   {
     "id": 434,
@@ -7970,7 +8403,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 28.770000457763672,
     "latent_y": -6.28000020980835,
     "latent_z": 75.12000274658203,
-    "duration_seconds": null
+    "duration_seconds": 450,
+    "duracion": "07:30"
   },
   {
     "id": 435,
@@ -7988,7 +8422,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -82.47000122070312,
     "latent_y": 15.4399995803833,
     "latent_z": -36.650001525878906,
-    "duration_seconds": null
+    "duration_seconds": 386,
+    "duracion": "06:26"
   },
   {
     "id": 436,
@@ -8007,7 +8442,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -34.40999984741211,
     "latent_y": -9.149999618530273,
     "latent_z": -96.63999938964844,
-    "duration_seconds": null
+    "duration_seconds": 450,
+    "duracion": "07:30"
   },
   {
     "id": 437,
@@ -8025,7 +8461,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 42.09000015258789,
     "latent_y": -95.52999877929688,
     "latent_z": -6.800000190734863,
-    "duration_seconds": null
+    "duration_seconds": 6,
+    "duracion": "00:06"
   },
   {
     "id": 438,
@@ -8043,7 +8480,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 34.529998779296875,
     "latent_y": -31.760000228881836,
     "latent_z": 87.37000274658203,
-    "duration_seconds": null
+    "duration_seconds": 311,
+    "duracion": "05:11"
   },
   {
     "id": 439,
@@ -8061,7 +8499,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 56.25,
     "latent_y": -78.38999938964844,
     "latent_z": -32.81999969482422,
-    "duration_seconds": null
+    "duration_seconds": 576,
+    "duracion": "09:36"
   },
   {
     "id": 440,
@@ -8079,7 +8518,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 11.390000343322754,
     "latent_y": -45.2400016784668,
     "latent_z": 96.36000061035156,
-    "duration_seconds": null
+    "duration_seconds": 298,
+    "duracion": "04:58"
   },
   {
     "id": 441,
@@ -8097,7 +8537,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -22.049999237060547,
     "latent_y": -33.2400016784668,
     "latent_z": 119.12000274658203,
-    "duration_seconds": null
+    "duration_seconds": 332,
+    "duracion": "05:32"
   },
   {
     "id": 442,
@@ -8116,7 +8557,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -37.040000915527344,
     "latent_y": 11.220000267028809,
     "latent_z": 109.94999694824219,
-    "duration_seconds": null
+    "duration_seconds": 57,
+    "duracion": "00:57"
   },
   {
     "id": 443,
@@ -8134,7 +8576,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 58.9900016784668,
     "latent_y": -95.88999938964844,
     "latent_z": -21.93000030517578,
-    "duration_seconds": null
+    "duration_seconds": 7,
+    "duracion": "00:07"
   },
   {
     "id": 444,
@@ -8152,7 +8595,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -9.25,
     "latent_y": 16.600000381469727,
     "latent_z": 87.30999755859375,
-    "duration_seconds": null
+    "duration_seconds": 168,
+    "duracion": "02:48"
   },
   {
     "id": 445,
@@ -8170,7 +8614,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 54.779998779296875,
     "latent_y": -78.93000030517578,
     "latent_z": -17.0,
-    "duration_seconds": null
+    "duration_seconds": 12,
+    "duracion": "00:12"
   },
   {
     "id": 446,
@@ -8188,7 +8633,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 64.26000213623047,
     "latent_y": -84.58999633789062,
     "latent_z": 13.4399995803833,
-    "duration_seconds": null
+    "duration_seconds": 6,
+    "duracion": "00:06"
   },
   {
     "id": 447,
@@ -8206,7 +8652,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 68.12000274658203,
     "latent_y": -67.38999938964844,
     "latent_z": 24.899999618530273,
-    "duration_seconds": null
+    "duration_seconds": 60,
+    "duracion": "01:00"
   },
   {
     "id": 448,
@@ -8224,7 +8671,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 38.040000915527344,
     "latent_y": -71.98999786376953,
     "latent_z": -27.450000762939453,
-    "duration_seconds": null
+    "duration_seconds": 907,
+    "duracion": "15:07"
   },
   {
     "id": 449,
@@ -8243,7 +8691,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -51.439998626708984,
     "latent_y": -44.84000015258789,
     "latent_z": -13.09000015258789,
-    "duration_seconds": null
+    "duration_seconds": 1109,
+    "duracion": "18:29"
   },
   {
     "id": 450,
@@ -8261,7 +8710,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": 36.959999084472656,
     "latent_y": -61.029998779296875,
     "latent_z": 30.549999237060547,
-    "duration_seconds": null
+    "duration_seconds": 1047,
+    "duracion": "17:27"
   },
   {
     "id": 451,
@@ -8281,7 +8731,8 @@ const AFTEREFFECTS_TUTORIALS_DATA = [
     "latent_x": -18.139999389648438,
     "latent_y": -52.70000076293945,
     "latent_z": -120.0,
-    "duration_seconds": null
+    "duration_seconds": 1275,
+    "duracion": "21:15"
   }
 ];
 window.AFTEREFFECTS_DATA = AFTEREFFECTS_TUTORIALS_DATA;

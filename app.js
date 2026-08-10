@@ -5,6 +5,10 @@ document.addEventListener('DOMContentLoaded', () => {
   const filterCategory = document.getElementById('filter-category');
   const filterAuthor = document.getElementById('filter-author');
   const sortSelect = document.getElementById('sort-select');
+  const filterDurationMin = document.getElementById('filter-duration-min');
+  const filterDurationMax = document.getElementById('filter-duration-max');
+  const durationValBadge = document.getElementById('duration-val-badge');
+  const dualRangeFill = document.getElementById('dual-range-fill');
   const itemsCounter = document.getElementById('items-counter');
 
   const viewBtns = document.querySelectorAll('.view-btn');
@@ -42,6 +46,119 @@ document.addEventListener('DOMContentLoaded', () => {
   let selectedAuthor = 'ALL';
   let sortBy = 'default';
   let selectedUserFilter = 'all'; // 'all', 'favorites', 'saved', 'watched'
+  let minDurationMinutes = 0;
+  let maxDurationMinutes = 40;
+
+  function getItemDurationSeconds(item) {
+    if (typeof item.duration_seconds === 'number' && !isNaN(item.duration_seconds)) {
+      return item.duration_seconds;
+    }
+    if (item.duracion) {
+      const parts = item.duracion.split(':').map(Number);
+      if (parts.length === 3) return parts[0] * 3600 + parts[1] * 60 + parts[2];
+      if (parts.length === 2) return parts[0] * 60 + parts[1];
+    }
+    return 0;
+  }
+
+  function formatDuration(seconds) {
+    if (seconds === null || seconds === undefined || isNaN(seconds)) return '';
+    const sec = parseInt(seconds, 10);
+    const m = Math.floor(sec / 60);
+    const s = sec % 60;
+    const h = Math.floor(m / 60);
+    const remM = m % 60;
+    const sStr = s < 10 ? '0' + s : s;
+    if (h > 0) {
+      const mStr = remM < 10 ? '0' + remM : remM;
+      return `${h}:${mStr}:${sStr}`;
+    }
+    return `${m}:${sStr}`;
+  }
+
+  function getItemDurationFormatted(item) {
+    if (item.duracion) return item.duracion;
+    if (typeof item.duration_seconds === 'number' && !isNaN(item.duration_seconds)) {
+      return formatDuration(item.duration_seconds);
+    }
+    return '';
+  }
+
+  function updateDurationBadge() {
+    if (!durationValBadge || !filterDurationMin || !filterDurationMax) return;
+
+    let minVal = parseInt(filterDurationMin.value, 10);
+    let maxVal = parseInt(filterDurationMax.value, 10);
+
+    if (minVal > maxVal) {
+      if (document.activeElement === filterDurationMin) {
+        minVal = maxVal;
+        filterDurationMin.value = minVal;
+      } else {
+        maxVal = minVal;
+        filterDurationMax.value = maxVal;
+      }
+    }
+
+    minDurationMinutes = minVal;
+    maxDurationMinutes = maxVal;
+
+    const minPercent = (minVal / 40) * 100;
+    const maxPercent = (maxVal / 40) * 100;
+
+    if (dualRangeFill) {
+      dualRangeFill.style.left = `${minPercent}%`;
+      dualRangeFill.style.width = `${maxPercent - minPercent}%`;
+    }
+
+    const minStr = minVal === 0 ? '0' : `${minVal}`;
+    const maxStr = maxVal >= 40 ? '+40' : `${maxVal}`;
+
+    if (minVal === 0 && maxVal >= 40) {
+      durationValBadge.textContent = '0 – +40 min';
+      durationValBadge.classList.remove('active');
+    } else if (minVal === maxVal) {
+      durationValBadge.textContent = minVal >= 40 ? '+40 min' : `${minVal} min`;
+      durationValBadge.classList.add('active');
+    } else {
+      durationValBadge.textContent = `${minStr} – ${maxStr} min`;
+      durationValBadge.classList.add('active');
+    }
+  }
+
+  let durationDebounceTimer = null;
+
+  function onDurationInput() {
+    // 1. Instant 60 FPS badge & track fill tracking (0ms delay)
+    updateDurationBadge();
+
+    // 2. Debounce heavy DOM grid re-rendering while dragging
+    if (durationDebounceTimer) {
+      clearTimeout(durationDebounceTimer);
+    }
+    durationDebounceTimer = setTimeout(() => {
+      updateUI();
+      durationDebounceTimer = null;
+    }, 140);
+  }
+
+  function onDurationChange() {
+    // Instant update on release / stop
+    if (durationDebounceTimer) {
+      clearTimeout(durationDebounceTimer);
+      durationDebounceTimer = null;
+    }
+    updateDurationBadge();
+    updateUI();
+  }
+
+  if (filterDurationMin && filterDurationMax) {
+    filterDurationMin.addEventListener('input', onDurationInput);
+    filterDurationMin.addEventListener('change', onDurationChange);
+    filterDurationMax.addEventListener('input', onDurationInput);
+    filterDurationMax.addEventListener('change', onDurationChange);
+    updateDurationBadge();
+  }
 
   // --- User Personal Library Store (localStorage) ---
   const SVG_ICONS = {
@@ -277,115 +394,115 @@ document.addEventListener('DOMContentLoaded', () => {
       name: 'TouchDesigner',
       icon: TD_LOGO_SVG,
       title: 'TouchDesigner Tutorials',
-      getDataset: () => window.TD_DATA || []
+      getDataset: () => window.TD_DATA || window.TUTORIALS_DATA || []
     },
     'blender': {
       name: 'Blender 3D',
       icon: BLENDER_LOGO_SVG,
       title: 'Blender 3D Tutorials',
-      getDataset: () => window.BLENDER_DATA || []
+      getDataset: () => window.BLENDER_DATA || window.BLENDER_TUTORIALS_DATA || []
     },
     'ableton': {
       name: 'Ableton Live',
       icon: ABLETON_LOGO_SVG,
       title: 'Ableton Live Tutorials',
-      getDataset: () => window.ABLETON_DATA || []
+      getDataset: () => window.ABLETON_DATA || window.ABLETON_TUTORIALS_DATA || []
     },
     'premiere': {
       name: 'Premiere Pro',
       icon: PREMIERE_LOGO_SVG,
       title: 'Adobe Premiere Pro Tutorials',
-      getDataset: () => window.PREMIERE_DATA || []
+      getDataset: () => window.PREMIERE_DATA || window.PREMIERE_TUTORIALS_DATA || []
     },
     'aftereffects': {
       name: 'After Effects',
       icon: AFTEREFFECTS_LOGO_SVG,
       title: 'Adobe After Effects Tutorials',
-      getDataset: () => window.AFTEREFFECTS_DATA || []
+      getDataset: () => window.AFTEREFFECTS_DATA || window.AFTEREFFECTS_TUTORIALS_DATA || []
     },
     'photoshop': {
       name: 'Photoshop',
       icon: PHOTOSHOP_LOGO_SVG,
       title: 'Adobe Photoshop Tutorials',
-      getDataset: () => window.PHOTOSHOP_DATA || []
+      getDataset: () => window.PHOTOSHOP_DATA || window.PHOTOSHOP_TUTORIALS_DATA || []
     },
     'maxmsp': {
       name: 'Max/MSP',
       icon: MAXMSP_LOGO_SVG,
       title: 'Max/MSP Tutorials',
-      getDataset: () => window.MAXMSP_DATA || []
+      getDataset: () => window.MAXMSP_DATA || window.MAXMSP_TUTORIALS_DATA || []
     },
     'logicpro': {
       name: 'Logic Pro',
       icon: LOGICPRO_LOGO_SVG,
       title: 'Logic Pro Tutorials',
-      getDataset: () => window.LOGICPRO_DATA || []
+      getDataset: () => window.LOGICPRO_DATA || window.LOGICPRO_TUTORIALS_DATA || []
     },
     'reaper': {
       name: 'REAPER',
       icon: REAPER_LOGO_SVG,
       title: 'REAPER Tutorials',
-      getDataset: () => window.REAPER_DATA || []
+      getDataset: () => window.REAPER_DATA || window.REAPER_TUTORIALS_DATA || []
     },
     'illustrator': {
       name: 'Illustrator',
       icon: ILLUSTRATOR_LOGO_SVG,
       title: 'Adobe Illustrator Tutorials',
-      getDataset: () => window.ILLUSTRATOR_DATA || []
+      getDataset: () => window.ILLUSTRATOR_DATA || window.ILLUSTRATOR_TUTORIALS_DATA || []
     },
     'davinci': {
       name: 'DaVinci Resolve',
       icon: DAVINCI_LOGO_SVG,
       title: 'DaVinci Resolve Tutorials',
-      getDataset: () => window.DAVINCI_DATA || []
+      getDataset: () => window.DAVINCI_DATA || window.DAVINCI_TUTORIALS_DATA || []
     },
     'sibelius': {
       name: 'Sibelius',
       icon: SIBELIUS_LOGO_SVG,
       title: 'Avid Sibelius Tutorials',
-      getDataset: () => window.SIBELIUS_DATA || []
+      getDataset: () => window.SIBELIUS_DATA || window.SIBELIUS_TUTORIALS_DATA || []
     },
     'vsc': {
       name: 'Visual Studio Code',
       icon: VSC_LOGO_SVG,
       title: 'Visual Studio Code Tutorials',
-      getDataset: () => window.VSC_DATA || []
+      getDataset: () => window.VSC_DATA || window.VSC_TUTORIALS_DATA || []
     },
     'unity': {
       name: 'Unity Engine',
       icon: UNITY_LOGO_SVG,
       title: 'Unity Engine Tutorials',
-      getDataset: () => window.UNITY_DATA || []
+      getDataset: () => window.UNITY_DATA || window.UNITY_TUTORIALS_DATA || []
     },
     'unreal': {
       name: 'Unreal Engine',
       icon: UNREAL_LOGO_SVG,
       title: 'Unreal Engine Tutorials',
-      getDataset: () => window.UNREAL_DATA || []
+      getDataset: () => window.UNREAL_DATA || window.UNREAL_TUTORIALS_DATA || []
     },
     'python': {
       name: 'Python',
       icon: PYTHON_LOGO_SVG,
       title: 'Python Tutorials',
-      getDataset: () => window.PYTHON_DATA || []
+      getDataset: () => window.PYTHON_DATA || window.PYTHON_TUTORIALS_DATA || []
     },
     'resolume': {
       name: 'Resolume Arena',
       icon: RESOLUME_LOGO_SVG,
       title: 'Resolume Arena Tutorials',
-      getDataset: () => window.RESOLUME_DATA || []
+      getDataset: () => window.RESOLUME_DATA || window.RESOLUME_TUTORIALS_DATA || []
     },
     'comfyui': {
       name: 'ComfyUI',
       icon: COMFYUI_LOGO_SVG,
       title: 'ComfyUI Tutorials',
-      getDataset: () => window.COMFYUI_DATA || []
+      getDataset: () => window.COMFYUI_DATA || window.COMFYUI_TUTORIALS_DATA || []
     },
     'madmapper': {
       name: 'MadMapper',
       icon: MADMAPPER_LOGO_SVG,
       title: 'MadMapper Tutorials',
-      getDataset: () => window.MADMAPPER_DATA || []
+      getDataset: () => window.MADMAPPER_DATA || window.MADMAPPER_TUTORIALS_DATA || []
     }
   };
 
@@ -515,6 +632,11 @@ document.addEventListener('DOMContentLoaded', () => {
     'reaper': REAPER_LOGO_SVG
   };
 
+  function closeAllCustomDropdowns() {
+    document.querySelectorAll('.custom-select-portal').forEach(m => m.remove());
+    document.querySelectorAll('.custom-select-widget.open').forEach(w => w.classList.remove('open'));
+  }
+
   function createCustomDropdown(selectEl, iconMap = {}) {
     if (!selectEl) return;
 
@@ -527,6 +649,10 @@ document.addEventListener('DOMContentLoaded', () => {
       widget.setAttribute('data-select-id', selectEl.id);
       selectEl.style.display = 'none';
       parent.appendChild(widget);
+    }
+
+    if (selectEl.id === 'sort-select') {
+      widget.classList.add('align-right');
     }
 
     const selectedOption = selectEl.options[selectEl.selectedIndex] || selectEl.options[0];
@@ -552,7 +678,7 @@ document.addEventListener('DOMContentLoaded', () => {
         <span class="custom-select-text">${initialText}</span>
         <span class="custom-select-arrow">▾</span>
       </button>
-      <div class="custom-select-menu" role="listbox">
+      <div class="custom-select-menu-template" style="display:none;">
         <div class="custom-select-options-list">
           ${optionsHtml}
         </div>
@@ -560,44 +686,54 @@ document.addEventListener('DOMContentLoaded', () => {
     `;
 
     const trigger = widget.querySelector('.custom-select-trigger');
-    const menu = widget.querySelector('.custom-select-menu');
-    const optionsList = widget.querySelector('.custom-select-options-list');
+    const menuTemplate = widget.querySelector('.custom-select-menu-template');
 
     trigger.addEventListener('click', (e) => {
       e.stopPropagation();
-      document.querySelectorAll('.custom-select-widget.open').forEach(w => {
-        if (w !== widget) w.classList.remove('open');
-      });
-      widget.classList.toggle('open');
-    });
+      const isOpen = widget.classList.contains('open');
+      closeAllCustomDropdowns();
 
-    // Safari WebKit Trackpad Scroll Event Handler
-    if (optionsList) {
-      optionsList.addEventListener('wheel', (e) => {
-        e.stopPropagation();
-        const atTop = optionsList.scrollTop === 0;
-        const atBottom = optionsList.scrollTop + optionsList.clientHeight >= optionsList.scrollHeight - 1;
-        const scrollingUp = e.deltaY < 0;
-        const scrollingDown = e.deltaY > 0;
-        // Only prevent default if there's room to scroll inside the list
-        if ((scrollingUp && !atTop) || (scrollingDown && !atBottom)) {
-          e.preventDefault();
-        }
-      }, { passive: false });
-    }
+      if (isOpen) return;
 
-    optionsList.querySelectorAll('.custom-select-option').forEach(opt => {
-      opt.addEventListener('click', (e) => {
-        e.stopPropagation();
-        const val = opt.dataset.value;
-        selectEl.value = val;
-        
-        selectEl.dispatchEvent(new Event('change', { bubbles: true }));
-        widget.classList.remove('open');
+      const rect = trigger.getBoundingClientRect();
+      const portalMenu = document.createElement('div');
+      portalMenu.className = 'custom-select-menu custom-select-portal open-portal';
+      portalMenu.innerHTML = menuTemplate.innerHTML;
 
-        // Re-sync UI text
-        syncAllCustomDropdowns();
-      });
+      portalMenu.style.position = 'fixed';
+      portalMenu.style.zIndex = '999999';
+      portalMenu.style.top = `${rect.bottom + 6}px`;
+
+      const isRightAligned = selectEl.id === 'sort-select' || widget.classList.contains('align-right') || rect.right > (window.innerWidth - 260);
+
+      if (isRightAligned) {
+        portalMenu.style.left = 'auto';
+        portalMenu.style.right = `${window.innerWidth - rect.right}px`;
+      } else {
+        portalMenu.style.left = `${rect.left}px`;
+        portalMenu.style.right = 'auto';
+      }
+
+      document.body.appendChild(portalMenu);
+      widget.classList.add('open');
+
+      const portalOptionsList = portalMenu.querySelector('.custom-select-options-list');
+      if (portalOptionsList) {
+        portalOptionsList.addEventListener('wheel', (evt) => {
+          portalOptionsList.scrollTop += evt.deltaY;
+        }, { passive: true });
+
+        portalOptionsList.querySelectorAll('.custom-select-option').forEach(opt => {
+          opt.addEventListener('click', (evt) => {
+            evt.stopPropagation();
+            const val = opt.dataset.value;
+            selectEl.value = val;
+            selectEl.dispatchEvent(new Event('change', { bubbles: true }));
+            closeAllCustomDropdowns();
+            syncAllCustomDropdowns();
+          });
+        });
+      }
     });
   }
 
@@ -608,14 +744,12 @@ document.addEventListener('DOMContentLoaded', () => {
     createCustomDropdown(sortSelect);
   }
 
-  document.addEventListener('click', () => {
-    document.querySelectorAll('.custom-select-widget.open').forEach(w => w.classList.remove('open'));
-  });
+  document.addEventListener('click', closeAllCustomDropdowns);
+  window.addEventListener('resize', closeAllCustomDropdowns);
+  window.addEventListener('scroll', closeAllCustomDropdowns, { passive: true });
 
   document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape') {
-      document.querySelectorAll('.custom-select-widget.open').forEach(w => w.classList.remove('open'));
-    }
+    if (e.key === 'Escape') closeAllCustomDropdowns();
   });
 
   if (softwareSelect) {
@@ -764,6 +898,16 @@ document.addEventListener('DOMContentLoaded', () => {
         return false;
       }
 
+      if (minDurationMinutes > 0 || maxDurationMinutes < 40) {
+        const itemSec = getItemDurationSeconds(item);
+        const minSec = minDurationMinutes * 60;
+        const maxSec = maxDurationMinutes >= 40 ? Infinity : (maxDurationMinutes === 0 ? 60 : maxDurationMinutes * 60);
+
+        if (itemSec < minSec || itemSec > maxSec) {
+          return false;
+        }
+      }
+
       return true;
     });
 
@@ -775,6 +919,10 @@ document.addEventListener('DOMContentLoaded', () => {
       result.sort((a, b) => (b.upload_date || '').localeCompare(a.upload_date || ''));
     } else if (sortBy === 'recent-desc') {
       result.sort((a, b) => (a.upload_date || '').localeCompare(b.upload_date || ''));
+    } else if (sortBy === 'dur-asc') {
+      result.sort((a, b) => getItemDurationSeconds(a) - getItemDurationSeconds(b));
+    } else if (sortBy === 'dur-desc') {
+      result.sort((a, b) => getItemDurationSeconds(b) - getItemDurationSeconds(a));
     } else if (sortBy === 'title-asc') {
       result.sort((a, b) => a.titulo.localeCompare(b.titulo));
     } else if (sortBy === 'title-desc') {
@@ -827,11 +975,13 @@ document.addEventListener('DOMContentLoaded', () => {
       const tagsHtml = item.tags.slice(0, 2).map(t => renderTag(t)).join(' ');
       const viewsStr = item.views ? ` • ${formatViews(item.views)}` : '';
       const dateStr = item.upload_date ? ` • ${formatDate(item.upload_date)}` : '';
+      const durationText = getItemDurationFormatted(item);
       const creatorHtml = renderCreatorLink(item.autor);
 
       card.innerHTML = `
         <div class="card-thumb-frame">
           <img class="card-thumb-img" src="${thumbUrl}" alt="${item.titulo}" loading="lazy" />
+          ${durationText ? `<span class="card-duration-badge">${durationText}</span>` : ''}
           <div class="card-actions-overlay" onclick="event.stopPropagation()">
             <button class="card-act-btn ${isFav ? 'active-fav' : ''}" data-act="fav" data-vid="${item.vid || ''}" title="${isFav ? 'Remove Favorite' : 'Favorite'}">
               ${isFav ? SVG_ICONS.heartFilled : SVG_ICONS.heartOutline}
@@ -877,6 +1027,8 @@ document.addEventListener('DOMContentLoaded', () => {
       const tagsHtml = item.tags.map(t => renderTag(t)).join(' ');
       const viewsText = item.views ? formatViews(item.views) : 'N/A';
       const dateText = item.upload_date ? formatDate(item.upload_date) : 'N/A';
+      const durationText = getItemDurationFormatted(item);
+      const durationStr = durationText ? ` • ${durationText}` : '';
       const creatorHtml = renderCreatorLink(item.autor);
 
       tr.innerHTML = `
@@ -888,7 +1040,7 @@ document.addEventListener('DOMContentLoaded', () => {
         </td>
         <td>
           ${creatorHtml}
-          <div style="font-size: 11px; color: var(--text-muted);">${viewsText} • ${dateText}</div>
+          <div style="font-size: 11px; color: var(--text-muted);">${viewsText} • ${dateText}${durationStr}</div>
         </td>
         <td>${tagsHtml}</td>
         <td style="text-align: center;" onclick="event.stopPropagation()">
@@ -1138,13 +1290,21 @@ document.addEventListener('DOMContentLoaded', () => {
     raycaster = new THREE.Raycaster();
     mouseVector = new THREE.Vector2(-999, -999);
 
-    latent3dContainer.addEventListener('mousemove', on3dMouseMove);
+    latent3dContainer.addEventListener('pointerdown', on3dPointerDown);
+    latent3dContainer.addEventListener('pointermove', on3dPointerMove);
+    // Attach wheel/gesture to the PARENT viewport so zoom works everywhere in the frame
+    const zoomTarget = latentViewport || latent3dContainer;
+    zoomTarget.addEventListener('wheel', on3dWheel, { passive: false, capture: true });
+    if (renderer && renderer.domElement) {
+      renderer.domElement.addEventListener('wheel', on3dWheel, { passive: false, capture: true });
+    }
     latent3dContainer.addEventListener('click', on3dClick);
     window.addEventListener('resize', on3dResize);
 
     if (btnResetLatent) {
       btnResetLatent.addEventListener('click', () => {
         camera.position.set(0, 0, 320);
+        targetZoomDist = 320;
         if (controls) controls.reset();
       });
     }
@@ -1161,13 +1321,89 @@ document.addEventListener('DOMContentLoaded', () => {
     renderer.setSize(w, h);
   }
 
-  function on3dMouseMove(e) {
+  let isDragging3D = false;
+  let dragStartPos = { x: 0, y: 0 };
+
+  function on3dPointerDown(e) {
+    isDragging3D = false;
+    dragStartPos = { x: e.clientX, y: e.clientY };
+  }
+
+  function on3dPointerMove(e) {
     const rect = latent3dContainer.getBoundingClientRect();
     mouseVector.x = ((e.clientX - rect.left) / rect.width) * 2 - 1;
     mouseVector.y = -((e.clientY - rect.top) / rect.height) * 2 + 1;
+
+    if (e.buttons > 0) {
+      const dx = Math.abs(e.clientX - dragStartPos.x);
+      const dy = Math.abs(e.clientY - dragStartPos.y);
+      if (dx > 4 || dy > 4) {
+        isDragging3D = true;
+      }
+    }
   }
 
-  function on3dClick() {
+  // Track Shift key state manually — Safari doesn't always report e.shiftKey on wheel events from trackpad
+  let isShiftDown = false;
+  window.addEventListener('keydown', (e) => { if (e.key === 'Shift') isShiftDown = true; });
+  window.addEventListener('keyup', (e) => { if (e.key === 'Shift') isShiftDown = false; });
+  window.addEventListener('blur', () => { isShiftDown = false; });
+
+  let targetZoomDist = 320;
+
+  function doLatentZoom(delta) {
+    if (!camera || !controls) return;
+    const target = controls.target || new THREE.Vector3(0, 0, 0);
+    const offset = camera.position.clone().sub(target);
+    const currentActualDist = offset.length();
+
+    if (Math.abs(targetZoomDist - currentActualDist) > 400) {
+      targetZoomDist = currentActualDist;
+    }
+
+    const factor = Math.exp(delta * 0.0015);
+    targetZoomDist = Math.max(25, Math.min(1400, targetZoomDist * factor));
+  }
+
+  function on3dWheel(e) {
+    if (isShiftDown || e.shiftKey) {
+      e.preventDefault();
+      e.stopPropagation();
+      // Safari macOS trackpad maps Shift+scroll to deltaX instead of deltaY
+      const delta = Math.abs(e.deltaY) >= Math.abs(e.deltaX) ? e.deltaY : e.deltaX;
+      if (delta) doLatentZoom(delta);
+    }
+  }
+
+  // Safari-only: native trackpad pinch gesture support (gesturechange event)
+  let gestureStartScale = 1;
+  const gestureTarget = latentViewport || latent3dContainer;
+  if (gestureTarget) {
+    gestureTarget.addEventListener('gesturestart', function(e) {
+      if (isShiftDown) {
+        e.preventDefault();
+        gestureStartScale = e.scale || 1;
+      }
+    }, { passive: false });
+    gestureTarget.addEventListener('gesturechange', function(e) {
+      if (isShiftDown) {
+        e.preventDefault();
+        const scaleDiff = (e.scale || 1) - gestureStartScale;
+        gestureStartScale = e.scale || 1;
+        doLatentZoom(-scaleDiff * 250);
+      }
+    }, { passive: false });
+    gestureTarget.addEventListener('gestureend', function(e) {
+      if (isShiftDown) e.preventDefault();
+    }, { passive: false });
+  }
+
+  function on3dClick(e) {
+    // If the user was dragging/rotating/orbiting, DO NOT open video modal!
+    if (isDragging3D) {
+      isDragging3D = false;
+      return;
+    }
     if (hoveredCard && hoveredCard.userData && hoveredCard.userData.item) {
       openModal(hoveredCard.userData.item);
     }
@@ -1186,11 +1422,28 @@ document.addEventListener('DOMContentLoaded', () => {
 
     if (controls) controls.update();
 
+    // Smooth Lerp Camera Zoom Interpolation (60 FPS Silky Smooth)
+    if (camera && controls) {
+      const target = controls.target || new THREE.Vector3(0, 0, 0);
+      const offset = camera.position.clone().sub(target);
+      const currentDist = offset.length();
+
+      if (Math.abs(targetZoomDist - currentDist) > 0.05) {
+        const newDist = currentDist + (targetZoomDist - currentDist) * 0.12;
+        offset.setLength(newDist);
+        camera.position.copy(target).add(offset);
+      }
+    }
+
     cardMeshes.forEach((mesh, i) => {
       mesh.position.y = mesh.userData.originalPos.y + Math.sin(elapsedTime * 1.5 + i) * 0.8;
     });
 
-    if (raycaster && camera) {
+    if (isDragging3D && latentTooltip) {
+      latentTooltip.style.display = 'none';
+    }
+
+    if (raycaster && camera && !isDragging3D) {
       raycaster.setFromCamera(mouseVector, camera);
       const intersects = raycaster.intersectObjects(cardMeshes);
 
@@ -1307,7 +1560,12 @@ document.addEventListener('DOMContentLoaded', () => {
       document.body.classList.add('latent-view-active');
       viewGrid.style.display = 'none';
       viewTable.style.display = 'none';
-      if (viewLatent) viewLatent.style.display = 'flex';
+      if (viewLatent) {
+        viewLatent.style.display = 'flex';
+        setTimeout(() => {
+          viewLatent.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }, 60);
+      }
       if (!scene) {
         initThreeScene();
       } else {

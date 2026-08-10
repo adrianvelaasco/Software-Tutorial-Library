@@ -16,7 +16,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 85.33999633789062,
     "latent_y": -9.149999618530273,
     "latent_z": 65.6500015258789,
-    "duration_seconds": null
+    "duration_seconds": 307,
+    "duracion": "05:07"
   },
   {
     "id": 2,
@@ -34,7 +35,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 8.619999885559082,
     "latent_y": 3.5999999046325684,
     "latent_z": 77.5999984741211,
-    "duration_seconds": null
+    "duration_seconds": 228,
+    "duracion": "03:48"
   },
   {
     "id": 3,
@@ -53,7 +55,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 57.849998474121094,
     "latent_y": -24.770000457763672,
     "latent_z": 43.09000015258789,
-    "duration_seconds": null
+    "duration_seconds": 829,
+    "duracion": "13:49"
   },
   {
     "id": 4,
@@ -72,7 +75,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 86.58000183105469,
     "latent_y": -3.569999933242798,
     "latent_z": 42.77000045776367,
-    "duration_seconds": null
+    "duration_seconds": 459,
+    "duracion": "07:39"
   },
   {
     "id": 5,
@@ -90,7 +94,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -1.4199999570846558,
     "latent_y": -15.529999732971191,
     "latent_z": 120.0,
-    "duration_seconds": null
+    "duration_seconds": 136,
+    "duracion": "02:16"
   },
   {
     "id": 6,
@@ -109,7 +114,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -101.87000274658203,
     "latent_y": -10.3100004196167,
     "latent_z": 5.46999979019165,
-    "duration_seconds": null
+    "duration_seconds": 319,
+    "duracion": "05:19"
   },
   {
     "id": 7,
@@ -127,7 +133,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -8.170000076293945,
     "latent_y": -2.5399999618530273,
     "latent_z": 68.26000213623047,
-    "duration_seconds": null
+    "duration_seconds": 715,
+    "duracion": "11:55"
   },
   {
     "id": 8,
@@ -146,7 +153,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 66.75,
     "latent_y": -19.030000686645508,
     "latent_z": 64.4000015258789,
-    "duration_seconds": null
+    "duration_seconds": 357,
+    "duracion": "05:57"
   },
   {
     "id": 9,
@@ -164,7 +172,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 45.47999954223633,
     "latent_y": 23.889999389648438,
     "latent_z": -28.899999618530273,
-    "duration_seconds": null
+    "duration_seconds": 189,
+    "duracion": "03:09"
   },
   {
     "id": 10,
@@ -182,7 +191,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 19.979999542236328,
     "latent_y": -21.770000457763672,
     "latent_z": -70.63999938964844,
-    "duration_seconds": null
+    "duration_seconds": 306,
+    "duracion": "05:06"
   },
   {
     "id": 11,
@@ -201,7 +211,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 91.5999984741211,
     "latent_y": -23.329999923706055,
     "latent_z": 33.880001068115234,
-    "duration_seconds": null
+    "duration_seconds": 832,
+    "duracion": "13:52"
   },
   {
     "id": 12,
@@ -220,7 +231,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -108.0999984741211,
     "latent_y": -53.2400016784668,
     "latent_z": 15.789999961853027,
-    "duration_seconds": null
+    "duration_seconds": 15,
+    "duracion": "00:15"
   },
   {
     "id": 13,
@@ -238,7 +250,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -10.3100004196167,
     "latent_y": 15.8100004196167,
     "latent_z": 104.76000213623047,
-    "duration_seconds": null
+    "duration_seconds": 933,
+    "duracion": "15:33"
   },
   {
     "id": 14,
@@ -256,7 +269,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 23.969999313354492,
     "latent_y": -49.93000030517578,
     "latent_z": 2.0899999141693115,
-    "duration_seconds": null
+    "duration_seconds": 141,
+    "duracion": "02:21"
   },
   {
     "id": 15,
@@ -274,7 +288,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 7.25,
     "latent_y": -44.16999816894531,
     "latent_z": 75.76000213623047,
-    "duration_seconds": null
+    "duration_seconds": 1382,
+    "duracion": "23:02"
   },
   {
     "id": 16,
@@ -292,7 +307,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -24.399999618530273,
     "latent_y": -21.18000030517578,
     "latent_z": 98.55999755859375,
-    "duration_seconds": null
+    "duration_seconds": 598,
+    "duracion": "09:58"
   },
   {
     "id": 17,
@@ -310,7 +326,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 32.529998779296875,
     "latent_y": 11.050000190734863,
     "latent_z": 89.36000061035156,
-    "duration_seconds": null
+    "duration_seconds": 612,
+    "duracion": "10:12"
   },
   {
     "id": 18,
@@ -328,7 +345,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 4.019999980926514,
     "latent_y": -37.439998626708984,
     "latent_z": 100.11000061035156,
-    "duration_seconds": null
+    "duration_seconds": 838,
+    "duracion": "13:58"
   },
   {
     "id": 19,
@@ -346,7 +364,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -16.8799991607666,
     "latent_y": 15.770000457763672,
     "latent_z": 77.75,
-    "duration_seconds": null
+    "duration_seconds": 512,
+    "duracion": "08:32"
   },
   {
     "id": 20,
@@ -364,7 +383,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 75.13999938964844,
     "latent_y": -38.95000076293945,
     "latent_z": -45.77000045776367,
-    "duration_seconds": null
+    "duration_seconds": 7781,
+    "duracion": "02:09:41"
   },
   {
     "id": 21,
@@ -382,7 +402,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 45.15999984741211,
     "latent_y": 14.600000381469727,
     "latent_z": -64.55000305175781,
-    "duration_seconds": null
+    "duration_seconds": 312,
+    "duracion": "05:12"
   },
   {
     "id": 22,
@@ -401,7 +422,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -100.0,
     "latent_y": 15.949999809265137,
     "latent_z": -16.229999542236328,
-    "duration_seconds": null
+    "duration_seconds": 82,
+    "duracion": "01:22"
   },
   {
     "id": 23,
@@ -420,7 +442,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -50.529998779296875,
     "latent_y": -23.260000228881836,
     "latent_z": -11.010000228881836,
-    "duration_seconds": null
+    "duration_seconds": 177,
+    "duracion": "02:57"
   },
   {
     "id": 24,
@@ -439,7 +462,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 18.440000534057617,
     "latent_y": 46.91999816894531,
     "latent_z": 49.77000045776367,
-    "duration_seconds": null
+    "duration_seconds": 560,
+    "duracion": "09:20"
   },
   {
     "id": 25,
@@ -457,7 +481,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -26.389999389648438,
     "latent_y": -6.949999809265137,
     "latent_z": 54.16999816894531,
-    "duration_seconds": null
+    "duration_seconds": 226,
+    "duracion": "03:46"
   },
   {
     "id": 26,
@@ -477,7 +502,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 39.81999969482422,
     "latent_y": -79.12000274658203,
     "latent_z": 54.45000076293945,
-    "duration_seconds": null
+    "duration_seconds": 475,
+    "duracion": "07:55"
   },
   {
     "id": 27,
@@ -496,7 +522,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 32.59000015258789,
     "latent_y": 61.41999816894531,
     "latent_z": -0.9599999785423279,
-    "duration_seconds": null
+    "duration_seconds": 149,
+    "duracion": "02:29"
   },
   {
     "id": 28,
@@ -514,7 +541,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 27.190000534057617,
     "latent_y": 12.9399995803833,
     "latent_z": 59.13999938964844,
-    "duration_seconds": null
+    "duration_seconds": 790,
+    "duracion": "13:10"
   },
   {
     "id": 29,
@@ -532,7 +560,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 96.75,
     "latent_y": -53.68000030517578,
     "latent_z": -96.58000183105469,
-    "duration_seconds": null
+    "duration_seconds": 97,
+    "duracion": "01:37"
   },
   {
     "id": 30,
@@ -550,7 +579,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 91.61000061035156,
     "latent_y": 6.550000190734863,
     "latent_z": 4.119999885559082,
-    "duration_seconds": null
+    "duration_seconds": 227,
+    "duracion": "03:47"
   },
   {
     "id": 31,
@@ -569,7 +599,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -78.33000183105469,
     "latent_y": -45.33000183105469,
     "latent_z": 17.729999542236328,
-    "duration_seconds": null
+    "duration_seconds": 397,
+    "duracion": "06:37"
   },
   {
     "id": 32,
@@ -588,7 +619,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 15.010000228881836,
     "latent_y": -103.47000122070312,
     "latent_z": 51.189998626708984,
-    "duration_seconds": null
+    "duration_seconds": 433,
+    "duracion": "07:13"
   },
   {
     "id": 33,
@@ -606,7 +638,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -9.989999771118164,
     "latent_y": -5.949999809265137,
     "latent_z": 92.61000061035156,
-    "duration_seconds": null
+    "duration_seconds": 472,
+    "duracion": "07:52"
   },
   {
     "id": 34,
@@ -624,7 +657,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 13.020000457763672,
     "latent_y": 2.309999942779541,
     "latent_z": 102.98999786376953,
-    "duration_seconds": null
+    "duration_seconds": 266,
+    "duracion": "04:26"
   },
   {
     "id": 35,
@@ -642,7 +676,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -28.68000030517578,
     "latent_y": -4.400000095367432,
     "latent_z": 81.95999908447266,
-    "duration_seconds": null
+    "duration_seconds": 263,
+    "duracion": "04:23"
   },
   {
     "id": 36,
@@ -660,7 +695,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 4.179999828338623,
     "latent_y": -6.239999771118164,
     "latent_z": -56.959999084472656,
-    "duration_seconds": null
+    "duration_seconds": 218,
+    "duracion": "03:38"
   },
   {
     "id": 37,
@@ -678,7 +714,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -31.920000076293945,
     "latent_y": -88.62000274658203,
     "latent_z": -22.670000076293945,
-    "duration_seconds": null
+    "duration_seconds": 224,
+    "duracion": "03:44"
   },
   {
     "id": 38,
@@ -697,7 +734,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 69.44000244140625,
     "latent_y": 39.349998474121094,
     "latent_z": 21.8700008392334,
-    "duration_seconds": null
+    "duration_seconds": 78,
+    "duracion": "01:18"
   },
   {
     "id": 39,
@@ -715,7 +753,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -5.21999979019165,
     "latent_y": -110.12000274658203,
     "latent_z": 46.91999816894531,
-    "duration_seconds": null
+    "duration_seconds": 164,
+    "duracion": "02:44"
   },
   {
     "id": 40,
@@ -733,7 +772,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -14.420000076293945,
     "latent_y": -2.690000057220459,
     "latent_z": 35.380001068115234,
-    "duration_seconds": null
+    "duration_seconds": 238,
+    "duracion": "03:58"
   },
   {
     "id": 41,
@@ -751,7 +791,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 66.0,
     "latent_y": -30.530000686645508,
     "latent_z": -8.880000114440918,
-    "duration_seconds": null
+    "duration_seconds": 48,
+    "duracion": "00:48"
   },
   {
     "id": 42,
@@ -769,7 +810,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 45.02000045776367,
     "latent_y": -14.380000114440918,
     "latent_z": -18.760000228881836,
-    "duration_seconds": null
+    "duration_seconds": 9770,
+    "duracion": "02:42:50"
   },
   {
     "id": 43,
@@ -787,7 +829,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -5.78000020980835,
     "latent_y": -27.469999313354492,
     "latent_z": -51.290000915527344,
-    "duration_seconds": null
+    "duration_seconds": 63,
+    "duracion": "01:03"
   },
   {
     "id": 44,
@@ -805,7 +848,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 3.130000114440918,
     "latent_y": -73.80999755859375,
     "latent_z": 37.47999954223633,
-    "duration_seconds": null
+    "duration_seconds": 206,
+    "duracion": "03:26"
   },
   {
     "id": 45,
@@ -825,7 +869,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 45.650001525878906,
     "latent_y": 73.66999816894531,
     "latent_z": -5.480000019073486,
-    "duration_seconds": null
+    "duration_seconds": 90,
+    "duracion": "01:30"
   },
   {
     "id": 46,
@@ -843,7 +888,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -8.050000190734863,
     "latent_y": -17.68000030517578,
     "latent_z": 52.31999969482422,
-    "duration_seconds": null
+    "duration_seconds": 369,
+    "duracion": "06:09"
   },
   {
     "id": 47,
@@ -861,7 +907,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 5.510000228881836,
     "latent_y": 25.579999923706055,
     "latent_z": 87.75,
-    "duration_seconds": null
+    "duration_seconds": 1133,
+    "duracion": "18:53"
   },
   {
     "id": 48,
@@ -879,7 +926,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 65.2699966430664,
     "latent_y": 33.380001068115234,
     "latent_z": -17.149999618530273,
-    "duration_seconds": null
+    "duration_seconds": 62,
+    "duracion": "01:02"
   },
   {
     "id": 49,
@@ -897,7 +945,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 54.970001220703125,
     "latent_y": 44.66999816894531,
     "latent_z": -42.040000915527344,
-    "duration_seconds": null
+    "duration_seconds": 185,
+    "duracion": "03:05"
   },
   {
     "id": 50,
@@ -916,7 +965,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -104.1500015258789,
     "latent_y": -53.130001068115234,
     "latent_z": -39.900001525878906,
-    "duration_seconds": null
+    "duration_seconds": 449,
+    "duracion": "07:29"
   },
   {
     "id": 51,
@@ -935,7 +985,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 72.19999694824219,
     "latent_y": -11.579999923706055,
     "latent_z": 29.639999389648438,
-    "duration_seconds": null
+    "duration_seconds": 612,
+    "duracion": "10:12"
   },
   {
     "id": 52,
@@ -953,7 +1004,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -19.350000381469727,
     "latent_y": 76.02999877929688,
     "latent_z": 75.22000122070312,
-    "duration_seconds": null
+    "duration_seconds": 90,
+    "duracion": "01:30"
   },
   {
     "id": 53,
@@ -971,7 +1023,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 74.44999694824219,
     "latent_y": 26.770000457763672,
     "latent_z": -59.619998931884766,
-    "duration_seconds": null
+    "duration_seconds": 130,
+    "duracion": "02:10"
   },
   {
     "id": 54,
@@ -990,7 +1043,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 96.68000030517578,
     "latent_y": -25.389999389648438,
     "latent_z": 66.87999725341797,
-    "duration_seconds": null
+    "duration_seconds": 4387,
+    "duracion": "01:13:07"
   },
   {
     "id": 55,
@@ -1008,7 +1062,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 65.2699966430664,
     "latent_y": 33.380001068115234,
     "latent_z": -17.149999618530273,
-    "duration_seconds": null
+    "duration_seconds": 119,
+    "duracion": "01:59"
   },
   {
     "id": 56,
@@ -1026,7 +1081,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -51.5,
     "latent_y": 54.95000076293945,
     "latent_z": 58.11000061035156,
-    "duration_seconds": null
+    "duration_seconds": 542,
+    "duracion": "09:02"
   },
   {
     "id": 57,
@@ -1044,7 +1100,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 36.869998931884766,
     "latent_y": -17.8799991607666,
     "latent_z": -57.099998474121094,
-    "duration_seconds": null
+    "duration_seconds": 326,
+    "duracion": "05:26"
   },
   {
     "id": 58,
@@ -1062,7 +1119,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 48.099998474121094,
     "latent_y": 22.68000030517578,
     "latent_z": -4.579999923706055,
-    "duration_seconds": null
+    "duration_seconds": 136,
+    "duracion": "02:16"
   },
   {
     "id": 59,
@@ -1081,7 +1139,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -65.16000366210938,
     "latent_y": -5.550000190734863,
     "latent_z": -7.71999979019165,
-    "duration_seconds": null
+    "duration_seconds": 92,
+    "duracion": "01:32"
   },
   {
     "id": 60,
@@ -1099,7 +1158,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -74.54000091552734,
     "latent_y": -19.56999969482422,
     "latent_z": -102.9800033569336,
-    "duration_seconds": null
+    "duration_seconds": 271,
+    "duracion": "04:31"
   },
   {
     "id": 61,
@@ -1117,7 +1177,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 116.30999755859375,
     "latent_y": -35.75,
     "latent_z": -41.45000076293945,
-    "duration_seconds": null
+    "duration_seconds": 768,
+    "duracion": "12:48"
   },
   {
     "id": 62,
@@ -1136,7 +1197,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -20.489999771118164,
     "latent_y": 25.18000030517578,
     "latent_z": 1.0299999713897705,
-    "duration_seconds": null
+    "duration_seconds": 913,
+    "duracion": "15:13"
   },
   {
     "id": 63,
@@ -1154,7 +1216,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 42.029998779296875,
     "latent_y": 20.6299991607666,
     "latent_z": 12.9399995803833,
-    "duration_seconds": null
+    "duration_seconds": 91,
+    "duracion": "01:31"
   },
   {
     "id": 64,
@@ -1172,7 +1235,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 28.600000381469727,
     "latent_y": 27.489999771118164,
     "latent_z": -42.59000015258789,
-    "duration_seconds": null
+    "duration_seconds": 677,
+    "duracion": "11:17"
   },
   {
     "id": 65,
@@ -1190,7 +1254,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 63.75,
     "latent_y": -1.600000023841858,
     "latent_z": -51.369998931884766,
-    "duration_seconds": null
+    "duration_seconds": 277,
+    "duracion": "04:37"
   },
   {
     "id": 66,
@@ -1208,7 +1273,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -3.9700000286102295,
     "latent_y": -94.43000030517578,
     "latent_z": -50.22999954223633,
-    "duration_seconds": null
+    "duration_seconds": 43,
+    "duracion": "00:43"
   },
   {
     "id": 67,
@@ -1226,7 +1292,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 56.619998931884766,
     "latent_y": -35.630001068115234,
     "latent_z": -32.45000076293945,
-    "duration_seconds": null
+    "duration_seconds": 107,
+    "duracion": "01:47"
   },
   {
     "id": 68,
@@ -1244,7 +1311,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 64.02999877929688,
     "latent_y": 3.6700000762939453,
     "latent_z": -22.360000610351562,
-    "duration_seconds": null
+    "duration_seconds": 121,
+    "duracion": "02:01"
   },
   {
     "id": 69,
@@ -1262,7 +1330,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -8.630000114440918,
     "latent_y": -76.12000274658203,
     "latent_z": -66.22000122070312,
-    "duration_seconds": null
+    "duration_seconds": 284,
+    "duracion": "04:44"
   },
   {
     "id": 70,
@@ -1280,7 +1349,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 41.369998931884766,
     "latent_y": -23.959999084472656,
     "latent_z": 3.619999885559082,
-    "duration_seconds": null
+    "duration_seconds": 58,
+    "duracion": "00:58"
   },
   {
     "id": 71,
@@ -1300,7 +1370,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 69.26000213623047,
     "latent_y": 20.93000030517578,
     "latent_z": 39.209999084472656,
-    "duration_seconds": null
+    "duration_seconds": 222,
+    "duracion": "03:42"
   },
   {
     "id": 72,
@@ -1318,7 +1389,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -50.4900016784668,
     "latent_y": -93.97000122070312,
     "latent_z": -62.61000061035156,
-    "duration_seconds": null
+    "duration_seconds": 1646,
+    "duracion": "27:26"
   },
   {
     "id": 73,
@@ -1337,7 +1409,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 77.04000091552734,
     "latent_y": -20.530000686645508,
     "latent_z": 48.130001068115234,
-    "duration_seconds": null
+    "duration_seconds": 647,
+    "duracion": "10:47"
   },
   {
     "id": 74,
@@ -1356,7 +1429,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 67.0999984741211,
     "latent_y": -3.8499999046325684,
     "latent_z": 50.810001373291016,
-    "duration_seconds": null
+    "duration_seconds": 1008,
+    "duracion": "16:48"
   },
   {
     "id": 75,
@@ -1375,7 +1449,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -18.139999389648438,
     "latent_y": 43.65999984741211,
     "latent_z": -86.47000122070312,
-    "duration_seconds": null
+    "duration_seconds": 73,
+    "duracion": "01:13"
   },
   {
     "id": 76,
@@ -1393,7 +1468,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 63.86000061035156,
     "latent_y": -15.699999809265137,
     "latent_z": -87.94000244140625,
-    "duration_seconds": null
+    "duration_seconds": 883,
+    "duracion": "14:43"
   },
   {
     "id": 77,
@@ -1411,7 +1487,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 81.20999908447266,
     "latent_y": -70.80000305175781,
     "latent_z": -104.66000366210938,
-    "duration_seconds": null
+    "duration_seconds": 122,
+    "duracion": "02:02"
   },
   {
     "id": 78,
@@ -1430,7 +1507,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -119.81999969482422,
     "latent_y": -26.829999923706055,
     "latent_z": -2.1600000858306885,
-    "duration_seconds": null
+    "duration_seconds": 267,
+    "duracion": "04:27"
   },
   {
     "id": 79,
@@ -1448,7 +1526,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -39.959999084472656,
     "latent_y": -75.6500015258789,
     "latent_z": -76.5,
-    "duration_seconds": null
+    "duration_seconds": 3491,
+    "duracion": "58:11"
   },
   {
     "id": 80,
@@ -1467,7 +1546,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -76.5999984741211,
     "latent_y": -43.529998779296875,
     "latent_z": -2.109999895095825,
-    "duration_seconds": null
+    "duration_seconds": 118,
+    "duracion": "01:58"
   },
   {
     "id": 81,
@@ -1486,7 +1566,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -6.53000020980835,
     "latent_y": 33.150001525878906,
     "latent_z": -97.22000122070312,
-    "duration_seconds": null
+    "duration_seconds": 155,
+    "duracion": "02:35"
   },
   {
     "id": 82,
@@ -1506,7 +1587,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 35.619998931884766,
     "latent_y": -66.0199966430664,
     "latent_z": 46.790000915527344,
-    "duration_seconds": null
+    "duration_seconds": 449,
+    "duracion": "07:29"
   },
   {
     "id": 83,
@@ -1525,7 +1607,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 34.86000061035156,
     "latent_y": 43.189998626708984,
     "latent_z": 57.2599983215332,
-    "duration_seconds": null
+    "duration_seconds": 305,
+    "duracion": "05:05"
   },
   {
     "id": 84,
@@ -1543,7 +1626,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -43.689998626708984,
     "latent_y": 61.689998626708984,
     "latent_z": 34.04999923706055,
-    "duration_seconds": null
+    "duration_seconds": 427,
+    "duracion": "07:07"
   },
   {
     "id": 85,
@@ -1561,7 +1645,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -59.5,
     "latent_y": 65.55000305175781,
     "latent_z": 16.440000534057617,
-    "duration_seconds": null
+    "duration_seconds": 290,
+    "duracion": "04:50"
   },
   {
     "id": 86,
@@ -1580,7 +1665,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -76.58000183105469,
     "latent_y": -58.939998626708984,
     "latent_z": -30.190000534057617,
-    "duration_seconds": null
+    "duration_seconds": 161,
+    "duracion": "02:41"
   },
   {
     "id": 87,
@@ -1598,7 +1684,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -19.399999618530273,
     "latent_y": -84.69999694824219,
     "latent_z": -87.8499984741211,
-    "duration_seconds": null
+    "duration_seconds": 330,
+    "duracion": "05:30"
   },
   {
     "id": 88,
@@ -1616,7 +1703,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 39.34000015258789,
     "latent_y": -8.260000228881836,
     "latent_z": -79.95999908447266,
-    "duration_seconds": null
+    "duration_seconds": 696,
+    "duracion": "11:36"
   },
   {
     "id": 89,
@@ -1634,7 +1722,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 17.920000076293945,
     "latent_y": 60.709999084472656,
     "latent_z": -21.530000686645508,
-    "duration_seconds": null
+    "duration_seconds": 1376,
+    "duracion": "22:56"
   },
   {
     "id": 90,
@@ -1652,7 +1741,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 18.459999084472656,
     "latent_y": -26.860000610351562,
     "latent_z": -10.180000305175781,
-    "duration_seconds": null
+    "duration_seconds": 107,
+    "duracion": "01:47"
   },
   {
     "id": 91,
@@ -1670,7 +1760,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 61.0099983215332,
     "latent_y": -4.199999809265137,
     "latent_z": -0.9100000262260437,
-    "duration_seconds": null
+    "duration_seconds": 57,
+    "duracion": "00:57"
   },
   {
     "id": 92,
@@ -1688,7 +1779,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -33.18000030517578,
     "latent_y": 94.4800033569336,
     "latent_z": 70.30000305175781,
-    "duration_seconds": null
+    "duration_seconds": 59,
+    "duracion": "00:59"
   },
   {
     "id": 93,
@@ -1706,7 +1798,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -110.08999633789062,
     "latent_y": -11.359999656677246,
     "latent_z": 41.34000015258789,
-    "duration_seconds": null
+    "duration_seconds": 142,
+    "duracion": "02:22"
   },
   {
     "id": 94,
@@ -1725,7 +1818,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -96.25,
     "latent_y": -27.639999389648438,
     "latent_z": -52.5,
-    "duration_seconds": null
+    "duration_seconds": 15,
+    "duracion": "00:15"
   },
   {
     "id": 95,
@@ -1743,7 +1837,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -46.91999816894531,
     "latent_y": -102.54000091552734,
     "latent_z": -38.4900016784668,
-    "duration_seconds": null
+    "duration_seconds": 574,
+    "duracion": "09:34"
   },
   {
     "id": 96,
@@ -1762,7 +1857,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -83.19999694824219,
     "latent_y": -15.300000190734863,
     "latent_z": -34.900001525878906,
-    "duration_seconds": null
+    "duration_seconds": 1737,
+    "duracion": "28:57"
   },
   {
     "id": 97,
@@ -1780,7 +1876,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 29.510000228881836,
     "latent_y": -32.630001068115234,
     "latent_z": 76.5,
-    "duration_seconds": null
+    "duration_seconds": 341,
+    "duracion": "05:41"
   },
   {
     "id": 98,
@@ -1798,7 +1895,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 80.4000015258789,
     "latent_y": 19.229999542236328,
     "latent_z": -44.04999923706055,
-    "duration_seconds": null
+    "duration_seconds": 119,
+    "duracion": "01:59"
   },
   {
     "id": 99,
@@ -1816,7 +1914,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 61.209999084472656,
     "latent_y": -77.94000244140625,
     "latent_z": -67.29000091552734,
-    "duration_seconds": null
+    "duration_seconds": 267,
+    "duracion": "04:27"
   },
   {
     "id": 100,
@@ -1835,7 +1934,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -9.25,
     "latent_y": 31.639999389648438,
     "latent_z": -76.77999877929688,
-    "duration_seconds": null
+    "duration_seconds": 39,
+    "duracion": "00:39"
   },
   {
     "id": 101,
@@ -1853,7 +1953,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -37.290000915527344,
     "latent_y": -114.63999938964844,
     "latent_z": -58.2599983215332,
-    "duration_seconds": null
+    "duration_seconds": 1274,
+    "duracion": "21:14"
   },
   {
     "id": 102,
@@ -1871,7 +1972,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 21.329999923706055,
     "latent_y": 19.790000915527344,
     "latent_z": -23.469999313354492,
-    "duration_seconds": null
+    "duration_seconds": 100,
+    "duracion": "01:40"
   },
   {
     "id": 103,
@@ -1889,7 +1991,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 81.94999694824219,
     "latent_y": -57.63999938964844,
     "latent_z": -112.70999908447266,
-    "duration_seconds": null
+    "duration_seconds": 117,
+    "duracion": "01:57"
   },
   {
     "id": 104,
@@ -1907,7 +2010,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -8.75,
     "latent_y": -101.04000091552734,
     "latent_z": -25.559999465942383,
-    "duration_seconds": null
+    "duration_seconds": 541,
+    "duracion": "09:01"
   },
   {
     "id": 105,
@@ -1925,7 +2029,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 52.58000183105469,
     "latent_y": -54.119998931884766,
     "latent_z": 1.0700000524520874,
-    "duration_seconds": null
+    "duration_seconds": 159,
+    "duracion": "02:39"
   },
   {
     "id": 106,
@@ -1944,7 +2049,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -5.71999979019165,
     "latent_y": -37.08000183105469,
     "latent_z": 21.459999084472656,
-    "duration_seconds": null
+    "duration_seconds": 580,
+    "duracion": "09:40"
   },
   {
     "id": 107,
@@ -1962,7 +2068,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -9.930000305175781,
     "latent_y": -22.65999984741211,
     "latent_z": -88.37999725341797,
-    "duration_seconds": null
+    "duration_seconds": 68,
+    "duracion": "01:08"
   },
   {
     "id": 108,
@@ -1980,7 +2087,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -39.630001068115234,
     "latent_y": -80.55000305175781,
     "latent_z": -45.72999954223633,
-    "duration_seconds": null
+    "duration_seconds": 300,
+    "duracion": "05:00"
   },
   {
     "id": 109,
@@ -1998,7 +2106,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -7.5,
     "latent_y": -87.05999755859375,
     "latent_z": 53.66999816894531,
-    "duration_seconds": null
+    "duration_seconds": 118,
+    "duracion": "01:58"
   },
   {
     "id": 110,
@@ -2017,7 +2126,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 20.75,
     "latent_y": 54.15999984741211,
     "latent_z": 71.94999694824219,
-    "duration_seconds": null
+    "duration_seconds": 54,
+    "duracion": "00:54"
   },
   {
     "id": 111,
@@ -2036,7 +2146,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 13.779999732971191,
     "latent_y": -83.41999816894531,
     "latent_z": 55.56999969482422,
-    "duration_seconds": null
+    "duration_seconds": 39,
+    "duracion": "00:39"
   },
   {
     "id": 112,
@@ -2054,7 +2165,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -14.15999984741211,
     "latent_y": 33.22999954223633,
     "latent_z": -43.59000015258789,
-    "duration_seconds": null
+    "duration_seconds": 1173,
+    "duracion": "19:33"
   },
   {
     "id": 113,
@@ -2072,7 +2184,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -54.290000915527344,
     "latent_y": 112.01000213623047,
     "latent_z": 32.75,
-    "duration_seconds": null
+    "duration_seconds": 303,
+    "duracion": "05:03"
   },
   {
     "id": 114,
@@ -2090,7 +2203,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -34.27000045776367,
     "latent_y": 62.970001220703125,
     "latent_z": 9.029999732971191,
-    "duration_seconds": null
+    "duration_seconds": 901,
+    "duracion": "15:01"
   },
   {
     "id": 115,
@@ -2108,7 +2222,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -43.06999969482422,
     "latent_y": 73.3499984741211,
     "latent_z": 75.47000122070312,
-    "duration_seconds": null
+    "duration_seconds": 100,
+    "duracion": "01:40"
   },
   {
     "id": 116,
@@ -2127,7 +2242,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -98.7300033569336,
     "latent_y": 1.1100000143051147,
     "latent_z": -41.31999969482422,
-    "duration_seconds": null
+    "duration_seconds": 43,
+    "duracion": "00:43"
   },
   {
     "id": 117,
@@ -2145,7 +2261,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -73.0199966430664,
     "latent_y": 90.7300033569336,
     "latent_z": 23.780000686645508,
-    "duration_seconds": null
+    "duration_seconds": 89,
+    "duracion": "01:29"
   },
   {
     "id": 118,
@@ -2163,7 +2280,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 85.77999877929688,
     "latent_y": 11.90999984741211,
     "latent_z": -16.68000030517578,
-    "duration_seconds": null
+    "duration_seconds": 138,
+    "duracion": "02:18"
   },
   {
     "id": 119,
@@ -2181,7 +2299,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 18.239999771118164,
     "latent_y": -32.5,
     "latent_z": 47.939998626708984,
-    "duration_seconds": null
+    "duration_seconds": 1138,
+    "duracion": "18:58"
   },
   {
     "id": 120,
@@ -2199,7 +2318,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 7.019999980926514,
     "latent_y": -15.4399995803833,
     "latent_z": 85.36000061035156,
-    "duration_seconds": null
+    "duration_seconds": 707,
+    "duracion": "11:47"
   },
   {
     "id": 121,
@@ -2217,7 +2337,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -41.13999938964844,
     "latent_y": 114.91999816894531,
     "latent_z": 58.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 80,
+    "duracion": "01:20"
   },
   {
     "id": 122,
@@ -2235,7 +2356,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 92.80999755859375,
     "latent_y": -70.37999725341797,
     "latent_z": -79.5199966430664,
-    "duration_seconds": null
+    "duration_seconds": 119,
+    "duracion": "01:59"
   },
   {
     "id": 123,
@@ -2253,7 +2375,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -21.1299991607666,
     "latent_y": 55.68000030517578,
     "latent_z": -56.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 364,
+    "duracion": "06:04"
   },
   {
     "id": 124,
@@ -2271,7 +2394,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 33.040000915527344,
     "latent_y": -74.4000015258789,
     "latent_z": -86.30000305175781,
-    "duration_seconds": null
+    "duration_seconds": 36,
+    "duracion": "00:36"
   },
   {
     "id": 125,
@@ -2289,7 +2413,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -36.31999969482422,
     "latent_y": 104.37999725341797,
     "latent_z": 17.770000457763672,
-    "duration_seconds": null
+    "duration_seconds": 267,
+    "duracion": "04:27"
   },
   {
     "id": 126,
@@ -2307,7 +2432,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 100.05000305175781,
     "latent_y": 25.6200008392334,
     "latent_z": -16.549999237060547,
-    "duration_seconds": null
+    "duration_seconds": 157,
+    "duracion": "02:37"
   },
   {
     "id": 127,
@@ -2325,7 +2451,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 81.91000366210938,
     "latent_y": -9.710000038146973,
     "latent_z": -100.19999694824219,
-    "duration_seconds": null
+    "duration_seconds": 249,
+    "duracion": "04:09"
   },
   {
     "id": 128,
@@ -2343,7 +2470,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -25.09000015258789,
     "latent_y": -100.33000183105469,
     "latent_z": -41.61000061035156,
-    "duration_seconds": null
+    "duration_seconds": 59,
+    "duracion": "00:59"
   },
   {
     "id": 129,
@@ -2361,7 +2489,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -70.73999786376953,
     "latent_y": -20.799999237060547,
     "latent_z": 83.62999725341797,
-    "duration_seconds": null
+    "duration_seconds": 4895,
+    "duracion": "01:21:35"
   },
   {
     "id": 130,
@@ -2379,7 +2508,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -49.619998931884766,
     "latent_y": 86.20999908447266,
     "latent_z": 6.809999942779541,
-    "duration_seconds": null
+    "duration_seconds": 97,
+    "duracion": "01:37"
   },
   {
     "id": 131,
@@ -2397,7 +2527,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 91.5199966430664,
     "latent_y": 31.559999465942383,
     "latent_z": -50.16999816894531,
-    "duration_seconds": null
+    "duration_seconds": 127,
+    "duracion": "02:07"
   },
   {
     "id": 132,
@@ -2415,7 +2546,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -93.83999633789062,
     "latent_y": -24.450000762939453,
     "latent_z": 46.45000076293945,
-    "duration_seconds": null
+    "duration_seconds": 186,
+    "duracion": "03:06"
   },
   {
     "id": 133,
@@ -2434,7 +2566,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -76.23999786376953,
     "latent_y": 7.690000057220459,
     "latent_z": -26.950000762939453,
-    "duration_seconds": null
+    "duration_seconds": 510,
+    "duracion": "08:30"
   },
   {
     "id": 134,
@@ -2452,7 +2585,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 28.1200008392334,
     "latent_y": 0.7900000214576721,
     "latent_z": -52.5,
-    "duration_seconds": null
+    "duration_seconds": 342,
+    "duracion": "05:42"
   },
   {
     "id": 135,
@@ -2470,7 +2604,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -2.9200000762939453,
     "latent_y": -98.41000366210938,
     "latent_z": -75.4800033569336,
-    "duration_seconds": null
+    "duration_seconds": 299,
+    "duracion": "04:59"
   },
   {
     "id": 136,
@@ -2489,7 +2624,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -59.560001373291016,
     "latent_y": -33.540000915527344,
     "latent_z": 9.100000381469727,
-    "duration_seconds": null
+    "duration_seconds": 28,
+    "duracion": "00:28"
   },
   {
     "id": 137,
@@ -2507,7 +2643,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 48.54999923706055,
     "latent_y": -11.359999656677246,
     "latent_z": -40.86000061035156,
-    "duration_seconds": null
+    "duration_seconds": 818,
+    "duracion": "13:38"
   },
   {
     "id": 138,
@@ -2526,7 +2663,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -78.75,
     "latent_y": -18.639999389648438,
     "latent_z": 6.349999904632568,
-    "duration_seconds": null
+    "duration_seconds": 22,
+    "duracion": "00:22"
   },
   {
     "id": 139,
@@ -2544,7 +2682,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 45.709999084472656,
     "latent_y": -33.88999938964844,
     "latent_z": -74.70999908447266,
-    "duration_seconds": null
+    "duration_seconds": 25,
+    "duracion": "00:25"
   },
   {
     "id": 140,
@@ -2562,7 +2701,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 38.4900016784668,
     "latent_y": -44.7400016784668,
     "latent_z": -49.2400016784668,
-    "duration_seconds": null
+    "duration_seconds": 119,
+    "duracion": "01:59"
   },
   {
     "id": 141,
@@ -2581,7 +2721,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -88.8499984741211,
     "latent_y": -8.930000305175781,
     "latent_z": -14.390000343322754,
-    "duration_seconds": null
+    "duration_seconds": 645,
+    "duracion": "10:45"
   },
   {
     "id": 142,
@@ -2600,7 +2741,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -89.13999938964844,
     "latent_y": -69.47000122070312,
     "latent_z": -2.5899999141693115,
-    "duration_seconds": null
+    "duration_seconds": 12,
+    "duracion": "00:12"
   },
   {
     "id": 143,
@@ -2618,7 +2760,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -20.3799991607666,
     "latent_y": -113.80000305175781,
     "latent_z": -75.56999969482422,
-    "duration_seconds": null
+    "duration_seconds": 585,
+    "duracion": "09:45"
   },
   {
     "id": 144,
@@ -2636,7 +2779,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 52.20000076293945,
     "latent_y": -52.869998931884766,
     "latent_z": -52.599998474121094,
-    "duration_seconds": null
+    "duration_seconds": 132,
+    "duracion": "02:12"
   },
   {
     "id": 145,
@@ -2654,7 +2798,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 7.070000171661377,
     "latent_y": 8.069999694824219,
     "latent_z": 34.81999969482422,
-    "duration_seconds": null
+    "duration_seconds": 52,
+    "duracion": "00:52"
   },
   {
     "id": 146,
@@ -2672,7 +2817,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -11.260000228881836,
     "latent_y": -116.05000305175781,
     "latent_z": -52.349998474121094,
-    "duration_seconds": null
+    "duration_seconds": 221,
+    "duracion": "03:41"
   },
   {
     "id": 147,
@@ -2691,7 +2837,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -82.02999877929688,
     "latent_y": 6.210000038146973,
     "latent_z": 3.509999990463257,
-    "duration_seconds": null
+    "duration_seconds": 277,
+    "duracion": "04:37"
   },
   {
     "id": 148,
@@ -2709,7 +2856,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 85.4000015258789,
     "latent_y": -49.099998474121094,
     "latent_z": -79.80000305175781,
-    "duration_seconds": null
+    "duration_seconds": 575,
+    "duracion": "09:35"
   },
   {
     "id": 149,
@@ -2727,7 +2875,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -83.11000061035156,
     "latent_y": -18.239999771118164,
     "latent_z": 63.27000045776367,
-    "duration_seconds": null
+    "duration_seconds": 604,
+    "duracion": "10:04"
   },
   {
     "id": 150,
@@ -2746,7 +2895,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 7.460000038146973,
     "latent_y": 95.27999877929688,
     "latent_z": -19.540000915527344,
-    "duration_seconds": null
+    "duration_seconds": 72,
+    "duracion": "01:12"
   },
   {
     "id": 151,
@@ -2764,7 +2914,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -51.72999954223633,
     "latent_y": 87.55000305175781,
     "latent_z": 31.709999084472656,
-    "duration_seconds": null
+    "duration_seconds": 237,
+    "duracion": "03:57"
   },
   {
     "id": 152,
@@ -2782,7 +2933,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -64.33999633789062,
     "latent_y": 70.41999816894531,
     "latent_z": 43.380001068115234,
-    "duration_seconds": null
+    "duration_seconds": 113,
+    "duracion": "01:53"
   },
   {
     "id": 153,
@@ -2800,7 +2952,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -17.030000686645508,
     "latent_y": -78.47000122070312,
     "latent_z": -39.70000076293945,
-    "duration_seconds": null
+    "duration_seconds": 540,
+    "duracion": "09:00"
   },
   {
     "id": 154,
@@ -2818,7 +2971,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -33.7599983215332,
     "latent_y": 97.45999908447266,
     "latent_z": 42.81999969482422,
-    "duration_seconds": null
+    "duration_seconds": 74,
+    "duracion": "01:14"
   },
   {
     "id": 155,
@@ -2836,7 +2990,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 71.20999908447266,
     "latent_y": 38.709999084472656,
     "latent_z": -99.48999786376953,
-    "duration_seconds": null
+    "duration_seconds": 15,
+    "duracion": "00:15"
   },
   {
     "id": 156,
@@ -2854,7 +3009,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -27.280000686645508,
     "latent_y": -64.18000030517578,
     "latent_z": -58.470001220703125,
-    "duration_seconds": null
+    "duration_seconds": 568,
+    "duracion": "09:28"
   },
   {
     "id": 157,
@@ -2872,7 +3028,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -11.75,
     "latent_y": 74.7300033569336,
     "latent_z": 21.700000762939453,
-    "duration_seconds": null
+    "duration_seconds": 54,
+    "duracion": "00:54"
   },
   {
     "id": 158,
@@ -2890,7 +3047,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 16.989999771118164,
     "latent_y": 80.22000122070312,
     "latent_z": -34.439998626708984,
-    "duration_seconds": null
+    "duration_seconds": 83,
+    "duracion": "01:23"
   },
   {
     "id": 159,
@@ -2908,7 +3066,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 84.18000030517578,
     "latent_y": 33.619998931884766,
     "latent_z": -97.45999908447266,
-    "duration_seconds": null
+    "duration_seconds": 13,
+    "duracion": "00:13"
   },
   {
     "id": 160,
@@ -2927,7 +3086,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -68.48999786376953,
     "latent_y": -67.19000244140625,
     "latent_z": -6.710000038146973,
-    "duration_seconds": null
+    "duration_seconds": 168,
+    "duracion": "02:48"
   },
   {
     "id": 161,
@@ -2946,7 +3106,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 38.88999938964844,
     "latent_y": 56.9900016784668,
     "latent_z": 76.33000183105469,
-    "duration_seconds": null
+    "duration_seconds": 74,
+    "duracion": "01:14"
   },
   {
     "id": 162,
@@ -2965,7 +3126,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -43.13999938964844,
     "latent_y": 61.68000030517578,
     "latent_z": -50.630001068115234,
-    "duration_seconds": null
+    "duration_seconds": 74,
+    "duracion": "01:14"
   },
   {
     "id": 163,
@@ -2983,7 +3145,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -14.149999618530273,
     "latent_y": 103.13999938964844,
     "latent_z": 58.099998474121094,
-    "duration_seconds": null
+    "duration_seconds": 84,
+    "duracion": "01:24"
   },
   {
     "id": 164,
@@ -3002,7 +3165,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -40.439998626708984,
     "latent_y": 16.3799991607666,
     "latent_z": 43.20000076293945,
-    "duration_seconds": null
+    "duration_seconds": 43,
+    "duracion": "00:43"
   },
   {
     "id": 165,
@@ -3020,7 +3184,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -43.22999954223633,
     "latent_y": 30.479999542236328,
     "latent_z": -78.80999755859375,
-    "duration_seconds": null
+    "duration_seconds": 589,
+    "duracion": "09:49"
   },
   {
     "id": 166,
@@ -3038,7 +3203,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -77.30000305175781,
     "latent_y": 17.479999542236328,
     "latent_z": 36.9900016784668,
-    "duration_seconds": null
+    "duration_seconds": 845,
+    "duracion": "14:05"
   },
   {
     "id": 167,
@@ -3056,7 +3222,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -28.360000610351562,
     "latent_y": -120.0,
     "latent_z": -32.41999816894531,
-    "duration_seconds": null
+    "duration_seconds": 42,
+    "duracion": "00:42"
   },
   {
     "id": 168,
@@ -3074,7 +3241,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -20.06999969482422,
     "latent_y": -49.900001525878906,
     "latent_z": 81.77999877929688,
-    "duration_seconds": null
+    "duration_seconds": 1015,
+    "duracion": "16:55"
   },
   {
     "id": 169,
@@ -3092,7 +3260,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 68.44999694824219,
     "latent_y": -43.34000015258789,
     "latent_z": -72.69000244140625,
-    "duration_seconds": null
+    "duration_seconds": 678,
+    "duracion": "11:18"
   },
   {
     "id": 170,
@@ -3110,7 +3279,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 48.45000076293945,
     "latent_y": -49.77000045776367,
     "latent_z": -100.58000183105469,
-    "duration_seconds": null
+    "duration_seconds": 190,
+    "duracion": "03:10"
   },
   {
     "id": 171,
@@ -3128,7 +3298,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -88.91000366210938,
     "latent_y": -6.449999809265137,
     "latent_z": -103.9800033569336,
-    "duration_seconds": null
+    "duration_seconds": 1187,
+    "duracion": "19:47"
   },
   {
     "id": 172,
@@ -3146,7 +3317,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -115.16999816894531,
     "latent_y": 7.400000095367432,
     "latent_z": 63.93000030517578,
-    "duration_seconds": null
+    "duration_seconds": 140,
+    "duracion": "02:20"
   },
   {
     "id": 173,
@@ -3164,7 +3336,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -73.41999816894531,
     "latent_y": 0.3799999952316284,
     "latent_z": 59.33000183105469,
-    "duration_seconds": null
+    "duration_seconds": 142,
+    "duracion": "02:22"
   },
   {
     "id": 174,
@@ -3182,7 +3355,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -12.449999809265137,
     "latent_y": 99.02999877929688,
     "latent_z": 27.75,
-    "duration_seconds": null
+    "duration_seconds": 191,
+    "duracion": "03:11"
   },
   {
     "id": 175,
@@ -3200,7 +3374,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 18.850000381469727,
     "latent_y": 78.66999816894531,
     "latent_z": -7.519999980926514,
-    "duration_seconds": null
+    "duration_seconds": 45,
+    "duracion": "00:45"
   },
   {
     "id": 176,
@@ -3219,7 +3394,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -87.2300033569336,
     "latent_y": 20.209999084472656,
     "latent_z": 71.75,
-    "duration_seconds": null
+    "duration_seconds": 2393,
+    "duracion": "39:53"
   },
   {
     "id": 177,
@@ -3239,7 +3415,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 14.470000267028809,
     "latent_y": 84.75,
     "latent_z": 65.13999938964844,
-    "duration_seconds": null
+    "duration_seconds": 76,
+    "duracion": "01:16"
   },
   {
     "id": 178,
@@ -3257,7 +3434,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -25.860000610351562,
     "latent_y": -91.87000274658203,
     "latent_z": -63.310001373291016,
-    "duration_seconds": null
+    "duration_seconds": 278,
+    "duracion": "04:38"
   },
   {
     "id": 179,
@@ -3276,7 +3454,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -30.420000076293945,
     "latent_y": 13.399999618530273,
     "latent_z": -64.5,
-    "duration_seconds": null
+    "duration_seconds": 77,
+    "duracion": "01:17"
   },
   {
     "id": 180,
@@ -3295,7 +3474,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -91.41999816894531,
     "latent_y": -27.040000915527344,
     "latent_z": -10.289999961853027,
-    "duration_seconds": null
+    "duration_seconds": 394,
+    "duracion": "06:34"
   },
   {
     "id": 181,
@@ -3313,7 +3493,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -97.05999755859375,
     "latent_y": -31.559999465942383,
     "latent_z": 73.94999694824219,
-    "duration_seconds": null
+    "duration_seconds": 131,
+    "duracion": "02:11"
   },
   {
     "id": 182,
@@ -3332,7 +3513,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 63.650001525878906,
     "latent_y": -9.640000343322754,
     "latent_z": 93.56999969482422,
-    "duration_seconds": null
+    "duration_seconds": 10868,
+    "duracion": "03:01:08"
   },
   {
     "id": 183,
@@ -3350,7 +3532,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -70.5,
     "latent_y": -1.3899999856948853,
     "latent_z": -71.7300033569336,
-    "duration_seconds": null
+    "duration_seconds": 46,
+    "duracion": "00:46"
   },
   {
     "id": 184,
@@ -3368,7 +3551,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 102.73999786376953,
     "latent_y": -0.38999998569488525,
     "latent_z": -59.54999923706055,
-    "duration_seconds": null
+    "duration_seconds": 74,
+    "duracion": "01:14"
   },
   {
     "id": 185,
@@ -3386,7 +3570,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 14.720000267028809,
     "latent_y": -65.23999786376953,
     "latent_z": -35.20000076293945,
-    "duration_seconds": null
+    "duration_seconds": 180,
+    "duracion": "03:00"
   },
   {
     "id": 186,
@@ -3404,7 +3589,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -12.850000381469727,
     "latent_y": -23.459999084472656,
     "latent_z": 76.91999816894531,
-    "duration_seconds": null
+    "duration_seconds": 943,
+    "duracion": "15:43"
   },
   {
     "id": 187,
@@ -3422,7 +3608,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 14.819999694824219,
     "latent_y": -1.6200000047683716,
     "latent_z": -99.62999725341797,
-    "duration_seconds": null
+    "duration_seconds": 88,
+    "duracion": "01:28"
   },
   {
     "id": 188,
@@ -3440,7 +3627,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 98.02999877929688,
     "latent_y": -34.029998779296875,
     "latent_z": -1.659999966621399,
-    "duration_seconds": null
+    "duration_seconds": 2722,
+    "duracion": "45:22"
   },
   {
     "id": 189,
@@ -3458,7 +3646,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -35.97999954223633,
     "latent_y": -31.31999969482422,
     "latent_z": 64.18000030517578,
-    "duration_seconds": null
+    "duration_seconds": 1612,
+    "duracion": "26:52"
   },
   {
     "id": 190,
@@ -3476,7 +3665,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -112.87000274658203,
     "latent_y": -35.119998931884766,
     "latent_z": 52.45000076293945,
-    "duration_seconds": null
+    "duration_seconds": 25,
+    "duracion": "00:25"
   },
   {
     "id": 191,
@@ -3495,7 +3685,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -2.7799999713897705,
     "latent_y": -107.4000015258789,
     "latent_z": 16.950000762939453,
-    "duration_seconds": null
+    "duration_seconds": 556,
+    "duracion": "09:16"
   },
   {
     "id": 192,
@@ -3513,7 +3704,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -58.150001525878906,
     "latent_y": 92.83000183105469,
     "latent_z": 57.72999954223633,
-    "duration_seconds": null
+    "duration_seconds": 126,
+    "duracion": "02:06"
   },
   {
     "id": 193,
@@ -3532,7 +3724,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -98.5,
     "latent_y": -45.849998474121094,
     "latent_z": -13.630000114440918,
-    "duration_seconds": null
+    "duration_seconds": 168,
+    "duracion": "02:48"
   },
   {
     "id": 194,
@@ -3550,7 +3743,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 1.3600000143051147,
     "latent_y": -94.2300033569336,
     "latent_z": 34.7400016784668,
-    "duration_seconds": null
+    "duration_seconds": 32,
+    "duracion": "00:32"
   },
   {
     "id": 195,
@@ -3570,7 +3764,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 18.030000686645508,
     "latent_y": 87.41999816894531,
     "latent_z": 49.099998474121094,
-    "duration_seconds": null
+    "duration_seconds": 202,
+    "duracion": "03:22"
   },
   {
     "id": 196,
@@ -3589,7 +3784,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -28.469999313354492,
     "latent_y": 6.119999885559082,
     "latent_z": 6.96999979019165,
-    "duration_seconds": null
+    "duration_seconds": 15,
+    "duracion": "00:15"
   },
   {
     "id": 197,
@@ -3607,7 +3803,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -12.470000267028809,
     "latent_y": 16.469999313354492,
     "latent_z": 49.18000030517578,
-    "duration_seconds": null
+    "duration_seconds": 104,
+    "duracion": "01:44"
   },
   {
     "id": 198,
@@ -3626,7 +3823,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 8.630000114440918,
     "latent_y": 29.299999237060547,
     "latent_z": 21.829999923706055,
-    "duration_seconds": null
+    "duration_seconds": 107,
+    "duracion": "01:47"
   },
   {
     "id": 199,
@@ -3644,7 +3842,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -64.22000122070312,
     "latent_y": -17.520000457763672,
     "latent_z": -84.69000244140625,
-    "duration_seconds": null
+    "duration_seconds": 304,
+    "duracion": "05:04"
   },
   {
     "id": 200,
@@ -3663,7 +3862,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -118.54000091552734,
     "latent_y": -43.130001068115234,
     "latent_z": -21.809999465942383,
-    "duration_seconds": null
+    "duration_seconds": 35,
+    "duracion": "00:35"
   },
   {
     "id": 201,
@@ -3681,7 +3881,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 52.0,
     "latent_y": -99.98999786376953,
     "latent_z": -30.8700008392334,
-    "duration_seconds": null
+    "duration_seconds": 70,
+    "duracion": "01:10"
   },
   {
     "id": 202,
@@ -3699,7 +3900,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 18.850000381469727,
     "latent_y": 78.66999816894531,
     "latent_z": -7.519999980926514,
-    "duration_seconds": null
+    "duration_seconds": 98,
+    "duracion": "01:38"
   },
   {
     "id": 203,
@@ -3717,7 +3919,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -69.7300033569336,
     "latent_y": -0.25,
     "latent_z": -96.80999755859375,
-    "duration_seconds": null
+    "duration_seconds": 326,
+    "duracion": "05:26"
   },
   {
     "id": 204,
@@ -3735,7 +3938,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 120.0,
     "latent_y": -6.300000190734863,
     "latent_z": -16.280000686645508,
-    "duration_seconds": null
+    "duration_seconds": 976,
+    "duracion": "16:16"
   },
   {
     "id": 205,
@@ -3754,7 +3958,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 67.9800033569336,
     "latent_y": 3.140000104904175,
     "latent_z": 86.13999938964844,
-    "duration_seconds": null
+    "duration_seconds": 5434,
+    "duracion": "01:30:34"
   },
   {
     "id": 206,
@@ -3772,7 +3977,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -7.429999828338623,
     "latent_y": -39.5,
     "latent_z": 54.47999954223633,
-    "duration_seconds": null
+    "duration_seconds": 1229,
+    "duracion": "20:29"
   },
   {
     "id": 207,
@@ -3790,7 +3996,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -25.860000610351562,
     "latent_y": -91.87000274658203,
     "latent_z": -63.310001373291016,
-    "duration_seconds": null
+    "duration_seconds": 296,
+    "duracion": "04:56"
   },
   {
     "id": 208,
@@ -3808,7 +4015,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 5.050000190734863,
     "latent_y": -7.039999961853027,
     "latent_z": -26.309999465942383,
-    "duration_seconds": null
+    "duration_seconds": 430,
+    "duracion": "07:10"
   },
   {
     "id": 209,
@@ -3827,7 +4035,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -80.30999755859375,
     "latent_y": -51.0,
     "latent_z": -59.5099983215332,
-    "duration_seconds": null
+    "duration_seconds": 30,
+    "duracion": "00:30"
   },
   {
     "id": 210,
@@ -3845,7 +4054,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -32.95000076293945,
     "latent_y": 80.62999725341797,
     "latent_z": 26.549999237060547,
-    "duration_seconds": null
+    "duration_seconds": 75,
+    "duracion": "01:15"
   },
   {
     "id": 211,
@@ -3864,7 +4074,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -60.310001373291016,
     "latent_y": -13.479999542236328,
     "latent_z": -35.880001068115234,
-    "duration_seconds": null
+    "duration_seconds": 82,
+    "duracion": "01:22"
   },
   {
     "id": 212,
@@ -3882,7 +4093,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -33.59000015258789,
     "latent_y": 45.04999923706055,
     "latent_z": -37.90999984741211,
-    "duration_seconds": null
+    "duration_seconds": 659,
+    "duracion": "10:59"
   },
   {
     "id": 213,
@@ -3900,7 +4112,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 32.65999984741211,
     "latent_y": -70.18000030517578,
     "latent_z": -11.470000267028809,
-    "duration_seconds": null
+    "duration_seconds": 24,
+    "duracion": "00:24"
   },
   {
     "id": 214,
@@ -3918,7 +4131,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 16.219999313354492,
     "latent_y": -38.189998626708984,
     "latent_z": -37.15999984741211,
-    "duration_seconds": null
+    "duration_seconds": 1007,
+    "duracion": "16:47"
   },
   {
     "id": 215,
@@ -3937,7 +4151,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -20.440000534057617,
     "latent_y": -95.97000122070312,
     "latent_z": 34.52000045776367,
-    "duration_seconds": null
+    "duration_seconds": 194,
+    "duracion": "03:14"
   },
   {
     "id": 216,
@@ -3955,7 +4170,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 87.06999969482422,
     "latent_y": -17.280000686645508,
     "latent_z": -30.299999237060547,
-    "duration_seconds": null
+    "duration_seconds": 98,
+    "duracion": "01:38"
   },
   {
     "id": 217,
@@ -3973,7 +4189,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -79.48999786376953,
     "latent_y": -39.5099983215332,
     "latent_z": 57.130001068115234,
-    "duration_seconds": null
+    "duration_seconds": 104,
+    "duracion": "01:44"
   },
   {
     "id": 218,
@@ -3991,7 +4208,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 27.0,
     "latent_y": -8.15999984741211,
     "latent_z": 40.40999984741211,
-    "duration_seconds": null
+    "duration_seconds": 42,
+    "duracion": "00:42"
   },
   {
     "id": 219,
@@ -4009,7 +4227,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -93.23999786376953,
     "latent_y": -3.440000057220459,
     "latent_z": 58.290000915527344,
-    "duration_seconds": null
+    "duration_seconds": 341,
+    "duracion": "05:41"
   },
   {
     "id": 220,
@@ -4028,7 +4247,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -98.44000244140625,
     "latent_y": -34.349998474121094,
     "latent_z": 9.800000190734863,
-    "duration_seconds": null
+    "duration_seconds": 10,
+    "duracion": "00:10"
   },
   {
     "id": 221,
@@ -4046,7 +4266,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 7.21999979019165,
     "latent_y": -21.979999542236328,
     "latent_z": 65.06999969482422,
-    "duration_seconds": null
+    "duration_seconds": 1317,
+    "duracion": "21:57"
   },
   {
     "id": 222,
@@ -4064,7 +4285,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -38.290000915527344,
     "latent_y": 23.190000534057617,
     "latent_z": -41.63999938964844,
-    "duration_seconds": null
+    "duration_seconds": 56,
+    "duracion": "00:56"
   },
   {
     "id": 223,
@@ -4082,7 +4304,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -86.62000274658203,
     "latent_y": 4.119999885559082,
     "latent_z": -84.87999725341797,
-    "duration_seconds": null
+    "duration_seconds": 113,
+    "duracion": "01:53"
   },
   {
     "id": 224,
@@ -4100,7 +4323,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 7.300000190734863,
     "latent_y": -84.70999908447266,
     "latent_z": 15.789999961853027,
-    "duration_seconds": null
+    "duration_seconds": 78,
+    "duracion": "01:18"
   },
   {
     "id": 225,
@@ -4118,7 +4342,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -58.150001525878906,
     "latent_y": 92.83000183105469,
     "latent_z": 57.72999954223633,
-    "duration_seconds": null
+    "duration_seconds": 44,
+    "duracion": "00:44"
   },
   {
     "id": 226,
@@ -4136,7 +4361,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 4.610000133514404,
     "latent_y": -16.459999084472656,
     "latent_z": 33.060001373291016,
-    "duration_seconds": null
+    "duration_seconds": 69,
+    "duracion": "01:09"
   },
   {
     "id": 227,
@@ -4154,7 +4380,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 4.190000057220459,
     "latent_y": 19.059999465942383,
     "latent_z": 60.4900016784668,
-    "duration_seconds": null
+    "duration_seconds": 25,
+    "duracion": "00:25"
   },
   {
     "id": 228,
@@ -4172,7 +4399,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 28.09000015258789,
     "latent_y": -18.030000686645508,
     "latent_z": 98.52999877929688,
-    "duration_seconds": null
+    "duration_seconds": 54,
+    "duracion": "00:54"
   },
   {
     "id": 229,
@@ -4190,7 +4418,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 39.709999084472656,
     "latent_y": -50.709999084472656,
     "latent_z": -17.899999618530273,
-    "duration_seconds": null
+    "duration_seconds": 349,
+    "duracion": "05:49"
   },
   {
     "id": 230,
@@ -4209,7 +4438,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 34.77000045776367,
     "latent_y": 73.54000091552734,
     "latent_z": -26.299999237060547,
-    "duration_seconds": null
+    "duration_seconds": 65,
+    "duracion": "01:05"
   },
   {
     "id": 231,
@@ -4227,7 +4457,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -24.90999984741211,
     "latent_y": 87.81999969482422,
     "latent_z": 3.490000009536743,
-    "duration_seconds": null
+    "duration_seconds": 122,
+    "duracion": "02:02"
   },
   {
     "id": 232,
@@ -4245,7 +4476,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 41.83000183105469,
     "latent_y": 51.779998779296875,
     "latent_z": -74.41000366210938,
-    "duration_seconds": null
+    "duration_seconds": 48,
+    "duracion": "00:48"
   },
   {
     "id": 233,
@@ -4263,7 +4495,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -29.610000610351562,
     "latent_y": 36.36000061035156,
     "latent_z": -60.689998626708984,
-    "duration_seconds": null
+    "duration_seconds": 51,
+    "duracion": "00:51"
   },
   {
     "id": 234,
@@ -4281,7 +4514,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 31.6299991607666,
     "latent_y": 19.760000228881836,
     "latent_z": -78.0,
-    "duration_seconds": null
+    "duration_seconds": 96,
+    "duracion": "01:36"
   },
   {
     "id": 235,
@@ -4301,7 +4535,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 77.12999725341797,
     "latent_y": 18.360000610351562,
     "latent_z": 57.40999984741211,
-    "duration_seconds": null
+    "duration_seconds": 267,
+    "duracion": "04:27"
   },
   {
     "id": 236,
@@ -4319,7 +4554,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 15.819999694824219,
     "latent_y": -41.369998931884766,
     "latent_z": -101.04000091552734,
-    "duration_seconds": null
+    "duration_seconds": 70,
+    "duracion": "01:10"
   },
   {
     "id": 237,
@@ -4338,7 +4574,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -82.37000274658203,
     "latent_y": -38.880001068115234,
     "latent_z": -29.520000457763672,
-    "duration_seconds": null
+    "duration_seconds": 141,
+    "duracion": "02:21"
   },
   {
     "id": 238,
@@ -4357,7 +4594,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -12.270000457763672,
     "latent_y": 6.570000171661377,
     "latent_z": 4.340000152587891,
-    "duration_seconds": null
+    "duration_seconds": 295,
+    "duracion": "04:55"
   },
   {
     "id": 239,
@@ -4375,7 +4613,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -16.989999771118164,
     "latent_y": 78.94000244140625,
     "latent_z": 47.290000915527344,
-    "duration_seconds": null
+    "duration_seconds": 154,
+    "duracion": "02:34"
   },
   {
     "id": 240,
@@ -4394,7 +4633,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -71.12000274658203,
     "latent_y": -26.18000030517578,
     "latent_z": -18.59000015258789,
-    "duration_seconds": null
+    "duration_seconds": 114,
+    "duracion": "01:54"
   },
   {
     "id": 241,
@@ -4413,7 +4653,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -53.029998779296875,
     "latent_y": -45.529998779296875,
     "latent_z": -20.40999984741211,
-    "duration_seconds": null
+    "duration_seconds": 297,
+    "duracion": "04:57"
   },
   {
     "id": 242,
@@ -4431,7 +4672,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -22.170000076293945,
     "latent_y": 56.59000015258789,
     "latent_z": 33.4900016784668,
-    "duration_seconds": null
+    "duration_seconds": 53,
+    "duracion": "00:53"
   },
   {
     "id": 243,
@@ -4449,7 +4691,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 104.20999908447266,
     "latent_y": -17.850000381469727,
     "latent_z": -72.02999877929688,
-    "duration_seconds": null
+    "duration_seconds": 44,
+    "duracion": "00:44"
   },
   {
     "id": 244,
@@ -4467,7 +4710,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -25.940000534057617,
     "latent_y": 120.0,
     "latent_z": 36.97999954223633,
-    "duration_seconds": null
+    "duration_seconds": 52,
+    "duracion": "00:52"
   },
   {
     "id": 245,
@@ -4486,7 +4730,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -70.91000366210938,
     "latent_y": -30.579999923706055,
     "latent_z": -51.31999969482422,
-    "duration_seconds": null
+    "duration_seconds": 45,
+    "duracion": "00:45"
   },
   {
     "id": 246,
@@ -4506,7 +4751,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 17.68000030517578,
     "latent_y": -108.62999725341797,
     "latent_z": 25.6299991607666,
-    "duration_seconds": null
+    "duration_seconds": 42,
+    "duracion": "00:42"
   },
   {
     "id": 247,
@@ -4524,7 +4770,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -102.48999786376953,
     "latent_y": 11.960000038146973,
     "latent_z": 45.95000076293945,
-    "duration_seconds": null
+    "duration_seconds": 140,
+    "duracion": "02:20"
   },
   {
     "id": 248,
@@ -4543,7 +4790,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -101.7300033569336,
     "latent_y": -24.6200008392334,
     "latent_z": -28.549999237060547,
-    "duration_seconds": null
+    "duration_seconds": 33,
+    "duracion": "00:33"
   },
   {
     "id": 249,
@@ -4562,7 +4810,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -46.4900016784668,
     "latent_y": -36.7599983215332,
     "latent_z": -37.400001525878906,
-    "duration_seconds": null
+    "duration_seconds": 95,
+    "duracion": "01:35"
   },
   {
     "id": 250,
@@ -4581,7 +4830,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -0.5699999928474426,
     "latent_y": 49.31999969482422,
     "latent_z": -79.66000366210938,
-    "duration_seconds": null
+    "duration_seconds": 312,
+    "duracion": "05:12"
   },
   {
     "id": 251,
@@ -4599,7 +4849,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -25.809999465942383,
     "latent_y": -26.530000686645508,
     "latent_z": 36.11000061035156,
-    "duration_seconds": null
+    "duration_seconds": 359,
+    "duracion": "05:59"
   },
   {
     "id": 252,
@@ -4617,7 +4868,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -38.7599983215332,
     "latent_y": -101.13999938964844,
     "latent_z": -83.80000305175781,
-    "duration_seconds": null
+    "duration_seconds": 440,
+    "duracion": "07:20"
   },
   {
     "id": 253,
@@ -4636,7 +4888,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -112.56999969482422,
     "latent_y": -7.670000076293945,
     "latent_z": -19.700000762939453,
-    "duration_seconds": null
+    "duration_seconds": 201,
+    "duracion": "03:21"
   },
   {
     "id": 254,
@@ -4654,7 +4907,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 53.529998779296875,
     "latent_y": 2.0899999141693115,
     "latent_z": -102.79000091552734,
-    "duration_seconds": null
+    "duration_seconds": 1241,
+    "duracion": "20:41"
   },
   {
     "id": 255,
@@ -4672,7 +4926,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -38.720001220703125,
     "latent_y": 53.029998779296875,
     "latent_z": -73.26000213623047,
-    "duration_seconds": null
+    "duration_seconds": 153,
+    "duracion": "02:33"
   },
   {
     "id": 256,
@@ -4690,7 +4945,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -109.16999816894531,
     "latent_y": -11.84000015258789,
     "latent_z": 69.5199966430664,
-    "duration_seconds": null
+    "duration_seconds": 33,
+    "duracion": "00:33"
   },
   {
     "id": 257,
@@ -4708,7 +4964,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 28.700000762939453,
     "latent_y": -0.8399999737739563,
     "latent_z": -11.109999656677246,
-    "duration_seconds": null
+    "duration_seconds": 26,
+    "duracion": "00:26"
   },
   {
     "id": 258,
@@ -4726,7 +4983,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -28.56999969482422,
     "latent_y": 58.790000915527344,
     "latent_z": 58.380001068115234,
-    "duration_seconds": null
+    "duration_seconds": 11,
+    "duracion": "00:11"
   },
   {
     "id": 259,
@@ -4744,7 +5002,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 87.06999969482422,
     "latent_y": -17.280000686645508,
     "latent_z": -30.299999237060547,
-    "duration_seconds": null
+    "duration_seconds": 105,
+    "duracion": "01:45"
   },
   {
     "id": 260,
@@ -4762,7 +5021,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 27.829999923706055,
     "latent_y": -15.4399995803833,
     "latent_z": -35.970001220703125,
-    "duration_seconds": null
+    "duration_seconds": 116,
+    "duracion": "01:56"
   },
   {
     "id": 261,
@@ -4780,7 +5040,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 25.290000915527344,
     "latent_y": -9.960000038146973,
     "latent_z": 68.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 319,
+    "duracion": "05:19"
   },
   {
     "id": 262,
@@ -4799,7 +5060,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -38.61000061035156,
     "latent_y": 17.90999984741211,
     "latent_z": 63.939998626708984,
-    "duration_seconds": null
+    "duration_seconds": 84,
+    "duracion": "01:24"
   },
   {
     "id": 263,
@@ -4817,7 +5079,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -65.08999633789062,
     "latent_y": 60.220001220703125,
     "latent_z": 94.5199966430664,
-    "duration_seconds": null
+    "duration_seconds": 38,
+    "duracion": "00:38"
   },
   {
     "id": 264,
@@ -4835,7 +5098,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 75.37000274658203,
     "latent_y": -55.09000015258789,
     "latent_z": -25.93000030517578,
-    "duration_seconds": null
+    "duration_seconds": 288,
+    "duracion": "04:48"
   },
   {
     "id": 265,
@@ -4853,7 +5117,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 7.260000228881836,
     "latent_y": -3.950000047683716,
     "latent_z": 54.08000183105469,
-    "duration_seconds": null
+    "duration_seconds": 356,
+    "duracion": "05:56"
   },
   {
     "id": 266,
@@ -4871,7 +5136,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 75.9000015258789,
     "latent_y": -19.600000381469727,
     "latent_z": -61.2400016784668,
-    "duration_seconds": null
+    "duration_seconds": 8,
+    "duracion": "00:08"
   },
   {
     "id": 267,
@@ -4889,7 +5155,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 50.20000076293945,
     "latent_y": -66.08999633789062,
     "latent_z": -27.799999237060547,
-    "duration_seconds": null
+    "duration_seconds": 10,
+    "duracion": "00:10"
   },
   {
     "id": 268,
@@ -4907,7 +5174,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 76.79000091552734,
     "latent_y": -76.0,
     "latent_z": -35.0,
-    "duration_seconds": null
+    "duration_seconds": 303,
+    "duracion": "05:03"
   },
   {
     "id": 269,
@@ -4925,7 +5193,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -40.310001373291016,
     "latent_y": 77.44000244140625,
     "latent_z": 50.470001220703125,
-    "duration_seconds": null
+    "duration_seconds": 324,
+    "duracion": "05:24"
   },
   {
     "id": 270,
@@ -4943,7 +5212,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 27.860000610351562,
     "latent_y": -73.69000244140625,
     "latent_z": -49.65999984741211,
-    "duration_seconds": null
+    "duration_seconds": 108,
+    "duracion": "01:48"
   },
   {
     "id": 271,
@@ -4961,7 +5231,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 20.700000762939453,
     "latent_y": -48.150001525878906,
     "latent_z": -68.31999969482422,
-    "duration_seconds": null
+    "duration_seconds": 288,
+    "duracion": "04:48"
   },
   {
     "id": 272,
@@ -4979,7 +5250,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -86.0999984741211,
     "latent_y": -17.790000915527344,
     "latent_z": -82.63999938964844,
-    "duration_seconds": null
+    "duration_seconds": 30,
+    "duracion": "00:30"
   },
   {
     "id": 273,
@@ -4998,7 +5270,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 21.760000228881836,
     "latent_y": -88.44000244140625,
     "latent_z": 34.7599983215332,
-    "duration_seconds": null
+    "duration_seconds": 181,
+    "duracion": "03:01"
   },
   {
     "id": 274,
@@ -5017,7 +5290,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -120.0,
     "latent_y": -20.290000915527344,
     "latent_z": -42.31999969482422,
-    "duration_seconds": null
+    "duration_seconds": 54,
+    "duracion": "00:54"
   },
   {
     "id": 275,
@@ -5035,7 +5309,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -29.610000610351562,
     "latent_y": 36.36000061035156,
     "latent_z": -60.689998626708984,
-    "duration_seconds": null
+    "duration_seconds": 33,
+    "duracion": "00:33"
   },
   {
     "id": 276,
@@ -5053,7 +5328,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -50.79999923706055,
     "latent_y": 39.290000915527344,
     "latent_z": -55.2400016784668,
-    "duration_seconds": null
+    "duration_seconds": 72,
+    "duracion": "01:12"
   },
   {
     "id": 277,
@@ -5071,7 +5347,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -16.989999771118164,
     "latent_y": 78.94000244140625,
     "latent_z": 47.290000915527344,
-    "duration_seconds": null
+    "duration_seconds": 19,
+    "duracion": "00:19"
   },
   {
     "id": 278,
@@ -5092,7 +5369,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -17.93000030517578,
     "latent_y": -13.850000381469727,
     "latent_z": 0.07999999821186066,
-    "duration_seconds": null
+    "duration_seconds": 160,
+    "duracion": "02:40"
   },
   {
     "id": 279,
@@ -5110,7 +5388,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 1.7599999904632568,
     "latent_y": 73.66999816894531,
     "latent_z": -20.93000030517578,
-    "duration_seconds": null
+    "duration_seconds": 44,
+    "duracion": "00:44"
   },
   {
     "id": 280,
@@ -5128,7 +5407,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -87.56999969482422,
     "latent_y": -6.019999980926514,
     "latent_z": 85.26000213623047,
-    "duration_seconds": null
+    "duration_seconds": 31,
+    "duracion": "00:31"
   },
   {
     "id": 281,
@@ -5147,7 +5427,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -112.05999755859375,
     "latent_y": 13.84000015258789,
     "latent_z": -0.15000000596046448,
-    "duration_seconds": null
+    "duration_seconds": 91,
+    "duracion": "01:31"
   },
   {
     "id": 282,
@@ -5165,7 +5446,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 68.36000061035156,
     "latent_y": -0.6299999952316284,
     "latent_z": -81.69000244140625,
-    "duration_seconds": null
+    "duration_seconds": 90,
+    "duracion": "01:30"
   },
   {
     "id": 283,
@@ -5183,7 +5465,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 64.94999694824219,
     "latent_y": -17.670000076293945,
     "latent_z": -33.66999816894531,
-    "duration_seconds": null
+    "duration_seconds": 37,
+    "duracion": "00:37"
   },
   {
     "id": 284,
@@ -5202,7 +5485,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 30.950000762939453,
     "latent_y": 62.91999816894531,
     "latent_z": 58.619998931884766,
-    "duration_seconds": null
+    "duration_seconds": 584,
+    "duracion": "09:44"
   },
   {
     "id": 285,
@@ -5221,7 +5505,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -14.710000038146973,
     "latent_y": -79.41000366210938,
     "latent_z": 24.059999465942383,
-    "duration_seconds": null
+    "duration_seconds": 45,
+    "duracion": "00:45"
   },
   {
     "id": 286,
@@ -5239,7 +5524,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 39.369998931884766,
     "latent_y": -23.010000228881836,
     "latent_z": -120.0,
-    "duration_seconds": null
+    "duration_seconds": 29,
+    "duracion": "00:29"
   },
   {
     "id": 287,
@@ -5257,7 +5543,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 28.8799991607666,
     "latent_y": 93.41999816894531,
     "latent_z": -20.899999618530273,
-    "duration_seconds": null
+    "duration_seconds": 54,
+    "duracion": "00:54"
   },
   {
     "id": 288,
@@ -5275,7 +5562,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -86.81999969482422,
     "latent_y": -5.730000019073486,
     "latent_z": 38.209999084472656,
-    "duration_seconds": null
+    "duration_seconds": 22,
+    "duracion": "00:22"
   },
   {
     "id": 289,
@@ -5293,7 +5581,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 71.93000030517578,
     "latent_y": -63.36000061035156,
     "latent_z": 22.729999542236328,
-    "duration_seconds": null
+    "duration_seconds": 28,
+    "duracion": "00:28"
   },
   {
     "id": 290,
@@ -5311,7 +5600,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 86.33999633789062,
     "latent_y": -63.650001525878906,
     "latent_z": -7.75,
-    "duration_seconds": null
+    "duration_seconds": 198,
+    "duracion": "03:18"
   },
   {
     "id": 291,
@@ -5329,7 +5619,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 95.44999694824219,
     "latent_y": -55.369998931884766,
     "latent_z": -37.060001373291016,
-    "duration_seconds": null
+    "duration_seconds": 537,
+    "duracion": "08:57"
   },
   {
     "id": 292,
@@ -5347,7 +5638,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": -69.29000091552734,
     "latent_y": -19.510000228881836,
     "latent_z": 44.77000045776367,
-    "duration_seconds": null
+    "duration_seconds": 25,
+    "duracion": "00:25"
   },
   {
     "id": 293,
@@ -5365,7 +5657,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 39.099998474121094,
     "latent_y": -29.440000534057617,
     "latent_z": -27.68000030517578,
-    "duration_seconds": null
+    "duration_seconds": 91,
+    "duracion": "01:31"
   },
   {
     "id": 294,
@@ -5383,7 +5676,8 @@ const MADMAPPER_TUTORIALS_DATA = [
     "latent_x": 54.93000030517578,
     "latent_y": -26.81999969482422,
     "latent_z": -50.95000076293945,
-    "duration_seconds": null
+    "duration_seconds": 5179,
+    "duracion": "01:26:19"
   }
 ];
 window.MADMAPPER_DATA = MADMAPPER_TUTORIALS_DATA;

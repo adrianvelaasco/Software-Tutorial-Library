@@ -16,7 +16,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -37.9900016784668,
     "latent_y": 61.22999954223633,
     "latent_z": 75.29000091552734,
-    "duration_seconds": null
+    "duration_seconds": 746,
+    "duracion": "12:26"
   },
   {
     "id": 2,
@@ -35,7 +36,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -27.31999969482422,
     "latent_y": 84.7300033569336,
     "latent_z": 89.55999755859375,
-    "duration_seconds": null
+    "duration_seconds": 2076,
+    "duracion": "34:36"
   },
   {
     "id": 3,
@@ -53,7 +55,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 21.049999237060547,
     "latent_y": 35.15999984741211,
     "latent_z": -4.630000114440918,
-    "duration_seconds": null
+    "duration_seconds": 2441,
+    "duracion": "40:41"
   },
   {
     "id": 4,
@@ -71,7 +74,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 20.530000686645508,
     "latent_y": 63.560001373291016,
     "latent_z": -35.369998931884766,
-    "duration_seconds": null
+    "duration_seconds": 18655,
+    "duracion": "05:10:55"
   },
   {
     "id": 5,
@@ -89,7 +93,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 84.44000244140625,
     "latent_y": 50.529998779296875,
     "latent_z": 13.739999771118164,
-    "duration_seconds": null
+    "duration_seconds": 371,
+    "duracion": "06:11"
   },
   {
     "id": 6,
@@ -107,7 +112,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -8.0600004196167,
     "latent_y": -62.970001220703125,
     "latent_z": -12.460000038146973,
-    "duration_seconds": null
+    "duration_seconds": 1062,
+    "duracion": "17:42"
   },
   {
     "id": 7,
@@ -125,7 +131,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -68.81999969482422,
     "latent_y": 79.1500015258789,
     "latent_z": 0.6499999761581421,
-    "duration_seconds": null
+    "duration_seconds": 1948,
+    "duracion": "32:28"
   },
   {
     "id": 8,
@@ -143,7 +150,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 15.680000305175781,
     "latent_y": 24.469999313354492,
     "latent_z": -22.59000015258789,
-    "duration_seconds": null
+    "duration_seconds": 2072,
+    "duracion": "34:32"
   },
   {
     "id": 9,
@@ -161,7 +169,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 108.51000213623047,
     "latent_y": 9.970000267028809,
     "latent_z": -3.4200000762939453,
-    "duration_seconds": null
+    "duration_seconds": 484,
+    "duracion": "08:04"
   },
   {
     "id": 10,
@@ -179,7 +188,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 36.56999969482422,
     "latent_y": 35.959999084472656,
     "latent_z": -10.739999771118164,
-    "duration_seconds": null
+    "duration_seconds": 6150,
+    "duracion": "01:42:30"
   },
   {
     "id": 11,
@@ -197,7 +207,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -15.079999923706055,
     "latent_y": -60.52000045776367,
     "latent_z": -32.91999816894531,
-    "duration_seconds": null
+    "duration_seconds": 6991,
+    "duracion": "01:56:31"
   },
   {
     "id": 12,
@@ -215,7 +226,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 112.61000061035156,
     "latent_y": -6.579999923706055,
     "latent_z": -3.819999933242798,
-    "duration_seconds": null
+    "duration_seconds": 399,
+    "duracion": "06:39"
   },
   {
     "id": 13,
@@ -233,7 +245,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -44.88999938964844,
     "latent_y": -46.619998931884766,
     "latent_z": -18.799999237060547,
-    "duration_seconds": null
+    "duration_seconds": 454,
+    "duracion": "07:34"
   },
   {
     "id": 14,
@@ -251,7 +264,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 21.59000015258789,
     "latent_y": 78.48999786376953,
     "latent_z": 2.690000057220459,
-    "duration_seconds": null
+    "duration_seconds": 965,
+    "duracion": "16:05"
   },
   {
     "id": 15,
@@ -269,7 +283,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -36.15999984741211,
     "latent_y": -87.87000274658203,
     "latent_z": -14.350000381469727,
-    "duration_seconds": null
+    "duration_seconds": 732,
+    "duracion": "12:12"
   },
   {
     "id": 16,
@@ -287,7 +302,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 5.260000228881836,
     "latent_y": 36.439998626708984,
     "latent_z": -14.649999618530273,
-    "duration_seconds": null
+    "duration_seconds": 2252,
+    "duracion": "37:32"
   },
   {
     "id": 17,
@@ -305,7 +321,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 83.58999633789062,
     "latent_y": 81.58999633789062,
     "latent_z": -18.770000457763672,
-    "duration_seconds": null
+    "duration_seconds": 73,
+    "duracion": "01:13"
   },
   {
     "id": 18,
@@ -323,7 +340,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 9.710000038146973,
     "latent_y": 62.27000045776367,
     "latent_z": 38.95000076293945,
-    "duration_seconds": null
+    "duration_seconds": 2112,
+    "duracion": "35:12"
   },
   {
     "id": 19,
@@ -342,7 +360,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -20.049999237060547,
     "latent_y": 77.36000061035156,
     "latent_z": 100.29000091552734,
-    "duration_seconds": null
+    "duration_seconds": 1462,
+    "duracion": "24:22"
   },
   {
     "id": 20,
@@ -360,7 +379,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -26.290000915527344,
     "latent_y": -7.269999980926514,
     "latent_z": -111.68000030517578,
-    "duration_seconds": null
+    "duration_seconds": 1000,
+    "duracion": "16:40"
   },
   {
     "id": 21,
@@ -378,7 +398,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 4.650000095367432,
     "latent_y": 3.5299999713897705,
     "latent_z": -15.729999542236328,
-    "duration_seconds": null
+    "duration_seconds": 2797,
+    "duracion": "46:37"
   },
   {
     "id": 22,
@@ -396,7 +417,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -19.010000228881836,
     "latent_y": 29.459999084472656,
     "latent_z": -41.369998931884766,
-    "duration_seconds": null
+    "duration_seconds": 594,
+    "duracion": "09:54"
   },
   {
     "id": 23,
@@ -414,7 +436,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -28.239999771118164,
     "latent_y": -117.98999786376953,
     "latent_z": -11.720000267028809,
-    "duration_seconds": null
+    "duration_seconds": 543,
+    "duracion": "09:03"
   },
   {
     "id": 24,
@@ -432,7 +455,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -97.29000091552734,
     "latent_y": -29.18000030517578,
     "latent_z": -3.950000047683716,
-    "duration_seconds": null
+    "duration_seconds": 1203,
+    "duracion": "20:03"
   },
   {
     "id": 25,
@@ -450,7 +474,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 20.5,
     "latent_y": 4.409999847412109,
     "latent_z": -52.45000076293945,
-    "duration_seconds": null
+    "duration_seconds": 1159,
+    "duracion": "19:19"
   },
   {
     "id": 26,
@@ -469,7 +494,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 42.0,
     "latent_y": -87.45999908447266,
     "latent_z": -25.65999984741211,
-    "duration_seconds": null
+    "duration_seconds": 1343,
+    "duracion": "22:23"
   },
   {
     "id": 27,
@@ -488,7 +514,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -9.649999618530273,
     "latent_y": 57.150001525878906,
     "latent_z": 100.80000305175781,
-    "duration_seconds": null
+    "duration_seconds": 1589,
+    "duracion": "26:29"
   },
   {
     "id": 28,
@@ -506,7 +533,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -35.5099983215332,
     "latent_y": -70.16999816894531,
     "latent_z": -24.059999465942383,
-    "duration_seconds": null
+    "duration_seconds": 803,
+    "duracion": "13:23"
   },
   {
     "id": 29,
@@ -524,7 +552,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -49.540000915527344,
     "latent_y": 82.0199966430664,
     "latent_z": 11.289999961853027,
-    "duration_seconds": null
+    "duration_seconds": 14144,
+    "duracion": "03:55:44"
   },
   {
     "id": 30,
@@ -542,7 +571,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 8.390000343322754,
     "latent_y": 48.290000915527344,
     "latent_z": -23.260000228881836,
-    "duration_seconds": null
+    "duration_seconds": 1718,
+    "duracion": "28:38"
   },
   {
     "id": 31,
@@ -561,7 +591,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -21.030000686645508,
     "latent_y": -15.199999809265137,
     "latent_z": 117.6500015258789,
-    "duration_seconds": null
+    "duration_seconds": 614,
+    "duracion": "10:14"
   },
   {
     "id": 32,
@@ -579,7 +610,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -32.65999984741211,
     "latent_y": -89.86000061035156,
     "latent_z": 1.100000023841858,
-    "duration_seconds": null
+    "duration_seconds": 720,
+    "duracion": "12:00"
   },
   {
     "id": 33,
@@ -598,7 +630,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -73.25,
     "latent_y": -2.7799999713897705,
     "latent_z": -4.630000114440918,
-    "duration_seconds": null
+    "duration_seconds": 104,
+    "duracion": "01:44"
   },
   {
     "id": 34,
@@ -616,7 +649,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 35.33000183105469,
     "latent_y": 20.93000030517578,
     "latent_z": 1.1699999570846558,
-    "duration_seconds": null
+    "duration_seconds": 3043,
+    "duracion": "50:43"
   },
   {
     "id": 35,
@@ -634,7 +668,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -35.02000045776367,
     "latent_y": -85.94000244140625,
     "latent_z": -31.25,
-    "duration_seconds": null
+    "duration_seconds": 1655,
+    "duracion": "27:35"
   },
   {
     "id": 36,
@@ -652,7 +687,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -36.08000183105469,
     "latent_y": -26.670000076293945,
     "latent_z": 49.29999923706055,
-    "duration_seconds": null
+    "duration_seconds": 975,
+    "duracion": "16:15"
   },
   {
     "id": 37,
@@ -670,7 +706,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 59.900001525878906,
     "latent_y": 1.6200000047683716,
     "latent_z": 24.290000915527344,
-    "duration_seconds": null
+    "duration_seconds": 759,
+    "duracion": "12:39"
   },
   {
     "id": 38,
@@ -688,7 +725,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -32.599998474121094,
     "latent_y": -101.30999755859375,
     "latent_z": -25.399999618530273,
-    "duration_seconds": null
+    "duration_seconds": 952,
+    "duracion": "15:52"
   },
   {
     "id": 39,
@@ -706,7 +744,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 45.869998931884766,
     "latent_y": 46.470001220703125,
     "latent_z": 6.610000133514404,
-    "duration_seconds": null
+    "duration_seconds": 791,
+    "duracion": "13:11"
   },
   {
     "id": 40,
@@ -724,7 +763,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 64.54000091552734,
     "latent_y": 45.63999938964844,
     "latent_z": 7.510000228881836,
-    "duration_seconds": null
+    "duration_seconds": 352,
+    "duracion": "05:52"
   },
   {
     "id": 41,
@@ -742,7 +782,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 1.590000033378601,
     "latent_y": 14.350000381469727,
     "latent_z": 12.819999694824219,
-    "duration_seconds": null
+    "duration_seconds": 1415,
+    "duracion": "23:35"
   },
   {
     "id": 42,
@@ -760,7 +801,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -40.52000045776367,
     "latent_y": -71.37000274658203,
     "latent_z": -5.78000020980835,
-    "duration_seconds": null
+    "duration_seconds": 729,
+    "duracion": "12:09"
   },
   {
     "id": 43,
@@ -778,7 +820,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -108.52999877929688,
     "latent_y": -21.520000457763672,
     "latent_z": 7.539999961853027,
-    "duration_seconds": null
+    "duration_seconds": 365,
+    "duracion": "06:05"
   },
   {
     "id": 44,
@@ -796,7 +839,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -5.170000076293945,
     "latent_y": 7.650000095367432,
     "latent_z": -44.52000045776367,
-    "duration_seconds": null
+    "duration_seconds": 672,
+    "duracion": "11:12"
   },
   {
     "id": 45,
@@ -814,7 +858,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -42.08000183105469,
     "latent_y": 79.70999908447266,
     "latent_z": -6.960000038146973,
-    "duration_seconds": null
+    "duration_seconds": 6680,
+    "duracion": "01:51:20"
   },
   {
     "id": 46,
@@ -832,7 +877,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -76.95999908447266,
     "latent_y": -28.1299991607666,
     "latent_z": -3.9000000953674316,
-    "duration_seconds": null
+    "duration_seconds": 909,
+    "duracion": "15:09"
   },
   {
     "id": 47,
@@ -851,7 +897,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -26.239999771118164,
     "latent_y": 73.48999786376953,
     "latent_z": 79.9000015258789,
-    "duration_seconds": null
+    "duration_seconds": 2347,
+    "duracion": "39:07"
   },
   {
     "id": 48,
@@ -869,7 +916,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 16.760000228881836,
     "latent_y": 30.350000381469727,
     "latent_z": 16.459999084472656,
-    "duration_seconds": null
+    "duration_seconds": 2065,
+    "duracion": "34:25"
   },
   {
     "id": 49,
@@ -887,7 +935,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -85.68000030517578,
     "latent_y": -19.3799991607666,
     "latent_z": -17.719999313354492,
-    "duration_seconds": null
+    "duration_seconds": 394,
+    "duracion": "06:34"
   },
   {
     "id": 50,
@@ -905,7 +954,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -28.850000381469727,
     "latent_y": 39.060001373291016,
     "latent_z": -14.289999961853027,
-    "duration_seconds": null
+    "duration_seconds": 1311,
+    "duracion": "21:51"
   },
   {
     "id": 51,
@@ -923,7 +973,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 57.40999984741211,
     "latent_y": -50.439998626708984,
     "latent_z": -2.2200000286102295,
-    "duration_seconds": null
+    "duration_seconds": 70,
+    "duracion": "01:10"
   },
   {
     "id": 52,
@@ -941,7 +992,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 105.3499984741211,
     "latent_y": 43.959999084472656,
     "latent_z": 9.579999923706055,
-    "duration_seconds": null
+    "duration_seconds": 482,
+    "duracion": "08:02"
   },
   {
     "id": 53,
@@ -959,7 +1011,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -37.97999954223633,
     "latent_y": 99.16999816894531,
     "latent_z": 9.640000343322754,
-    "duration_seconds": null
+    "duration_seconds": 291,
+    "duracion": "04:51"
   },
   {
     "id": 54,
@@ -977,7 +1030,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 47.939998626708984,
     "latent_y": -20.219999313354492,
     "latent_z": -23.15999984741211,
-    "duration_seconds": null
+    "duration_seconds": 817,
+    "duracion": "13:37"
   },
   {
     "id": 55,
@@ -995,7 +1049,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 72.69000244140625,
     "latent_y": 56.59000015258789,
     "latent_z": -17.530000686645508,
-    "duration_seconds": null
+    "duration_seconds": 491,
+    "duracion": "08:11"
   },
   {
     "id": 56,
@@ -1013,7 +1068,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -50.099998474121094,
     "latent_y": 29.3799991607666,
     "latent_z": -85.02999877929688,
-    "duration_seconds": null
+    "duration_seconds": 884,
+    "duracion": "14:44"
   },
   {
     "id": 57,
@@ -1032,7 +1088,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 31.31999969482422,
     "latent_y": -106.33000183105469,
     "latent_z": -18.790000915527344,
-    "duration_seconds": null
+    "duration_seconds": 419,
+    "duracion": "06:59"
   },
   {
     "id": 58,
@@ -1050,7 +1107,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 59.619998931884766,
     "latent_y": 29.270000457763672,
     "latent_z": 61.66999816894531,
-    "duration_seconds": null
+    "duration_seconds": 1020,
+    "duracion": "17:00"
   },
   {
     "id": 59,
@@ -1069,7 +1127,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -20.719999313354492,
     "latent_y": 58.7400016784668,
     "latent_z": 70.23999786376953,
-    "duration_seconds": null
+    "duration_seconds": 5255,
+    "duracion": "01:27:35"
   },
   {
     "id": 60,
@@ -1088,7 +1147,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -55.2400016784668,
     "latent_y": 88.18000030517578,
     "latent_z": -30.579999923706055,
-    "duration_seconds": null
+    "duration_seconds": 885,
+    "duracion": "14:45"
   },
   {
     "id": 61,
@@ -1106,7 +1166,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -43.529998779296875,
     "latent_y": -64.20999908447266,
     "latent_z": 83.0,
-    "duration_seconds": null
+    "duration_seconds": 1515,
+    "duracion": "25:15"
   },
   {
     "id": 62,
@@ -1125,7 +1186,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -54.029998779296875,
     "latent_y": 80.70999908447266,
     "latent_z": -56.349998474121094,
-    "duration_seconds": null
+    "duration_seconds": 718,
+    "duracion": "11:58"
   },
   {
     "id": 63,
@@ -1143,7 +1205,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -5.260000228881836,
     "latent_y": 31.190000534057617,
     "latent_z": -24.59000015258789,
-    "duration_seconds": null
+    "duration_seconds": 5271,
+    "duracion": "01:27:51"
   },
   {
     "id": 64,
@@ -1162,7 +1225,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -15.569999694824219,
     "latent_y": -63.08000183105469,
     "latent_z": 80.0999984741211,
-    "duration_seconds": null
+    "duration_seconds": 1967,
+    "duracion": "32:47"
   },
   {
     "id": 65,
@@ -1180,7 +1244,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -49.47999954223633,
     "latent_y": 91.62999725341797,
     "latent_z": 29.75,
-    "duration_seconds": null
+    "duration_seconds": 48,
+    "duracion": "00:48"
   },
   {
     "id": 66,
@@ -1198,7 +1263,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 0.6000000238418579,
     "latent_y": -7.039999961853027,
     "latent_z": 6.75,
-    "duration_seconds": null
+    "duration_seconds": 424,
+    "duracion": "07:04"
   },
   {
     "id": 67,
@@ -1216,7 +1282,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -115.61000061035156,
     "latent_y": -34.7599983215332,
     "latent_z": -3.859999895095825,
-    "duration_seconds": null
+    "duration_seconds": 761,
+    "duracion": "12:41"
   },
   {
     "id": 68,
@@ -1234,7 +1301,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 45.13999938964844,
     "latent_y": 44.34000015258789,
     "latent_z": 55.709999084472656,
-    "duration_seconds": null
+    "duration_seconds": 40,
+    "duracion": "00:40"
   },
   {
     "id": 69,
@@ -1252,7 +1320,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -31.639999389648438,
     "latent_y": -19.530000686645508,
     "latent_z": 81.19000244140625,
-    "duration_seconds": null
+    "duration_seconds": 1589,
+    "duracion": "26:29"
   },
   {
     "id": 70,
@@ -1270,7 +1339,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -1.9700000286102295,
     "latent_y": -84.12999725341797,
     "latent_z": 55.779998779296875,
-    "duration_seconds": null
+    "duration_seconds": 581,
+    "duracion": "09:41"
   },
   {
     "id": 71,
@@ -1288,7 +1358,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -2.0999999046325684,
     "latent_y": 97.91000366210938,
     "latent_z": -25.350000381469727,
-    "duration_seconds": null
+    "duration_seconds": 995,
+    "duracion": "16:35"
   },
   {
     "id": 72,
@@ -1306,7 +1377,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -69.61000061035156,
     "latent_y": 108.23999786376953,
     "latent_z": 22.06999969482422,
-    "duration_seconds": null
+    "duration_seconds": 1973,
+    "duracion": "32:53"
   },
   {
     "id": 73,
@@ -1324,7 +1396,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -23.149999618530273,
     "latent_y": -65.20999908447266,
     "latent_z": -52.279998779296875,
-    "duration_seconds": null
+    "duration_seconds": 347,
+    "duracion": "05:47"
   },
   {
     "id": 74,
@@ -1342,7 +1415,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 49.31999969482422,
     "latent_y": 1.8899999856948853,
     "latent_z": 57.880001068115234,
-    "duration_seconds": null
+    "duration_seconds": 597,
+    "duracion": "09:57"
   },
   {
     "id": 75,
@@ -1360,7 +1434,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -37.720001220703125,
     "latent_y": 59.81999969482422,
     "latent_z": 11.369999885559082,
-    "duration_seconds": null
+    "duration_seconds": 888,
+    "duracion": "14:48"
   },
   {
     "id": 76,
@@ -1378,7 +1453,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -97.29000091552734,
     "latent_y": 62.029998779296875,
     "latent_z": 33.93000030517578,
-    "duration_seconds": null
+    "duration_seconds": 1555,
+    "duracion": "25:55"
   },
   {
     "id": 77,
@@ -1396,7 +1472,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -54.130001068115234,
     "latent_y": -85.2699966430664,
     "latent_z": -6.869999885559082,
-    "duration_seconds": null
+    "duration_seconds": 1409,
+    "duracion": "23:29"
   },
   {
     "id": 78,
@@ -1415,7 +1492,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 1.4800000190734863,
     "latent_y": 89.18000030517578,
     "latent_z": 76.48999786376953,
-    "duration_seconds": null
+    "duration_seconds": 1772,
+    "duracion": "29:32"
   },
   {
     "id": 79,
@@ -1434,7 +1512,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -7.929999828338623,
     "latent_y": -18.440000534057617,
     "latent_z": 95.30000305175781,
-    "duration_seconds": null
+    "duration_seconds": 1943,
+    "duracion": "32:23"
   },
   {
     "id": 80,
@@ -1452,7 +1531,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 66.86000061035156,
     "latent_y": 39.65999984741211,
     "latent_z": -20.8799991607666,
-    "duration_seconds": null
+    "duration_seconds": 458,
+    "duracion": "07:38"
   },
   {
     "id": 81,
@@ -1470,7 +1550,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -32.310001373291016,
     "latent_y": -112.04000091552734,
     "latent_z": -52.220001220703125,
-    "duration_seconds": null
+    "duration_seconds": 704,
+    "duracion": "11:44"
   },
   {
     "id": 82,
@@ -1488,7 +1569,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -56.900001525878906,
     "latent_y": -2.7300000190734863,
     "latent_z": 69.7300033569336,
-    "duration_seconds": null
+    "duration_seconds": 1546,
+    "duracion": "25:46"
   },
   {
     "id": 83,
@@ -1506,7 +1588,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 40.88999938964844,
     "latent_y": -45.22999954223633,
     "latent_z": 33.27000045776367,
-    "duration_seconds": null
+    "duration_seconds": 2589,
+    "duracion": "43:09"
   },
   {
     "id": 84,
@@ -1524,7 +1607,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 35.4900016784668,
     "latent_y": 94.08999633789062,
     "latent_z": 25.959999084472656,
-    "duration_seconds": null
+    "duration_seconds": 3333,
+    "duracion": "55:33"
   },
   {
     "id": 85,
@@ -1543,7 +1627,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -4.670000076293945,
     "latent_y": -0.07999999821186066,
     "latent_z": 91.6500015258789,
-    "duration_seconds": null
+    "duration_seconds": 2275,
+    "duracion": "37:55"
   },
   {
     "id": 86,
@@ -1561,7 +1646,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 91.4000015258789,
     "latent_y": 12.420000076293945,
     "latent_z": -40.2400016784668,
-    "duration_seconds": null
+    "duration_seconds": 292,
+    "duracion": "04:52"
   },
   {
     "id": 87,
@@ -1579,7 +1665,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -50.150001525878906,
     "latent_y": -16.56999969482422,
     "latent_z": 81.73999786376953,
-    "duration_seconds": null
+    "duration_seconds": 1608,
+    "duracion": "26:48"
   },
   {
     "id": 88,
@@ -1597,7 +1684,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 41.220001220703125,
     "latent_y": 10.8100004196167,
     "latent_z": -15.5600004196167,
-    "duration_seconds": null
+    "duration_seconds": 2824,
+    "duracion": "47:04"
   },
   {
     "id": 89,
@@ -1615,7 +1703,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 36.630001068115234,
     "latent_y": 98.62000274658203,
     "latent_z": 9.229999542236328,
-    "duration_seconds": null
+    "duration_seconds": 2869,
+    "duracion": "47:49"
   },
   {
     "id": 90,
@@ -1633,7 +1722,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 65.37999725341797,
     "latent_y": -28.309999465942383,
     "latent_z": -15.359999656677246,
-    "duration_seconds": null
+    "duration_seconds": 6421,
+    "duracion": "01:47:01"
   },
   {
     "id": 91,
@@ -1651,7 +1741,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 4.090000152587891,
     "latent_y": 28.899999618530273,
     "latent_z": -103.58999633789062,
-    "duration_seconds": null
+    "duration_seconds": 416,
+    "duracion": "06:56"
   },
   {
     "id": 92,
@@ -1669,7 +1760,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 109.5,
     "latent_y": 13.4399995803833,
     "latent_z": 9.4399995803833,
-    "duration_seconds": null
+    "duration_seconds": 228,
+    "duracion": "03:48"
   },
   {
     "id": 93,
@@ -1687,7 +1779,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -77.69999694824219,
     "latent_y": -1.1699999570846558,
     "latent_z": 63.59000015258789,
-    "duration_seconds": null
+    "duration_seconds": 6735,
+    "duracion": "01:52:15"
   },
   {
     "id": 94,
@@ -1705,7 +1798,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 34.099998474121094,
     "latent_y": 52.27000045776367,
     "latent_z": 61.709999084472656,
-    "duration_seconds": null
+    "duration_seconds": 535,
+    "duracion": "08:55"
   },
   {
     "id": 95,
@@ -1724,7 +1818,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -103.73999786376953,
     "latent_y": -40.5,
     "latent_z": 11.550000190734863,
-    "duration_seconds": null
+    "duration_seconds": 988,
+    "duracion": "16:28"
   },
   {
     "id": 96,
@@ -1742,7 +1837,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -48.54999923706055,
     "latent_y": -51.08000183105469,
     "latent_z": -55.11000061035156,
-    "duration_seconds": null
+    "duration_seconds": 950,
+    "duracion": "15:50"
   },
   {
     "id": 97,
@@ -1760,7 +1856,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 63.189998626708984,
     "latent_y": 3.309999942779541,
     "latent_z": -21.100000381469727,
-    "duration_seconds": null
+    "duration_seconds": 1104,
+    "duracion": "18:24"
   },
   {
     "id": 98,
@@ -1778,7 +1875,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 105.44999694824219,
     "latent_y": -19.549999237060547,
     "latent_z": 30.920000076293945,
-    "duration_seconds": null
+    "duration_seconds": 976,
+    "duracion": "16:16"
   },
   {
     "id": 99,
@@ -1796,7 +1894,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 17.360000610351562,
     "latent_y": 55.400001525878906,
     "latent_z": -9.069999694824219,
-    "duration_seconds": null
+    "duration_seconds": 793,
+    "duracion": "13:13"
   },
   {
     "id": 100,
@@ -1814,7 +1913,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 89.4000015258789,
     "latent_y": 41.97999954223633,
     "latent_z": 65.72000122070312,
-    "duration_seconds": null
+    "duration_seconds": 718,
+    "duracion": "11:58"
   },
   {
     "id": 101,
@@ -1832,7 +1932,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -70.48999786376953,
     "latent_y": 1.1699999570846558,
     "latent_z": -45.060001373291016,
-    "duration_seconds": null
+    "duration_seconds": 133,
+    "duracion": "02:13"
   },
   {
     "id": 102,
@@ -1850,7 +1951,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -90.97000122070312,
     "latent_y": -41.689998626708984,
     "latent_z": 66.45999908447266,
-    "duration_seconds": null
+    "duration_seconds": 532,
+    "duracion": "08:52"
   },
   {
     "id": 103,
@@ -1868,7 +1970,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 44.11000061035156,
     "latent_y": -41.900001525878906,
     "latent_z": 63.25,
-    "duration_seconds": null
+    "duration_seconds": 1614,
+    "duracion": "26:54"
   },
   {
     "id": 104,
@@ -1886,7 +1989,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -40.25,
     "latent_y": -20.219999313354492,
     "latent_z": 63.119998931884766,
-    "duration_seconds": null
+    "duration_seconds": 7959,
+    "duracion": "02:12:39"
   },
   {
     "id": 105,
@@ -1906,7 +2010,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 8.260000228881836,
     "latent_y": -67.66000366210938,
     "latent_z": 65.66000366210938,
-    "duration_seconds": null
+    "duration_seconds": 7412,
+    "duracion": "02:03:32"
   },
   {
     "id": 106,
@@ -1926,7 +2031,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -38.060001373291016,
     "latent_y": 82.87000274658203,
     "latent_z": -73.45999908447266,
-    "duration_seconds": null
+    "duration_seconds": 557,
+    "duracion": "09:17"
   },
   {
     "id": 107,
@@ -1944,7 +2050,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -21.420000076293945,
     "latent_y": -10.390000343322754,
     "latent_z": 63.65999984741211,
-    "duration_seconds": null
+    "duration_seconds": 1610,
+    "duracion": "26:50"
   },
   {
     "id": 108,
@@ -1963,7 +2070,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -5.570000171661377,
     "latent_y": -75.08999633789062,
     "latent_z": 74.30000305175781,
-    "duration_seconds": null
+    "duration_seconds": 8078,
+    "duracion": "02:14:38"
   },
   {
     "id": 109,
@@ -1981,7 +2089,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 40.119998931884766,
     "latent_y": -3.5199999809265137,
     "latent_z": 18.079999923706055,
-    "duration_seconds": null
+    "duration_seconds": 465,
+    "duracion": "07:45"
   },
   {
     "id": 110,
@@ -2001,7 +2110,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -24.5,
     "latent_y": 71.05000305175781,
     "latent_z": -65.4800033569336,
-    "duration_seconds": null
+    "duration_seconds": 5301,
+    "duracion": "01:28:21"
   },
   {
     "id": 111,
@@ -2019,7 +2129,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -50.09000015258789,
     "latent_y": -98.58999633789062,
     "latent_z": -41.630001068115234,
-    "duration_seconds": null
+    "duration_seconds": 3766,
+    "duracion": "01:02:46"
   },
   {
     "id": 112,
@@ -2038,7 +2149,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -0.49000000953674316,
     "latent_y": -34.47999954223633,
     "latent_z": 96.5199966430664,
-    "duration_seconds": null
+    "duration_seconds": 860,
+    "duracion": "14:20"
   },
   {
     "id": 113,
@@ -2056,7 +2168,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 17.889999389648438,
     "latent_y": -21.25,
     "latent_z": 9.90999984741211,
-    "duration_seconds": null
+    "duration_seconds": 575,
+    "duracion": "09:35"
   },
   {
     "id": 114,
@@ -2075,7 +2188,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -118.20999908447266,
     "latent_y": -15.15999984741211,
     "latent_z": -8.180000305175781,
-    "duration_seconds": null
+    "duration_seconds": 974,
+    "duracion": "16:14"
   },
   {
     "id": 115,
@@ -2093,7 +2207,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 60.72999954223633,
     "latent_y": 35.04999923706055,
     "latent_z": -35.84000015258789,
-    "duration_seconds": null
+    "duration_seconds": 1337,
+    "duracion": "22:17"
   },
   {
     "id": 116,
@@ -2111,7 +2226,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 31.290000915527344,
     "latent_y": -35.16999816894531,
     "latent_z": -15.75,
-    "duration_seconds": null
+    "duration_seconds": 803,
+    "duracion": "13:23"
   },
   {
     "id": 117,
@@ -2129,7 +2245,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -16.729999542236328,
     "latent_y": -42.43000030517578,
     "latent_z": -43.34000015258789,
-    "duration_seconds": null
+    "duration_seconds": 851,
+    "duracion": "14:11"
   },
   {
     "id": 118,
@@ -2147,7 +2264,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -26.520000457763672,
     "latent_y": -69.2300033569336,
     "latent_z": 7.96999979019165,
-    "duration_seconds": null
+    "duration_seconds": 485,
+    "duracion": "08:05"
   },
   {
     "id": 119,
@@ -2165,7 +2283,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 77.62000274658203,
     "latent_y": 37.61000061035156,
     "latent_z": 37.33000183105469,
-    "duration_seconds": null
+    "duration_seconds": 268,
+    "duracion": "04:28"
   },
   {
     "id": 120,
@@ -2183,7 +2302,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 89.0,
     "latent_y": 57.18000030517578,
     "latent_z": 60.81999969482422,
-    "duration_seconds": null
+    "duration_seconds": 516,
+    "duracion": "08:36"
   },
   {
     "id": 121,
@@ -2202,7 +2322,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -23.6200008392334,
     "latent_y": 102.69000244140625,
     "latent_z": 75.31999969482422,
-    "duration_seconds": null
+    "duration_seconds": 599,
+    "duracion": "09:59"
   },
   {
     "id": 122,
@@ -2220,7 +2341,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -10.90999984741211,
     "latent_y": 35.0,
     "latent_z": -116.1500015258789,
-    "duration_seconds": null
+    "duration_seconds": 515,
+    "duracion": "08:35"
   },
   {
     "id": 123,
@@ -2238,7 +2360,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -54.45000076293945,
     "latent_y": -36.2599983215332,
     "latent_z": 56.59000015258789,
-    "duration_seconds": null
+    "duration_seconds": 236,
+    "duracion": "03:56"
   },
   {
     "id": 124,
@@ -2256,7 +2379,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 91.26000213623047,
     "latent_y": -0.5799999833106995,
     "latent_z": -39.470001220703125,
-    "duration_seconds": null
+    "duration_seconds": 468,
+    "duracion": "07:48"
   },
   {
     "id": 125,
@@ -2274,7 +2398,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -78.54000091552734,
     "latent_y": 56.439998626708984,
     "latent_z": 42.619998931884766,
-    "duration_seconds": null
+    "duration_seconds": 1360,
+    "duracion": "22:40"
   },
   {
     "id": 126,
@@ -2292,7 +2417,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -66.5199966430664,
     "latent_y": -39.9900016784668,
     "latent_z": 73.94000244140625,
-    "duration_seconds": null
+    "duration_seconds": 864,
+    "duracion": "14:24"
   },
   {
     "id": 127,
@@ -2310,7 +2436,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -26.610000610351562,
     "latent_y": 6.820000171661377,
     "latent_z": -26.040000915527344,
-    "duration_seconds": null
+    "duration_seconds": 789,
+    "duracion": "13:09"
   },
   {
     "id": 128,
@@ -2329,7 +2456,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -75.77999877929688,
     "latent_y": 31.809999465942383,
     "latent_z": 30.059999465942383,
-    "duration_seconds": null
+    "duration_seconds": 3786,
+    "duracion": "01:03:06"
   },
   {
     "id": 129,
@@ -2347,7 +2475,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -3.950000047683716,
     "latent_y": -70.41999816894531,
     "latent_z": 49.130001068115234,
-    "duration_seconds": null
+    "duration_seconds": 980,
+    "duracion": "16:20"
   },
   {
     "id": 130,
@@ -2365,7 +2494,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -104.70999908447266,
     "latent_y": -2.450000047683716,
     "latent_z": 2.5,
-    "duration_seconds": null
+    "duration_seconds": 4489,
+    "duracion": "01:14:49"
   },
   {
     "id": 131,
@@ -2383,7 +2513,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 75.7300033569336,
     "latent_y": -14.1899995803833,
     "latent_z": 62.77000045776367,
-    "duration_seconds": null
+    "duration_seconds": 439,
+    "duracion": "07:19"
   },
   {
     "id": 132,
@@ -2401,7 +2532,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 81.7300033569336,
     "latent_y": 48.59000015258789,
     "latent_z": 0.25999999046325684,
-    "duration_seconds": null
+    "duration_seconds": 512,
+    "duracion": "08:32"
   },
   {
     "id": 133,
@@ -2419,7 +2551,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -6.03000020980835,
     "latent_y": -103.8499984741211,
     "latent_z": -48.290000915527344,
-    "duration_seconds": null
+    "duration_seconds": 1069,
+    "duracion": "17:49"
   },
   {
     "id": 134,
@@ -2437,7 +2570,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -0.5600000023841858,
     "latent_y": 1.2999999523162842,
     "latent_z": 31.030000686645508,
-    "duration_seconds": null
+    "duration_seconds": 1161,
+    "duracion": "19:21"
   },
   {
     "id": 135,
@@ -2456,7 +2590,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -20.479999542236328,
     "latent_y": -11.350000381469727,
     "latent_z": 100.83999633789062,
-    "duration_seconds": null
+    "duration_seconds": 4127,
+    "duracion": "01:08:47"
   },
   {
     "id": 136,
@@ -2474,7 +2609,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 46.099998474121094,
     "latent_y": -7.679999828338623,
     "latent_z": 47.02000045776367,
-    "duration_seconds": null
+    "duration_seconds": 434,
+    "duracion": "07:14"
   },
   {
     "id": 137,
@@ -2492,7 +2628,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -102.37000274658203,
     "latent_y": -47.970001220703125,
     "latent_z": -9.010000228881836,
-    "duration_seconds": null
+    "duration_seconds": 1552,
+    "duracion": "25:52"
   },
   {
     "id": 138,
@@ -2510,7 +2647,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -36.88999938964844,
     "latent_y": -53.61000061035156,
     "latent_z": -34.97999954223633,
-    "duration_seconds": null
+    "duration_seconds": 273,
+    "duracion": "04:33"
   },
   {
     "id": 139,
@@ -2528,7 +2666,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 48.650001525878906,
     "latent_y": 64.2699966430664,
     "latent_z": -18.8700008392334,
-    "duration_seconds": null
+    "duration_seconds": 720,
+    "duracion": "12:00"
   },
   {
     "id": 140,
@@ -2546,7 +2685,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -86.02999877929688,
     "latent_y": -44.54999923706055,
     "latent_z": 1.840000033378601,
-    "duration_seconds": null
+    "duration_seconds": 1542,
+    "duracion": "25:42"
   },
   {
     "id": 141,
@@ -2564,7 +2704,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -85.18000030517578,
     "latent_y": -21.31999969482422,
     "latent_z": 50.310001373291016,
-    "duration_seconds": null
+    "duration_seconds": 837,
+    "duracion": "13:57"
   },
   {
     "id": 142,
@@ -2582,7 +2723,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 22.6299991607666,
     "latent_y": 21.530000686645508,
     "latent_z": 64.62000274658203,
-    "duration_seconds": null
+    "duration_seconds": 1204,
+    "duracion": "20:04"
   },
   {
     "id": 143,
@@ -2600,7 +2742,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -29.3700008392334,
     "latent_y": -16.649999618530273,
     "latent_z": 13.8100004196167,
-    "duration_seconds": null
+    "duration_seconds": 1383,
+    "duracion": "23:03"
   },
   {
     "id": 144,
@@ -2618,7 +2761,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 3.799999952316284,
     "latent_y": 73.83999633789062,
     "latent_z": 8.489999771118164,
-    "duration_seconds": null
+    "duration_seconds": 945,
+    "duracion": "15:45"
   },
   {
     "id": 145,
@@ -2636,7 +2780,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 27.110000610351562,
     "latent_y": 83.11000061035156,
     "latent_z": -24.700000762939453,
-    "duration_seconds": null
+    "duration_seconds": 5055,
+    "duracion": "01:24:15"
   },
   {
     "id": 146,
@@ -2654,7 +2799,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 88.26000213623047,
     "latent_y": 15.65999984741211,
     "latent_z": 22.059999465942383,
-    "duration_seconds": null
+    "duration_seconds": 1486,
+    "duracion": "24:46"
   },
   {
     "id": 147,
@@ -2672,7 +2818,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -12.109999656677246,
     "latent_y": -5.670000076293945,
     "latent_z": -32.5099983215332,
-    "duration_seconds": null
+    "duration_seconds": 614,
+    "duracion": "10:14"
   },
   {
     "id": 148,
@@ -2690,7 +2837,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 63.849998474121094,
     "latent_y": 8.0,
     "latent_z": -60.72999954223633,
-    "duration_seconds": null
+    "duration_seconds": 933,
+    "duracion": "15:33"
   },
   {
     "id": 149,
@@ -2708,7 +2856,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 1.5800000429153442,
     "latent_y": 72.11000061035156,
     "latent_z": 36.97999954223633,
-    "duration_seconds": null
+    "duration_seconds": 1132,
+    "duracion": "18:52"
   },
   {
     "id": 150,
@@ -2726,7 +2875,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 85.69000244140625,
     "latent_y": -0.1599999964237213,
     "latent_z": 36.38999938964844,
-    "duration_seconds": null
+    "duration_seconds": 562,
+    "duracion": "09:22"
   },
   {
     "id": 151,
@@ -2744,7 +2894,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 66.05000305175781,
     "latent_y": 42.959999084472656,
     "latent_z": 23.799999237060547,
-    "duration_seconds": null
+    "duration_seconds": 123,
+    "duracion": "02:03"
   },
   {
     "id": 152,
@@ -2762,7 +2913,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 24.0,
     "latent_y": -21.889999389648438,
     "latent_z": 31.959999084472656,
-    "duration_seconds": null
+    "duration_seconds": 1313,
+    "duracion": "21:53"
   },
   {
     "id": 153,
@@ -2780,7 +2932,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -94.70999908447266,
     "latent_y": -12.640000343322754,
     "latent_z": 16.709999084472656,
-    "duration_seconds": null
+    "duration_seconds": 471,
+    "duracion": "07:51"
   },
   {
     "id": 154,
@@ -2798,7 +2951,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -2.5799999237060547,
     "latent_y": 24.020000457763672,
     "latent_z": -4.210000038146973,
-    "duration_seconds": null
+    "duration_seconds": 5126,
+    "duracion": "01:25:26"
   },
   {
     "id": 155,
@@ -2816,7 +2970,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 53.13999938964844,
     "latent_y": 52.18000030517578,
     "latent_z": 37.2599983215332,
-    "duration_seconds": null
+    "duration_seconds": 227,
+    "duracion": "03:47"
   },
   {
     "id": 156,
@@ -2834,7 +2989,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -90.9000015258789,
     "latent_y": 60.52000045776367,
     "latent_z": 4.110000133514404,
-    "duration_seconds": null
+    "duration_seconds": 1210,
+    "duracion": "20:10"
   },
   {
     "id": 157,
@@ -2852,7 +3008,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 51.279998779296875,
     "latent_y": 80.88999938964844,
     "latent_z": 66.54000091552734,
-    "duration_seconds": null
+    "duration_seconds": 982,
+    "duracion": "16:22"
   },
   {
     "id": 158,
@@ -2870,7 +3027,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 37.310001373291016,
     "latent_y": 6.21999979019165,
     "latent_z": 41.650001525878906,
-    "duration_seconds": null
+    "duration_seconds": 547,
+    "duracion": "09:07"
   },
   {
     "id": 159,
@@ -2889,7 +3047,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -62.33000183105469,
     "latent_y": -56.18000030517578,
     "latent_z": -4.909999847412109,
-    "duration_seconds": null
+    "duration_seconds": 678,
+    "duracion": "11:18"
   },
   {
     "id": 160,
@@ -2907,7 +3066,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -68.68000030517578,
     "latent_y": -59.18000030517578,
     "latent_z": 87.75,
-    "duration_seconds": null
+    "duration_seconds": 654,
+    "duracion": "10:54"
   },
   {
     "id": 161,
@@ -2926,7 +3086,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 4.869999885559082,
     "latent_y": 70.1500015258789,
     "latent_z": 87.13999938964844,
-    "duration_seconds": null
+    "duration_seconds": 2582,
+    "duracion": "43:02"
   },
   {
     "id": 162,
@@ -2944,7 +3105,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 46.0,
     "latent_y": 21.329999923706055,
     "latent_z": -28.780000686645508,
-    "duration_seconds": null
+    "duration_seconds": 1292,
+    "duracion": "21:32"
   },
   {
     "id": 163,
@@ -2962,7 +3124,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -70.80000305175781,
     "latent_y": -48.22999954223633,
     "latent_z": 54.61000061035156,
-    "duration_seconds": null
+    "duration_seconds": 829,
+    "duracion": "13:49"
   },
   {
     "id": 164,
@@ -2980,7 +3143,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -12.380000114440918,
     "latent_y": 16.170000076293945,
     "latent_z": -35.86000061035156,
-    "duration_seconds": null
+    "duration_seconds": 579,
+    "duracion": "09:39"
   },
   {
     "id": 165,
@@ -2998,7 +3162,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 75.86000061035156,
     "latent_y": 65.41000366210938,
     "latent_z": -42.529998779296875,
-    "duration_seconds": null
+    "duration_seconds": 428,
+    "duracion": "07:08"
   },
   {
     "id": 166,
@@ -3016,7 +3181,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -3.0199999809265137,
     "latent_y": 11.25,
     "latent_z": -88.7699966430664,
-    "duration_seconds": null
+    "duration_seconds": 1027,
+    "duracion": "17:07"
   },
   {
     "id": 167,
@@ -3034,7 +3200,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -45.47999954223633,
     "latent_y": 120.0,
     "latent_z": 22.229999542236328,
-    "duration_seconds": null
+    "duration_seconds": 1021,
+    "duracion": "17:01"
   },
   {
     "id": 168,
@@ -3052,7 +3219,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 120.0,
     "latent_y": 33.790000915527344,
     "latent_z": 9.640000343322754,
-    "duration_seconds": null
+    "duration_seconds": 415,
+    "duracion": "06:55"
   },
   {
     "id": 169,
@@ -3071,7 +3239,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -5.320000171661377,
     "latent_y": 68.62000274658203,
     "latent_z": -100.5999984741211,
-    "duration_seconds": null
+    "duration_seconds": 705,
+    "duracion": "11:45"
   },
   {
     "id": 170,
@@ -3089,7 +3258,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -73.51000213623047,
     "latent_y": 51.650001525878906,
     "latent_z": -10.720000267028809,
-    "duration_seconds": null
+    "duration_seconds": 810,
+    "duracion": "13:30"
   },
   {
     "id": 171,
@@ -3107,7 +3277,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -0.6399999856948853,
     "latent_y": -25.329999923706055,
     "latent_z": -13.300000190734863,
-    "duration_seconds": null
+    "duration_seconds": 757,
+    "duracion": "12:37"
   },
   {
     "id": 172,
@@ -3126,7 +3297,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 40.68000030517578,
     "latent_y": -95.95999908447266,
     "latent_z": 5.78000020980835,
-    "duration_seconds": null
+    "duration_seconds": 423,
+    "duracion": "07:03"
   },
   {
     "id": 173,
@@ -3144,7 +3316,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 47.060001373291016,
     "latent_y": -0.8600000143051147,
     "latent_z": -3.1500000953674316,
-    "duration_seconds": null
+    "duration_seconds": 1716,
+    "duracion": "28:36"
   },
   {
     "id": 174,
@@ -3162,7 +3335,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -16.260000228881836,
     "latent_y": 21.600000381469727,
     "latent_z": -103.22000122070312,
-    "duration_seconds": null
+    "duration_seconds": 615,
+    "duracion": "10:15"
   },
   {
     "id": 175,
@@ -3180,7 +3354,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -10.359999656677246,
     "latent_y": -99.5199966430664,
     "latent_z": 6.949999809265137,
-    "duration_seconds": null
+    "duration_seconds": 273,
+    "duracion": "04:33"
   },
   {
     "id": 176,
@@ -3198,7 +3373,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -67.7699966430664,
     "latent_y": 70.11000061035156,
     "latent_z": 56.2599983215332,
-    "duration_seconds": null
+    "duration_seconds": 800,
+    "duracion": "13:20"
   },
   {
     "id": 177,
@@ -3216,7 +3392,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -69.94999694824219,
     "latent_y": -6.159999847412109,
     "latent_z": 84.33999633789062,
-    "duration_seconds": null
+    "duration_seconds": 875,
+    "duracion": "14:35"
   },
   {
     "id": 178,
@@ -3235,7 +3412,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -11.180000305175781,
     "latent_y": -27.600000381469727,
     "latent_z": 105.66000366210938,
-    "duration_seconds": null
+    "duration_seconds": 328,
+    "duracion": "05:28"
   },
   {
     "id": 179,
@@ -3253,7 +3431,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 13.239999771118164,
     "latent_y": -21.360000610351562,
     "latent_z": -24.34000015258789,
-    "duration_seconds": null
+    "duration_seconds": 1297,
+    "duracion": "21:37"
   },
   {
     "id": 180,
@@ -3271,7 +3450,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -26.229999542236328,
     "latent_y": -1.0299999713897705,
     "latent_z": 20.25,
-    "duration_seconds": null
+    "duration_seconds": 1197,
+    "duracion": "19:57"
   },
   {
     "id": 181,
@@ -3289,7 +3469,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 36.279998779296875,
     "latent_y": 80.5,
     "latent_z": 34.81999969482422,
-    "duration_seconds": null
+    "duration_seconds": 552,
+    "duracion": "09:12"
   },
   {
     "id": 182,
@@ -3307,7 +3488,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 59.459999084472656,
     "latent_y": 54.88999938964844,
     "latent_z": -10.180000305175781,
-    "duration_seconds": null
+    "duration_seconds": 934,
+    "duracion": "15:34"
   },
   {
     "id": 183,
@@ -3325,7 +3507,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -14.239999771118164,
     "latent_y": 22.239999771118164,
     "latent_z": -74.04000091552734,
-    "duration_seconds": null
+    "duration_seconds": 335,
+    "duracion": "05:35"
   },
   {
     "id": 184,
@@ -3344,7 +3527,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -54.310001373291016,
     "latent_y": 1.909999966621399,
     "latent_z": -77.18000030517578,
-    "duration_seconds": null
+    "duration_seconds": 300,
+    "duracion": "05:00"
   },
   {
     "id": 185,
@@ -3363,7 +3547,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 13.90999984741211,
     "latent_y": 60.90999984741211,
     "latent_z": -89.22000122070312,
-    "duration_seconds": null
+    "duration_seconds": 4454,
+    "duracion": "01:14:14"
   },
   {
     "id": 186,
@@ -3381,7 +3566,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 73.97000122070312,
     "latent_y": 24.709999084472656,
     "latent_z": -11.90999984741211,
-    "duration_seconds": null
+    "duration_seconds": 369,
+    "duracion": "06:09"
   },
   {
     "id": 187,
@@ -3399,7 +3585,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 3.309999942779541,
     "latent_y": -48.88999938964844,
     "latent_z": 19.559999465942383,
-    "duration_seconds": null
+    "duration_seconds": 424,
+    "duracion": "07:04"
   },
   {
     "id": 188,
@@ -3418,7 +3605,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -56.86000061035156,
     "latent_y": 65.80000305175781,
     "latent_z": -52.2400016784668,
-    "duration_seconds": null
+    "duration_seconds": 1061,
+    "duracion": "17:41"
   },
   {
     "id": 189,
@@ -3436,7 +3624,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -54.81999969482422,
     "latent_y": 41.25,
     "latent_z": -0.029999999329447746,
-    "duration_seconds": null
+    "duration_seconds": 2276,
+    "duracion": "37:56"
   },
   {
     "id": 190,
@@ -3454,7 +3643,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -62.5099983215332,
     "latent_y": -21.15999984741211,
     "latent_z": 71.20999908447266,
-    "duration_seconds": null
+    "duration_seconds": 1038,
+    "duracion": "17:18"
   },
   {
     "id": 191,
@@ -3472,7 +3662,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -42.9900016784668,
     "latent_y": 10.229999542236328,
     "latent_z": -120.0,
-    "duration_seconds": null
+    "duration_seconds": 742,
+    "duracion": "12:22"
   },
   {
     "id": 192,
@@ -3491,7 +3682,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 38.630001068115234,
     "latent_y": -94.44999694824219,
     "latent_z": -8.760000228881836,
-    "duration_seconds": null
+    "duration_seconds": 1236,
+    "duracion": "20:36"
   },
   {
     "id": 193,
@@ -3510,7 +3702,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -73.7300033569336,
     "latent_y": 17.389999389648438,
     "latent_z": -52.4900016784668,
-    "duration_seconds": null
+    "duration_seconds": 950,
+    "duracion": "15:50"
   },
   {
     "id": 194,
@@ -3529,7 +3722,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -13.420000076293945,
     "latent_y": 92.97000122070312,
     "latent_z": 67.5999984741211,
-    "duration_seconds": null
+    "duration_seconds": 9345,
+    "duracion": "02:35:45"
   },
   {
     "id": 195,
@@ -3547,7 +3741,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -4.380000114440918,
     "latent_y": -77.79000091552734,
     "latent_z": -45.47999954223633,
-    "duration_seconds": null
+    "duration_seconds": 583,
+    "duracion": "09:43"
   },
   {
     "id": 196,
@@ -3565,7 +3760,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -51.959999084472656,
     "latent_y": -83.27999877929688,
     "latent_z": -27.209999084472656,
-    "duration_seconds": null
+    "duration_seconds": 385,
+    "duracion": "06:25"
   },
   {
     "id": 197,
@@ -3583,7 +3779,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -75.94999694824219,
     "latent_y": 96.19999694824219,
     "latent_z": 32.63999938964844,
-    "duration_seconds": null
+    "duration_seconds": 607,
+    "duracion": "10:07"
   },
   {
     "id": 198,
@@ -3601,7 +3798,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -90.58000183105469,
     "latent_y": 77.9000015258789,
     "latent_z": 46.650001525878906,
-    "duration_seconds": null
+    "duration_seconds": 81,
+    "duracion": "01:21"
   },
   {
     "id": 199,
@@ -3619,7 +3817,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -20.309999465942383,
     "latent_y": 3.1600000858306885,
     "latent_z": -77.58000183105469,
-    "duration_seconds": null
+    "duration_seconds": 1175,
+    "duracion": "19:35"
   },
   {
     "id": 200,
@@ -3637,7 +3836,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -47.439998626708984,
     "latent_y": -120.0,
     "latent_z": -54.5,
-    "duration_seconds": null
+    "duration_seconds": 848,
+    "duracion": "14:08"
   },
   {
     "id": 201,
@@ -3655,7 +3855,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 22.969999313354492,
     "latent_y": 20.34000015258789,
     "latent_z": -50.16999816894531,
-    "duration_seconds": null
+    "duration_seconds": 1683,
+    "duracion": "28:03"
   },
   {
     "id": 202,
@@ -3674,7 +3875,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -18.360000610351562,
     "latent_y": 55.560001373291016,
     "latent_z": -71.69000244140625,
-    "duration_seconds": null
+    "duration_seconds": 4600,
+    "duracion": "01:16:40"
   },
   {
     "id": 203,
@@ -3692,7 +3894,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -18.1299991607666,
     "latent_y": -113.69000244140625,
     "latent_z": -33.61000061035156,
-    "duration_seconds": null
+    "duration_seconds": 676,
+    "duracion": "11:16"
   },
   {
     "id": 204,
@@ -3711,7 +3914,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 8.350000381469727,
     "latent_y": -14.960000038146973,
     "latent_z": 104.4800033569336,
-    "duration_seconds": null
+    "duration_seconds": 3356,
+    "duracion": "55:56"
   },
   {
     "id": 205,
@@ -3729,7 +3933,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 7.760000228881836,
     "latent_y": -62.380001068115234,
     "latent_z": -30.6200008392334,
-    "duration_seconds": null
+    "duration_seconds": 70,
+    "duracion": "01:10"
   },
   {
     "id": 206,
@@ -3747,7 +3952,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -85.23999786376953,
     "latent_y": 113.81999969482422,
     "latent_z": 35.7599983215332,
-    "duration_seconds": null
+    "duration_seconds": 971,
+    "duracion": "16:11"
   },
   {
     "id": 207,
@@ -3765,7 +3971,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -24.010000228881836,
     "latent_y": -76.7300033569336,
     "latent_z": -8.619999885559082,
-    "duration_seconds": null
+    "duration_seconds": 648,
+    "duracion": "10:48"
   },
   {
     "id": 208,
@@ -3783,7 +3990,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -87.47000122070312,
     "latent_y": -38.880001068115234,
     "latent_z": -17.139999389648438,
-    "duration_seconds": null
+    "duration_seconds": 1224,
+    "duracion": "20:24"
   },
   {
     "id": 209,
@@ -3801,7 +4009,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -29.56999969482422,
     "latent_y": 35.93000030517578,
     "latent_z": -82.87000274658203,
-    "duration_seconds": null
+    "duration_seconds": 2180,
+    "duracion": "36:20"
   },
   {
     "id": 210,
@@ -3820,7 +4029,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -28.8700008392334,
     "latent_y": 42.70000076293945,
     "latent_z": 76.88999938964844,
-    "duration_seconds": null
+    "duration_seconds": 3299,
+    "duracion": "54:59"
   },
   {
     "id": 211,
@@ -3838,7 +4048,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -53.9900016784668,
     "latent_y": -54.060001373291016,
     "latent_z": 67.95999908447266,
-    "duration_seconds": null
+    "duration_seconds": 774,
+    "duracion": "12:54"
   },
   {
     "id": 212,
@@ -3856,7 +4067,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 81.27999877929688,
     "latent_y": 38.84000015258789,
     "latent_z": -31.389999389648438,
-    "duration_seconds": null
+    "duration_seconds": 1097,
+    "duracion": "18:17"
   },
   {
     "id": 213,
@@ -3874,7 +4086,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -60.540000915527344,
     "latent_y": 6.659999847412109,
     "latent_z": -32.9900016784668,
-    "duration_seconds": null
+    "duration_seconds": 853,
+    "duracion": "14:13"
   },
   {
     "id": 214,
@@ -3892,7 +4105,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -17.469999313354492,
     "latent_y": 31.079999923706055,
     "latent_z": 12.510000228881836,
-    "duration_seconds": null
+    "duration_seconds": 771,
+    "duracion": "12:51"
   },
   {
     "id": 215,
@@ -3911,7 +4125,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -44.11000061035156,
     "latent_y": 75.97000122070312,
     "latent_z": -42.18000030517578,
-    "duration_seconds": null
+    "duration_seconds": 233,
+    "duracion": "03:53"
   },
   {
     "id": 216,
@@ -3929,7 +4144,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 76.41000366210938,
     "latent_y": -34.119998931884766,
     "latent_z": -42.41999816894531,
-    "duration_seconds": null
+    "duration_seconds": 562,
+    "duracion": "09:22"
   },
   {
     "id": 217,
@@ -3947,7 +4163,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -80.66000366210938,
     "latent_y": -20.670000076293945,
     "latent_z": 73.23999786376953,
-    "duration_seconds": null
+    "duration_seconds": 588,
+    "duracion": "09:48"
   },
   {
     "id": 218,
@@ -3965,7 +4182,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -20.719999313354492,
     "latent_y": -30.540000915527344,
     "latent_z": 66.9000015258789,
-    "duration_seconds": null
+    "duration_seconds": 1332,
+    "duracion": "22:12"
   },
   {
     "id": 219,
@@ -3983,7 +4201,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 30.06999969482422,
     "latent_y": 3.0999999046325684,
     "latent_z": 6.619999885559082,
-    "duration_seconds": null
+    "duration_seconds": 844,
+    "duracion": "14:04"
   },
   {
     "id": 220,
@@ -4002,7 +4221,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -22.90999984741211,
     "latent_y": 62.36000061035156,
     "latent_z": -88.1500015258789,
-    "duration_seconds": null
+    "duration_seconds": 2814,
+    "duracion": "46:54"
   },
   {
     "id": 221,
@@ -4021,7 +4241,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -48.20000076293945,
     "latent_y": -79.26000213623047,
     "latent_z": 15.460000038146973,
-    "duration_seconds": null
+    "duration_seconds": 1339,
+    "duracion": "22:19"
   },
   {
     "id": 222,
@@ -4039,7 +4260,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -48.84000015258789,
     "latent_y": -108.41000366210938,
     "latent_z": 2.1500000953674316,
-    "duration_seconds": null
+    "duration_seconds": 1053,
+    "duracion": "17:33"
   },
   {
     "id": 223,
@@ -4057,7 +4279,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -55.560001373291016,
     "latent_y": -70.69000244140625,
     "latent_z": 61.61000061035156,
-    "duration_seconds": null
+    "duration_seconds": 1331,
+    "duracion": "22:11"
   },
   {
     "id": 224,
@@ -4076,7 +4299,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -6.570000171661377,
     "latent_y": -4.840000152587891,
     "latent_z": 109.91999816894531,
-    "duration_seconds": null
+    "duration_seconds": 1347,
+    "duracion": "22:27"
   },
   {
     "id": 225,
@@ -4095,7 +4319,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 11.989999771118164,
     "latent_y": -76.16000366210938,
     "latent_z": 52.27000045776367,
-    "duration_seconds": null
+    "duration_seconds": 1160,
+    "duracion": "19:20"
   },
   {
     "id": 226,
@@ -4113,7 +4338,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 31.889999389648438,
     "latent_y": 70.38999938964844,
     "latent_z": 2.2300000190734863,
-    "duration_seconds": null
+    "duration_seconds": 1180,
+    "duracion": "19:40"
   },
   {
     "id": 227,
@@ -4131,7 +4357,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -53.709999084472656,
     "latent_y": 21.84000015258789,
     "latent_z": -105.63999938964844,
-    "duration_seconds": null
+    "duration_seconds": 1465,
+    "duracion": "24:25"
   },
   {
     "id": 228,
@@ -4150,7 +4377,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -64.94000244140625,
     "latent_y": 80.01000213623047,
     "latent_z": -43.31999969482422,
-    "duration_seconds": null
+    "duration_seconds": 980,
+    "duracion": "16:20"
   },
   {
     "id": 229,
@@ -4168,7 +4396,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 72.30999755859375,
     "latent_y": 33.0,
     "latent_z": 11.460000038146973,
-    "duration_seconds": null
+    "duration_seconds": 509,
+    "duracion": "08:29"
   },
   {
     "id": 230,
@@ -4187,7 +4416,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -7.230000019073486,
     "latent_y": 61.2400016784668,
     "latent_z": -65.18000030517578,
-    "duration_seconds": null
+    "duration_seconds": 3480,
+    "duracion": "58:00"
   },
   {
     "id": 231,
@@ -4205,7 +4435,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -36.13999938964844,
     "latent_y": -44.689998626708984,
     "latent_z": 64.1500015258789,
-    "duration_seconds": null
+    "duration_seconds": 535,
+    "duracion": "08:55"
   },
   {
     "id": 232,
@@ -4223,7 +4454,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 90.6500015258789,
     "latent_y": 66.61000061035156,
     "latent_z": 19.84000015258789,
-    "duration_seconds": null
+    "duration_seconds": 560,
+    "duracion": "09:20"
   },
   {
     "id": 233,
@@ -4241,7 +4473,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -33.040000915527344,
     "latent_y": -50.11000061035156,
     "latent_z": 2.380000114440918,
-    "duration_seconds": null
+    "duration_seconds": 858,
+    "duracion": "14:18"
   },
   {
     "id": 234,
@@ -4259,7 +4492,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 29.25,
     "latent_y": 37.130001068115234,
     "latent_z": 39.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 1045,
+    "duracion": "17:25"
   },
   {
     "id": 235,
@@ -4277,7 +4511,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -45.13999938964844,
     "latent_y": -50.77000045776367,
     "latent_z": 44.9900016784668,
-    "duration_seconds": null
+    "duration_seconds": 692,
+    "duracion": "11:32"
   },
   {
     "id": 236,
@@ -4295,7 +4530,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 21.06999969482422,
     "latent_y": 70.22000122070312,
     "latent_z": 48.119998931884766,
-    "duration_seconds": null
+    "duration_seconds": 872,
+    "duracion": "14:32"
   },
   {
     "id": 237,
@@ -4313,7 +4549,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -0.11999999731779099,
     "latent_y": 42.20000076293945,
     "latent_z": 25.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 1133,
+    "duracion": "18:53"
   },
   {
     "id": 238,
@@ -4331,7 +4568,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 31.979999542236328,
     "latent_y": 104.08000183105469,
     "latent_z": 32.54999923706055,
-    "duration_seconds": null
+    "duration_seconds": 625,
+    "duracion": "10:25"
   },
   {
     "id": 239,
@@ -4349,7 +4587,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 98.12000274658203,
     "latent_y": 47.0,
     "latent_z": -7.579999923706055,
-    "duration_seconds": null
+    "duration_seconds": 469,
+    "duracion": "07:49"
   },
   {
     "id": 240,
@@ -4367,7 +4606,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -76.95999908447266,
     "latent_y": 88.33000183105469,
     "latent_z": 15.930000305175781,
-    "duration_seconds": null
+    "duration_seconds": 403,
+    "duracion": "06:43"
   },
   {
     "id": 241,
@@ -4385,7 +4625,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 23.559999465942383,
     "latent_y": 37.38999938964844,
     "latent_z": -49.38999938964844,
-    "duration_seconds": null
+    "duration_seconds": 1262,
+    "duracion": "21:02"
   },
   {
     "id": 242,
@@ -4403,7 +4644,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 24.75,
     "latent_y": -10.109999656677246,
     "latent_z": -4.760000228881836,
-    "duration_seconds": null
+    "duration_seconds": 860,
+    "duracion": "14:20"
   },
   {
     "id": 243,
@@ -4421,7 +4663,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 52.439998626708984,
     "latent_y": 42.63999938964844,
     "latent_z": -29.389999389648438,
-    "duration_seconds": null
+    "duration_seconds": 302,
+    "duracion": "05:02"
   },
   {
     "id": 244,
@@ -4439,7 +4682,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 52.459999084472656,
     "latent_y": 7.679999828338623,
     "latent_z": 86.29000091552734,
-    "duration_seconds": null
+    "duration_seconds": 439,
+    "duracion": "07:19"
   },
   {
     "id": 245,
@@ -4457,7 +4701,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -116.08000183105469,
     "latent_y": 57.95000076293945,
     "latent_z": 0.3100000023841858,
-    "duration_seconds": null
+    "duration_seconds": 713,
+    "duracion": "11:53"
   },
   {
     "id": 246,
@@ -4475,7 +4720,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -89.8499984741211,
     "latent_y": -13.829999923706055,
     "latent_z": -0.12999999523162842,
-    "duration_seconds": null
+    "duration_seconds": 745,
+    "duracion": "12:25"
   },
   {
     "id": 247,
@@ -4493,7 +4739,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -107.36000061035156,
     "latent_y": 89.68000030517578,
     "latent_z": -2.059999942779541,
-    "duration_seconds": null
+    "duration_seconds": 284,
+    "duracion": "04:44"
   },
   {
     "id": 248,
@@ -4511,7 +4758,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 86.86000061035156,
     "latent_y": 25.1200008392334,
     "latent_z": 1.6799999475479126,
-    "duration_seconds": null
+    "duration_seconds": 320,
+    "duracion": "05:20"
   },
   {
     "id": 249,
@@ -4529,7 +4777,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -58.189998626708984,
     "latent_y": -28.219999313354492,
     "latent_z": 36.63999938964844,
-    "duration_seconds": null
+    "duration_seconds": 463,
+    "duracion": "07:43"
   },
   {
     "id": 250,
@@ -4547,7 +4796,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -50.08000183105469,
     "latent_y": -89.43000030517578,
     "latent_z": -67.29000091552734,
-    "duration_seconds": null
+    "duration_seconds": 1498,
+    "duracion": "24:58"
   },
   {
     "id": 251,
@@ -4565,7 +4815,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 66.58999633789062,
     "latent_y": 79.2300033569336,
     "latent_z": 37.189998626708984,
-    "duration_seconds": null
+    "duration_seconds": 468,
+    "duracion": "07:48"
   },
   {
     "id": 252,
@@ -4583,7 +4834,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -16.200000762939453,
     "latent_y": -1.6200000047683716,
     "latent_z": -6.090000152587891,
-    "duration_seconds": null
+    "duration_seconds": 496,
+    "duracion": "08:16"
   },
   {
     "id": 253,
@@ -4601,7 +4853,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -33.439998626708984,
     "latent_y": -6.53000020980835,
     "latent_z": -89.19999694824219,
-    "duration_seconds": null
+    "duration_seconds": 605,
+    "duracion": "10:05"
   },
   {
     "id": 254,
@@ -4620,7 +4873,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 22.610000610351562,
     "latent_y": -100.94000244140625,
     "latent_z": -4.099999904632568,
-    "duration_seconds": null
+    "duration_seconds": 610,
+    "duracion": "10:10"
   },
   {
     "id": 255,
@@ -4638,7 +4892,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -4.699999809265137,
     "latent_y": -108.01000213623047,
     "latent_z": -23.200000762939453,
-    "duration_seconds": null
+    "duration_seconds": 986,
+    "duracion": "16:26"
   },
   {
     "id": 256,
@@ -4656,7 +4911,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 14.119999885559082,
     "latent_y": -23.690000534057617,
     "latent_z": -84.25,
-    "duration_seconds": null
+    "duration_seconds": 931,
+    "duracion": "15:31"
   },
   {
     "id": 257,
@@ -4674,7 +4930,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 44.029998779296875,
     "latent_y": -18.6299991607666,
     "latent_z": -51.58000183105469,
-    "duration_seconds": null
+    "duration_seconds": 1921,
+    "duracion": "32:01"
   },
   {
     "id": 258,
@@ -4692,7 +4949,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -80.19999694824219,
     "latent_y": -39.06999969482422,
     "latent_z": 82.81999969482422,
-    "duration_seconds": null
+    "duration_seconds": 358,
+    "duracion": "05:58"
   },
   {
     "id": 259,
@@ -4712,7 +4970,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -90.19999694824219,
     "latent_y": 20.780000686645508,
     "latent_z": 29.389999389648438,
-    "duration_seconds": null
+    "duration_seconds": 766,
+    "duracion": "12:46"
   },
   {
     "id": 260,
@@ -4731,7 +4990,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 6.46999979019165,
     "latent_y": 75.33000183105469,
     "latent_z": -79.04000091552734,
-    "duration_seconds": null
+    "duration_seconds": 3395,
+    "duracion": "56:35"
   },
   {
     "id": 261,
@@ -4749,7 +5009,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 110.7300033569336,
     "latent_y": -20.639999389648438,
     "latent_z": 20.030000686645508,
-    "duration_seconds": null
+    "duration_seconds": 909,
+    "duracion": "15:09"
   },
   {
     "id": 262,
@@ -4767,7 +5028,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 100.12999725341797,
     "latent_y": 20.950000762939453,
     "latent_z": -15.15999984741211,
-    "duration_seconds": null
+    "duration_seconds": 1021,
+    "duracion": "17:01"
   },
   {
     "id": 263,
@@ -4785,7 +5047,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -27.059999465942383,
     "latent_y": -73.72000122070312,
     "latent_z": -37.720001220703125,
-    "duration_seconds": null
+    "duration_seconds": 2657,
+    "duracion": "44:17"
   },
   {
     "id": 264,
@@ -4803,7 +5066,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -98.08999633789062,
     "latent_y": 46.38999938964844,
     "latent_z": 19.450000762939453,
-    "duration_seconds": null
+    "duration_seconds": 2051,
+    "duracion": "34:11"
   },
   {
     "id": 265,
@@ -4821,7 +5085,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 21.670000076293945,
     "latent_y": -12.430000305175781,
     "latent_z": -39.77000045776367,
-    "duration_seconds": null
+    "duration_seconds": 721,
+    "duracion": "12:01"
   },
   {
     "id": 266,
@@ -4840,7 +5105,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -27.75,
     "latent_y": 60.95000076293945,
     "latent_z": 91.86000061035156,
-    "duration_seconds": null
+    "duration_seconds": 206,
+    "duracion": "03:26"
   },
   {
     "id": 267,
@@ -4859,7 +5125,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -0.33000001311302185,
     "latent_y": -21.290000915527344,
     "latent_z": 120.0,
-    "duration_seconds": null
+    "duration_seconds": 1362,
+    "duracion": "22:42"
   },
   {
     "id": 268,
@@ -4877,7 +5144,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -38.47999954223633,
     "latent_y": 56.130001068115234,
     "latent_z": 28.860000610351562,
-    "duration_seconds": null
+    "duration_seconds": 817,
+    "duracion": "13:37"
   },
   {
     "id": 269,
@@ -4896,7 +5164,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -55.099998474121094,
     "latent_y": -22.510000228881836,
     "latent_z": -45.400001525878906,
-    "duration_seconds": null
+    "duration_seconds": 2392,
+    "duracion": "39:52"
   },
   {
     "id": 270,
@@ -4914,7 +5183,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -42.70000076293945,
     "latent_y": -2.119999885559082,
     "latent_z": 50.93000030517578,
-    "duration_seconds": null
+    "duration_seconds": 644,
+    "duracion": "10:44"
   },
   {
     "id": 271,
@@ -4932,7 +5202,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -93.2300033569336,
     "latent_y": 84.48999786376953,
     "latent_z": 5.789999961853027,
-    "duration_seconds": null
+    "duration_seconds": 56,
+    "duracion": "00:56"
   },
   {
     "id": 272,
@@ -4950,7 +5221,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 40.43000030517578,
     "latent_y": -5.840000152587891,
     "latent_z": -38.630001068115234,
-    "duration_seconds": null
+    "duration_seconds": 931,
+    "duracion": "15:31"
   },
   {
     "id": 273,
@@ -4968,7 +5240,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -60.779998779296875,
     "latent_y": 104.94000244140625,
     "latent_z": 38.900001525878906,
-    "duration_seconds": null
+    "duration_seconds": 530,
+    "duracion": "08:50"
   },
   {
     "id": 274,
@@ -4986,7 +5259,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 21.670000076293945,
     "latent_y": 14.5,
     "latent_z": 9.369999885559082,
-    "duration_seconds": null
+    "duration_seconds": 615,
+    "duracion": "10:15"
   },
   {
     "id": 275,
@@ -5004,7 +5278,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 27.469999313354492,
     "latent_y": 37.7400016784668,
     "latent_z": 24.3700008392334,
-    "duration_seconds": null
+    "duration_seconds": 667,
+    "duracion": "11:07"
   },
   {
     "id": 276,
@@ -5022,7 +5297,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 8.699999809265137,
     "latent_y": -36.150001525878906,
     "latent_z": 9.699999809265137,
-    "duration_seconds": null
+    "duration_seconds": 165,
+    "duracion": "02:45"
   },
   {
     "id": 277,
@@ -5040,7 +5316,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 55.83000183105469,
     "latent_y": 31.6200008392334,
     "latent_z": 12.899999618530273,
-    "duration_seconds": null
+    "duration_seconds": 462,
+    "duracion": "07:42"
   },
   {
     "id": 278,
@@ -5058,7 +5335,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 95.36000061035156,
     "latent_y": 37.720001220703125,
     "latent_z": 36.83000183105469,
-    "duration_seconds": null
+    "duration_seconds": 655,
+    "duracion": "10:55"
   },
   {
     "id": 279,
@@ -5076,7 +5354,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 44.970001220703125,
     "latent_y": 31.299999237060547,
     "latent_z": -72.5199966430664,
-    "duration_seconds": null
+    "duration_seconds": 1153,
+    "duracion": "19:13"
   },
   {
     "id": 280,
@@ -5094,7 +5373,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -5.010000228881836,
     "latent_y": 47.779998779296875,
     "latent_z": -1.9299999475479126,
-    "duration_seconds": null
+    "duration_seconds": 1549,
+    "duracion": "25:49"
   },
   {
     "id": 281,
@@ -5112,7 +5392,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -5.139999866485596,
     "latent_y": -83.47000122070312,
     "latent_z": 1.3300000429153442,
-    "duration_seconds": null
+    "duration_seconds": 1034,
+    "duracion": "17:14"
   },
   {
     "id": 282,
@@ -5130,7 +5411,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -71.87999725341797,
     "latent_y": 119.22000122070312,
     "latent_z": -0.8999999761581421,
-    "duration_seconds": null
+    "duration_seconds": 2012,
+    "duracion": "33:32"
   },
   {
     "id": 283,
@@ -5148,7 +5430,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -47.9900016784668,
     "latent_y": 6.829999923706055,
     "latent_z": 90.19000244140625,
-    "duration_seconds": null
+    "duration_seconds": 666,
+    "duracion": "11:06"
   },
   {
     "id": 284,
@@ -5166,7 +5449,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 4.559999942779541,
     "latent_y": -73.36000061035156,
     "latent_z": -56.83000183105469,
-    "duration_seconds": null
+    "duration_seconds": 4718,
+    "duracion": "01:18:38"
   },
   {
     "id": 285,
@@ -5184,7 +5468,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 68.41999816894531,
     "latent_y": -30.31999969482422,
     "latent_z": -52.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 1003,
+    "duracion": "16:43"
   },
   {
     "id": 286,
@@ -5203,7 +5488,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -4.619999885559082,
     "latent_y": 55.40999984741211,
     "latent_z": -84.86000061035156,
-    "duration_seconds": null
+    "duration_seconds": 283,
+    "duracion": "04:43"
   },
   {
     "id": 287,
@@ -5221,7 +5507,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 13.770000457763672,
     "latent_y": -21.729999542236328,
     "latent_z": -49.869998931884766,
-    "duration_seconds": null
+    "duration_seconds": 1521,
+    "duracion": "25:21"
   },
   {
     "id": 288,
@@ -5239,7 +5526,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -100.68000030517578,
     "latent_y": -10.25,
     "latent_z": -13.600000381469727,
-    "duration_seconds": null
+    "duration_seconds": 906,
+    "duracion": "15:06"
   },
   {
     "id": 289,
@@ -5258,7 +5546,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -68.12000274658203,
     "latent_y": 98.38999938964844,
     "latent_z": -42.34000015258789,
-    "duration_seconds": null
+    "duration_seconds": 907,
+    "duracion": "15:07"
   },
   {
     "id": 290,
@@ -5276,7 +5565,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -94.33000183105469,
     "latent_y": 37.779998779296875,
     "latent_z": -2.390000104904175,
-    "duration_seconds": null
+    "duration_seconds": 2731,
+    "duracion": "45:31"
   },
   {
     "id": 291,
@@ -5294,7 +5584,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -17.3799991607666,
     "latent_y": -93.55000305175781,
     "latent_z": -34.22999954223633,
-    "duration_seconds": null
+    "duration_seconds": 1050,
+    "duracion": "17:30"
   },
   {
     "id": 292,
@@ -5313,7 +5604,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -71.55999755859375,
     "latent_y": -11.09000015258789,
     "latent_z": 7.679999828338623,
-    "duration_seconds": null
+    "duration_seconds": 908,
+    "duracion": "15:08"
   },
   {
     "id": 293,
@@ -5331,7 +5623,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -55.15999984741211,
     "latent_y": -105.91999816894531,
     "latent_z": -22.25,
-    "duration_seconds": null
+    "duration_seconds": 1174,
+    "duracion": "19:34"
   },
   {
     "id": 294,
@@ -5349,7 +5642,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -7.119999885559082,
     "latent_y": 83.04000091552734,
     "latent_z": -24.290000915527344,
-    "duration_seconds": null
+    "duration_seconds": 434,
+    "duracion": "07:14"
   },
   {
     "id": 295,
@@ -5368,7 +5662,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 24.549999237060547,
     "latent_y": -90.2699966430664,
     "latent_z": -16.56999969482422,
-    "duration_seconds": null
+    "duration_seconds": 535,
+    "duracion": "08:55"
   },
   {
     "id": 296,
@@ -5386,7 +5681,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 90.88999938964844,
     "latent_y": 71.41999816894531,
     "latent_z": -25.110000610351562,
-    "duration_seconds": null
+    "duration_seconds": 77,
+    "duracion": "01:17"
   },
   {
     "id": 297,
@@ -5405,7 +5701,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -17.579999923706055,
     "latent_y": 81.91999816894531,
     "latent_z": -92.94000244140625,
-    "duration_seconds": null
+    "duration_seconds": 899,
+    "duracion": "14:59"
   },
   {
     "id": 298,
@@ -5423,7 +5720,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -61.040000915527344,
     "latent_y": -14.979999542236328,
     "latent_z": 54.470001220703125,
-    "duration_seconds": null
+    "duration_seconds": 755,
+    "duracion": "12:35"
   },
   {
     "id": 299,
@@ -5441,7 +5739,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -20.1299991607666,
     "latent_y": -87.16000366210938,
     "latent_z": -66.58000183105469,
-    "duration_seconds": null
+    "duration_seconds": 1547,
+    "duracion": "25:47"
   },
   {
     "id": 300,
@@ -5459,7 +5758,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -35.16999816894531,
     "latent_y": 1.8700000047683716,
     "latent_z": 71.93000030517578,
-    "duration_seconds": null
+    "duration_seconds": 861,
+    "duracion": "14:21"
   },
   {
     "id": 301,
@@ -5477,7 +5777,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -49.380001068115234,
     "latent_y": -31.8700008392334,
     "latent_z": 72.16999816894531,
-    "duration_seconds": null
+    "duration_seconds": 456,
+    "duracion": "07:36"
   },
   {
     "id": 302,
@@ -5495,7 +5796,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -52.41999816894531,
     "latent_y": -66.13999938964844,
     "latent_z": -19.229999542236328,
-    "duration_seconds": null
+    "duration_seconds": 142,
+    "duracion": "02:22"
   },
   {
     "id": 303,
@@ -5513,7 +5815,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -77.86000061035156,
     "latent_y": 99.86000061035156,
     "latent_z": 50.939998626708984,
-    "duration_seconds": null
+    "duration_seconds": 801,
+    "duracion": "13:21"
   },
   {
     "id": 304,
@@ -5531,7 +5834,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 65.75,
     "latent_y": -21.420000076293945,
     "latent_z": 8.880000114440918,
-    "duration_seconds": null
+    "duration_seconds": 837,
+    "duracion": "13:57"
   },
   {
     "id": 305,
@@ -5549,7 +5853,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 63.11000061035156,
     "latent_y": 13.899999618530273,
     "latent_z": 9.40999984741211,
-    "duration_seconds": null
+    "duration_seconds": 294,
+    "duracion": "04:54"
   },
   {
     "id": 306,
@@ -5568,7 +5873,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -50.619998931884766,
     "latent_y": -17.979999542236328,
     "latent_z": -35.290000915527344,
-    "duration_seconds": null
+    "duration_seconds": 419,
+    "duracion": "06:59"
   },
   {
     "id": 307,
@@ -5586,7 +5892,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 55.84000015258789,
     "latent_y": 7.699999809265137,
     "latent_z": -51.5,
-    "duration_seconds": null
+    "duration_seconds": 1168,
+    "duracion": "19:28"
   },
   {
     "id": 308,
@@ -5604,7 +5911,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -19.559999465942383,
     "latent_y": -78.29000091552734,
     "latent_z": -24.309999465942383,
-    "duration_seconds": null
+    "duration_seconds": 1390,
+    "duracion": "23:10"
   },
   {
     "id": 309,
@@ -5622,7 +5930,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -3.9600000381469727,
     "latent_y": -21.469999313354492,
     "latent_z": 25.68000030517578,
-    "duration_seconds": null
+    "duration_seconds": 841,
+    "duracion": "14:01"
   },
   {
     "id": 310,
@@ -5640,7 +5949,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -109.66999816894531,
     "latent_y": 103.76000213623047,
     "latent_z": 22.469999313354492,
-    "duration_seconds": null
+    "duration_seconds": 170,
+    "duracion": "02:50"
   },
   {
     "id": 311,
@@ -5658,7 +5968,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -20.06999969482422,
     "latent_y": 13.739999771118164,
     "latent_z": -119.5199966430664,
-    "duration_seconds": null
+    "duration_seconds": 312,
+    "duracion": "05:12"
   },
   {
     "id": 312,
@@ -5676,7 +5987,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -64.79000091552734,
     "latent_y": 81.1500015258789,
     "latent_z": 21.389999389648438,
-    "duration_seconds": null
+    "duration_seconds": 2182,
+    "duracion": "36:22"
   },
   {
     "id": 313,
@@ -5694,7 +6006,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 40.75,
     "latent_y": -32.060001373291016,
     "latent_z": -5.800000190734863,
-    "duration_seconds": null
+    "duration_seconds": 843,
+    "duracion": "14:03"
   },
   {
     "id": 314,
@@ -5712,7 +6025,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 55.56999969482422,
     "latent_y": 22.399999618530273,
     "latent_z": 31.809999465942383,
-    "duration_seconds": null
+    "duration_seconds": 389,
+    "duracion": "06:29"
   },
   {
     "id": 315,
@@ -5730,7 +6044,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 15.970000267028809,
     "latent_y": -0.07000000029802322,
     "latent_z": 9.010000228881836,
-    "duration_seconds": null
+    "duration_seconds": 786,
+    "duracion": "13:06"
   },
   {
     "id": 316,
@@ -5748,7 +6063,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -17.450000762939453,
     "latent_y": -95.70999908447266,
     "latent_z": -14.140000343322754,
-    "duration_seconds": null
+    "duration_seconds": 1521,
+    "duracion": "25:21"
   },
   {
     "id": 317,
@@ -5766,7 +6082,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 78.33000183105469,
     "latent_y": 65.41000366210938,
     "latent_z": 4.460000038146973,
-    "duration_seconds": null
+    "duration_seconds": 290,
+    "duracion": "04:50"
   },
   {
     "id": 318,
@@ -5784,7 +6101,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -105.05000305175781,
     "latent_y": -28.579999923706055,
     "latent_z": -19.139999389648438,
-    "duration_seconds": null
+    "duration_seconds": 239,
+    "duracion": "03:59"
   },
   {
     "id": 319,
@@ -5803,7 +6121,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 9.220000267028809,
     "latent_y": -11.829999923706055,
     "latent_z": -92.29000091552734,
-    "duration_seconds": null
+    "duration_seconds": 424,
+    "duracion": "07:04"
   },
   {
     "id": 320,
@@ -5822,7 +6141,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -5.940000057220459,
     "latent_y": 53.630001068115234,
     "latent_z": 79.66000366210938,
-    "duration_seconds": null
+    "duration_seconds": 825,
+    "duracion": "13:45"
   },
   {
     "id": 321,
@@ -5840,7 +6160,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -34.810001373291016,
     "latent_y": 75.13999938964844,
     "latent_z": 25.299999237060547,
-    "duration_seconds": null
+    "duration_seconds": 4720,
+    "duracion": "01:18:40"
   },
   {
     "id": 322,
@@ -5858,7 +6179,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 31.770000457763672,
     "latent_y": -36.5099983215332,
     "latent_z": -33.36000061035156,
-    "duration_seconds": null
+    "duration_seconds": 1307,
+    "duracion": "21:47"
   },
   {
     "id": 323,
@@ -5876,7 +6198,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 42.61000061035156,
     "latent_y": -50.47999954223633,
     "latent_z": -33.84000015258789,
-    "duration_seconds": null
+    "duration_seconds": 1000,
+    "duracion": "16:40"
   },
   {
     "id": 324,
@@ -5894,7 +6217,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 110.2300033569336,
     "latent_y": 9.029999732971191,
     "latent_z": 31.479999542236328,
-    "duration_seconds": null
+    "duration_seconds": 1210,
+    "duracion": "20:10"
   },
   {
     "id": 325,
@@ -5912,7 +6236,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 83.30999755859375,
     "latent_y": 0.23999999463558197,
     "latent_z": 4.519999980926514,
-    "duration_seconds": null
+    "duration_seconds": 1156,
+    "duracion": "19:16"
   },
   {
     "id": 326,
@@ -5930,7 +6255,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -4.199999809265137,
     "latent_y": 7.590000152587891,
     "latent_z": -109.72000122070312,
-    "duration_seconds": null
+    "duration_seconds": 383,
+    "duracion": "06:23"
   },
   {
     "id": 327,
@@ -5948,7 +6274,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 66.44000244140625,
     "latent_y": -35.029998779296875,
     "latent_z": 38.5099983215332,
-    "duration_seconds": null
+    "duration_seconds": 645,
+    "duracion": "10:45"
   },
   {
     "id": 328,
@@ -5966,7 +6293,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -35.86000061035156,
     "latent_y": 27.709999084472656,
     "latent_z": -98.11000061035156,
-    "duration_seconds": null
+    "duration_seconds": 134,
+    "duracion": "02:14"
   },
   {
     "id": 329,
@@ -5984,7 +6312,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -89.16000366210938,
     "latent_y": 71.76000213623047,
     "latent_z": -14.180000305175781,
-    "duration_seconds": null
+    "duration_seconds": 329,
+    "duracion": "05:29"
   },
   {
     "id": 330,
@@ -6002,7 +6331,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -29.950000762939453,
     "latent_y": -89.58999633789062,
     "latent_z": -47.04999923706055,
-    "duration_seconds": null
+    "duration_seconds": 516,
+    "duracion": "08:36"
   },
   {
     "id": 331,
@@ -6020,7 +6350,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -55.20000076293945,
     "latent_y": 7.679999828338623,
     "latent_z": -48.4900016784668,
-    "duration_seconds": null
+    "duration_seconds": 1075,
+    "duracion": "17:55"
   },
   {
     "id": 332,
@@ -6038,7 +6369,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 41.400001525878906,
     "latent_y": -23.139999389648438,
     "latent_z": 10.15999984741211,
-    "duration_seconds": null
+    "duration_seconds": 1378,
+    "duracion": "22:58"
   },
   {
     "id": 333,
@@ -6056,7 +6388,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 61.15999984741211,
     "latent_y": 31.420000076293945,
     "latent_z": 0.019999999552965164,
-    "duration_seconds": null
+    "duration_seconds": 704,
+    "duracion": "11:44"
   },
   {
     "id": 334,
@@ -6075,7 +6408,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -77.45999908447266,
     "latent_y": -83.87999725341797,
     "latent_z": -21.309999465942383,
-    "duration_seconds": null
+    "duration_seconds": 444,
+    "duracion": "07:24"
   },
   {
     "id": 335,
@@ -6093,7 +6427,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -61.209999084472656,
     "latent_y": 21.479999542236328,
     "latent_z": -40.77000045776367,
-    "duration_seconds": null
+    "duration_seconds": 669,
+    "duracion": "11:09"
   },
   {
     "id": 336,
@@ -6111,7 +6446,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -8.65999984741211,
     "latent_y": 66.62999725341797,
     "latent_z": -19.3799991607666,
-    "duration_seconds": null
+    "duration_seconds": 3092,
+    "duracion": "51:32"
   },
   {
     "id": 337,
@@ -6129,7 +6465,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -53.29999923706055,
     "latent_y": -41.970001220703125,
     "latent_z": 85.5199966430664,
-    "duration_seconds": null
+    "duration_seconds": 1590,
+    "duracion": "26:30"
   },
   {
     "id": 338,
@@ -6147,7 +6484,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -33.11000061035156,
     "latent_y": 32.25,
     "latent_z": -116.54000091552734,
-    "duration_seconds": null
+    "duration_seconds": 420,
+    "duracion": "07:00"
   },
   {
     "id": 339,
@@ -6165,7 +6503,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -70.51000213623047,
     "latent_y": -31.260000228881836,
     "latent_z": 60.130001068115234,
-    "duration_seconds": null
+    "duration_seconds": 1065,
+    "duracion": "17:45"
   },
   {
     "id": 340,
@@ -6183,7 +6522,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -104.33999633789062,
     "latent_y": 70.68000030517578,
     "latent_z": 59.06999969482422,
-    "duration_seconds": null
+    "duration_seconds": 333,
+    "duracion": "05:33"
   },
   {
     "id": 341,
@@ -6202,7 +6542,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -77.08999633789062,
     "latent_y": 67.69999694824219,
     "latent_z": -51.7599983215332,
-    "duration_seconds": null
+    "duration_seconds": 337,
+    "duracion": "05:37"
   },
   {
     "id": 342,
@@ -6220,7 +6561,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 85.11000061035156,
     "latent_y": -22.3700008392334,
     "latent_z": 8.9399995803833,
-    "duration_seconds": null
+    "duration_seconds": 840,
+    "duracion": "14:00"
   },
   {
     "id": 343,
@@ -6238,7 +6580,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 68.58000183105469,
     "latent_y": -46.2599983215332,
     "latent_z": 30.059999465942383,
-    "duration_seconds": null
+    "duration_seconds": 585,
+    "duracion": "09:45"
   },
   {
     "id": 344,
@@ -6256,7 +6599,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -68.52999877929688,
     "latent_y": 84.41999816894531,
     "latent_z": 43.65999984741211,
-    "duration_seconds": null
+    "duration_seconds": 525,
+    "duracion": "08:45"
   },
   {
     "id": 345,
@@ -6274,7 +6618,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -34.86000061035156,
     "latent_y": 17.010000228881836,
     "latent_z": -74.44000244140625,
-    "duration_seconds": null
+    "duration_seconds": 2084,
+    "duracion": "34:44"
   },
   {
     "id": 346,
@@ -6294,7 +6639,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -20.469999313354492,
     "latent_y": 85.16000366210938,
     "latent_z": -70.76000213623047,
-    "duration_seconds": null
+    "duration_seconds": 4014,
+    "duracion": "01:06:54"
   },
   {
     "id": 347,
@@ -6312,7 +6658,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -8.239999771118164,
     "latent_y": 31.549999237060547,
     "latent_z": -89.33999633789062,
-    "duration_seconds": null
+    "duration_seconds": 1228,
+    "duracion": "20:28"
   },
   {
     "id": 348,
@@ -6330,7 +6677,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -40.83000183105469,
     "latent_y": -51.77000045776367,
     "latent_z": 102.83000183105469,
-    "duration_seconds": null
+    "duration_seconds": 589,
+    "duracion": "09:49"
   },
   {
     "id": 349,
@@ -6348,7 +6696,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 22.670000076293945,
     "latent_y": 46.25,
     "latent_z": -31.149999618530273,
-    "duration_seconds": null
+    "duration_seconds": 2391,
+    "duracion": "39:51"
   },
   {
     "id": 350,
@@ -6367,7 +6716,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -59.79999923706055,
     "latent_y": 99.73999786376953,
     "latent_z": -58.90999984741211,
-    "duration_seconds": null
+    "duration_seconds": 13827,
+    "duracion": "03:50:27"
   },
   {
     "id": 351,
@@ -6385,7 +6735,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -43.189998626708984,
     "latent_y": 46.290000915527344,
     "latent_z": -99.52999877929688,
-    "duration_seconds": null
+    "duration_seconds": 4925,
+    "duracion": "01:22:05"
   },
   {
     "id": 352,
@@ -6404,7 +6755,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -120.0,
     "latent_y": 45.119998931884766,
     "latent_z": 38.5099983215332,
-    "duration_seconds": null
+    "duration_seconds": 770,
+    "duracion": "12:50"
   },
   {
     "id": 353,
@@ -6422,7 +6774,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -2.2100000381469727,
     "latent_y": -83.12999725341797,
     "latent_z": -24.040000915527344,
-    "duration_seconds": null
+    "duration_seconds": 678,
+    "duracion": "11:18"
   },
   {
     "id": 354,
@@ -6440,7 +6793,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -81.47000122070312,
     "latent_y": 44.70000076293945,
     "latent_z": 56.130001068115234,
-    "duration_seconds": null
+    "duration_seconds": 259,
+    "duracion": "04:19"
   },
   {
     "id": 355,
@@ -6458,7 +6812,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -93.80000305175781,
     "latent_y": 86.98999786376953,
     "latent_z": 27.09000015258789,
-    "duration_seconds": null
+    "duration_seconds": 589,
+    "duracion": "09:49"
   },
   {
     "id": 356,
@@ -6476,7 +6831,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 54.45000076293945,
     "latent_y": 74.37000274658203,
     "latent_z": 76.52999877929688,
-    "duration_seconds": null
+    "duration_seconds": 1669,
+    "duracion": "27:49"
   },
   {
     "id": 357,
@@ -6495,7 +6851,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -80.5999984741211,
     "latent_y": 86.33000183105469,
     "latent_z": -39.97999954223633,
-    "duration_seconds": null
+    "duration_seconds": 2428,
+    "duracion": "40:28"
   },
   {
     "id": 358,
@@ -6513,7 +6870,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 29.770000457763672,
     "latent_y": -11.300000190734863,
     "latent_z": -24.75,
-    "duration_seconds": null
+    "duration_seconds": 118,
+    "duracion": "01:58"
   },
   {
     "id": 359,
@@ -6532,7 +6890,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -46.459999084472656,
     "latent_y": 74.7699966430664,
     "latent_z": 91.69000244140625,
-    "duration_seconds": null
+    "duration_seconds": 396,
+    "duracion": "06:36"
   },
   {
     "id": 360,
@@ -6550,7 +6909,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -41.18000030517578,
     "latent_y": -72.54000091552734,
     "latent_z": -59.63999938964844,
-    "duration_seconds": null
+    "duration_seconds": 1012,
+    "duracion": "16:52"
   },
   {
     "id": 361,
@@ -6568,7 +6928,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 19.729999542236328,
     "latent_y": 54.68000030517578,
     "latent_z": 17.350000381469727,
-    "duration_seconds": null
+    "duration_seconds": 7341,
+    "duracion": "02:02:21"
   },
   {
     "id": 362,
@@ -6587,7 +6948,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -8.649999618530273,
     "latent_y": -58.869998931884766,
     "latent_z": 67.66999816894531,
-    "duration_seconds": null
+    "duration_seconds": 106,
+    "duracion": "01:46"
   },
   {
     "id": 363,
@@ -6605,7 +6967,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -66.86000061035156,
     "latent_y": -39.880001068115234,
     "latent_z": 99.86000061035156,
-    "duration_seconds": null
+    "duration_seconds": 977,
+    "duracion": "16:17"
   },
   {
     "id": 364,
@@ -6623,7 +6986,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -30.25,
     "latent_y": 12.15999984741211,
     "latent_z": -1.840000033378601,
-    "duration_seconds": null
+    "duration_seconds": 849,
+    "duracion": "14:09"
   },
   {
     "id": 365,
@@ -6641,7 +7005,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -31.510000228881836,
     "latent_y": 12.670000076293945,
     "latent_z": -105.37000274658203,
-    "duration_seconds": null
+    "duration_seconds": 262,
+    "duracion": "04:22"
   },
   {
     "id": 366,
@@ -6659,7 +7024,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -65.16000366210938,
     "latent_y": -26.219999313354492,
     "latent_z": 86.4800033569336,
-    "duration_seconds": null
+    "duration_seconds": 701,
+    "duracion": "11:41"
   },
   {
     "id": 367,
@@ -6677,7 +7043,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 0.6200000047683716,
     "latent_y": 35.36000061035156,
     "latent_z": 50.66999816894531,
-    "duration_seconds": null
+    "duration_seconds": 926,
+    "duracion": "15:26"
   },
   {
     "id": 368,
@@ -6695,7 +7062,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 54.38999938964844,
     "latent_y": 48.849998474121094,
     "latent_z": -50.34000015258789,
-    "duration_seconds": null
+    "duration_seconds": 225,
+    "duracion": "03:45"
   },
   {
     "id": 369,
@@ -6714,7 +7082,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -38.0099983215332,
     "latent_y": 86.4800033569336,
     "latent_z": 72.54000091552734,
-    "duration_seconds": null
+    "duration_seconds": 1852,
+    "duracion": "30:52"
   },
   {
     "id": 370,
@@ -6732,7 +7101,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -22.079999923706055,
     "latent_y": 39.849998474121094,
     "latent_z": -100.37999725341797,
-    "duration_seconds": null
+    "duration_seconds": 1500,
+    "duracion": "25:00"
   },
   {
     "id": 371,
@@ -6750,7 +7120,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 19.5,
     "latent_y": 0.41999998688697815,
     "latent_z": -27.219999313354492,
-    "duration_seconds": null
+    "duration_seconds": 1369,
+    "duracion": "22:49"
   },
   {
     "id": 372,
@@ -6768,7 +7139,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -75.13999938964844,
     "latent_y": 14.279999732971191,
     "latent_z": -36.5,
-    "duration_seconds": null
+    "duration_seconds": 1530,
+    "duracion": "25:30"
   },
   {
     "id": 373,
@@ -6786,7 +7158,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 35.61000061035156,
     "latent_y": 17.920000076293945,
     "latent_z": 19.770000457763672,
-    "duration_seconds": null
+    "duration_seconds": 666,
+    "duracion": "11:06"
   },
   {
     "id": 374,
@@ -6804,7 +7177,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 12.949999809265137,
     "latent_y": 22.219999313354492,
     "latent_z": 30.299999237060547,
-    "duration_seconds": null
+    "duration_seconds": 1202,
+    "duracion": "20:02"
   },
   {
     "id": 375,
@@ -6823,7 +7197,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -5.03000020980835,
     "latent_y": -13.800000190734863,
     "latent_z": -89.29000091552734,
-    "duration_seconds": null
+    "duration_seconds": 1144,
+    "duracion": "19:04"
   },
   {
     "id": 376,
@@ -6841,7 +7216,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -83.12999725341797,
     "latent_y": -20.399999618530273,
     "latent_z": 97.30999755859375,
-    "duration_seconds": null
+    "duration_seconds": 641,
+    "duracion": "10:41"
   },
   {
     "id": 377,
@@ -6859,7 +7235,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -86.80000305175781,
     "latent_y": -28.709999084472656,
     "latent_z": 11.380000114440918,
-    "duration_seconds": null
+    "duration_seconds": 1107,
+    "duracion": "18:27"
   },
   {
     "id": 378,
@@ -6877,7 +7254,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -23.860000610351562,
     "latent_y": 18.610000610351562,
     "latent_z": -89.0999984741211,
-    "duration_seconds": null
+    "duration_seconds": 281,
+    "duracion": "04:41"
   },
   {
     "id": 379,
@@ -6895,7 +7273,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -107.87999725341797,
     "latent_y": 72.04000091552734,
     "latent_z": 18.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 451,
+    "duracion": "07:31"
   },
   {
     "id": 380,
@@ -6913,7 +7292,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 51.43000030517578,
     "latent_y": -31.8799991607666,
     "latent_z": 27.889999389648438,
-    "duration_seconds": null
+    "duration_seconds": 127,
+    "duracion": "02:07"
   },
   {
     "id": 381,
@@ -6931,7 +7311,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -74.37999725341797,
     "latent_y": 46.310001373291016,
     "latent_z": 13.569999694824219,
-    "duration_seconds": null
+    "duration_seconds": 1292,
+    "duracion": "21:32"
   },
   {
     "id": 382,
@@ -6949,7 +7330,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 37.43000030517578,
     "latent_y": 91.7300033569336,
     "latent_z": -30.100000381469727,
-    "duration_seconds": null
+    "duration_seconds": 1852,
+    "duracion": "30:52"
   },
   {
     "id": 383,
@@ -6967,7 +7349,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -35.83000183105469,
     "latent_y": -41.27000045776367,
     "latent_z": 83.20999908447266,
-    "duration_seconds": null
+    "duration_seconds": 519,
+    "duracion": "08:39"
   },
   {
     "id": 384,
@@ -6985,7 +7368,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -49.68000030517578,
     "latent_y": 73.12999725341797,
     "latent_z": 41.2599983215332,
-    "duration_seconds": null
+    "duration_seconds": 286,
+    "duracion": "04:46"
   },
   {
     "id": 385,
@@ -7003,7 +7387,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -57.66999816894531,
     "latent_y": 96.4800033569336,
     "latent_z": 3.9200000762939453,
-    "duration_seconds": null
+    "duration_seconds": 947,
+    "duracion": "15:47"
   },
   {
     "id": 386,
@@ -7021,7 +7406,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 9.199999809265137,
     "latent_y": 11.779999732971191,
     "latent_z": 42.959999084472656,
-    "duration_seconds": null
+    "duration_seconds": 895,
+    "duracion": "14:55"
   },
   {
     "id": 387,
@@ -7039,7 +7425,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 8.369999885559082,
     "latent_y": 39.7400016784668,
     "latent_z": 9.890000343322754,
-    "duration_seconds": null
+    "duration_seconds": 587,
+    "duracion": "09:47"
   },
   {
     "id": 388,
@@ -7057,7 +7444,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -56.900001525878906,
     "latent_y": -15.930000305175781,
     "latent_z": 102.16999816894531,
-    "duration_seconds": null
+    "duration_seconds": 730,
+    "duracion": "12:10"
   },
   {
     "id": 389,
@@ -7075,7 +7463,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 21.959999084472656,
     "latent_y": -10.479999542236328,
     "latent_z": 64.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 2083,
+    "duracion": "34:43"
   },
   {
     "id": 390,
@@ -7094,7 +7483,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -58.369998931884766,
     "latent_y": 66.81999969482422,
     "latent_z": -33.84000015258789,
-    "duration_seconds": null
+    "duration_seconds": 607,
+    "duracion": "10:07"
   },
   {
     "id": 391,
@@ -7112,7 +7502,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -45.70000076293945,
     "latent_y": -71.93000030517578,
     "latent_z": -42.5099983215332,
-    "duration_seconds": null
+    "duration_seconds": 594,
+    "duracion": "09:54"
   },
   {
     "id": 392,
@@ -7130,7 +7521,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -41.34000015258789,
     "latent_y": 11.100000381469727,
     "latent_z": -90.86000061035156,
-    "duration_seconds": null
+    "duration_seconds": 1010,
+    "duracion": "16:50"
   },
   {
     "id": 393,
@@ -7148,7 +7540,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 67.7300033569336,
     "latent_y": 94.36000061035156,
     "latent_z": 6.429999828338623,
-    "duration_seconds": null
+    "duration_seconds": 1169,
+    "duracion": "19:29"
   },
   {
     "id": 394,
@@ -7166,7 +7559,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 13.779999732971191,
     "latent_y": -10.079999923706055,
     "latent_z": 55.04999923706055,
-    "duration_seconds": null
+    "duration_seconds": 945,
+    "duracion": "15:45"
   },
   {
     "id": 395,
@@ -7184,7 +7578,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -87.2699966430664,
     "latent_y": 71.05999755859375,
     "latent_z": 18.600000381469727,
-    "duration_seconds": null
+    "duration_seconds": 421,
+    "duracion": "07:01"
   },
   {
     "id": 396,
@@ -7202,7 +7597,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -17.549999237060547,
     "latent_y": 21.260000228881836,
     "latent_z": 35.040000915527344,
-    "duration_seconds": null
+    "duration_seconds": 1248,
+    "duracion": "20:48"
   },
   {
     "id": 397,
@@ -7220,7 +7616,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -91.33999633789062,
     "latent_y": 104.33999633789062,
     "latent_z": 13.510000228881836,
-    "duration_seconds": null
+    "duration_seconds": 68,
+    "duracion": "01:08"
   },
   {
     "id": 398,
@@ -7238,7 +7635,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -58.56999969482422,
     "latent_y": 46.279998779296875,
     "latent_z": 22.860000610351562,
-    "duration_seconds": null
+    "duration_seconds": 1024,
+    "duracion": "17:04"
   },
   {
     "id": 399,
@@ -7256,7 +7654,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -77.9000015258789,
     "latent_y": 73.29000091552734,
     "latent_z": 29.59000015258789,
-    "duration_seconds": null
+    "duration_seconds": 307,
+    "duracion": "05:07"
   },
   {
     "id": 400,
@@ -7274,7 +7673,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 21.75,
     "latent_y": 1.3899999856948853,
     "latent_z": 24.65999984741211,
-    "duration_seconds": null
+    "duration_seconds": 1469,
+    "duracion": "24:29"
   },
   {
     "id": 401,
@@ -7292,7 +7692,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 6.679999828338623,
     "latent_y": 90.5199966430664,
     "latent_z": 5.440000057220459,
-    "duration_seconds": null
+    "duration_seconds": 409,
+    "duracion": "06:49"
   },
   {
     "id": 402,
@@ -7311,7 +7712,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -72.2699966430664,
     "latent_y": 87.01000213623047,
     "latent_z": -57.09000015258789,
-    "duration_seconds": null
+    "duration_seconds": 715,
+    "duracion": "11:55"
   },
   {
     "id": 403,
@@ -7329,7 +7731,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -66.30000305175781,
     "latent_y": 31.15999984741211,
     "latent_z": 5.539999961853027,
-    "duration_seconds": null
+    "duration_seconds": 2400,
+    "duracion": "40:00"
   },
   {
     "id": 404,
@@ -7347,7 +7750,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -18.81999969482422,
     "latent_y": 2.9600000381469727,
     "latent_z": -97.20999908447266,
-    "duration_seconds": null
+    "duration_seconds": 3709,
+    "duracion": "01:01:49"
   },
   {
     "id": 405,
@@ -7365,7 +7769,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 14.970000267028809,
     "latent_y": -27.440000534057617,
     "latent_z": 44.7400016784668,
-    "duration_seconds": null
+    "duration_seconds": 1065,
+    "duracion": "17:45"
   },
   {
     "id": 406,
@@ -7384,7 +7789,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -10.75,
     "latent_y": 89.51000213623047,
     "latent_z": 87.3499984741211,
-    "duration_seconds": null
+    "duration_seconds": 565,
+    "duracion": "09:25"
   },
   {
     "id": 407,
@@ -7402,7 +7808,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -73.48999786376953,
     "latent_y": 67.9800033569336,
     "latent_z": 10.609999656677246,
-    "duration_seconds": null
+    "duration_seconds": 5453,
+    "duracion": "01:30:53"
   },
   {
     "id": 408,
@@ -7420,7 +7827,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 99.86000061035156,
     "latent_y": 4.369999885559082,
     "latent_z": 12.119999885559082,
-    "duration_seconds": null
+    "duration_seconds": 1259,
+    "duracion": "20:59"
   },
   {
     "id": 409,
@@ -7438,7 +7846,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 32.79999923706055,
     "latent_y": -49.02000045776367,
     "latent_z": 6.409999847412109,
-    "duration_seconds": null
+    "duration_seconds": 423,
+    "duracion": "07:03"
   },
   {
     "id": 410,
@@ -7457,7 +7866,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -49.70000076293945,
     "latent_y": 93.9000015258789,
     "latent_z": -45.33000183105469,
-    "duration_seconds": null
+    "duration_seconds": 1109,
+    "duracion": "18:29"
   },
   {
     "id": 411,
@@ -7475,7 +7885,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 85.93000030517578,
     "latent_y": -5.199999809265137,
     "latent_z": 25.200000762939453,
-    "duration_seconds": null
+    "duration_seconds": 811,
+    "duracion": "13:31"
   },
   {
     "id": 412,
@@ -7493,7 +7904,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -44.95000076293945,
     "latent_y": -29.889999389648438,
     "latent_z": 95.5,
-    "duration_seconds": null
+    "duration_seconds": 360,
+    "duracion": "06:00"
   },
   {
     "id": 413,
@@ -7512,7 +7924,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -12.510000228881836,
     "latent_y": 69.97000122070312,
     "latent_z": 86.18000030517578,
-    "duration_seconds": null
+    "duration_seconds": 600,
+    "duracion": "10:00"
   },
   {
     "id": 414,
@@ -7530,7 +7943,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -76.33999633789062,
     "latent_y": -59.15999984741211,
     "latent_z": 74.18000030517578,
-    "duration_seconds": null
+    "duration_seconds": 824,
+    "duracion": "13:44"
   },
   {
     "id": 415,
@@ -7549,7 +7963,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 27.40999984741211,
     "latent_y": -83.8499984741211,
     "latent_z": -3.809999942779541,
-    "duration_seconds": null
+    "duration_seconds": 394,
+    "duracion": "06:34"
   },
   {
     "id": 416,
@@ -7567,7 +7982,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 58.75,
     "latent_y": 62.0,
     "latent_z": 17.420000076293945,
-    "duration_seconds": null
+    "duration_seconds": 129,
+    "duracion": "02:09"
   },
   {
     "id": 417,
@@ -7585,7 +8001,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -80.06999969482422,
     "latent_y": 55.529998779296875,
     "latent_z": 24.729999542236328,
-    "duration_seconds": null
+    "duration_seconds": 881,
+    "duracion": "14:41"
   },
   {
     "id": 418,
@@ -7603,7 +8020,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -97.75,
     "latent_y": -16.68000030517578,
     "latent_z": 89.72000122070312,
-    "duration_seconds": null
+    "duration_seconds": 1124,
+    "duracion": "18:44"
   },
   {
     "id": 419,
@@ -7621,7 +8039,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -63.2400016784668,
     "latent_y": 63.220001220703125,
     "latent_z": 28.639999389648438,
-    "duration_seconds": null
+    "duration_seconds": 1314,
+    "duracion": "21:54"
   },
   {
     "id": 420,
@@ -7639,7 +8058,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -74.51000213623047,
     "latent_y": 96.66000366210938,
     "latent_z": -6.409999847412109,
-    "duration_seconds": null
+    "duration_seconds": 651,
+    "duracion": "10:51"
   },
   {
     "id": 421,
@@ -7657,7 +8077,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 15.680000305175781,
     "latent_y": 11.020000457763672,
     "latent_z": -5.710000038146973,
-    "duration_seconds": null
+    "duration_seconds": 620,
+    "duracion": "10:20"
   },
   {
     "id": 422,
@@ -7675,7 +8096,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -110.18000030517578,
     "latent_y": 90.7699966430664,
     "latent_z": 33.709999084472656,
-    "duration_seconds": null
+    "duration_seconds": 596,
+    "duracion": "09:56"
   },
   {
     "id": 423,
@@ -7693,7 +8115,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": 97.12999725341797,
     "latent_y": 57.689998626708984,
     "latent_z": 2.880000114440918,
-    "duration_seconds": null
+    "duration_seconds": 161,
+    "duracion": "02:41"
   },
   {
     "id": 424,
@@ -7711,7 +8134,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -40.880001068115234,
     "latent_y": -116.33000183105469,
     "latent_z": -31.6200008392334,
-    "duration_seconds": null
+    "duration_seconds": 171,
+    "duracion": "02:51"
   },
   {
     "id": 425,
@@ -7729,7 +8153,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -59.560001373291016,
     "latent_y": -77.94000244140625,
     "latent_z": -51.15999984741211,
-    "duration_seconds": null
+    "duration_seconds": 328,
+    "duracion": "05:28"
   },
   {
     "id": 426,
@@ -7748,7 +8173,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -19.979999542236328,
     "latent_y": -71.25,
     "latent_z": 66.30000305175781,
-    "duration_seconds": null
+    "duration_seconds": 1696,
+    "duracion": "28:16"
   },
   {
     "id": 427,
@@ -7766,7 +8192,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -61.0099983215332,
     "latent_y": -59.68000030517578,
     "latent_z": -37.470001220703125,
-    "duration_seconds": null
+    "duration_seconds": 718,
+    "duracion": "11:58"
   },
   {
     "id": 428,
@@ -7785,7 +8212,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -9.079999923706055,
     "latent_y": 72.36000061035156,
     "latent_z": 70.58999633789062,
-    "duration_seconds": null
+    "duration_seconds": 704,
+    "duracion": "11:44"
   },
   {
     "id": 429,
@@ -7803,7 +8231,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -23.920000076293945,
     "latent_y": -55.02000045776367,
     "latent_z": -16.450000762939453,
-    "duration_seconds": null
+    "duration_seconds": 1817,
+    "duracion": "30:17"
   },
   {
     "id": 430,
@@ -7822,7 +8251,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -9.630000114440918,
     "latent_y": 70.81999969482422,
     "latent_z": -84.62000274658203,
-    "duration_seconds": null
+    "duration_seconds": 451,
+    "duracion": "07:31"
   },
   {
     "id": 431,
@@ -7840,7 +8270,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -58.43000030517578,
     "latent_y": 62.63999938964844,
     "latent_z": 14.90999984741211,
-    "duration_seconds": null
+    "duration_seconds": 827,
+    "duracion": "13:47"
   },
   {
     "id": 432,
@@ -7858,7 +8289,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -60.79999923706055,
     "latent_y": 50.189998626708984,
     "latent_z": 41.84000015258789,
-    "duration_seconds": null
+    "duration_seconds": 91,
+    "duracion": "01:31"
   },
   {
     "id": 433,
@@ -7877,7 +8309,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -110.33000183105469,
     "latent_y": 35.7400016784668,
     "latent_z": 41.630001068115234,
-    "duration_seconds": null
+    "duration_seconds": 10263,
+    "duracion": "02:51:03"
   },
   {
     "id": 434,
@@ -7896,7 +8329,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -28.889999389648438,
     "latent_y": 81.05000305175781,
     "latent_z": 61.63999938964844,
-    "duration_seconds": null
+    "duration_seconds": 603,
+    "duracion": "10:03"
   },
   {
     "id": 435,
@@ -7914,7 +8348,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -57.790000915527344,
     "latent_y": 61.2599983215332,
     "latent_z": -1.3200000524520874,
-    "duration_seconds": null
+    "duration_seconds": 89,
+    "duracion": "01:29"
   },
   {
     "id": 436,
@@ -7932,7 +8367,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -46.11000061035156,
     "latent_y": -1.6799999475479126,
     "latent_z": -103.20999908447266,
-    "duration_seconds": null
+    "duration_seconds": 242,
+    "duracion": "04:02"
   },
   {
     "id": 437,
@@ -7951,7 +8387,8 @@ const DAVINCI_TUTORIALS_DATA = [
     "latent_x": -76.55999755859375,
     "latent_y": -92.75,
     "latent_z": -32.63999938964844,
-    "duration_seconds": null
+    "duration_seconds": 56,
+    "duracion": "00:56"
   }
 ];
 window.DAVINCI_DATA = DAVINCI_TUTORIALS_DATA;

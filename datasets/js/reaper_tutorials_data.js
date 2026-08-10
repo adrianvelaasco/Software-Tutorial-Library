@@ -15,7 +15,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 9.899999618530273,
     "latent_y": 24.540000915527344,
     "latent_z": -13.65999984741211,
-    "duration_seconds": null
+    "duration_seconds": 1031,
+    "duracion": "17:11"
   },
   {
     "id": 2,
@@ -33,7 +34,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 16.1299991607666,
     "latent_y": 37.15999984741211,
     "latent_z": 9.260000228881836,
-    "duration_seconds": null
+    "duration_seconds": 848,
+    "duracion": "14:08"
   },
   {
     "id": 3,
@@ -51,7 +53,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 36.400001525878906,
     "latent_y": -74.27999877929688,
     "latent_z": 23.75,
-    "duration_seconds": null
+    "duration_seconds": 3788,
+    "duracion": "01:03:08"
   },
   {
     "id": 4,
@@ -70,7 +73,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 66.94000244140625,
     "latent_y": -18.200000762939453,
     "latent_z": -5.159999847412109,
-    "duration_seconds": null
+    "duration_seconds": 1552,
+    "duracion": "25:52"
   },
   {
     "id": 5,
@@ -88,7 +92,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 27.969999313354492,
     "latent_y": 5.590000152587891,
     "latent_z": -103.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 808,
+    "duracion": "13:28"
   },
   {
     "id": 6,
@@ -106,7 +111,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 43.70000076293945,
     "latent_y": -5.03000020980835,
     "latent_z": -51.060001373291016,
-    "duration_seconds": null
+    "duration_seconds": 13036,
+    "duracion": "03:37:16"
   },
   {
     "id": 7,
@@ -124,7 +130,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 9.670000076293945,
     "latent_y": -51.970001220703125,
     "latent_z": 6.559999942779541,
-    "duration_seconds": null
+    "duration_seconds": 834,
+    "duracion": "13:54"
   },
   {
     "id": 8,
@@ -143,7 +150,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 48.72999954223633,
     "latent_y": -6.989999771118164,
     "latent_z": -109.4800033569336,
-    "duration_seconds": null
+    "duration_seconds": 724,
+    "duracion": "12:04"
   },
   {
     "id": 9,
@@ -161,7 +169,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 78.66000366210938,
     "latent_y": -56.08000183105469,
     "latent_z": -75.56999969482422,
-    "duration_seconds": null
+    "duration_seconds": 660,
+    "duracion": "11:00"
   },
   {
     "id": 10,
@@ -180,7 +189,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 38.79999923706055,
     "latent_y": -98.68000030517578,
     "latent_z": -7.420000076293945,
-    "duration_seconds": null
+    "duration_seconds": 1228,
+    "duracion": "20:28"
   },
   {
     "id": 11,
@@ -198,7 +208,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 19.81999969482422,
     "latent_y": 38.63999938964844,
     "latent_z": -40.41999816894531,
-    "duration_seconds": null
+    "duration_seconds": 673,
+    "duracion": "11:13"
   },
   {
     "id": 12,
@@ -216,7 +227,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": -5.090000152587891,
     "latent_y": -42.68000030517578,
     "latent_z": -12.260000228881836,
-    "duration_seconds": null
+    "duration_seconds": 1035,
+    "duracion": "17:15"
   },
   {
     "id": 13,
@@ -234,7 +246,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 34.349998474121094,
     "latent_y": 0.4399999976158142,
     "latent_z": -29.059999465942383,
-    "duration_seconds": null
+    "duration_seconds": 1085,
+    "duracion": "18:05"
   },
   {
     "id": 14,
@@ -252,7 +265,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 69.02999877929688,
     "latent_y": -32.209999084472656,
     "latent_z": -97.87000274658203,
-    "duration_seconds": null
+    "duration_seconds": 620,
+    "duracion": "10:20"
   },
   {
     "id": 15,
@@ -270,7 +284,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 4.570000171661377,
     "latent_y": -65.9000015258789,
     "latent_z": 6.820000171661377,
-    "duration_seconds": null
+    "duration_seconds": 190,
+    "duracion": "03:10"
   },
   {
     "id": 16,
@@ -288,7 +303,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 54.619998931884766,
     "latent_y": -0.49000000953674316,
     "latent_z": -119.12000274658203,
-    "duration_seconds": null
+    "duration_seconds": 843,
+    "duracion": "14:03"
   },
   {
     "id": 17,
@@ -306,7 +322,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 38.02000045776367,
     "latent_y": 20.31999969482422,
     "latent_z": -82.87999725341797,
-    "duration_seconds": null
+    "duration_seconds": 1243,
+    "duracion": "20:43"
   },
   {
     "id": 18,
@@ -324,7 +341,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 30.360000610351562,
     "latent_y": 54.040000915527344,
     "latent_z": -20.09000015258789,
-    "duration_seconds": null
+    "duration_seconds": 266,
+    "duracion": "04:26"
   },
   {
     "id": 19,
@@ -344,7 +362,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 67.87999725341797,
     "latent_y": -107.5999984741211,
     "latent_z": -30.299999237060547,
-    "duration_seconds": null
+    "duration_seconds": 2577,
+    "duracion": "42:57"
   },
   {
     "id": 20,
@@ -362,7 +381,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 67.08000183105469,
     "latent_y": -19.969999313354492,
     "latent_z": 24.690000534057617,
-    "duration_seconds": null
+    "duration_seconds": 431,
+    "duracion": "07:11"
   },
   {
     "id": 21,
@@ -380,7 +400,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 29.40999984741211,
     "latent_y": -18.700000762939453,
     "latent_z": 23.540000915527344,
-    "duration_seconds": null
+    "duration_seconds": 445,
+    "duracion": "07:25"
   },
   {
     "id": 22,
@@ -398,7 +419,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 54.189998626708984,
     "latent_y": -110.5199966430664,
     "latent_z": -13.470000267028809,
-    "duration_seconds": null
+    "duration_seconds": 478,
+    "duracion": "07:58"
   },
   {
     "id": 23,
@@ -416,7 +438,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 48.77000045776367,
     "latent_y": -93.73999786376953,
     "latent_z": 10.5,
-    "duration_seconds": null
+    "duration_seconds": 1211,
+    "duracion": "20:11"
   },
   {
     "id": 24,
@@ -434,7 +457,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 34.720001220703125,
     "latent_y": -7.199999809265137,
     "latent_z": -68.38999938964844,
-    "duration_seconds": null
+    "duration_seconds": 1010,
+    "duracion": "16:50"
   },
   {
     "id": 25,
@@ -452,7 +476,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 17.729999542236328,
     "latent_y": -65.23999786376953,
     "latent_z": 64.19000244140625,
-    "duration_seconds": null
+    "duration_seconds": 460,
+    "duracion": "07:40"
   },
   {
     "id": 26,
@@ -470,7 +495,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 28.829999923706055,
     "latent_y": -75.06999969482422,
     "latent_z": -66.95999908447266,
-    "duration_seconds": null
+    "duration_seconds": 941,
+    "duracion": "15:41"
   },
   {
     "id": 27,
@@ -488,7 +514,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 37.130001068115234,
     "latent_y": 34.52000045776367,
     "latent_z": 61.369998931884766,
-    "duration_seconds": null
+    "duration_seconds": 893,
+    "duracion": "14:53"
   },
   {
     "id": 28,
@@ -506,7 +533,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 41.310001373291016,
     "latent_y": -66.05999755859375,
     "latent_z": 19.489999771118164,
-    "duration_seconds": null
+    "duration_seconds": 3689,
+    "duracion": "01:01:29"
   },
   {
     "id": 29,
@@ -524,7 +552,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 48.790000915527344,
     "latent_y": -106.23999786376953,
     "latent_z": 0.9599999785423279,
-    "duration_seconds": null
+    "duration_seconds": 764,
+    "duracion": "12:44"
   },
   {
     "id": 30,
@@ -542,7 +571,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 50.119998931884766,
     "latent_y": -70.97000122070312,
     "latent_z": -77.02999877929688,
-    "duration_seconds": null
+    "duration_seconds": 463,
+    "duracion": "07:43"
   },
   {
     "id": 31,
@@ -560,7 +590,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 50.11000061035156,
     "latent_y": -120.0,
     "latent_z": 2.6600000858306885,
-    "duration_seconds": null
+    "duration_seconds": 897,
+    "duracion": "14:57"
   },
   {
     "id": 32,
@@ -578,7 +609,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 90.56999969482422,
     "latent_y": -28.030000686645508,
     "latent_z": -32.13999938964844,
-    "duration_seconds": null
+    "duration_seconds": 2464,
+    "duracion": "41:04"
   },
   {
     "id": 33,
@@ -596,7 +628,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 64.0199966430664,
     "latent_y": -11.949999809265137,
     "latent_z": 43.029998779296875,
-    "duration_seconds": null
+    "duration_seconds": 563,
+    "duracion": "09:23"
   },
   {
     "id": 34,
@@ -614,7 +647,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 2.690000057220459,
     "latent_y": -35.0099983215332,
     "latent_z": -12.630000114440918,
-    "duration_seconds": null
+    "duration_seconds": 809,
+    "duracion": "13:29"
   },
   {
     "id": 35,
@@ -632,7 +666,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 45.63999938964844,
     "latent_y": 34.06999969482422,
     "latent_z": -16.549999237060547,
-    "duration_seconds": null
+    "duration_seconds": 1535,
+    "duracion": "25:35"
   },
   {
     "id": 36,
@@ -650,7 +685,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 25.65999984741211,
     "latent_y": 30.729999542236328,
     "latent_z": -39.93000030517578,
-    "duration_seconds": null
+    "duration_seconds": 48,
+    "duracion": "00:48"
   },
   {
     "id": 37,
@@ -668,7 +704,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 23.049999237060547,
     "latent_y": 12.510000228881836,
     "latent_z": -100.22000122070312,
-    "duration_seconds": null
+    "duration_seconds": 888,
+    "duracion": "14:48"
   },
   {
     "id": 38,
@@ -686,7 +723,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 71.55000305175781,
     "latent_y": -2.0999999046325684,
     "latent_z": 51.970001220703125,
-    "duration_seconds": null
+    "duration_seconds": 642,
+    "duracion": "10:42"
   },
   {
     "id": 39,
@@ -704,7 +742,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 13.800000190734863,
     "latent_y": 16.209999084472656,
     "latent_z": -7.239999771118164,
-    "duration_seconds": null
+    "duration_seconds": 1901,
+    "duracion": "31:41"
   },
   {
     "id": 40,
@@ -722,7 +761,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 4.050000190734863,
     "latent_y": -66.95999908447266,
     "latent_z": -40.369998931884766,
-    "duration_seconds": null
+    "duration_seconds": 986,
+    "duracion": "16:26"
   },
   {
     "id": 41,
@@ -740,7 +780,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 34.06999969482422,
     "latent_y": -2.1600000858306885,
     "latent_z": 16.780000686645508,
-    "duration_seconds": null
+    "duration_seconds": 898,
+    "duracion": "14:58"
   },
   {
     "id": 42,
@@ -759,7 +800,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 100.5999984741211,
     "latent_y": -62.31999969482422,
     "latent_z": -30.81999969482422,
-    "duration_seconds": null
+    "duration_seconds": 727,
+    "duracion": "12:07"
   },
   {
     "id": 43,
@@ -777,7 +819,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 6.559999942779541,
     "latent_y": -69.0,
     "latent_z": -17.309999465942383,
-    "duration_seconds": null
+    "duration_seconds": 2092,
+    "duracion": "34:52"
   },
   {
     "id": 44,
@@ -795,7 +838,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 15.170000076293945,
     "latent_y": -18.260000228881836,
     "latent_z": -5.789999961853027,
-    "duration_seconds": null
+    "duration_seconds": 260,
+    "duracion": "04:20"
   },
   {
     "id": 45,
@@ -814,7 +858,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 49.91999816894531,
     "latent_y": 50.84000015258789,
     "latent_z": -67.91000366210938,
-    "duration_seconds": null
+    "duration_seconds": 1452,
+    "duracion": "24:12"
   },
   {
     "id": 46,
@@ -832,7 +877,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 48.11000061035156,
     "latent_y": -46.81999969482422,
     "latent_z": 19.760000228881836,
-    "duration_seconds": null
+    "duration_seconds": 664,
+    "duracion": "11:04"
   },
   {
     "id": 47,
@@ -850,7 +896,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 68.98999786376953,
     "latent_y": -9.770000457763672,
     "latent_z": 9.149999618530273,
-    "duration_seconds": null
+    "duration_seconds": 571,
+    "duracion": "09:31"
   },
   {
     "id": 48,
@@ -868,7 +915,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 27.18000030517578,
     "latent_y": -54.75,
     "latent_z": -99.37000274658203,
-    "duration_seconds": null
+    "duration_seconds": 127,
+    "duracion": "02:07"
   },
   {
     "id": 49,
@@ -886,7 +934,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 45.400001525878906,
     "latent_y": -25.510000228881836,
     "latent_z": -39.4900016784668,
-    "duration_seconds": null
+    "duration_seconds": 624,
+    "duracion": "10:24"
   },
   {
     "id": 50,
@@ -904,7 +953,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 27.010000228881836,
     "latent_y": -49.189998626708984,
     "latent_z": -85.80000305175781,
-    "duration_seconds": null
+    "duration_seconds": 623,
+    "duracion": "10:23"
   },
   {
     "id": 51,
@@ -922,7 +972,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 80.43000030517578,
     "latent_y": -67.4000015258789,
     "latent_z": 69.16000366210938,
-    "duration_seconds": null
+    "duration_seconds": 2356,
+    "duracion": "39:16"
   },
   {
     "id": 52,
@@ -940,7 +991,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 92.69000244140625,
     "latent_y": -7.559999942779541,
     "latent_z": 1.8700000047683716,
-    "duration_seconds": null
+    "duration_seconds": 1561,
+    "duracion": "26:01"
   },
   {
     "id": 53,
@@ -958,7 +1010,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 56.04999923706055,
     "latent_y": -3.5999999046325684,
     "latent_z": -104.69000244140625,
-    "duration_seconds": null
+    "duration_seconds": 676,
+    "duracion": "11:16"
   },
   {
     "id": 54,
@@ -976,7 +1029,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 44.720001220703125,
     "latent_y": 25.889999389648438,
     "latent_z": 9.09000015258789,
-    "duration_seconds": null
+    "duration_seconds": 655,
+    "duracion": "10:55"
   },
   {
     "id": 55,
@@ -994,7 +1048,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 34.380001068115234,
     "latent_y": -56.529998779296875,
     "latent_z": -37.20000076293945,
-    "duration_seconds": null
+    "duration_seconds": 766,
+    "duracion": "12:46"
   },
   {
     "id": 56,
@@ -1012,7 +1067,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 30.639999389648438,
     "latent_y": 32.5,
     "latent_z": -2.950000047683716,
-    "duration_seconds": null
+    "duration_seconds": 548,
+    "duracion": "09:08"
   },
   {
     "id": 57,
@@ -1030,7 +1086,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 34.4900016784668,
     "latent_y": -17.979999542236328,
     "latent_z": -28.5,
-    "duration_seconds": null
+    "duration_seconds": 780,
+    "duracion": "13:00"
   },
   {
     "id": 58,
@@ -1048,7 +1105,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 40.349998474121094,
     "latent_y": -49.470001220703125,
     "latent_z": 50.099998474121094,
-    "duration_seconds": null
+    "duration_seconds": 1016,
+    "duracion": "16:56"
   },
   {
     "id": 59,
@@ -1066,7 +1124,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 76.44000244140625,
     "latent_y": -59.40999984741211,
     "latent_z": -41.619998931884766,
-    "duration_seconds": null
+    "duration_seconds": 100,
+    "duracion": "01:40"
   },
   {
     "id": 60,
@@ -1084,7 +1143,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 83.06999969482422,
     "latent_y": -39.47999954223633,
     "latent_z": -70.87999725341797,
-    "duration_seconds": null
+    "duration_seconds": 961,
+    "duracion": "16:01"
   },
   {
     "id": 61,
@@ -1102,7 +1162,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 110.62000274658203,
     "latent_y": 93.4800033569336,
     "latent_z": -6.420000076293945,
-    "duration_seconds": null
+    "duration_seconds": 654,
+    "duracion": "10:54"
   },
   {
     "id": 62,
@@ -1120,7 +1181,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 75.9800033569336,
     "latent_y": 1.600000023841858,
     "latent_z": 9.0,
-    "duration_seconds": null
+    "duration_seconds": 713,
+    "duracion": "11:53"
   },
   {
     "id": 63,
@@ -1138,7 +1200,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 22.729999542236328,
     "latent_y": -8.84000015258789,
     "latent_z": -64.22000122070312,
-    "duration_seconds": null
+    "duration_seconds": 738,
+    "duracion": "12:18"
   },
   {
     "id": 64,
@@ -1156,7 +1219,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 79.22000122070312,
     "latent_y": 62.189998626708984,
     "latent_z": -25.559999465942383,
-    "duration_seconds": null
+    "duration_seconds": 423,
+    "duracion": "07:03"
   },
   {
     "id": 65,
@@ -1174,7 +1238,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 11.350000381469727,
     "latent_y": 4.5,
     "latent_z": 24.860000610351562,
-    "duration_seconds": null
+    "duration_seconds": 690,
+    "duracion": "11:30"
   },
   {
     "id": 66,
@@ -1192,7 +1257,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 9.789999961853027,
     "latent_y": -11.800000190734863,
     "latent_z": -30.3700008392334,
-    "duration_seconds": null
+    "duration_seconds": 1992,
+    "duracion": "33:12"
   },
   {
     "id": 67,
@@ -1211,7 +1277,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 85.16000366210938,
     "latent_y": -4.300000190734863,
     "latent_z": -15.680000305175781,
-    "duration_seconds": null
+    "duration_seconds": 41,
+    "duracion": "00:41"
   },
   {
     "id": 68,
@@ -1229,7 +1296,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 26.059999465942383,
     "latent_y": 16.860000610351562,
     "latent_z": -26.8700008392334,
-    "duration_seconds": null
+    "duration_seconds": 78,
+    "duracion": "01:18"
   },
   {
     "id": 69,
@@ -1247,7 +1315,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 21.559999465942383,
     "latent_y": -64.7699966430664,
     "latent_z": 53.130001068115234,
-    "duration_seconds": null
+    "duration_seconds": 1146,
+    "duracion": "19:06"
   },
   {
     "id": 70,
@@ -1265,7 +1334,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 25.399999618530273,
     "latent_y": -37.150001525878906,
     "latent_z": 31.420000076293945,
-    "duration_seconds": null
+    "duration_seconds": 9224,
+    "duracion": "02:33:44"
   },
   {
     "id": 71,
@@ -1283,7 +1353,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 23.940000534057617,
     "latent_y": -30.829999923706055,
     "latent_z": 7.769999980926514,
-    "duration_seconds": null
+    "duration_seconds": 855,
+    "duracion": "14:15"
   },
   {
     "id": 72,
@@ -1301,7 +1372,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 31.979999542236328,
     "latent_y": 43.20000076293945,
     "latent_z": 27.940000534057617,
-    "duration_seconds": null
+    "duration_seconds": 891,
+    "duracion": "14:51"
   },
   {
     "id": 73,
@@ -1320,7 +1392,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 75.45999908447266,
     "latent_y": -16.920000076293945,
     "latent_z": -80.36000061035156,
-    "duration_seconds": null
+    "duration_seconds": 1383,
+    "duracion": "23:03"
   },
   {
     "id": 74,
@@ -1338,7 +1411,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 8.180000305175781,
     "latent_y": -12.5600004196167,
     "latent_z": -55.06999969482422,
-    "duration_seconds": null
+    "duration_seconds": 828,
+    "duracion": "13:48"
   },
   {
     "id": 75,
@@ -1356,7 +1430,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 61.7400016784668,
     "latent_y": 13.630000114440918,
     "latent_z": 25.239999771118164,
-    "duration_seconds": null
+    "duration_seconds": 618,
+    "duracion": "10:18"
   },
   {
     "id": 76,
@@ -1374,7 +1449,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 29.100000381469727,
     "latent_y": 2.9200000762939453,
     "latent_z": 49.15999984741211,
-    "duration_seconds": null
+    "duration_seconds": 632,
+    "duracion": "10:32"
   },
   {
     "id": 77,
@@ -1392,7 +1468,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 31.469999313354492,
     "latent_y": -10.8100004196167,
     "latent_z": 59.58000183105469,
-    "duration_seconds": null
+    "duration_seconds": 535,
+    "duracion": "08:55"
   },
   {
     "id": 78,
@@ -1411,7 +1488,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 75.11000061035156,
     "latent_y": -20.549999237060547,
     "latent_z": 73.45999908447266,
-    "duration_seconds": null
+    "duration_seconds": 600,
+    "duracion": "10:00"
   },
   {
     "id": 79,
@@ -1429,7 +1507,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 41.220001220703125,
     "latent_y": 11.600000381469727,
     "latent_z": -28.59000015258789,
-    "duration_seconds": null
+    "duration_seconds": 732,
+    "duracion": "12:12"
   },
   {
     "id": 80,
@@ -1447,7 +1526,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 54.060001373291016,
     "latent_y": -3.299999952316284,
     "latent_z": -27.700000762939453,
-    "duration_seconds": null
+    "duration_seconds": 635,
+    "duracion": "10:35"
   },
   {
     "id": 81,
@@ -1465,7 +1545,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 22.760000228881836,
     "latent_y": -80.02999877929688,
     "latent_z": -10.40999984741211,
-    "duration_seconds": null
+    "duration_seconds": 406,
+    "duracion": "06:46"
   },
   {
     "id": 82,
@@ -1484,7 +1565,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 80.37999725341797,
     "latent_y": -17.81999969482422,
     "latent_z": -27.09000015258789,
-    "duration_seconds": null
+    "duration_seconds": 552,
+    "duracion": "09:12"
   },
   {
     "id": 83,
@@ -1502,7 +1584,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 26.84000015258789,
     "latent_y": 35.130001068115234,
     "latent_z": -63.869998931884766,
-    "duration_seconds": null
+    "duration_seconds": 172,
+    "duracion": "02:52"
   },
   {
     "id": 84,
@@ -1520,7 +1603,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 54.970001220703125,
     "latent_y": -41.560001373291016,
     "latent_z": -26.399999618530273,
-    "duration_seconds": null
+    "duration_seconds": 256,
+    "duracion": "04:16"
   },
   {
     "id": 85,
@@ -1538,7 +1622,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 11.239999771118164,
     "latent_y": 14.279999732971191,
     "latent_z": -47.400001525878906,
-    "duration_seconds": null
+    "duration_seconds": 8268,
+    "duracion": "02:17:48"
   },
   {
     "id": 86,
@@ -1556,7 +1641,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 10.390000343322754,
     "latent_y": -19.510000228881836,
     "latent_z": -93.58999633789062,
-    "duration_seconds": null
+    "duration_seconds": 642,
+    "duracion": "10:42"
   },
   {
     "id": 87,
@@ -1574,7 +1660,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 67.2300033569336,
     "latent_y": 14.130000114440918,
     "latent_z": 61.5,
-    "duration_seconds": null
+    "duration_seconds": 704,
+    "duracion": "11:44"
   },
   {
     "id": 88,
@@ -1592,7 +1679,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 43.95000076293945,
     "latent_y": -33.93000030517578,
     "latent_z": -55.2599983215332,
-    "duration_seconds": null
+    "duration_seconds": 766,
+    "duracion": "12:46"
   },
   {
     "id": 89,
@@ -1610,7 +1698,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 103.94000244140625,
     "latent_y": -6.559999942779541,
     "latent_z": -23.450000762939453,
-    "duration_seconds": null
+    "duration_seconds": 457,
+    "duracion": "07:37"
   },
   {
     "id": 90,
@@ -1629,7 +1718,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 57.880001068115234,
     "latent_y": 33.66999816894531,
     "latent_z": -48.959999084472656,
-    "duration_seconds": null
+    "duration_seconds": 755,
+    "duracion": "12:35"
   },
   {
     "id": 91,
@@ -1647,7 +1737,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 50.470001220703125,
     "latent_y": -16.049999237060547,
     "latent_z": -10.140000343322754,
-    "duration_seconds": null
+    "duration_seconds": 1927,
+    "duracion": "32:07"
   },
   {
     "id": 92,
@@ -1665,7 +1756,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 58.91999816894531,
     "latent_y": -112.93000030517578,
     "latent_z": 3.5299999713897705,
-    "duration_seconds": null
+    "duration_seconds": 510,
+    "duracion": "08:30"
   },
   {
     "id": 93,
@@ -1683,7 +1775,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 51.93000030517578,
     "latent_y": -108.69999694824219,
     "latent_z": 19.299999237060547,
-    "duration_seconds": null
+    "duration_seconds": 1660,
+    "duracion": "27:40"
   },
   {
     "id": 94,
@@ -1701,7 +1794,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 32.25,
     "latent_y": -39.310001373291016,
     "latent_z": 30.020000457763672,
-    "duration_seconds": null
+    "duration_seconds": 413,
+    "duracion": "06:53"
   },
   {
     "id": 95,
@@ -1720,7 +1814,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 69.0,
     "latent_y": -101.45999908447266,
     "latent_z": 45.060001373291016,
-    "duration_seconds": null
+    "duration_seconds": 1032,
+    "duracion": "17:12"
   },
   {
     "id": 96,
@@ -1738,7 +1833,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 49.209999084472656,
     "latent_y": 27.639999389648438,
     "latent_z": 41.029998779296875,
-    "duration_seconds": null
+    "duration_seconds": 651,
+    "duracion": "10:51"
   },
   {
     "id": 97,
@@ -1757,7 +1853,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 53.36000061035156,
     "latent_y": 33.15999984741211,
     "latent_z": -71.66999816894531,
-    "duration_seconds": null
+    "duration_seconds": 9149,
+    "duracion": "02:32:29"
   },
   {
     "id": 98,
@@ -1775,7 +1872,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 19.280000686645508,
     "latent_y": -69.13999938964844,
     "latent_z": -56.27000045776367,
-    "duration_seconds": null
+    "duration_seconds": 696,
+    "duracion": "11:36"
   },
   {
     "id": 99,
@@ -1793,7 +1891,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 82.4800033569336,
     "latent_y": -7.269999980926514,
     "latent_z": 41.56999969482422,
-    "duration_seconds": null
+    "duration_seconds": 804,
+    "duracion": "13:24"
   },
   {
     "id": 100,
@@ -1812,7 +1911,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 39.70000076293945,
     "latent_y": -108.61000061035156,
     "latent_z": 11.59000015258789,
-    "duration_seconds": null
+    "duration_seconds": 432,
+    "duracion": "07:12"
   },
   {
     "id": 101,
@@ -1831,7 +1931,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 39.279998779296875,
     "latent_y": -110.6500015258789,
     "latent_z": -8.329999923706055,
-    "duration_seconds": null
+    "duration_seconds": 1014,
+    "duracion": "16:54"
   },
   {
     "id": 102,
@@ -1849,7 +1950,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 37.7599983215332,
     "latent_y": -30.229999542236328,
     "latent_z": -62.72999954223633,
-    "duration_seconds": null
+    "duration_seconds": 1214,
+    "duracion": "20:14"
   },
   {
     "id": 103,
@@ -1867,7 +1969,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 24.790000915527344,
     "latent_y": -14.619999885559082,
     "latent_z": 2.130000114440918,
-    "duration_seconds": null
+    "duration_seconds": 756,
+    "duracion": "12:36"
   },
   {
     "id": 104,
@@ -1885,7 +1988,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 28.5,
     "latent_y": -22.549999237060547,
     "latent_z": -69.26000213623047,
-    "duration_seconds": null
+    "duration_seconds": 599,
+    "duracion": "09:59"
   },
   {
     "id": 105,
@@ -1903,7 +2007,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 74.37999725341797,
     "latent_y": 77.80999755859375,
     "latent_z": 5.309999942779541,
-    "duration_seconds": null
+    "duration_seconds": 1886,
+    "duracion": "31:26"
   },
   {
     "id": 106,
@@ -1921,7 +2026,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 28.260000228881836,
     "latent_y": -6.619999885559082,
     "latent_z": -18.309999465942383,
-    "duration_seconds": null
+    "duration_seconds": 557,
+    "duracion": "09:17"
   },
   {
     "id": 107,
@@ -1939,7 +2045,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 111.08999633789062,
     "latent_y": 5.420000076293945,
     "latent_z": 31.079999923706055,
-    "duration_seconds": null
+    "duration_seconds": 789,
+    "duracion": "13:09"
   },
   {
     "id": 108,
@@ -1957,7 +2064,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 46.9900016784668,
     "latent_y": -49.81999969482422,
     "latent_z": -21.84000015258789,
-    "duration_seconds": null
+    "duration_seconds": 1531,
+    "duracion": "25:31"
   },
   {
     "id": 109,
@@ -1977,7 +2085,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 90.5199966430664,
     "latent_y": -50.16999816894531,
     "latent_z": 57.81999969482422,
-    "duration_seconds": null
+    "duration_seconds": 307,
+    "duracion": "05:07"
   },
   {
     "id": 110,
@@ -1996,7 +2105,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 65.75,
     "latent_y": -15.369999885559082,
     "latent_z": -73.9000015258789,
-    "duration_seconds": null
+    "duration_seconds": 638,
+    "duracion": "10:38"
   },
   {
     "id": 111,
@@ -2014,7 +2124,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 99.97000122070312,
     "latent_y": -7.679999828338623,
     "latent_z": 24.280000686645508,
-    "duration_seconds": null
+    "duration_seconds": 1114,
+    "duracion": "18:34"
   },
   {
     "id": 112,
@@ -2032,7 +2143,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 80.05999755859375,
     "latent_y": -43.41999816894531,
     "latent_z": -96.95999908447266,
-    "duration_seconds": null
+    "duration_seconds": 861,
+    "duracion": "14:21"
   },
   {
     "id": 113,
@@ -2050,7 +2162,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 31.760000228881836,
     "latent_y": 6.03000020980835,
     "latent_z": -5.349999904632568,
-    "duration_seconds": null
+    "duration_seconds": 221,
+    "duracion": "03:41"
   },
   {
     "id": 114,
@@ -2068,7 +2181,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 75.19999694824219,
     "latent_y": -73.41000366210938,
     "latent_z": 86.06999969482422,
-    "duration_seconds": null
+    "duration_seconds": 592,
+    "duracion": "09:52"
   },
   {
     "id": 115,
@@ -2086,7 +2200,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 34.45000076293945,
     "latent_y": 15.600000381469727,
     "latent_z": 42.459999084472656,
-    "duration_seconds": null
+    "duration_seconds": 614,
+    "duracion": "10:14"
   },
   {
     "id": 116,
@@ -2104,7 +2219,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 12.970000267028809,
     "latent_y": -12.470000267028809,
     "latent_z": 63.20000076293945,
-    "duration_seconds": null
+    "duration_seconds": 339,
+    "duracion": "05:39"
   },
   {
     "id": 117,
@@ -2122,7 +2238,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 106.94000244140625,
     "latent_y": -36.09000015258789,
     "latent_z": -48.13999938964844,
-    "duration_seconds": null
+    "duration_seconds": 1024,
+    "duracion": "17:04"
   },
   {
     "id": 118,
@@ -2140,7 +2257,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 81.23999786376953,
     "latent_y": -40.900001525878906,
     "latent_z": -52.06999969482422,
-    "duration_seconds": null
+    "duration_seconds": 430,
+    "duracion": "07:10"
   },
   {
     "id": 119,
@@ -2158,7 +2276,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 46.060001373291016,
     "latent_y": -1.2599999904632568,
     "latent_z": 26.420000076293945,
-    "duration_seconds": null
+    "duration_seconds": 461,
+    "duracion": "07:41"
   },
   {
     "id": 120,
@@ -2177,7 +2296,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 72.93000030517578,
     "latent_y": -19.600000381469727,
     "latent_z": -63.29999923706055,
-    "duration_seconds": null
+    "duration_seconds": 804,
+    "duracion": "13:24"
   },
   {
     "id": 121,
@@ -2195,7 +2315,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 78.19999694824219,
     "latent_y": -13.770000457763672,
     "latent_z": 19.270000457763672,
-    "duration_seconds": null
+    "duration_seconds": 562,
+    "duracion": "09:22"
   },
   {
     "id": 122,
@@ -2213,7 +2334,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 41.470001220703125,
     "latent_y": -51.810001373291016,
     "latent_z": 8.539999961853027,
-    "duration_seconds": null
+    "duration_seconds": 901,
+    "duracion": "15:01"
   },
   {
     "id": 123,
@@ -2231,7 +2353,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 34.06999969482422,
     "latent_y": 7.699999809265137,
     "latent_z": 66.98999786376953,
-    "duration_seconds": null
+    "duration_seconds": 1026,
+    "duracion": "17:06"
   },
   {
     "id": 124,
@@ -2249,7 +2372,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": -5.420000076293945,
     "latent_y": -21.040000915527344,
     "latent_z": -43.13999938964844,
-    "duration_seconds": null
+    "duration_seconds": 610,
+    "duracion": "10:10"
   },
   {
     "id": 125,
@@ -2267,7 +2391,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 97.95999908447266,
     "latent_y": -30.329999923706055,
     "latent_z": -17.829999923706055,
-    "duration_seconds": null
+    "duration_seconds": 575,
+    "duracion": "09:35"
   },
   {
     "id": 126,
@@ -2285,7 +2410,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 18.829999923706055,
     "latent_y": -81.19999694824219,
     "latent_z": 23.889999389648438,
-    "duration_seconds": null
+    "duration_seconds": 649,
+    "duracion": "10:49"
   },
   {
     "id": 127,
@@ -2303,7 +2429,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 66.95999908447266,
     "latent_y": -80.6500015258789,
     "latent_z": 78.16999816894531,
-    "duration_seconds": null
+    "duration_seconds": 915,
+    "duracion": "15:15"
   },
   {
     "id": 128,
@@ -2321,7 +2448,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": -4.480000019073486,
     "latent_y": 5.920000076293945,
     "latent_z": 1.2100000381469727,
-    "duration_seconds": null
+    "duration_seconds": 365,
+    "duracion": "06:05"
   },
   {
     "id": 129,
@@ -2342,7 +2470,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 62.400001525878906,
     "latent_y": -107.47000122070312,
     "latent_z": -52.2400016784668,
-    "duration_seconds": null
+    "duration_seconds": 301,
+    "duracion": "05:01"
   },
   {
     "id": 130,
@@ -2360,7 +2489,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": -120.0,
     "latent_y": 120.0,
     "latent_z": -14.75,
-    "duration_seconds": null
+    "duration_seconds": 1238,
+    "duracion": "20:38"
   },
   {
     "id": 131,
@@ -2378,7 +2508,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 24.989999771118164,
     "latent_y": -33.22999954223633,
     "latent_z": 53.369998931884766,
-    "duration_seconds": null
+    "duration_seconds": 1023,
+    "duracion": "17:03"
   },
   {
     "id": 132,
@@ -2396,7 +2527,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 22.40999984741211,
     "latent_y": -2.25,
     "latent_z": 16.280000686645508,
-    "duration_seconds": null
+    "duration_seconds": 1067,
+    "duracion": "17:47"
   },
   {
     "id": 133,
@@ -2415,7 +2547,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 31.18000030517578,
     "latent_y": -28.059999465942383,
     "latent_z": 93.08000183105469,
-    "duration_seconds": null
+    "duration_seconds": 2382,
+    "duracion": "39:42"
   },
   {
     "id": 134,
@@ -2433,7 +2566,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 48.5,
     "latent_y": 4.829999923706055,
     "latent_z": 57.900001525878906,
-    "duration_seconds": null
+    "duration_seconds": 674,
+    "duracion": "11:14"
   },
   {
     "id": 135,
@@ -2451,7 +2585,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 50.38999938964844,
     "latent_y": -5.840000152587891,
     "latent_z": -62.900001525878906,
-    "duration_seconds": null
+    "duration_seconds": 599,
+    "duracion": "09:59"
   },
   {
     "id": 136,
@@ -2470,7 +2605,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 114.23999786376953,
     "latent_y": 8.020000457763672,
     "latent_z": -20.559999465942383,
-    "duration_seconds": null
+    "duration_seconds": 982,
+    "duracion": "16:22"
   },
   {
     "id": 137,
@@ -2488,7 +2624,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 72.61000061035156,
     "latent_y": -65.13999938964844,
     "latent_z": -61.720001220703125,
-    "duration_seconds": null
+    "duration_seconds": 600,
+    "duracion": "10:00"
   },
   {
     "id": 138,
@@ -2506,7 +2643,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 34.4900016784668,
     "latent_y": -70.56999969482422,
     "latent_z": -6.53000020980835,
-    "duration_seconds": null
+    "duration_seconds": 643,
+    "duracion": "10:43"
   },
   {
     "id": 139,
@@ -2524,7 +2662,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 66.79000091552734,
     "latent_y": -67.4000015258789,
     "latent_z": 94.9800033569336,
-    "duration_seconds": null
+    "duration_seconds": 1704,
+    "duracion": "28:24"
   },
   {
     "id": 140,
@@ -2542,7 +2681,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 19.329999923706055,
     "latent_y": 24.81999969482422,
     "latent_z": 54.61000061035156,
-    "duration_seconds": null
+    "duration_seconds": 1002,
+    "duracion": "16:42"
   },
   {
     "id": 141,
@@ -2560,7 +2700,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 60.130001068115234,
     "latent_y": -6.119999885559082,
     "latent_z": 22.010000228881836,
-    "duration_seconds": null
+    "duration_seconds": 739,
+    "duracion": "12:19"
   },
   {
     "id": 142,
@@ -2578,7 +2719,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 62.400001525878906,
     "latent_y": 3.809999942779541,
     "latent_z": 42.77000045776367,
-    "duration_seconds": null
+    "duration_seconds": 1275,
+    "duracion": "21:15"
   },
   {
     "id": 143,
@@ -2597,7 +2739,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 49.97999954223633,
     "latent_y": 35.849998474121094,
     "latent_z": -36.119998931884766,
-    "duration_seconds": null
+    "duration_seconds": 167,
+    "duracion": "02:47"
   },
   {
     "id": 144,
@@ -2615,7 +2758,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 25.450000762939453,
     "latent_y": 13.779999732971191,
     "latent_z": -59.220001220703125,
-    "duration_seconds": null
+    "duration_seconds": 431,
+    "duracion": "07:11"
   },
   {
     "id": 145,
@@ -2634,7 +2778,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 62.0,
     "latent_y": -97.4800033569336,
     "latent_z": 33.34000015258789,
-    "duration_seconds": null
+    "duration_seconds": 715,
+    "duracion": "11:55"
   },
   {
     "id": 146,
@@ -2652,7 +2797,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 17.15999984741211,
     "latent_y": -43.209999084472656,
     "latent_z": 12.859999656677246,
-    "duration_seconds": null
+    "duration_seconds": 928,
+    "duracion": "15:28"
   },
   {
     "id": 147,
@@ -2670,7 +2816,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 97.69999694824219,
     "latent_y": -30.649999618530273,
     "latent_z": -54.7599983215332,
-    "duration_seconds": null
+    "duration_seconds": 499,
+    "duracion": "08:19"
   },
   {
     "id": 148,
@@ -2688,7 +2835,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 62.2400016784668,
     "latent_y": -70.0999984741211,
     "latent_z": -66.91999816894531,
-    "duration_seconds": null
+    "duration_seconds": 2367,
+    "duracion": "39:27"
   },
   {
     "id": 149,
@@ -2706,7 +2854,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 15.069999694824219,
     "latent_y": -78.5199966430664,
     "latent_z": -22.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 1682,
+    "duracion": "28:02"
   },
   {
     "id": 150,
@@ -2724,7 +2873,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 94.66000366210938,
     "latent_y": -15.579999923706055,
     "latent_z": -21.010000228881836,
-    "duration_seconds": null
+    "duration_seconds": 1450,
+    "duracion": "24:10"
   },
   {
     "id": 151,
@@ -2742,7 +2892,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 105.55999755859375,
     "latent_y": -13.539999961853027,
     "latent_z": -60.88999938964844,
-    "duration_seconds": null
+    "duration_seconds": 596,
+    "duracion": "09:56"
   },
   {
     "id": 152,
@@ -2760,7 +2911,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 93.12999725341797,
     "latent_y": -22.8700008392334,
     "latent_z": 14.640000343322754,
-    "duration_seconds": null
+    "duration_seconds": 871,
+    "duracion": "14:31"
   },
   {
     "id": 153,
@@ -2780,7 +2932,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 72.94000244140625,
     "latent_y": -102.91000366210938,
     "latent_z": -44.97999954223633,
-    "duration_seconds": null
+    "duration_seconds": 527,
+    "duracion": "08:47"
   },
   {
     "id": 154,
@@ -2798,7 +2951,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 57.029998779296875,
     "latent_y": -53.060001373291016,
     "latent_z": 65.5199966430664,
-    "duration_seconds": null
+    "duration_seconds": 597,
+    "duracion": "09:57"
   },
   {
     "id": 155,
@@ -2816,7 +2970,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 73.54000091552734,
     "latent_y": 38.220001220703125,
     "latent_z": 13.010000228881836,
-    "duration_seconds": null
+    "duration_seconds": 1943,
+    "duracion": "32:23"
   },
   {
     "id": 156,
@@ -2834,7 +2989,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 24.299999237060547,
     "latent_y": -0.6100000143051147,
     "latent_z": 90.94000244140625,
-    "duration_seconds": null
+    "duration_seconds": 827,
+    "duracion": "13:47"
   },
   {
     "id": 157,
@@ -2852,7 +3008,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 71.1500015258789,
     "latent_y": -49.939998626708984,
     "latent_z": -110.66000366210938,
-    "duration_seconds": null
+    "duration_seconds": 698,
+    "duracion": "11:38"
   },
   {
     "id": 158,
@@ -2870,7 +3027,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 34.5,
     "latent_y": -60.13999938964844,
     "latent_z": 70.05999755859375,
-    "duration_seconds": null
+    "duration_seconds": 565,
+    "duracion": "09:25"
   },
   {
     "id": 159,
@@ -2888,7 +3046,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 22.719999313354492,
     "latent_y": -17.139999389648438,
     "latent_z": -26.709999084472656,
-    "duration_seconds": null
+    "duration_seconds": 595,
+    "duracion": "09:55"
   },
   {
     "id": 160,
@@ -2906,7 +3065,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 71.58000183105469,
     "latent_y": -37.91999816894531,
     "latent_z": -76.23999786376953,
-    "duration_seconds": null
+    "duration_seconds": 1046,
+    "duracion": "17:26"
   },
   {
     "id": 161,
@@ -2924,7 +3084,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 76.6500015258789,
     "latent_y": -44.599998474121094,
     "latent_z": 120.0,
-    "duration_seconds": null
+    "duration_seconds": 490,
+    "duracion": "08:10"
   },
   {
     "id": 162,
@@ -2942,7 +3103,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 104.83999633789062,
     "latent_y": -24.739999771118164,
     "latent_z": 14.59000015258789,
-    "duration_seconds": null
+    "duration_seconds": 1251,
+    "duracion": "20:51"
   },
   {
     "id": 163,
@@ -2960,7 +3122,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 68.52999877929688,
     "latent_y": -52.20000076293945,
     "latent_z": -71.22000122070312,
-    "duration_seconds": null
+    "duration_seconds": 369,
+    "duracion": "06:09"
   },
   {
     "id": 164,
@@ -2978,7 +3141,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 3.0999999046325684,
     "latent_y": -1.3300000429153442,
     "latent_z": -29.079999923706055,
-    "duration_seconds": null
+    "duration_seconds": 1601,
+    "duracion": "26:41"
   },
   {
     "id": 165,
@@ -2996,7 +3160,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": -1.0,
     "latent_y": -52.220001220703125,
     "latent_z": 37.47999954223633,
-    "duration_seconds": null
+    "duration_seconds": 521,
+    "duracion": "08:41"
   },
   {
     "id": 166,
@@ -3014,7 +3179,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 24.389999389648438,
     "latent_y": 17.959999084472656,
     "latent_z": 19.489999771118164,
-    "duration_seconds": null
+    "duration_seconds": 1614,
+    "duracion": "26:54"
   },
   {
     "id": 167,
@@ -3032,7 +3198,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 15.800000190734863,
     "latent_y": -20.989999771118164,
     "latent_z": 19.850000381469727,
-    "duration_seconds": null
+    "duration_seconds": 947,
+    "duracion": "15:47"
   },
   {
     "id": 168,
@@ -3050,7 +3217,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 41.54999923706055,
     "latent_y": -16.93000030517578,
     "latent_z": 12.989999771118164,
-    "duration_seconds": null
+    "duration_seconds": 670,
+    "duracion": "11:10"
   },
   {
     "id": 169,
@@ -3068,7 +3236,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 21.09000015258789,
     "latent_y": -90.37000274658203,
     "latent_z": 19.15999984741211,
-    "duration_seconds": null
+    "duration_seconds": 1121,
+    "duracion": "18:41"
   },
   {
     "id": 170,
@@ -3086,7 +3255,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 35.529998779296875,
     "latent_y": -0.23000000417232513,
     "latent_z": 46.9900016784668,
-    "duration_seconds": null
+    "duration_seconds": 493,
+    "duracion": "08:13"
   },
   {
     "id": 171,
@@ -3104,7 +3274,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 88.51000213623047,
     "latent_y": -24.43000030517578,
     "latent_z": -4.849999904632568,
-    "duration_seconds": null
+    "duration_seconds": 740,
+    "duracion": "12:20"
   },
   {
     "id": 172,
@@ -3122,7 +3293,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 68.4000015258789,
     "latent_y": -57.439998626708984,
     "latent_z": -46.20000076293945,
-    "duration_seconds": null
+    "duration_seconds": 278,
+    "duracion": "04:38"
   },
   {
     "id": 173,
@@ -3140,7 +3312,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 102.5999984741211,
     "latent_y": -4.940000057220459,
     "latent_z": -0.25999999046325684,
-    "duration_seconds": null
+    "duration_seconds": 195,
+    "duracion": "03:15"
   },
   {
     "id": 174,
@@ -3158,7 +3331,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 79.31999969482422,
     "latent_y": -66.58999633789062,
     "latent_z": -96.02999877929688,
-    "duration_seconds": null
+    "duration_seconds": 755,
+    "duracion": "12:35"
   },
   {
     "id": 175,
@@ -3176,7 +3350,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 30.18000030517578,
     "latent_y": 31.31999969482422,
     "latent_z": -22.06999969482422,
-    "duration_seconds": null
+    "duration_seconds": 77,
+    "duracion": "01:17"
   },
   {
     "id": 176,
@@ -3194,7 +3369,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 76.7699966430664,
     "latent_y": 0.9700000286102295,
     "latent_z": 30.399999618530273,
-    "duration_seconds": null
+    "duration_seconds": 600,
+    "duracion": "10:00"
   },
   {
     "id": 177,
@@ -3212,7 +3388,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 115.94999694824219,
     "latent_y": -30.329999923706055,
     "latent_z": 12.09000015258789,
-    "duration_seconds": null
+    "duration_seconds": 1698,
+    "duracion": "28:18"
   },
   {
     "id": 178,
@@ -3230,7 +3407,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 120.0,
     "latent_y": -27.280000686645508,
     "latent_z": -40.68000030517578,
-    "duration_seconds": null
+    "duration_seconds": 2760,
+    "duracion": "46:00"
   },
   {
     "id": 179,
@@ -3249,7 +3427,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 38.7599983215332,
     "latent_y": -41.52000045776367,
     "latent_z": 99.19000244140625,
-    "duration_seconds": null
+    "duration_seconds": 1797,
+    "duracion": "29:57"
   },
   {
     "id": 180,
@@ -3267,7 +3446,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 80.05999755859375,
     "latent_y": -43.41999816894531,
     "latent_z": -96.95999908447266,
-    "duration_seconds": null
+    "duration_seconds": 813,
+    "duracion": "13:33"
   },
   {
     "id": 181,
@@ -3285,7 +3465,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 106.04000091552734,
     "latent_y": -34.22999954223633,
     "latent_z": -27.700000762939453,
-    "duration_seconds": null
+    "duration_seconds": 1133,
+    "duracion": "18:53"
   },
   {
     "id": 182,
@@ -3303,7 +3484,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 82.01000213623047,
     "latent_y": 50.29999923706055,
     "latent_z": 13.430000305175781,
-    "duration_seconds": null
+    "duration_seconds": 1069,
+    "duracion": "17:49"
   },
   {
     "id": 183,
@@ -3321,7 +3503,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 96.33999633789062,
     "latent_y": 1.8300000429153442,
     "latent_z": -20.06999969482422,
-    "duration_seconds": null
+    "duration_seconds": 386,
+    "duracion": "06:26"
   },
   {
     "id": 184,
@@ -3339,7 +3522,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": -8.649999618530273,
     "latent_y": -10.930000305175781,
     "latent_z": -2.240000009536743,
-    "duration_seconds": null
+    "duration_seconds": 899,
+    "duracion": "14:59"
   },
   {
     "id": 185,
@@ -3357,7 +3541,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 8.970000267028809,
     "latent_y": -8.930000305175781,
     "latent_z": -0.7400000095367432,
-    "duration_seconds": null
+    "duration_seconds": 645,
+    "duracion": "10:45"
   },
   {
     "id": 186,
@@ -3375,7 +3560,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 27.010000228881836,
     "latent_y": -21.93000030517578,
     "latent_z": -94.56999969482422,
-    "duration_seconds": null
+    "duration_seconds": 368,
+    "duracion": "06:08"
   },
   {
     "id": 187,
@@ -3393,7 +3579,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 82.43000030517578,
     "latent_y": 13.579999923706055,
     "latent_z": 26.399999618530273,
-    "duration_seconds": null
+    "duration_seconds": 770,
+    "duracion": "12:50"
   },
   {
     "id": 188,
@@ -3411,7 +3598,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 48.58000183105469,
     "latent_y": 3.609999895095825,
     "latent_z": -4.150000095367432,
-    "duration_seconds": null
+    "duration_seconds": 548,
+    "duracion": "09:08"
   },
   {
     "id": 189,
@@ -3429,7 +3617,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 114.18000030517578,
     "latent_y": -26.219999313354492,
     "latent_z": -17.649999618530273,
-    "duration_seconds": null
+    "duration_seconds": 340,
+    "duracion": "05:40"
   },
   {
     "id": 190,
@@ -3447,7 +3636,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 22.299999237060547,
     "latent_y": -0.7200000286102295,
     "latent_z": -37.2400016784668,
-    "duration_seconds": null
+    "duration_seconds": 2882,
+    "duracion": "48:02"
   },
   {
     "id": 191,
@@ -3466,7 +3656,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 72.4000015258789,
     "latent_y": -5.980000019073486,
     "latent_z": -71.9000015258789,
-    "duration_seconds": null
+    "duration_seconds": 562,
+    "duracion": "09:22"
   },
   {
     "id": 192,
@@ -3484,7 +3675,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 6.679999828338623,
     "latent_y": -29.530000686645508,
     "latent_z": 50.560001373291016,
-    "duration_seconds": null
+    "duration_seconds": 1741,
+    "duracion": "29:01"
   },
   {
     "id": 193,
@@ -3502,7 +3694,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 3.8399999141693115,
     "latent_y": -40.220001220703125,
     "latent_z": -31.329999923706055,
-    "duration_seconds": null
+    "duration_seconds": 358,
+    "duracion": "05:58"
   },
   {
     "id": 194,
@@ -3520,7 +3713,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 8.779999732971191,
     "latent_y": -9.770000457763672,
     "latent_z": 76.9800033569336,
-    "duration_seconds": null
+    "duration_seconds": 1845,
+    "duracion": "30:45"
   },
   {
     "id": 195,
@@ -3538,7 +3732,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 72.44000244140625,
     "latent_y": 61.36000061035156,
     "latent_z": -8.829999923706055,
-    "duration_seconds": null
+    "duration_seconds": 62,
+    "duracion": "01:02"
   },
   {
     "id": 196,
@@ -3556,7 +3751,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 63.77000045776367,
     "latent_y": 71.06999969482422,
     "latent_z": -34.97999954223633,
-    "duration_seconds": null
+    "duration_seconds": 343,
+    "duracion": "05:43"
   },
   {
     "id": 197,
@@ -3574,7 +3770,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 7.75,
     "latent_y": -20.90999984741211,
     "latent_z": -43.720001220703125,
-    "duration_seconds": null
+    "duration_seconds": 574,
+    "duracion": "09:34"
   },
   {
     "id": 198,
@@ -3592,7 +3789,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 1.5099999904632568,
     "latent_y": -71.95999908447266,
     "latent_z": 28.899999618530273,
-    "duration_seconds": null
+    "duration_seconds": 896,
+    "duracion": "14:56"
   },
   {
     "id": 199,
@@ -3610,7 +3808,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 72.30000305175781,
     "latent_y": -49.189998626708984,
     "latent_z": 97.41000366210938,
-    "duration_seconds": null
+    "duration_seconds": 794,
+    "duracion": "13:14"
   },
   {
     "id": 200,
@@ -3628,7 +3827,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 4.849999904632568,
     "latent_y": 2.549999952316284,
     "latent_z": 42.810001373291016,
-    "duration_seconds": null
+    "duration_seconds": 1784,
+    "duracion": "29:44"
   },
   {
     "id": 201,
@@ -3646,7 +3846,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 6.610000133514404,
     "latent_y": -22.149999618530273,
     "latent_z": 27.31999969482422,
-    "duration_seconds": null
+    "duration_seconds": 1349,
+    "duracion": "22:29"
   },
   {
     "id": 202,
@@ -3664,7 +3865,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 18.489999771118164,
     "latent_y": -32.15999984741211,
     "latent_z": 66.77999877929688,
-    "duration_seconds": null
+    "duration_seconds": 221,
+    "duracion": "03:41"
   },
   {
     "id": 203,
@@ -3683,7 +3885,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 57.7599983215332,
     "latent_y": -85.56999969482422,
     "latent_z": 35.599998474121094,
-    "duration_seconds": null
+    "duration_seconds": 408,
+    "duracion": "06:48"
   },
   {
     "id": 204,
@@ -3701,7 +3904,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 33.099998474121094,
     "latent_y": -15.350000381469727,
     "latent_z": -0.28999999165534973,
-    "duration_seconds": null
+    "duration_seconds": 779,
+    "duracion": "12:59"
   },
   {
     "id": 205,
@@ -3719,7 +3923,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 28.90999984741211,
     "latent_y": -65.37999725341797,
     "latent_z": 7.550000190734863,
-    "duration_seconds": null
+    "duration_seconds": 738,
+    "duracion": "12:18"
   },
   {
     "id": 206,
@@ -3737,7 +3942,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 85.37000274658203,
     "latent_y": -61.54999923706055,
     "latent_z": -65.94999694824219,
-    "duration_seconds": null
+    "duration_seconds": 667,
+    "duracion": "11:07"
   },
   {
     "id": 207,
@@ -3755,7 +3961,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 36.7400016784668,
     "latent_y": -71.0199966430664,
     "latent_z": -38.040000915527344,
-    "duration_seconds": null
+    "duration_seconds": 593,
+    "duracion": "09:53"
   },
   {
     "id": 208,
@@ -3773,7 +3980,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 19.520000457763672,
     "latent_y": -10.930000305175781,
     "latent_z": 42.61000061035156,
-    "duration_seconds": null
+    "duration_seconds": 1207,
+    "duracion": "20:07"
   },
   {
     "id": 209,
@@ -3791,7 +3999,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 49.900001525878906,
     "latent_y": -59.119998931884766,
     "latent_z": -7.289999961853027,
-    "duration_seconds": null
+    "duration_seconds": 392,
+    "duracion": "06:32"
   },
   {
     "id": 210,
@@ -3809,7 +4018,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 27.329999923706055,
     "latent_y": -43.279998779296875,
     "latent_z": -53.869998931884766,
-    "duration_seconds": null
+    "duration_seconds": 1055,
+    "duracion": "17:35"
   },
   {
     "id": 211,
@@ -3827,7 +4037,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": -6.150000095367432,
     "latent_y": -13.039999961853027,
     "latent_z": -53.70000076293945,
-    "duration_seconds": null
+    "duration_seconds": 778,
+    "duracion": "12:58"
   },
   {
     "id": 212,
@@ -3845,7 +4056,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 15.449999809265137,
     "latent_y": -22.290000915527344,
     "latent_z": 48.97999954223633,
-    "duration_seconds": null
+    "duration_seconds": 938,
+    "duracion": "15:38"
   },
   {
     "id": 213,
@@ -3864,7 +4076,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 63.13999938964844,
     "latent_y": 24.729999542236328,
     "latent_z": -62.970001220703125,
-    "duration_seconds": null
+    "duration_seconds": 2489,
+    "duracion": "41:29"
   },
   {
     "id": 214,
@@ -3882,7 +4095,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 70.73999786376953,
     "latent_y": 12.770000457763672,
     "latent_z": 39.08000183105469,
-    "duration_seconds": null
+    "duration_seconds": 136,
+    "duracion": "02:16"
   },
   {
     "id": 215,
@@ -3900,7 +4114,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 47.349998474121094,
     "latent_y": -32.970001220703125,
     "latent_z": 5.650000095367432,
-    "duration_seconds": null
+    "duration_seconds": 785,
+    "duracion": "13:05"
   },
   {
     "id": 216,
@@ -3918,7 +4133,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 2.1700000762939453,
     "latent_y": -28.360000610351562,
     "latent_z": 17.459999084472656,
-    "duration_seconds": null
+    "duration_seconds": 1849,
+    "duracion": "30:49"
   },
   {
     "id": 217,
@@ -3937,7 +4153,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 94.31999969482422,
     "latent_y": -39.88999938964844,
     "latent_z": 76.02999877929688,
-    "duration_seconds": null
+    "duration_seconds": 343,
+    "duracion": "05:43"
   },
   {
     "id": 218,
@@ -3955,7 +4172,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 99.29000091552734,
     "latent_y": -19.809999465942383,
     "latent_z": -3.25,
-    "duration_seconds": null
+    "duration_seconds": 795,
+    "duracion": "13:15"
   },
   {
     "id": 219,
@@ -3973,7 +4191,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 75.02999877929688,
     "latent_y": -80.44000244140625,
     "latent_z": 61.40999984741211,
-    "duration_seconds": null
+    "duration_seconds": 437,
+    "duracion": "07:17"
   },
   {
     "id": 220,
@@ -3992,7 +4211,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 66.66999816894531,
     "latent_y": -89.31999969482422,
     "latent_z": -52.58000183105469,
-    "duration_seconds": null
+    "duration_seconds": 878,
+    "duracion": "14:38"
   },
   {
     "id": 221,
@@ -4010,7 +4230,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": -7.309999942779541,
     "latent_y": -39.08000183105469,
     "latent_z": 42.459999084472656,
-    "duration_seconds": null
+    "duration_seconds": 964,
+    "duracion": "16:04"
   },
   {
     "id": 222,
@@ -4028,7 +4249,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 63.45000076293945,
     "latent_y": 77.44999694824219,
     "latent_z": -13.15999984741211,
-    "duration_seconds": null
+    "duration_seconds": 1299,
+    "duracion": "21:39"
   },
   {
     "id": 223,
@@ -4046,7 +4268,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 78.70999908447266,
     "latent_y": 48.630001068115234,
     "latent_z": -6.25,
-    "duration_seconds": null
+    "duration_seconds": 1215,
+    "duracion": "20:15"
   },
   {
     "id": 224,
@@ -4064,7 +4287,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 68.87999725341797,
     "latent_y": -67.45999908447266,
     "latent_z": 62.310001373291016,
-    "duration_seconds": null
+    "duration_seconds": 1038,
+    "duracion": "17:18"
   },
   {
     "id": 225,
@@ -4083,7 +4307,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 95.12999725341797,
     "latent_y": -62.9900016784668,
     "latent_z": -17.540000915527344,
-    "duration_seconds": null
+    "duration_seconds": 1324,
+    "duracion": "22:04"
   },
   {
     "id": 226,
@@ -4101,7 +4326,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 71.30000305175781,
     "latent_y": -43.529998779296875,
     "latent_z": 77.80000305175781,
-    "duration_seconds": null
+    "duration_seconds": 385,
+    "duracion": "06:25"
   },
   {
     "id": 227,
@@ -4119,7 +4345,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 40.189998626708984,
     "latent_y": -28.25,
     "latent_z": -15.279999732971191,
-    "duration_seconds": null
+    "duration_seconds": 325,
+    "duracion": "05:25"
   },
   {
     "id": 228,
@@ -4138,7 +4365,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 87.7300033569336,
     "latent_y": -9.640000343322754,
     "latent_z": -45.790000915527344,
-    "duration_seconds": null
+    "duration_seconds": 185,
+    "duracion": "03:05"
   },
   {
     "id": 229,
@@ -4156,7 +4384,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 73.23999786376953,
     "latent_y": -12.789999961853027,
     "latent_z": 37.33000183105469,
-    "duration_seconds": null
+    "duration_seconds": 794,
+    "duracion": "13:14"
   },
   {
     "id": 230,
@@ -4174,7 +4403,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 39.220001220703125,
     "latent_y": 15.899999618530273,
     "latent_z": -47.470001220703125,
-    "duration_seconds": null
+    "duration_seconds": 742,
+    "duracion": "12:22"
   },
   {
     "id": 231,
@@ -4192,7 +4422,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 0.0,
     "latent_y": 30.90999984741211,
     "latent_z": 14.069999694824219,
-    "duration_seconds": null
+    "duration_seconds": 881,
+    "duracion": "14:41"
   },
   {
     "id": 232,
@@ -4211,7 +4442,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 66.13999938964844,
     "latent_y": -92.19000244140625,
     "latent_z": -35.31999969482422,
-    "duration_seconds": null
+    "duration_seconds": 518,
+    "duracion": "08:38"
   },
   {
     "id": 233,
@@ -4229,7 +4461,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 48.060001373291016,
     "latent_y": -10.170000076293945,
     "latent_z": 93.9000015258789,
-    "duration_seconds": null
+    "duration_seconds": 550,
+    "duracion": "09:10"
   },
   {
     "id": 234,
@@ -4247,7 +4480,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 25.40999984741211,
     "latent_y": -22.450000762939453,
     "latent_z": -54.869998931884766,
-    "duration_seconds": null
+    "duration_seconds": 1034,
+    "duracion": "17:14"
   },
   {
     "id": 235,
@@ -4266,7 +4500,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 45.959999084472656,
     "latent_y": -23.610000610351562,
     "latent_z": 92.55000305175781,
-    "duration_seconds": null
+    "duration_seconds": 695,
+    "duracion": "11:35"
   },
   {
     "id": 236,
@@ -4284,7 +4519,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 70.0,
     "latent_y": 45.68000030517578,
     "latent_z": -5.429999828338623,
-    "duration_seconds": null
+    "duration_seconds": 562,
+    "duracion": "09:22"
   },
   {
     "id": 237,
@@ -4302,7 +4538,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 38.16999816894531,
     "latent_y": -57.61000061035156,
     "latent_z": -55.939998626708984,
-    "duration_seconds": null
+    "duration_seconds": 888,
+    "duracion": "14:48"
   },
   {
     "id": 238,
@@ -4320,7 +4557,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 43.70000076293945,
     "latent_y": -7.920000076293945,
     "latent_z": -10.899999618530273,
-    "duration_seconds": null
+    "duration_seconds": 987,
+    "duracion": "16:27"
   },
   {
     "id": 239,
@@ -4338,7 +4576,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 9.289999961853027,
     "latent_y": 14.039999961853027,
     "latent_z": -67.69999694824219,
-    "duration_seconds": null
+    "duration_seconds": 1331,
+    "duracion": "22:11"
   },
   {
     "id": 240,
@@ -4356,7 +4595,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 48.81999969482422,
     "latent_y": -27.93000030517578,
     "latent_z": 39.189998626708984,
-    "duration_seconds": null
+    "duration_seconds": 207,
+    "duracion": "03:27"
   },
   {
     "id": 241,
@@ -4374,7 +4614,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 99.41000366210938,
     "latent_y": -3.2799999713897705,
     "latent_z": -41.68000030517578,
-    "duration_seconds": null
+    "duration_seconds": 330,
+    "duracion": "05:30"
   },
   {
     "id": 242,
@@ -4394,7 +4635,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 87.94999694824219,
     "latent_y": -27.200000762939453,
     "latent_z": 76.44999694824219,
-    "duration_seconds": null
+    "duration_seconds": 573,
+    "duracion": "09:33"
   },
   {
     "id": 243,
@@ -4412,7 +4654,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 53.79999923706055,
     "latent_y": -58.349998474121094,
     "latent_z": -91.36000061035156,
-    "duration_seconds": null
+    "duration_seconds": 888,
+    "duracion": "14:48"
   },
   {
     "id": 244,
@@ -4431,7 +4674,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 80.25,
     "latent_y": -28.479999542236328,
     "latent_z": 60.36000061035156,
-    "duration_seconds": null
+    "duration_seconds": 770,
+    "duracion": "12:50"
   },
   {
     "id": 245,
@@ -4449,7 +4693,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 55.720001220703125,
     "latent_y": -34.4900016784668,
     "latent_z": 4.03000020980835,
-    "duration_seconds": null
+    "duration_seconds": 618,
+    "duracion": "10:18"
   },
   {
     "id": 246,
@@ -4467,7 +4712,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 20.40999984741211,
     "latent_y": -52.93000030517578,
     "latent_z": -4.039999961853027,
-    "duration_seconds": null
+    "duration_seconds": 419,
+    "duracion": "06:59"
   },
   {
     "id": 247,
@@ -4485,7 +4731,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 20.309999465942383,
     "latent_y": -54.97999954223633,
     "latent_z": -30.3700008392334,
-    "duration_seconds": null
+    "duration_seconds": 957,
+    "duracion": "15:57"
   },
   {
     "id": 248,
@@ -4503,7 +4750,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 7.53000020980835,
     "latent_y": 14.180000305175781,
     "latent_z": 36.849998474121094,
-    "duration_seconds": null
+    "duration_seconds": 651,
+    "duracion": "10:51"
   },
   {
     "id": 249,
@@ -4521,7 +4769,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 70.6500015258789,
     "latent_y": -59.189998626708984,
     "latent_z": 80.63999938964844,
-    "duration_seconds": null
+    "duration_seconds": 3694,
+    "duracion": "01:01:34"
   },
   {
     "id": 250,
@@ -4539,7 +4788,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 78.97000122070312,
     "latent_y": -57.970001220703125,
     "latent_z": 84.08999633789062,
-    "duration_seconds": null
+    "duration_seconds": 596,
+    "duracion": "09:56"
   },
   {
     "id": 251,
@@ -4557,7 +4807,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 16.940000534057617,
     "latent_y": -19.809999465942383,
     "latent_z": -93.62000274658203,
-    "duration_seconds": null
+    "duration_seconds": 190,
+    "duracion": "03:10"
   },
   {
     "id": 252,
@@ -4575,7 +4826,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 70.44999694824219,
     "latent_y": -92.7300033569336,
     "latent_z": 83.12000274658203,
-    "duration_seconds": null
+    "duration_seconds": 586,
+    "duracion": "09:46"
   },
   {
     "id": 253,
@@ -4595,7 +4847,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 59.31999969482422,
     "latent_y": 19.8799991607666,
     "latent_z": -33.439998626708984,
-    "duration_seconds": null
+    "duration_seconds": 1807,
+    "duracion": "30:07"
   },
   {
     "id": 254,
@@ -4613,7 +4866,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 7.639999866485596,
     "latent_y": -52.70000076293945,
     "latent_z": -78.11000061035156,
-    "duration_seconds": null
+    "duration_seconds": 3008,
+    "duracion": "50:08"
   },
   {
     "id": 255,
@@ -4631,7 +4885,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 53.540000915527344,
     "latent_y": 57.209999084472656,
     "latent_z": 5.730000019073486,
-    "duration_seconds": null
+    "duration_seconds": 801,
+    "duracion": "13:21"
   },
   {
     "id": 256,
@@ -4649,7 +4904,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 13.260000228881836,
     "latent_y": -48.2599983215332,
     "latent_z": 31.68000030517578,
-    "duration_seconds": null
+    "duration_seconds": 652,
+    "duracion": "10:52"
   },
   {
     "id": 257,
@@ -4667,7 +4923,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 34.72999954223633,
     "latent_y": -33.189998626708984,
     "latent_z": 6.400000095367432,
-    "duration_seconds": null
+    "duration_seconds": 578,
+    "duracion": "09:38"
   },
   {
     "id": 258,
@@ -4686,7 +4943,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 106.7300033569336,
     "latent_y": 12.8100004196167,
     "latent_z": -24.40999984741211,
-    "duration_seconds": null
+    "duration_seconds": 283,
+    "duracion": "04:43"
   },
   {
     "id": 259,
@@ -4705,7 +4963,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 73.54000091552734,
     "latent_y": -30.649999618530273,
     "latent_z": 58.56999969482422,
-    "duration_seconds": null
+    "duration_seconds": 684,
+    "duracion": "11:24"
   },
   {
     "id": 260,
@@ -4724,7 +4983,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 107.27999877929688,
     "latent_y": 17.530000686645508,
     "latent_z": -5.710000038146973,
-    "duration_seconds": null
+    "duration_seconds": 157,
+    "duracion": "02:37"
   },
   {
     "id": 261,
@@ -4742,7 +5002,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 112.70999908447266,
     "latent_y": -45.66999816894531,
     "latent_z": -21.65999984741211,
-    "duration_seconds": null
+    "duration_seconds": 1426,
+    "duracion": "23:46"
   },
   {
     "id": 262,
@@ -4760,7 +5021,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 57.970001220703125,
     "latent_y": -10.930000305175781,
     "latent_z": -33.56999969482422,
-    "duration_seconds": null
+    "duration_seconds": 266,
+    "duracion": "04:26"
   },
   {
     "id": 263,
@@ -4779,7 +5041,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 87.94000244140625,
     "latent_y": -44.91999816894531,
     "latent_z": 94.23999786376953,
-    "duration_seconds": null
+    "duration_seconds": 330,
+    "duracion": "05:30"
   },
   {
     "id": 264,
@@ -4797,7 +5060,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 27.530000686645508,
     "latent_y": -52.34000015258789,
     "latent_z": 34.27000045776367,
-    "duration_seconds": null
+    "duration_seconds": 971,
+    "duracion": "16:11"
   },
   {
     "id": 265,
@@ -4815,7 +5079,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 52.060001373291016,
     "latent_y": -68.7699966430664,
     "latent_z": 66.93000030517578,
-    "duration_seconds": null
+    "duration_seconds": 853,
+    "duracion": "14:13"
   },
   {
     "id": 266,
@@ -4833,7 +5098,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 110.2300033569336,
     "latent_y": -15.779999732971191,
     "latent_z": -2.6600000858306885,
-    "duration_seconds": null
+    "duration_seconds": 572,
+    "duracion": "09:32"
   },
   {
     "id": 267,
@@ -4852,7 +5118,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 73.1500015258789,
     "latent_y": -49.31999969482422,
     "latent_z": 23.93000030517578,
-    "duration_seconds": null
+    "duration_seconds": 7594,
+    "duracion": "02:06:34"
   },
   {
     "id": 268,
@@ -4870,7 +5137,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 40.33000183105469,
     "latent_y": -23.3700008392334,
     "latent_z": 37.72999954223633,
-    "duration_seconds": null
+    "duration_seconds": 191,
+    "duracion": "03:11"
   },
   {
     "id": 269,
@@ -4888,7 +5156,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 62.08000183105469,
     "latent_y": 47.79999923706055,
     "latent_z": 13.75,
-    "duration_seconds": null
+    "duration_seconds": 152,
+    "duracion": "02:32"
   },
   {
     "id": 270,
@@ -4906,7 +5175,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 66.27999877929688,
     "latent_y": -53.869998931884766,
     "latent_z": 65.62000274658203,
-    "duration_seconds": null
+    "duration_seconds": 139,
+    "duracion": "02:19"
   },
   {
     "id": 271,
@@ -4924,7 +5194,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 55.790000915527344,
     "latent_y": -82.61000061035156,
     "latent_z": 80.18000030517578,
-    "duration_seconds": null
+    "duration_seconds": 70,
+    "duracion": "01:10"
   },
   {
     "id": 272,
@@ -4943,7 +5214,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 60.11000061035156,
     "latent_y": -29.579999923706055,
     "latent_z": -120.0,
-    "duration_seconds": null
+    "duration_seconds": 78,
+    "duracion": "01:18"
   },
   {
     "id": 273,
@@ -4961,7 +5233,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 96.86000061035156,
     "latent_y": -36.04999923706055,
     "latent_z": 2.200000047683716,
-    "duration_seconds": null
+    "duration_seconds": 441,
+    "duracion": "07:21"
   },
   {
     "id": 274,
@@ -4979,7 +5252,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 109.61000061035156,
     "latent_y": -18.270000457763672,
     "latent_z": -36.95000076293945,
-    "duration_seconds": null
+    "duration_seconds": 237,
+    "duracion": "03:57"
   },
   {
     "id": 275,
@@ -4997,7 +5271,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 106.58999633789062,
     "latent_y": -32.88999938964844,
     "latent_z": -5.199999809265137,
-    "duration_seconds": null
+    "duration_seconds": 489,
+    "duracion": "08:09"
   },
   {
     "id": 276,
@@ -5015,7 +5290,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 53.86000061035156,
     "latent_y": -38.470001220703125,
     "latent_z": -93.79000091552734,
-    "duration_seconds": null
+    "duration_seconds": 666,
+    "duracion": "11:06"
   },
   {
     "id": 277,
@@ -5033,7 +5309,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 15.020000457763672,
     "latent_y": -32.11000061035156,
     "latent_z": -11.600000381469727,
-    "duration_seconds": null
+    "duration_seconds": 389,
+    "duracion": "06:29"
   },
   {
     "id": 278,
@@ -5051,7 +5328,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 45.38999938964844,
     "latent_y": -20.040000915527344,
     "latent_z": 54.220001220703125,
-    "duration_seconds": null
+    "duration_seconds": 314,
+    "duracion": "05:14"
   },
   {
     "id": 279,
@@ -5069,7 +5347,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 114.76000213623047,
     "latent_y": -7.309999942779541,
     "latent_z": -21.309999465942383,
-    "duration_seconds": null
+    "duration_seconds": 1513,
+    "duracion": "25:13"
   },
   {
     "id": 280,
@@ -5087,7 +5366,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 19.790000915527344,
     "latent_y": 2.7899999618530273,
     "latent_z": -10.6899995803833,
-    "duration_seconds": null
+    "duration_seconds": 545,
+    "duracion": "09:05"
   },
   {
     "id": 281,
@@ -5105,7 +5385,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 72.08000183105469,
     "latent_y": 13.979999542236328,
     "latent_z": 19.239999771118164,
-    "duration_seconds": null
+    "duration_seconds": 198,
+    "duracion": "03:18"
   },
   {
     "id": 282,
@@ -5123,7 +5404,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 52.68000030517578,
     "latent_y": -52.81999969482422,
     "latent_z": -75.44999694824219,
-    "duration_seconds": null
+    "duration_seconds": 1440,
+    "duracion": "24:00"
   },
   {
     "id": 283,
@@ -5142,7 +5424,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 86.37000274658203,
     "latent_y": 38.18000030517578,
     "latent_z": -51.869998931884766,
-    "duration_seconds": null
+    "duration_seconds": 1059,
+    "duracion": "17:39"
   },
   {
     "id": 284,
@@ -5161,7 +5444,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 92.19000244140625,
     "latent_y": -55.470001220703125,
     "latent_z": 76.55999755859375,
-    "duration_seconds": null
+    "duration_seconds": 677,
+    "duracion": "11:17"
   },
   {
     "id": 285,
@@ -5179,7 +5463,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 66.26000213623047,
     "latent_y": -63.5,
     "latent_z": -101.9000015258789,
-    "duration_seconds": null
+    "duration_seconds": 166,
+    "duracion": "02:46"
   },
   {
     "id": 286,
@@ -5197,7 +5482,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 49.220001220703125,
     "latent_y": -95.69000244140625,
     "latent_z": -12.489999771118164,
-    "duration_seconds": null
+    "duration_seconds": 946,
+    "duracion": "15:46"
   },
   {
     "id": 287,
@@ -5215,7 +5501,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 77.98999786376953,
     "latent_y": 33.40999984741211,
     "latent_z": -33.41999816894531,
-    "duration_seconds": null
+    "duration_seconds": 205,
+    "duracion": "03:25"
   },
   {
     "id": 288,
@@ -5233,7 +5520,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 58.63999938964844,
     "latent_y": -55.099998474121094,
     "latent_z": -112.7300033569336,
-    "duration_seconds": null
+    "duration_seconds": 27,
+    "duracion": "00:27"
   },
   {
     "id": 289,
@@ -5253,7 +5541,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 56.29999923706055,
     "latent_y": -19.90999984741211,
     "latent_z": -119.81999969482422,
-    "duration_seconds": null
+    "duration_seconds": 302,
+    "duracion": "05:02"
   },
   {
     "id": 290,
@@ -5271,7 +5560,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 60.08000183105469,
     "latent_y": -51.43000030517578,
     "latent_z": -61.869998931884766,
-    "duration_seconds": null
+    "duration_seconds": 761,
+    "duracion": "12:41"
   },
   {
     "id": 291,
@@ -5289,7 +5579,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 18.93000030517578,
     "latent_y": -36.060001373291016,
     "latent_z": -34.18000030517578,
-    "duration_seconds": null
+    "duration_seconds": 1142,
+    "duracion": "19:02"
   },
   {
     "id": 292,
@@ -5307,7 +5598,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 90.18000030517578,
     "latent_y": -41.869998931884766,
     "latent_z": -15.579999923706055,
-    "duration_seconds": null
+    "duration_seconds": 169,
+    "duracion": "02:49"
   },
   {
     "id": 293,
@@ -5325,7 +5617,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 40.02000045776367,
     "latent_y": -30.649999618530273,
     "latent_z": -81.16000366210938,
-    "duration_seconds": null
+    "duration_seconds": 487,
+    "duracion": "08:07"
   },
   {
     "id": 294,
@@ -5343,7 +5636,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 56.29999923706055,
     "latent_y": 61.709999084472656,
     "latent_z": -14.5,
-    "duration_seconds": null
+    "duration_seconds": 802,
+    "duracion": "13:22"
   },
   {
     "id": 295,
@@ -5361,7 +5655,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 78.02999877929688,
     "latent_y": 69.12000274658203,
     "latent_z": 16.850000381469727,
-    "duration_seconds": null
+    "duration_seconds": 1934,
+    "duracion": "32:14"
   },
   {
     "id": 296,
@@ -5379,7 +5674,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 69.54000091552734,
     "latent_y": -80.26000213623047,
     "latent_z": 105.12000274658203,
-    "duration_seconds": null
+    "duration_seconds": 1207,
+    "duracion": "20:07"
   },
   {
     "id": 297,
@@ -5397,7 +5693,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 60.869998931884766,
     "latent_y": -36.33000183105469,
     "latent_z": 69.01000213623047,
-    "duration_seconds": null
+    "duration_seconds": 1225,
+    "duracion": "20:25"
   },
   {
     "id": 298,
@@ -5415,7 +5712,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 72.25,
     "latent_y": 74.44000244140625,
     "latent_z": -21.84000015258789,
-    "duration_seconds": null
+    "duration_seconds": 385,
+    "duracion": "06:25"
   },
   {
     "id": 299,
@@ -5433,7 +5731,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 63.34000015258789,
     "latent_y": 61.75,
     "latent_z": 2.1600000858306885,
-    "duration_seconds": null
+    "duration_seconds": 309,
+    "duracion": "05:09"
   },
   {
     "id": 300,
@@ -5451,7 +5750,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 53.650001525878906,
     "latent_y": -52.0,
     "latent_z": 84.33999633789062,
-    "duration_seconds": null
+    "duration_seconds": 569,
+    "duracion": "09:29"
   },
   {
     "id": 301,
@@ -5469,7 +5769,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 78.37999725341797,
     "latent_y": -78.38999938964844,
     "latent_z": -73.37999725341797,
-    "duration_seconds": null
+    "duration_seconds": 569,
+    "duracion": "09:29"
   },
   {
     "id": 302,
@@ -5487,7 +5788,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 58.040000915527344,
     "latent_y": -81.27999877929688,
     "latent_z": 96.01000213623047,
-    "duration_seconds": null
+    "duration_seconds": 35,
+    "duracion": "00:35"
   },
   {
     "id": 303,
@@ -5506,7 +5808,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 38.900001525878906,
     "latent_y": -32.369998931884766,
     "latent_z": 90.79000091552734,
-    "duration_seconds": null
+    "duration_seconds": 400,
+    "duracion": "06:40"
   },
   {
     "id": 304,
@@ -5524,7 +5827,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 69.43000030517578,
     "latent_y": -68.5999984741211,
     "latent_z": -82.73999786376953,
-    "duration_seconds": null
+    "duration_seconds": 53,
+    "duracion": "00:53"
   },
   {
     "id": 305,
@@ -5543,7 +5847,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 75.36000061035156,
     "latent_y": -85.16000366210938,
     "latent_z": -42.849998474121094,
-    "duration_seconds": null
+    "duration_seconds": 278,
+    "duracion": "04:38"
   },
   {
     "id": 306,
@@ -5561,7 +5866,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 60.619998931884766,
     "latent_y": -63.189998626708984,
     "latent_z": 76.5999984741211,
-    "duration_seconds": null
+    "duration_seconds": 136,
+    "duracion": "02:16"
   },
   {
     "id": 307,
@@ -5580,7 +5886,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 74.05999755859375,
     "latent_y": -80.4800033569336,
     "latent_z": -19.219999313354492,
-    "duration_seconds": null
+    "duration_seconds": 787,
+    "duracion": "13:07"
   },
   {
     "id": 308,
@@ -5598,7 +5905,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 29.65999984741211,
     "latent_y": -96.45999908447266,
     "latent_z": -44.40999984741211,
-    "duration_seconds": null
+    "duration_seconds": 1954,
+    "duracion": "32:34"
   },
   {
     "id": 309,
@@ -5616,7 +5924,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 74.63999938964844,
     "latent_y": -36.08000183105469,
     "latent_z": 96.5,
-    "duration_seconds": null
+    "duration_seconds": 115,
+    "duracion": "01:55"
   },
   {
     "id": 310,
@@ -5635,7 +5944,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 86.43000030517578,
     "latent_y": -43.439998626708984,
     "latent_z": 76.48999786376953,
-    "duration_seconds": null
+    "duration_seconds": 612,
+    "duracion": "10:12"
   },
   {
     "id": 311,
@@ -5653,7 +5963,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 56.06999969482422,
     "latent_y": -63.400001525878906,
     "latent_z": -53.650001525878906,
-    "duration_seconds": null
+    "duration_seconds": 672,
+    "duracion": "11:12"
   },
   {
     "id": 312,
@@ -5671,7 +5982,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 33.310001373291016,
     "latent_y": -31.719999313354492,
     "latent_z": -33.0,
-    "duration_seconds": null
+    "duration_seconds": 387,
+    "duracion": "06:27"
   },
   {
     "id": 313,
@@ -5689,7 +6001,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 28.020000457763672,
     "latent_y": -25.110000610351562,
     "latent_z": -9.380000114440918,
-    "duration_seconds": null
+    "duration_seconds": 783,
+    "duracion": "13:03"
   },
   {
     "id": 314,
@@ -5707,7 +6020,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 75.94000244140625,
     "latent_y": -63.619998931884766,
     "latent_z": 105.5999984741211,
-    "duration_seconds": null
+    "duration_seconds": 700,
+    "duracion": "11:40"
   },
   {
     "id": 315,
@@ -5725,7 +6039,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 62.13999938964844,
     "latent_y": -60.029998779296875,
     "latent_z": -82.16000366210938,
-    "duration_seconds": null
+    "duration_seconds": 40,
+    "duracion": "00:40"
   },
   {
     "id": 316,
@@ -5743,7 +6058,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 56.7400016784668,
     "latent_y": -97.86000061035156,
     "latent_z": 0.8700000047683716,
-    "duration_seconds": null
+    "duration_seconds": 893,
+    "duracion": "14:53"
   },
   {
     "id": 317,
@@ -5761,7 +6077,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 49.16999816894531,
     "latent_y": 1.2100000381469727,
     "latent_z": 95.44000244140625,
-    "duration_seconds": null
+    "duration_seconds": 1132,
+    "duracion": "18:52"
   },
   {
     "id": 318,
@@ -5779,7 +6096,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 23.030000686645508,
     "latent_y": -41.75,
     "latent_z": -19.139999389648438,
-    "duration_seconds": null
+    "duration_seconds": 402,
+    "duracion": "06:42"
   },
   {
     "id": 319,
@@ -5797,7 +6115,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 63.060001373291016,
     "latent_y": -48.31999969482422,
     "latent_z": -93.37999725341797,
-    "duration_seconds": null
+    "duration_seconds": 94,
+    "duracion": "01:34"
   },
   {
     "id": 320,
@@ -5815,7 +6134,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": -11.550000190734863,
     "latent_y": -15.489999771118164,
     "latent_z": 8.640000343322754,
-    "duration_seconds": null
+    "duration_seconds": 641,
+    "duracion": "10:41"
   },
   {
     "id": 321,
@@ -5834,7 +6154,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 57.939998626708984,
     "latent_y": -87.6500015258789,
     "latent_z": -42.27000045776367,
-    "duration_seconds": null
+    "duration_seconds": 9866,
+    "duracion": "02:44:26"
   },
   {
     "id": 322,
@@ -5853,7 +6174,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 67.08999633789062,
     "latent_y": -78.66000366210938,
     "latent_z": -37.88999938964844,
-    "duration_seconds": null
+    "duration_seconds": 719,
+    "duracion": "11:59"
   },
   {
     "id": 323,
@@ -5871,7 +6193,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 75.94999694824219,
     "latent_y": -52.72999954223633,
     "latent_z": 63.31999969482422,
-    "duration_seconds": null
+    "duration_seconds": 323,
+    "duracion": "05:23"
   },
   {
     "id": 324,
@@ -5889,7 +6212,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 67.33000183105469,
     "latent_y": 58.15999984741211,
     "latent_z": -21.860000610351562,
-    "duration_seconds": null
+    "duration_seconds": 660,
+    "duracion": "11:00"
   },
   {
     "id": 325,
@@ -5907,7 +6231,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 40.040000915527344,
     "latent_y": 16.790000915527344,
     "latent_z": 12.59000015258789,
-    "duration_seconds": null
+    "duration_seconds": 41,
+    "duracion": "00:41"
   },
   {
     "id": 326,
@@ -5925,7 +6250,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 74.38999938964844,
     "latent_y": -50.400001525878906,
     "latent_z": -59.41999816894531,
-    "duration_seconds": null
+    "duration_seconds": 1114,
+    "duracion": "18:34"
   },
   {
     "id": 327,
@@ -5943,7 +6269,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 32.93000030517578,
     "latent_y": -15.779999732971191,
     "latent_z": -46.63999938964844,
-    "duration_seconds": null
+    "duration_seconds": 484,
+    "duracion": "08:04"
   },
   {
     "id": 328,
@@ -5961,7 +6288,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 63.45000076293945,
     "latent_y": 70.61000061035156,
     "latent_z": 20.350000381469727,
-    "duration_seconds": null
+    "duration_seconds": 1809,
+    "duracion": "30:09"
   },
   {
     "id": 329,
@@ -5979,7 +6307,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 67.22000122070312,
     "latent_y": -38.59000015258789,
     "latent_z": -50.849998474121094,
-    "duration_seconds": null
+    "duration_seconds": 1089,
+    "duracion": "18:09"
   },
   {
     "id": 330,
@@ -5997,7 +6326,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 63.22999954223633,
     "latent_y": -50.79999923706055,
     "latent_z": 86.66000366210938,
-    "duration_seconds": null
+    "duration_seconds": 128,
+    "duracion": "02:08"
   },
   {
     "id": 331,
@@ -6016,7 +6346,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 54.34000015258789,
     "latent_y": 48.220001220703125,
     "latent_z": -48.650001525878906,
-    "duration_seconds": null
+    "duration_seconds": 583,
+    "duracion": "09:43"
   },
   {
     "id": 332,
@@ -6034,7 +6365,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 42.619998931884766,
     "latent_y": 10.720000267028809,
     "latent_z": -84.62000274658203,
-    "duration_seconds": null
+    "duration_seconds": 998,
+    "duracion": "16:38"
   },
   {
     "id": 333,
@@ -6052,7 +6384,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 31.389999389648438,
     "latent_y": -46.83000183105469,
     "latent_z": -13.859999656677246,
-    "duration_seconds": null
+    "duration_seconds": 5089,
+    "duracion": "01:24:49"
   },
   {
     "id": 334,
@@ -6070,7 +6403,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 86.0999984741211,
     "latent_y": -73.56999969482422,
     "latent_z": 94.44999694824219,
-    "duration_seconds": null
+    "duration_seconds": 100,
+    "duracion": "01:40"
   },
   {
     "id": 335,
@@ -6089,7 +6423,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 79.97000122070312,
     "latent_y": -57.54999923706055,
     "latent_z": 17.709999084472656,
-    "duration_seconds": null
+    "duration_seconds": 8265,
+    "duracion": "02:17:45"
   },
   {
     "id": 336,
@@ -6107,7 +6442,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 104.68000030517578,
     "latent_y": -20.719999313354492,
     "latent_z": -18.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 153,
+    "duracion": "02:33"
   },
   {
     "id": 337,
@@ -6125,7 +6461,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 79.44999694824219,
     "latent_y": 8.770000457763672,
     "latent_z": 49.65999984741211,
-    "duration_seconds": null
+    "duration_seconds": 208,
+    "duracion": "03:28"
   },
   {
     "id": 338,
@@ -6143,7 +6480,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 56.540000915527344,
     "latent_y": -89.6500015258789,
     "latent_z": -89.33999633789062,
-    "duration_seconds": null
+    "duration_seconds": 6818,
+    "duracion": "01:53:38"
   },
   {
     "id": 339,
@@ -6161,7 +6499,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 73.47000122070312,
     "latent_y": 31.049999237060547,
     "latent_z": -12.079999923706055,
-    "duration_seconds": null
+    "duration_seconds": 465,
+    "duracion": "07:45"
   },
   {
     "id": 340,
@@ -6179,7 +6518,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 71.33999633789062,
     "latent_y": 63.439998626708984,
     "latent_z": -47.18000030517578,
-    "duration_seconds": null
+    "duration_seconds": 257,
+    "duracion": "04:17"
   },
   {
     "id": 341,
@@ -6197,7 +6537,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 82.55000305175781,
     "latent_y": 34.61000061035156,
     "latent_z": 1.600000023841858,
-    "duration_seconds": null
+    "duration_seconds": 196,
+    "duracion": "03:16"
   },
   {
     "id": 342,
@@ -6215,7 +6556,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 9.220000267028809,
     "latent_y": -41.2599983215332,
     "latent_z": -57.47999954223633,
-    "duration_seconds": null
+    "duration_seconds": 206,
+    "duracion": "03:26"
   },
   {
     "id": 343,
@@ -6233,7 +6575,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 72.33000183105469,
     "latent_y": 54.599998474121094,
     "latent_z": 30.889999389648438,
-    "duration_seconds": null
+    "duration_seconds": 133,
+    "duracion": "02:13"
   },
   {
     "id": 344,
@@ -6252,7 +6595,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 73.9000015258789,
     "latent_y": -93.08000183105469,
     "latent_z": -21.09000015258789,
-    "duration_seconds": null
+    "duration_seconds": 923,
+    "duracion": "15:23"
   },
   {
     "id": 345,
@@ -6270,7 +6614,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 59.2400016784668,
     "latent_y": -62.290000915527344,
     "latent_z": 101.5,
-    "duration_seconds": null
+    "duration_seconds": 320,
+    "duracion": "05:20"
   },
   {
     "id": 346,
@@ -6288,7 +6633,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 62.029998779296875,
     "latent_y": -38.38999938964844,
     "latent_z": -74.62000274658203,
-    "duration_seconds": null
+    "duration_seconds": 104,
+    "duracion": "01:44"
   },
   {
     "id": 347,
@@ -6307,7 +6653,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 58.290000915527344,
     "latent_y": -96.16000366210938,
     "latent_z": 51.959999084472656,
-    "duration_seconds": null
+    "duration_seconds": 59,
+    "duracion": "00:59"
   },
   {
     "id": 348,
@@ -6327,7 +6674,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 84.58999633789062,
     "latent_y": -75.83999633789062,
     "latent_z": 28.389999389648438,
-    "duration_seconds": null
+    "duration_seconds": 131,
+    "duracion": "02:11"
   },
   {
     "id": 349,
@@ -6345,7 +6693,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 65.06999969482422,
     "latent_y": -45.93000030517578,
     "latent_z": 44.290000915527344,
-    "duration_seconds": null
+    "duration_seconds": 5891,
+    "duracion": "01:38:11"
   },
   {
     "id": 350,
@@ -6364,7 +6713,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 63.25,
     "latent_y": 30.969999313354492,
     "latent_z": -2.5399999618530273,
-    "duration_seconds": null
+    "duration_seconds": 226,
+    "duracion": "03:46"
   },
   {
     "id": 351,
@@ -6383,7 +6733,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 82.2300033569336,
     "latent_y": -2.5,
     "latent_z": -32.540000915527344,
-    "duration_seconds": null
+    "duration_seconds": 873,
+    "duracion": "14:33"
   },
   {
     "id": 352,
@@ -6402,7 +6753,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 48.209999084472656,
     "latent_y": 39.540000915527344,
     "latent_z": -55.72999954223633,
-    "duration_seconds": null
+    "duration_seconds": 2084,
+    "duracion": "34:44"
   },
   {
     "id": 353,
@@ -6420,7 +6772,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 97.26000213623047,
     "latent_y": -41.9900016784668,
     "latent_z": -35.31999969482422,
-    "duration_seconds": null
+    "duration_seconds": 241,
+    "duracion": "04:01"
   },
   {
     "id": 354,
@@ -6438,7 +6791,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 99.87000274658203,
     "latent_y": -21.1299991607666,
     "latent_z": -36.849998474121094,
-    "duration_seconds": null
+    "duration_seconds": 109,
+    "duracion": "01:49"
   },
   {
     "id": 355,
@@ -6456,7 +6810,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 65.4800033569336,
     "latent_y": 40.400001525878906,
     "latent_z": -24.209999084472656,
-    "duration_seconds": null
+    "duration_seconds": 3498,
+    "duracion": "58:18"
   },
   {
     "id": 356,
@@ -6474,7 +6829,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 65.33999633789062,
     "latent_y": -53.720001220703125,
     "latent_z": 112.2699966430664,
-    "duration_seconds": null
+    "duration_seconds": 59,
+    "duracion": "00:59"
   },
   {
     "id": 357,
@@ -6494,7 +6850,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 79.79000091552734,
     "latent_y": 36.880001068115234,
     "latent_z": -66.41999816894531,
-    "duration_seconds": null
+    "duration_seconds": 166,
+    "duracion": "02:46"
   },
   {
     "id": 358,
@@ -6513,7 +6870,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 53.439998626708984,
     "latent_y": 24.510000228881836,
     "latent_z": -51.5,
-    "duration_seconds": null
+    "duration_seconds": 142,
+    "duracion": "02:22"
   },
   {
     "id": 359,
@@ -6531,7 +6889,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 81.1500015258789,
     "latent_y": 52.959999084472656,
     "latent_z": -41.630001068115234,
-    "duration_seconds": null
+    "duration_seconds": 472,
+    "duracion": "07:52"
   },
   {
     "id": 360,
@@ -6549,7 +6908,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 49.11000061035156,
     "latent_y": -71.94999694824219,
     "latent_z": 93.04000091552734,
-    "duration_seconds": null
+    "duration_seconds": 143,
+    "duracion": "02:23"
   },
   {
     "id": 361,
@@ -6567,7 +6927,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 104.94000244140625,
     "latent_y": -47.040000915527344,
     "latent_z": 13.5,
-    "duration_seconds": null
+    "duration_seconds": 134,
+    "duracion": "02:14"
   },
   {
     "id": 362,
@@ -6586,7 +6947,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 64.87999725341797,
     "latent_y": -87.94999694824219,
     "latent_z": 44.47999954223633,
-    "duration_seconds": null
+    "duration_seconds": 100,
+    "duracion": "01:40"
   },
   {
     "id": 363,
@@ -6604,7 +6966,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 85.87000274658203,
     "latent_y": 31.610000610351562,
     "latent_z": -16.549999237060547,
-    "duration_seconds": null
+    "duration_seconds": 147,
+    "duracion": "02:27"
   },
   {
     "id": 364,
@@ -6622,7 +6985,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 71.68000030517578,
     "latent_y": 55.29999923706055,
     "latent_z": 10.630000114440918,
-    "duration_seconds": null
+    "duration_seconds": 451,
+    "duracion": "07:31"
   },
   {
     "id": 365,
@@ -6640,7 +7004,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 18.6299991607666,
     "latent_y": -30.329999923706055,
     "latent_z": -65.1500015258789,
-    "duration_seconds": null
+    "duration_seconds": 180,
+    "duracion": "03:00"
   },
   {
     "id": 366,
@@ -6659,7 +7024,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 71.54000091552734,
     "latent_y": -62.779998779296875,
     "latent_z": 16.219999313354492,
-    "duration_seconds": null
+    "duration_seconds": 7405,
+    "duracion": "02:03:25"
   },
   {
     "id": 367,
@@ -6677,7 +7043,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 89.83000183105469,
     "latent_y": 45.849998474121094,
     "latent_z": -5.650000095367432,
-    "duration_seconds": null
+    "duration_seconds": 430,
+    "duracion": "07:10"
   },
   {
     "id": 368,
@@ -6695,7 +7062,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 62.779998779296875,
     "latent_y": -58.970001220703125,
     "latent_z": 38.83000183105469,
-    "duration_seconds": null
+    "duration_seconds": 8320,
+    "duracion": "02:18:40"
   },
   {
     "id": 369,
@@ -6713,7 +7081,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 65.37999725341797,
     "latent_y": 5.019999980926514,
     "latent_z": 8.119999885559082,
-    "duration_seconds": null
+    "duration_seconds": 66,
+    "duracion": "01:06"
   },
   {
     "id": 370,
@@ -6731,7 +7100,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 62.630001068115234,
     "latent_y": -36.2400016784668,
     "latent_z": 98.11000061035156,
-    "duration_seconds": null
+    "duration_seconds": 214,
+    "duracion": "03:34"
   },
   {
     "id": 371,
@@ -6749,7 +7119,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 74.7699966430664,
     "latent_y": 47.45000076293945,
     "latent_z": -26.260000228881836,
-    "duration_seconds": null
+    "duration_seconds": 180,
+    "duracion": "03:00"
   },
   {
     "id": 372,
@@ -6768,7 +7139,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 75.37000274658203,
     "latent_y": -61.880001068115234,
     "latent_z": 33.880001068115234,
-    "duration_seconds": null
+    "duration_seconds": 7385,
+    "duracion": "02:03:05"
   },
   {
     "id": 373,
@@ -6786,7 +7158,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 84.81999969482422,
     "latent_y": 46.220001220703125,
     "latent_z": -26.579999923706055,
-    "duration_seconds": null
+    "duration_seconds": 345,
+    "duracion": "05:45"
   },
   {
     "id": 374,
@@ -6804,7 +7177,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 36.70000076293945,
     "latent_y": -43.16999816894531,
     "latent_z": 65.76000213623047,
-    "duration_seconds": null
+    "duration_seconds": 907,
+    "duracion": "15:07"
   },
   {
     "id": 375,
@@ -6822,7 +7196,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 54.86000061035156,
     "latent_y": -78.18000030517578,
     "latent_z": -108.76000213623047,
-    "duration_seconds": null
+    "duration_seconds": 9480,
+    "duracion": "02:38:00"
   },
   {
     "id": 376,
@@ -6841,7 +7216,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 75.37000274658203,
     "latent_y": -61.880001068115234,
     "latent_z": 33.880001068115234,
-    "duration_seconds": null
+    "duration_seconds": 9314,
+    "duracion": "02:35:14"
   },
   {
     "id": 377,
@@ -6859,7 +7235,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 101.44999694824219,
     "latent_y": -46.2400016784668,
     "latent_z": -13.029999732971191,
-    "duration_seconds": null
+    "duration_seconds": 416,
+    "duracion": "06:56"
   },
   {
     "id": 378,
@@ -6877,7 +7254,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 62.779998779296875,
     "latent_y": -58.970001220703125,
     "latent_z": 38.83000183105469,
-    "duration_seconds": null
+    "duration_seconds": 6650,
+    "duracion": "01:50:50"
   },
   {
     "id": 379,
@@ -6896,7 +7274,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 62.45000076293945,
     "latent_y": -82.4000015258789,
     "latent_z": -22.8799991607666,
-    "duration_seconds": null
+    "duration_seconds": 1449,
+    "duracion": "24:09"
   },
   {
     "id": 380,
@@ -6914,7 +7293,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 89.01000213623047,
     "latent_y": 64.22000122070312,
     "latent_z": -22.219999313354492,
-    "duration_seconds": null
+    "duration_seconds": 998,
+    "duracion": "16:38"
   },
   {
     "id": 381,
@@ -6932,7 +7312,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 68.41999816894531,
     "latent_y": -0.6700000166893005,
     "latent_z": 27.350000381469727,
-    "duration_seconds": null
+    "duration_seconds": 416,
+    "duracion": "06:56"
   },
   {
     "id": 382,
@@ -6950,7 +7331,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 70.66000366210938,
     "latent_y": 45.2400016784668,
     "latent_z": -43.7400016784668,
-    "duration_seconds": null
+    "duration_seconds": 146,
+    "duracion": "02:26"
   },
   {
     "id": 383,
@@ -6968,7 +7350,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 71.45999908447266,
     "latent_y": -53.66999816894531,
     "latent_z": -88.66000366210938,
-    "duration_seconds": null
+    "duration_seconds": 1107,
+    "duracion": "18:27"
   },
   {
     "id": 384,
@@ -6987,7 +7370,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 59.209999084472656,
     "latent_y": 38.189998626708984,
     "latent_z": -68.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 124,
+    "duracion": "02:04"
   },
   {
     "id": 385,
@@ -7005,7 +7389,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 91.73999786376953,
     "latent_y": 63.45000076293945,
     "latent_z": 0.4099999964237213,
-    "duration_seconds": null
+    "duration_seconds": 241,
+    "duracion": "04:01"
   },
   {
     "id": 386,
@@ -7025,7 +7410,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 67.29000091552734,
     "latent_y": -86.87000274658203,
     "latent_z": 25.280000686645508,
-    "duration_seconds": null
+    "duration_seconds": 438,
+    "duracion": "07:18"
   },
   {
     "id": 387,
@@ -7043,7 +7429,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 67.22000122070312,
     "latent_y": -84.98999786376953,
     "latent_z": -106.95999908447266,
-    "duration_seconds": null
+    "duration_seconds": 4760,
+    "duracion": "01:19:20"
   },
   {
     "id": 388,
@@ -7061,7 +7448,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 81.9000015258789,
     "latent_y": 63.7400016784668,
     "latent_z": -4.369999885559082,
-    "duration_seconds": null
+    "duration_seconds": 63,
+    "duracion": "01:03"
   },
   {
     "id": 389,
@@ -7081,7 +7469,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 81.5,
     "latent_y": -42.93000030517578,
     "latent_z": 38.349998474121094,
-    "duration_seconds": null
+    "duration_seconds": 76,
+    "duracion": "01:16"
   },
   {
     "id": 390,
@@ -7100,7 +7489,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 85.72000122070312,
     "latent_y": -59.22999954223633,
     "latent_z": 37.810001373291016,
-    "duration_seconds": null
+    "duration_seconds": 262,
+    "duracion": "04:22"
   },
   {
     "id": 391,
@@ -7118,7 +7508,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 60.86000061035156,
     "latent_y": 48.310001373291016,
     "latent_z": -7.449999809265137,
-    "duration_seconds": null
+    "duration_seconds": 437,
+    "duracion": "07:17"
   },
   {
     "id": 392,
@@ -7136,7 +7527,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 64.16999816894531,
     "latent_y": -87.63999938964844,
     "latent_z": -82.69000244140625,
-    "duration_seconds": null
+    "duration_seconds": 4506,
+    "duracion": "01:15:06"
   },
   {
     "id": 393,
@@ -7154,7 +7546,8 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 60.189998626708984,
     "latent_y": -76.37999725341797,
     "latent_z": -92.30000305175781,
-    "duration_seconds": null
+    "duration_seconds": 6930,
+    "duracion": "01:55:30"
   },
   {
     "id": 394,
@@ -7172,7 +7565,7 @@ const REAPER_TUTORIALS_DATA = [
     "latent_x": 67.22000122070312,
     "latent_y": -84.98999786376953,
     "latent_z": -106.95999908447266,
-    "duration_seconds": null
+    "duration_seconds": 7106,
+    "duracion": "01:58:26"
   }
 ];
-window.REAPER_DATA = REAPER_TUTORIALS_DATA;

@@ -15,7 +15,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 58.68000030517578,
     "latent_y": 15.989999771118164,
     "latent_z": -53.36000061035156,
-    "duration_seconds": null
+    "duration_seconds": 69,
+    "duracion": "01:09"
   },
   {
     "id": 2,
@@ -33,7 +34,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 41.9900016784668,
     "latent_y": -6.239999771118164,
     "latent_z": -5.789999961853027,
-    "duration_seconds": null
+    "duration_seconds": 17778,
+    "duracion": "04:56:18"
   },
   {
     "id": 3,
@@ -51,7 +53,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 53.380001068115234,
     "latent_y": -5.639999866485596,
     "latent_z": 2.4100000858306885,
-    "duration_seconds": null
+    "duration_seconds": 18000,
+    "duracion": "05:00:00"
   },
   {
     "id": 4,
@@ -71,7 +74,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 14.220000267028809,
     "latent_y": -38.130001068115234,
     "latent_z": 26.920000076293945,
-    "duration_seconds": null
+    "duration_seconds": 594,
+    "duracion": "09:54"
   },
   {
     "id": 5,
@@ -89,7 +93,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -2.609999895095825,
     "latent_y": -50.25,
     "latent_z": 1.8300000429153442,
-    "duration_seconds": null
+    "duration_seconds": 745,
+    "duracion": "12:25"
   },
   {
     "id": 6,
@@ -107,7 +112,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 48.720001220703125,
     "latent_y": 77.81999969482422,
     "latent_z": -8.779999732971191,
-    "duration_seconds": null
+    "duration_seconds": 1978,
+    "duracion": "32:58"
   },
   {
     "id": 7,
@@ -125,7 +131,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 15.59000015258789,
     "latent_y": 44.060001373291016,
     "latent_z": -95.25,
-    "duration_seconds": null
+    "duration_seconds": 1350,
+    "duracion": "22:30"
   },
   {
     "id": 8,
@@ -143,7 +150,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 45.97999954223633,
     "latent_y": 13.140000343322754,
     "latent_z": -18.549999237060547,
-    "duration_seconds": null
+    "duration_seconds": 9544,
+    "duracion": "02:39:04"
   },
   {
     "id": 9,
@@ -162,7 +170,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 2.319999933242798,
     "latent_y": -28.170000076293945,
     "latent_z": -103.51000213623047,
-    "duration_seconds": null
+    "duration_seconds": 591,
+    "duracion": "09:51"
   },
   {
     "id": 10,
@@ -180,7 +189,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -68.6500015258789,
     "latent_y": -27.270000457763672,
     "latent_z": -48.77000045776367,
-    "duration_seconds": null
+    "duration_seconds": 75,
+    "duracion": "01:15"
   },
   {
     "id": 11,
@@ -198,7 +208,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 63.29999923706055,
     "latent_y": -94.01000213623047,
     "latent_z": 67.79000091552734,
-    "duration_seconds": null
+    "duration_seconds": 1670,
+    "duracion": "27:50"
   },
   {
     "id": 12,
@@ -216,7 +227,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 20.739999771118164,
     "latent_y": 3.25,
     "latent_z": -12.359999656677246,
-    "duration_seconds": null
+    "duration_seconds": 41005,
+    "duracion": "11:23:25"
   },
   {
     "id": 13,
@@ -234,7 +246,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 13.829999923706055,
     "latent_y": 58.2400016784668,
     "latent_z": -26.920000076293945,
-    "duration_seconds": null
+    "duration_seconds": 277,
+    "duracion": "04:37"
   },
   {
     "id": 14,
@@ -252,7 +265,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 69.56999969482422,
     "latent_y": 35.130001068115234,
     "latent_z": -41.83000183105469,
-    "duration_seconds": null
+    "duration_seconds": 208,
+    "duracion": "03:28"
   },
   {
     "id": 15,
@@ -270,7 +284,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -79.0999984741211,
     "latent_y": -9.020000457763672,
     "latent_z": -52.2400016784668,
-    "duration_seconds": null
+    "duration_seconds": 766,
+    "duracion": "12:46"
   },
   {
     "id": 16,
@@ -288,7 +303,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -88.9000015258789,
     "latent_y": -59.689998626708984,
     "latent_z": 76.31999969482422,
-    "duration_seconds": null
+    "duration_seconds": 2683,
+    "duracion": "44:43"
   },
   {
     "id": 17,
@@ -306,7 +322,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 74.04000091552734,
     "latent_y": -85.75,
     "latent_z": 52.5099983215332,
-    "duration_seconds": null
+    "duration_seconds": 7371,
+    "duracion": "02:02:51"
   },
   {
     "id": 18,
@@ -326,7 +343,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -45.34000015258789,
     "latent_y": -27.030000686645508,
     "latent_z": 42.75,
-    "duration_seconds": null
+    "duration_seconds": 336,
+    "duracion": "05:36"
   },
   {
     "id": 19,
@@ -344,7 +362,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 64.30999755859375,
     "latent_y": 56.34000015258789,
     "latent_z": -28.190000534057617,
-    "duration_seconds": null
+    "duration_seconds": 907,
+    "duracion": "15:07"
   },
   {
     "id": 20,
@@ -362,7 +381,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 34.84000015258789,
     "latent_y": 26.3799991607666,
     "latent_z": -19.459999084472656,
-    "duration_seconds": null
+    "duration_seconds": 7019,
+    "duracion": "01:56:59"
   },
   {
     "id": 21,
@@ -380,7 +400,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 82.51000213623047,
     "latent_y": -22.1299991607666,
     "latent_z": -82.0,
-    "duration_seconds": null
+    "duration_seconds": 172,
+    "duracion": "02:52"
   },
   {
     "id": 22,
@@ -399,7 +420,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -20.329999923706055,
     "latent_y": -44.02000045776367,
     "latent_z": -9.9399995803833,
-    "duration_seconds": null
+    "duration_seconds": 999,
+    "duracion": "16:39"
   },
   {
     "id": 23,
@@ -417,7 +439,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 31.68000030517578,
     "latent_y": -6.260000228881836,
     "latent_z": -27.6299991607666,
-    "duration_seconds": null
+    "duration_seconds": 15590,
+    "duracion": "04:19:50"
   },
   {
     "id": 24,
@@ -435,7 +458,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 45.52000045776367,
     "latent_y": 49.63999938964844,
     "latent_z": 32.45000076293945,
-    "duration_seconds": null
+    "duration_seconds": 8792,
+    "duracion": "02:26:32"
   },
   {
     "id": 25,
@@ -453,7 +477,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -56.18000030517578,
     "latent_y": 6.03000020980835,
     "latent_z": -21.260000228881836,
-    "duration_seconds": null
+    "duration_seconds": 6761,
+    "duracion": "01:52:41"
   },
   {
     "id": 26,
@@ -471,7 +496,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -15.0,
     "latent_y": 114.36000061035156,
     "latent_z": 4.619999885559082,
-    "duration_seconds": null
+    "duration_seconds": 10324,
+    "duracion": "02:52:04"
   },
   {
     "id": 27,
@@ -489,7 +515,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -48.150001525878906,
     "latent_y": -78.33999633789062,
     "latent_z": -58.38999938964844,
-    "duration_seconds": null
+    "duration_seconds": 576,
+    "duracion": "09:36"
   },
   {
     "id": 28,
@@ -509,7 +536,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 3.1700000762939453,
     "latent_y": -29.010000228881836,
     "latent_z": 24.729999542236328,
-    "duration_seconds": null
+    "duration_seconds": 669,
+    "duracion": "11:09"
   },
   {
     "id": 29,
@@ -527,7 +555,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 16.219999313354492,
     "latent_y": -22.489999771118164,
     "latent_z": -41.900001525878906,
-    "duration_seconds": null
+    "duration_seconds": 1085,
+    "duracion": "18:05"
   },
   {
     "id": 30,
@@ -545,7 +574,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 45.310001373291016,
     "latent_y": 44.5099983215332,
     "latent_z": -46.349998474121094,
-    "duration_seconds": null
+    "duration_seconds": 1746,
+    "duracion": "29:06"
   },
   {
     "id": 31,
@@ -563,7 +593,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 31.93000030517578,
     "latent_y": -6.829999923706055,
     "latent_z": -60.02000045776367,
-    "duration_seconds": null
+    "duration_seconds": 591,
+    "duracion": "09:51"
   },
   {
     "id": 32,
@@ -581,7 +612,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 64.80999755859375,
     "latent_y": -1.0800000429153442,
     "latent_z": -46.4900016784668,
-    "duration_seconds": null
+    "duration_seconds": 636,
+    "duracion": "10:36"
   },
   {
     "id": 33,
@@ -599,7 +631,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 44.75,
     "latent_y": 36.310001373291016,
     "latent_z": -26.770000457763672,
-    "duration_seconds": null
+    "duration_seconds": 2751,
+    "duracion": "45:51"
   },
   {
     "id": 34,
@@ -618,7 +651,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -14.84000015258789,
     "latent_y": -61.91999816894531,
     "latent_z": -12.279999732971191,
-    "duration_seconds": null
+    "duration_seconds": 727,
+    "duracion": "12:07"
   },
   {
     "id": 35,
@@ -636,7 +670,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -77.4000015258789,
     "latent_y": -70.19999694824219,
     "latent_z": 88.1500015258789,
-    "duration_seconds": null
+    "duration_seconds": 1762,
+    "duracion": "29:22"
   },
   {
     "id": 36,
@@ -654,7 +689,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 41.689998626708984,
     "latent_y": -88.02999877929688,
     "latent_z": 61.849998474121094,
-    "duration_seconds": null
+    "duration_seconds": 1675,
+    "duracion": "27:55"
   },
   {
     "id": 37,
@@ -672,7 +708,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 0.6399999856948853,
     "latent_y": -3.640000104904175,
     "latent_z": -37.689998626708984,
-    "duration_seconds": null
+    "duration_seconds": 871,
+    "duracion": "14:31"
   },
   {
     "id": 38,
@@ -691,7 +728,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -2.4200000762939453,
     "latent_y": 41.9900016784668,
     "latent_z": 22.920000076293945,
-    "duration_seconds": null
+    "duration_seconds": 496,
+    "duracion": "08:16"
   },
   {
     "id": 39,
@@ -710,7 +748,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -84.94000244140625,
     "latent_y": 18.899999618530273,
     "latent_z": 50.72999954223633,
-    "duration_seconds": null
+    "duration_seconds": 2007,
+    "duracion": "33:27"
   },
   {
     "id": 40,
@@ -728,7 +767,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 48.470001220703125,
     "latent_y": 37.84000015258789,
     "latent_z": -7.21999979019165,
-    "duration_seconds": null
+    "duration_seconds": 9210,
+    "duracion": "02:33:30"
   },
   {
     "id": 41,
@@ -746,7 +786,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 31.440000534057617,
     "latent_y": 46.970001220703125,
     "latent_z": -3.6600000858306885,
-    "duration_seconds": null
+    "duration_seconds": 5110,
+    "duracion": "01:25:10"
   },
   {
     "id": 42,
@@ -764,7 +805,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 75.16999816894531,
     "latent_y": 4.579999923706055,
     "latent_z": -90.8499984741211,
-    "duration_seconds": null
+    "duration_seconds": 1568,
+    "duracion": "26:08"
   },
   {
     "id": 43,
@@ -782,7 +824,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 59.810001373291016,
     "latent_y": -104.97000122070312,
     "latent_z": 48.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 1356,
+    "duracion": "22:36"
   },
   {
     "id": 44,
@@ -800,7 +843,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 41.880001068115234,
     "latent_y": -9.890000343322754,
     "latent_z": -49.52000045776367,
-    "duration_seconds": null
+    "duration_seconds": 1059,
+    "duracion": "17:39"
   },
   {
     "id": 45,
@@ -818,7 +862,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 15.079999923706055,
     "latent_y": 12.109999656677246,
     "latent_z": -117.4800033569336,
-    "duration_seconds": null
+    "duration_seconds": 1909,
+    "duracion": "31:49"
   },
   {
     "id": 46,
@@ -836,7 +881,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -20.1299991607666,
     "latent_y": 50.0,
     "latent_z": -78.62000274658203,
-    "duration_seconds": null
+    "duration_seconds": 3335,
+    "duracion": "55:35"
   },
   {
     "id": 47,
@@ -854,7 +900,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 54.779998779296875,
     "latent_y": -50.79999923706055,
     "latent_z": 51.560001373291016,
-    "duration_seconds": null
+    "duration_seconds": 1688,
+    "duracion": "28:08"
   },
   {
     "id": 48,
@@ -872,7 +919,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -6.800000190734863,
     "latent_y": -77.94999694824219,
     "latent_z": 20.829999923706055,
-    "duration_seconds": null
+    "duration_seconds": 787,
+    "duracion": "13:07"
   },
   {
     "id": 49,
@@ -890,7 +938,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 94.61000061035156,
     "latent_y": 11.449999809265137,
     "latent_z": 6.849999904632568,
-    "duration_seconds": null
+    "duration_seconds": 16845,
+    "duracion": "04:40:45"
   },
   {
     "id": 50,
@@ -908,7 +957,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 96.73999786376953,
     "latent_y": -31.530000686645508,
     "latent_z": -24.579999923706055,
-    "duration_seconds": null
+    "duration_seconds": 2524,
+    "duracion": "42:04"
   },
   {
     "id": 51,
@@ -928,7 +978,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 10.1899995803833,
     "latent_y": -27.889999389648438,
     "latent_z": 40.54999923706055,
-    "duration_seconds": null
+    "duration_seconds": 3589,
+    "duracion": "59:49"
   },
   {
     "id": 52,
@@ -946,7 +997,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 115.16999816894531,
     "latent_y": 11.899999618530273,
     "latent_z": 27.389999389648438,
-    "duration_seconds": null
+    "duration_seconds": 12170,
+    "duracion": "03:22:50"
   },
   {
     "id": 53,
@@ -965,7 +1017,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -85.62000274658203,
     "latent_y": -61.630001068115234,
     "latent_z": 7.059999942779541,
-    "duration_seconds": null
+    "duration_seconds": 1286,
+    "duracion": "21:26"
   },
   {
     "id": 54,
@@ -983,7 +1036,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 9.630000114440918,
     "latent_y": -9.3100004196167,
     "latent_z": -75.69000244140625,
-    "duration_seconds": null
+    "duration_seconds": 1597,
+    "duracion": "26:37"
   },
   {
     "id": 55,
@@ -1001,7 +1055,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 72.73999786376953,
     "latent_y": -89.05000305175781,
     "latent_z": 88.30000305175781,
-    "duration_seconds": null
+    "duration_seconds": 2287,
+    "duracion": "38:07"
   },
   {
     "id": 56,
@@ -1020,7 +1075,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 71.55999755859375,
     "latent_y": -2.9200000762939453,
     "latent_z": 64.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 5320,
+    "duracion": "01:28:40"
   },
   {
     "id": 57,
@@ -1038,7 +1094,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 74.2300033569336,
     "latent_y": -3.890000104904175,
     "latent_z": -62.06999969482422,
-    "duration_seconds": null
+    "duration_seconds": 695,
+    "duracion": "11:35"
   },
   {
     "id": 58,
@@ -1056,7 +1113,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 28.93000030517578,
     "latent_y": -83.69999694824219,
     "latent_z": 42.099998474121094,
-    "duration_seconds": null
+    "duration_seconds": 1222,
+    "duracion": "20:22"
   },
   {
     "id": 59,
@@ -1074,7 +1132,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 0.49000000953674316,
     "latent_y": -69.33000183105469,
     "latent_z": 2.440000057220459,
-    "duration_seconds": null
+    "duration_seconds": 1726,
+    "duracion": "28:46"
   },
   {
     "id": 60,
@@ -1092,7 +1151,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 31.469999313354492,
     "latent_y": 61.880001068115234,
     "latent_z": -47.90999984741211,
-    "duration_seconds": null
+    "duration_seconds": 252,
+    "duracion": "04:12"
   },
   {
     "id": 61,
@@ -1110,7 +1170,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 113.4000015258789,
     "latent_y": 44.63999938964844,
     "latent_z": 5.0,
-    "duration_seconds": null
+    "duration_seconds": 1843,
+    "duracion": "30:43"
   },
   {
     "id": 62,
@@ -1129,7 +1190,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 27.190000534057617,
     "latent_y": -23.81999969482422,
     "latent_z": 67.87000274658203,
-    "duration_seconds": null
+    "duration_seconds": 4060,
+    "duracion": "01:07:40"
   },
   {
     "id": 63,
@@ -1147,7 +1209,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -17.18000030517578,
     "latent_y": -49.310001373291016,
     "latent_z": 14.609999656677246,
-    "duration_seconds": null
+    "duration_seconds": 632,
+    "duracion": "10:32"
   },
   {
     "id": 64,
@@ -1166,7 +1229,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -20.709999084472656,
     "latent_y": -34.52000045776367,
     "latent_z": 28.31999969482422,
-    "duration_seconds": null
+    "duration_seconds": 289,
+    "duracion": "04:49"
   },
   {
     "id": 65,
@@ -1185,7 +1249,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -18.520000457763672,
     "latent_y": -83.87000274658203,
     "latent_z": 1.1299999952316284,
-    "duration_seconds": null
+    "duration_seconds": 395,
+    "duracion": "06:35"
   },
   {
     "id": 66,
@@ -1204,7 +1269,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -56.66999816894531,
     "latent_y": -73.72000122070312,
     "latent_z": 81.12999725341797,
-    "duration_seconds": null
+    "duration_seconds": 912,
+    "duracion": "15:12"
   },
   {
     "id": 67,
@@ -1223,7 +1289,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 76.80999755859375,
     "latent_y": -8.520000457763672,
     "latent_z": 46.54999923706055,
-    "duration_seconds": null
+    "duration_seconds": 5402,
+    "duracion": "01:30:02"
   },
   {
     "id": 68,
@@ -1241,7 +1308,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 55.04999923706055,
     "latent_y": -81.23999786376953,
     "latent_z": 43.369998931884766,
-    "duration_seconds": null
+    "duration_seconds": 10165,
+    "duracion": "02:49:25"
   },
   {
     "id": 69,
@@ -1260,7 +1328,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -110.79000091552734,
     "latent_y": -37.91999816894531,
     "latent_z": 15.170000076293945,
-    "duration_seconds": null
+    "duration_seconds": 962,
+    "duracion": "16:02"
   },
   {
     "id": 70,
@@ -1278,7 +1347,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 2.8399999141693115,
     "latent_y": 89.38999938964844,
     "latent_z": 7.449999809265137,
-    "duration_seconds": null
+    "duration_seconds": 3585,
+    "duracion": "59:45"
   },
   {
     "id": 71,
@@ -1297,7 +1367,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -107.37999725341797,
     "latent_y": -70.58999633789062,
     "latent_z": 12.970000267028809,
-    "duration_seconds": null
+    "duration_seconds": 432,
+    "duracion": "07:12"
   },
   {
     "id": 72,
@@ -1317,7 +1388,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -49.349998474121094,
     "latent_y": -24.030000686645508,
     "latent_z": 30.09000015258789,
-    "duration_seconds": null
+    "duration_seconds": 709,
+    "duracion": "11:49"
   },
   {
     "id": 73,
@@ -1335,7 +1407,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 32.290000915527344,
     "latent_y": -27.959999084472656,
     "latent_z": -0.2800000011920929,
-    "duration_seconds": null
+    "duration_seconds": 6865,
+    "duracion": "01:54:25"
   },
   {
     "id": 74,
@@ -1353,7 +1426,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 16.190000534057617,
     "latent_y": 37.38999938964844,
     "latent_z": -67.70999908447266,
-    "duration_seconds": null
+    "duration_seconds": 381,
+    "duracion": "06:21"
   },
   {
     "id": 75,
@@ -1371,7 +1445,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -80.08000183105469,
     "latent_y": 8.210000038146973,
     "latent_z": -48.310001373291016,
-    "duration_seconds": null
+    "duration_seconds": 3360,
+    "duracion": "56:00"
   },
   {
     "id": 76,
@@ -1389,7 +1464,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -4.989999771118164,
     "latent_y": -105.0,
     "latent_z": -43.029998779296875,
-    "duration_seconds": null
+    "duration_seconds": 753,
+    "duracion": "12:33"
   },
   {
     "id": 77,
@@ -1408,7 +1484,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -16.399999618530273,
     "latent_y": 16.899999618530273,
     "latent_z": 41.459999084472656,
-    "duration_seconds": null
+    "duration_seconds": 3088,
+    "duracion": "51:28"
   },
   {
     "id": 78,
@@ -1426,7 +1503,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -83.5199966430664,
     "latent_y": 18.8799991607666,
     "latent_z": 30.68000030517578,
-    "duration_seconds": null
+    "duration_seconds": 785,
+    "duracion": "13:05"
   },
   {
     "id": 79,
@@ -1444,7 +1522,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 41.689998626708984,
     "latent_y": -88.02999877929688,
     "latent_z": 61.849998474121094,
-    "duration_seconds": null
+    "duration_seconds": 721,
+    "duracion": "12:01"
   },
   {
     "id": 80,
@@ -1462,7 +1541,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -43.91999816894531,
     "latent_y": 10.699999809265137,
     "latent_z": -42.65999984741211,
-    "duration_seconds": null
+    "duration_seconds": 1687,
+    "duracion": "28:07"
   },
   {
     "id": 81,
@@ -1480,7 +1560,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 12.869999885559082,
     "latent_y": 33.279998779296875,
     "latent_z": -20.020000457763672,
-    "duration_seconds": null
+    "duration_seconds": 925,
+    "duracion": "15:25"
   },
   {
     "id": 82,
@@ -1499,7 +1580,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -112.47000122070312,
     "latent_y": -56.66999816894531,
     "latent_z": 24.18000030517578,
-    "duration_seconds": null
+    "duration_seconds": 1040,
+    "duracion": "17:20"
   },
   {
     "id": 83,
@@ -1517,7 +1599,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 13.90999984741211,
     "latent_y": 7.559999942779541,
     "latent_z": -55.47999954223633,
-    "duration_seconds": null
+    "duration_seconds": 826,
+    "duracion": "13:46"
   },
   {
     "id": 84,
@@ -1536,7 +1619,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 35.91999816894531,
     "latent_y": -18.149999618530273,
     "latent_z": 85.94000244140625,
-    "duration_seconds": null
+    "duration_seconds": 665,
+    "duracion": "11:05"
   },
   {
     "id": 85,
@@ -1554,7 +1638,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 5.75,
     "latent_y": -110.16000366210938,
     "latent_z": -65.87000274658203,
-    "duration_seconds": null
+    "duration_seconds": 11570,
+    "duracion": "03:12:50"
   },
   {
     "id": 86,
@@ -1572,7 +1657,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 21.09000015258789,
     "latent_y": 22.5,
     "latent_z": 4.46999979019165,
-    "duration_seconds": null
+    "duration_seconds": 625,
+    "duracion": "10:25"
   },
   {
     "id": 87,
@@ -1590,7 +1676,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 75.3499984741211,
     "latent_y": 23.100000381469727,
     "latent_z": -68.63999938964844,
-    "duration_seconds": null
+    "duration_seconds": 3428,
+    "duracion": "57:08"
   },
   {
     "id": 88,
@@ -1608,7 +1695,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 6.480000019073486,
     "latent_y": 69.22000122070312,
     "latent_z": -59.540000915527344,
-    "duration_seconds": null
+    "duration_seconds": 1979,
+    "duracion": "32:59"
   },
   {
     "id": 89,
@@ -1627,7 +1715,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -100.55000305175781,
     "latent_y": -53.880001068115234,
     "latent_z": 39.349998474121094,
-    "duration_seconds": null
+    "duration_seconds": 1859,
+    "duracion": "30:59"
   },
   {
     "id": 90,
@@ -1645,7 +1734,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -103.37999725341797,
     "latent_y": -45.220001220703125,
     "latent_z": 68.8499984741211,
-    "duration_seconds": null
+    "duration_seconds": 1140,
+    "duracion": "19:00"
   },
   {
     "id": 91,
@@ -1663,7 +1753,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -64.27999877929688,
     "latent_y": 18.979999542236328,
     "latent_z": -34.04999923706055,
-    "duration_seconds": null
+    "duration_seconds": 2160,
+    "duracion": "36:00"
   },
   {
     "id": 92,
@@ -1681,7 +1772,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 77.81999969482422,
     "latent_y": 55.90999984741211,
     "latent_z": -76.0,
-    "duration_seconds": null
+    "duration_seconds": 457,
+    "duracion": "07:37"
   },
   {
     "id": 93,
@@ -1700,7 +1792,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 43.93000030517578,
     "latent_y": -7.690000057220459,
     "latent_z": 74.80999755859375,
-    "duration_seconds": null
+    "duration_seconds": 3002,
+    "duracion": "50:02"
   },
   {
     "id": 94,
@@ -1718,7 +1811,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 44.22999954223633,
     "latent_y": -67.95999908447266,
     "latent_z": 27.709999084472656,
-    "duration_seconds": null
+    "duration_seconds": 547,
+    "duracion": "09:07"
   },
   {
     "id": 95,
@@ -1736,7 +1830,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 56.54999923706055,
     "latent_y": -57.77000045776367,
     "latent_z": 72.66999816894531,
-    "duration_seconds": null
+    "duration_seconds": 308,
+    "duracion": "05:08"
   },
   {
     "id": 96,
@@ -1754,7 +1849,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -101.0999984741211,
     "latent_y": 28.309999465942383,
     "latent_z": -36.56999969482422,
-    "duration_seconds": null
+    "duration_seconds": 1334,
+    "duracion": "22:14"
   },
   {
     "id": 97,
@@ -1772,7 +1868,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 76.44000244140625,
     "latent_y": -44.43000030517578,
     "latent_z": -51.75,
-    "duration_seconds": null
+    "duration_seconds": 1102,
+    "duracion": "18:22"
   },
   {
     "id": 98,
@@ -1790,7 +1887,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 50.54999923706055,
     "latent_y": 21.6200008392334,
     "latent_z": -78.72000122070312,
-    "duration_seconds": null
+    "duration_seconds": 1507,
+    "duracion": "25:07"
   },
   {
     "id": 99,
@@ -1809,7 +1907,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 39.9900016784668,
     "latent_y": -2.509999990463257,
     "latent_z": 91.97000122070312,
-    "duration_seconds": null
+    "duration_seconds": 702,
+    "duracion": "11:42"
   },
   {
     "id": 100,
@@ -1828,7 +1927,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 33.29999923706055,
     "latent_y": 9.0,
     "latent_z": 78.06999969482422,
-    "duration_seconds": null
+    "duration_seconds": 6621,
+    "duracion": "01:50:21"
   },
   {
     "id": 101,
@@ -1846,7 +1946,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -65.12999725341797,
     "latent_y": 8.270000457763672,
     "latent_z": -56.290000915527344,
-    "duration_seconds": null
+    "duration_seconds": 568,
+    "duracion": "09:28"
   },
   {
     "id": 102,
@@ -1865,7 +1966,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 34.34000015258789,
     "latent_y": -56.41999816894531,
     "latent_z": -51.689998626708984,
-    "duration_seconds": null
+    "duration_seconds": 768,
+    "duracion": "12:48"
   },
   {
     "id": 103,
@@ -1883,7 +1985,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 59.810001373291016,
     "latent_y": 2.309999942779541,
     "latent_z": -27.020000457763672,
-    "duration_seconds": null
+    "duration_seconds": 3939,
+    "duracion": "01:05:39"
   },
   {
     "id": 104,
@@ -1901,7 +2004,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 30.040000915527344,
     "latent_y": 41.54999923706055,
     "latent_z": -23.219999313354492,
-    "duration_seconds": null
+    "duration_seconds": 694,
+    "duracion": "11:34"
   },
   {
     "id": 105,
@@ -1920,7 +2024,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -27.940000534057617,
     "latent_y": 29.190000534057617,
     "latent_z": 47.16999816894531,
-    "duration_seconds": null
+    "duration_seconds": 1342,
+    "duracion": "22:22"
   },
   {
     "id": 106,
@@ -1938,7 +2043,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -7.079999923706055,
     "latent_y": 23.030000686645508,
     "latent_z": -26.100000381469727,
-    "duration_seconds": null
+    "duration_seconds": 308,
+    "duracion": "05:08"
   },
   {
     "id": 107,
@@ -1956,7 +2062,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 71.0,
     "latent_y": -44.66999816894531,
     "latent_z": -9.510000228881836,
-    "duration_seconds": null
+    "duration_seconds": 887,
+    "duracion": "14:47"
   },
   {
     "id": 108,
@@ -1974,7 +2081,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 49.540000915527344,
     "latent_y": 33.689998626708984,
     "latent_z": -89.23999786376953,
-    "duration_seconds": null
+    "duration_seconds": 510,
+    "duracion": "08:30"
   },
   {
     "id": 109,
@@ -1992,7 +2100,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 36.779998779296875,
     "latent_y": -62.83000183105469,
     "latent_z": 45.290000915527344,
-    "duration_seconds": null
+    "duration_seconds": 767,
+    "duracion": "12:47"
   },
   {
     "id": 110,
@@ -2010,7 +2119,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 98.56999969482422,
     "latent_y": -13.0,
     "latent_z": -54.41999816894531,
-    "duration_seconds": null
+    "duration_seconds": 1691,
+    "duracion": "28:11"
   },
   {
     "id": 111,
@@ -2028,7 +2138,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 42.040000915527344,
     "latent_y": 71.54000091552734,
     "latent_z": 0.44999998807907104,
-    "duration_seconds": null
+    "duration_seconds": 730,
+    "duracion": "12:10"
   },
   {
     "id": 112,
@@ -2047,7 +2158,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -11.600000381469727,
     "latent_y": 34.31999969482422,
     "latent_z": 46.47999954223633,
-    "duration_seconds": null
+    "duration_seconds": 6995,
+    "duracion": "01:56:35"
   },
   {
     "id": 113,
@@ -2065,7 +2177,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -99.86000061035156,
     "latent_y": 20.280000686645508,
     "latent_z": 35.689998626708984,
-    "duration_seconds": null
+    "duration_seconds": 509,
+    "duracion": "08:29"
   },
   {
     "id": 114,
@@ -2084,7 +2197,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 59.119998931884766,
     "latent_y": -12.869999885559082,
     "latent_z": 53.4900016784668,
-    "duration_seconds": null
+    "duration_seconds": 3344,
+    "duracion": "55:44"
   },
   {
     "id": 115,
@@ -2102,7 +2216,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 60.04999923706055,
     "latent_y": 67.55000305175781,
     "latent_z": -55.459999084472656,
-    "duration_seconds": null
+    "duration_seconds": 701,
+    "duracion": "11:41"
   },
   {
     "id": 116,
@@ -2120,7 +2235,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 28.700000762939453,
     "latent_y": 11.699999809265137,
     "latent_z": -38.97999954223633,
-    "duration_seconds": null
+    "duration_seconds": 8967,
+    "duracion": "02:29:27"
   },
   {
     "id": 117,
@@ -2138,7 +2254,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -24.709999084472656,
     "latent_y": -90.55999755859375,
     "latent_z": -38.29999923706055,
-    "duration_seconds": null
+    "duration_seconds": 714,
+    "duracion": "11:54"
   },
   {
     "id": 118,
@@ -2157,7 +2274,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -17.459999084472656,
     "latent_y": 22.510000228881836,
     "latent_z": 61.29999923706055,
-    "duration_seconds": null
+    "duration_seconds": 21039,
+    "duracion": "05:50:39"
   },
   {
     "id": 119,
@@ -2175,7 +2293,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 58.709999084472656,
     "latent_y": -76.20999908447266,
     "latent_z": 69.95999908447266,
-    "duration_seconds": null
+    "duration_seconds": 447,
+    "duracion": "07:27"
   },
   {
     "id": 120,
@@ -2193,7 +2312,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 67.19000244140625,
     "latent_y": -60.13999938964844,
     "latent_z": 34.27000045776367,
-    "duration_seconds": null
+    "duration_seconds": 739,
+    "duracion": "12:19"
   },
   {
     "id": 121,
@@ -2211,7 +2331,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 61.619998931884766,
     "latent_y": 47.72999954223633,
     "latent_z": 24.829999923706055,
-    "duration_seconds": null
+    "duration_seconds": 4951,
+    "duracion": "01:22:31"
   },
   {
     "id": 122,
@@ -2229,7 +2350,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -77.18000030517578,
     "latent_y": -81.08999633789062,
     "latent_z": 43.290000915527344,
-    "duration_seconds": null
+    "duration_seconds": 88,
+    "duracion": "01:28"
   },
   {
     "id": 123,
@@ -2247,7 +2369,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 40.630001068115234,
     "latent_y": 53.70000076293945,
     "latent_z": -23.899999618530273,
-    "duration_seconds": null
+    "duration_seconds": 623,
+    "duracion": "10:23"
   },
   {
     "id": 124,
@@ -2265,7 +2388,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 53.68000030517578,
     "latent_y": -17.239999771118164,
     "latent_z": -85.4800033569336,
-    "duration_seconds": null
+    "duration_seconds": 413,
+    "duracion": "06:53"
   },
   {
     "id": 125,
@@ -2283,7 +2407,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 33.720001220703125,
     "latent_y": -23.440000534057617,
     "latent_z": -65.29000091552734,
-    "duration_seconds": null
+    "duration_seconds": 367,
+    "duracion": "06:07"
   },
   {
     "id": 126,
@@ -2301,7 +2426,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 53.369998931884766,
     "latent_y": 1.9299999475479126,
     "latent_z": -70.47000122070312,
-    "duration_seconds": null
+    "duration_seconds": 618,
+    "duracion": "10:18"
   },
   {
     "id": 127,
@@ -2319,7 +2445,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 87.62999725341797,
     "latent_y": 15.149999618530273,
     "latent_z": -43.63999938964844,
-    "duration_seconds": null
+    "duration_seconds": 812,
+    "duracion": "13:32"
   },
   {
     "id": 128,
@@ -2337,7 +2464,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 48.119998931884766,
     "latent_y": -29.1200008392334,
     "latent_z": 11.90999984741211,
-    "duration_seconds": null
+    "duration_seconds": 8707,
+    "duracion": "02:25:07"
   },
   {
     "id": 129,
@@ -2355,7 +2483,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 102.83000183105469,
     "latent_y": -23.420000076293945,
     "latent_z": 10.229999542236328,
-    "duration_seconds": null
+    "duration_seconds": 3074,
+    "duracion": "51:14"
   },
   {
     "id": 130,
@@ -2374,7 +2503,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -64.5999984741211,
     "latent_y": -40.41999816894531,
     "latent_z": 73.63999938964844,
-    "duration_seconds": null
+    "duration_seconds": 294,
+    "duracion": "04:54"
   },
   {
     "id": 131,
@@ -2392,7 +2522,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 89.66999816894531,
     "latent_y": -66.91000366210938,
     "latent_z": 49.81999969482422,
-    "duration_seconds": null
+    "duration_seconds": 1186,
+    "duracion": "19:46"
   },
   {
     "id": 132,
@@ -2410,7 +2541,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -100.61000061035156,
     "latent_y": -5.96999979019165,
     "latent_z": -65.0199966430664,
-    "duration_seconds": null
+    "duration_seconds": 384,
+    "duracion": "06:24"
   },
   {
     "id": 133,
@@ -2429,7 +2561,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 49.290000915527344,
     "latent_y": -69.58000183105469,
     "latent_z": -51.33000183105469,
-    "duration_seconds": null
+    "duration_seconds": 330,
+    "duracion": "05:30"
   },
   {
     "id": 134,
@@ -2447,7 +2580,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 113.25,
     "latent_y": 48.75,
     "latent_z": -6.96999979019165,
-    "duration_seconds": null
+    "duration_seconds": 1403,
+    "duracion": "23:23"
   },
   {
     "id": 135,
@@ -2465,7 +2599,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -43.91999816894531,
     "latent_y": 10.699999809265137,
     "latent_z": -42.65999984741211,
-    "duration_seconds": null
+    "duration_seconds": 1760,
+    "duracion": "29:20"
   },
   {
     "id": 136,
@@ -2483,7 +2618,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 58.68000030517578,
     "latent_y": 15.989999771118164,
     "latent_z": -53.36000061035156,
-    "duration_seconds": null
+    "duration_seconds": 206,
+    "duracion": "03:26"
   },
   {
     "id": 137,
@@ -2501,7 +2637,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 74.58000183105469,
     "latent_y": 26.68000030517578,
     "latent_z": 9.829999923706055,
-    "duration_seconds": null
+    "duration_seconds": 662,
+    "duracion": "11:02"
   },
   {
     "id": 138,
@@ -2521,7 +2658,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 10.890000343322754,
     "latent_y": -42.58000183105469,
     "latent_z": 44.9900016784668,
-    "duration_seconds": null
+    "duration_seconds": 3978,
+    "duracion": "01:06:18"
   },
   {
     "id": 139,
@@ -2539,7 +2677,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 43.18000030517578,
     "latent_y": -61.349998474121094,
     "latent_z": 97.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 2039,
+    "duracion": "33:59"
   },
   {
     "id": 140,
@@ -2558,7 +2697,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -45.56999969482422,
     "latent_y": 27.6299991607666,
     "latent_z": 37.189998626708984,
-    "duration_seconds": null
+    "duration_seconds": 577,
+    "duracion": "09:37"
   },
   {
     "id": 141,
@@ -2576,7 +2716,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -17.899999618530273,
     "latent_y": -97.08000183105469,
     "latent_z": -56.709999084472656,
-    "duration_seconds": null
+    "duration_seconds": 698,
+    "duracion": "11:38"
   },
   {
     "id": 142,
@@ -2594,7 +2735,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 68.51000213623047,
     "latent_y": -11.15999984741211,
     "latent_z": 27.729999542236328,
-    "duration_seconds": null
+    "duration_seconds": 5197,
+    "duracion": "01:26:37"
   },
   {
     "id": 143,
@@ -2613,7 +2755,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -96.36000061035156,
     "latent_y": -50.099998474121094,
     "latent_z": 18.5,
-    "duration_seconds": null
+    "duration_seconds": 547,
+    "duracion": "09:07"
   },
   {
     "id": 144,
@@ -2633,7 +2776,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -37.650001525878906,
     "latent_y": -74.4800033569336,
     "latent_z": -5.849999904632568,
-    "duration_seconds": null
+    "duration_seconds": 336,
+    "duracion": "05:36"
   },
   {
     "id": 145,
@@ -2651,7 +2795,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -93.41000366210938,
     "latent_y": 31.450000762939453,
     "latent_z": -70.1500015258789,
-    "duration_seconds": null
+    "duration_seconds": 515,
+    "duracion": "08:35"
   },
   {
     "id": 146,
@@ -2670,7 +2815,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 15.300000190734863,
     "latent_y": -26.780000686645508,
     "latent_z": 75.52999877929688,
-    "duration_seconds": null
+    "duration_seconds": 159,
+    "duracion": "02:39"
   },
   {
     "id": 147,
@@ -2689,7 +2835,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 24.079999923706055,
     "latent_y": -1.850000023841858,
     "latent_z": 98.0199966430664,
-    "duration_seconds": null
+    "duration_seconds": 1513,
+    "duracion": "25:13"
   },
   {
     "id": 148,
@@ -2707,7 +2854,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 35.22999954223633,
     "latent_y": 26.219999313354492,
     "latent_z": 14.970000267028809,
-    "duration_seconds": null
+    "duration_seconds": 543,
+    "duracion": "09:03"
   },
   {
     "id": 149,
@@ -2725,7 +2873,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -7.96999979019165,
     "latent_y": -38.08000183105469,
     "latent_z": -109.38999938964844,
-    "duration_seconds": null
+    "duration_seconds": 753,
+    "duracion": "12:33"
   },
   {
     "id": 150,
@@ -2743,7 +2892,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 103.76000213623047,
     "latent_y": 27.75,
     "latent_z": -60.290000915527344,
-    "duration_seconds": null
+    "duration_seconds": 1248,
+    "duracion": "20:48"
   },
   {
     "id": 151,
@@ -2761,7 +2911,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -47.45000076293945,
     "latent_y": 5.150000095367432,
     "latent_z": -67.19000244140625,
-    "duration_seconds": null
+    "duration_seconds": 2681,
+    "duracion": "44:41"
   },
   {
     "id": 152,
@@ -2780,7 +2931,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 66.66999816894531,
     "latent_y": 6.03000020980835,
     "latent_z": 49.560001373291016,
-    "duration_seconds": null
+    "duration_seconds": 5860,
+    "duracion": "01:37:40"
   },
   {
     "id": 153,
@@ -2799,7 +2951,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 49.31999969482422,
     "latent_y": 11.84000015258789,
     "latent_z": 95.62999725341797,
-    "duration_seconds": null
+    "duration_seconds": 786,
+    "duracion": "13:06"
   },
   {
     "id": 154,
@@ -2818,7 +2971,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 0.10999999940395355,
     "latent_y": 13.680000305175781,
     "latent_z": 52.5099983215332,
-    "duration_seconds": null
+    "duration_seconds": 2507,
+    "duracion": "41:47"
   },
   {
     "id": 155,
@@ -2836,7 +2990,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 33.9900016784668,
     "latent_y": 25.520000457763672,
     "latent_z": -62.4900016784668,
-    "duration_seconds": null
+    "duration_seconds": 3482,
+    "duracion": "58:02"
   },
   {
     "id": 156,
@@ -2855,7 +3010,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -94.4800033569336,
     "latent_y": -64.06999969482422,
     "latent_z": 27.34000015258789,
-    "duration_seconds": null
+    "duration_seconds": 878,
+    "duracion": "14:38"
   },
   {
     "id": 157,
@@ -2873,7 +3029,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 90.73999786376953,
     "latent_y": -1.6100000143051147,
     "latent_z": -23.670000076293945,
-    "duration_seconds": null
+    "duration_seconds": 558,
+    "duracion": "09:18"
   },
   {
     "id": 158,
@@ -2892,7 +3049,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -35.630001068115234,
     "latent_y": -67.83000183105469,
     "latent_z": -75.26000213623047,
-    "duration_seconds": null
+    "duration_seconds": 509,
+    "duracion": "08:29"
   },
   {
     "id": 159,
@@ -2910,7 +3068,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -94.62000274658203,
     "latent_y": 28.59000015258789,
     "latent_z": 21.950000762939453,
-    "duration_seconds": null
+    "duration_seconds": 710,
+    "duracion": "11:50"
   },
   {
     "id": 160,
@@ -2928,7 +3087,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -115.91999816894531,
     "latent_y": 5.840000152587891,
     "latent_z": -31.950000762939453,
-    "duration_seconds": null
+    "duration_seconds": 2586,
+    "duracion": "43:06"
   },
   {
     "id": 161,
@@ -2946,7 +3106,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -22.829999923706055,
     "latent_y": -74.12000274658203,
     "latent_z": -53.84000015258789,
-    "duration_seconds": null
+    "duration_seconds": 937,
+    "duracion": "15:37"
   },
   {
     "id": 162,
@@ -2964,7 +3125,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -57.45000076293945,
     "latent_y": -16.84000015258789,
     "latent_z": -72.9800033569336,
-    "duration_seconds": null
+    "duration_seconds": 895,
+    "duracion": "14:55"
   },
   {
     "id": 163,
@@ -2982,7 +3144,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 26.579999923706055,
     "latent_y": 34.63999938964844,
     "latent_z": -42.380001068115234,
-    "duration_seconds": null
+    "duration_seconds": 681,
+    "duracion": "11:21"
   },
   {
     "id": 164,
@@ -3001,7 +3164,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 17.15999984741211,
     "latent_y": -54.790000915527344,
     "latent_z": -66.0199966430664,
-    "duration_seconds": null
+    "duration_seconds": 1179,
+    "duracion": "19:39"
   },
   {
     "id": 165,
@@ -3019,7 +3183,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 47.18000030517578,
     "latent_y": -24.81999969482422,
     "latent_z": -2.869999885559082,
-    "duration_seconds": null
+    "duration_seconds": 9230,
+    "duracion": "02:33:50"
   },
   {
     "id": 166,
@@ -3037,7 +3202,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -15.609999656677246,
     "latent_y": -112.61000061035156,
     "latent_z": -67.0,
-    "duration_seconds": null
+    "duration_seconds": 930,
+    "duracion": "15:30"
   },
   {
     "id": 167,
@@ -3055,7 +3221,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 59.16999816894531,
     "latent_y": 38.279998779296875,
     "latent_z": -62.900001525878906,
-    "duration_seconds": null
+    "duration_seconds": 189,
+    "duracion": "03:09"
   },
   {
     "id": 168,
@@ -3074,7 +3241,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 54.529998779296875,
     "latent_y": -91.62999725341797,
     "latent_z": -53.65999984741211,
-    "duration_seconds": null
+    "duration_seconds": 606,
+    "duracion": "10:06"
   },
   {
     "id": 169,
@@ -3093,7 +3261,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 10.680000305175781,
     "latent_y": -55.02000045776367,
     "latent_z": -45.08000183105469,
-    "duration_seconds": null
+    "duration_seconds": 922,
+    "duracion": "15:22"
   },
   {
     "id": 170,
@@ -3111,7 +3280,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 73.2300033569336,
     "latent_y": 47.2400016784668,
     "latent_z": -3.130000114440918,
-    "duration_seconds": null
+    "duration_seconds": 914,
+    "duracion": "15:14"
   },
   {
     "id": 171,
@@ -3129,7 +3299,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 4.329999923706055,
     "latent_y": -98.06999969482422,
     "latent_z": -84.95999908447266,
-    "duration_seconds": null
+    "duration_seconds": 77,
+    "duracion": "01:17"
   },
   {
     "id": 172,
@@ -3148,7 +3319,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 41.47999954223633,
     "latent_y": -63.22999954223633,
     "latent_z": -69.5999984741211,
-    "duration_seconds": null
+    "duration_seconds": 1180,
+    "duracion": "19:40"
   },
   {
     "id": 173,
@@ -3166,7 +3338,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 64.54000091552734,
     "latent_y": -68.2699966430664,
     "latent_z": 87.36000061035156,
-    "duration_seconds": null
+    "duration_seconds": 120,
+    "duracion": "02:00"
   },
   {
     "id": 174,
@@ -3184,7 +3357,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 99.88999938964844,
     "latent_y": 16.65999984741211,
     "latent_z": -22.1299991607666,
-    "duration_seconds": null
+    "duration_seconds": 340,
+    "duracion": "05:40"
   },
   {
     "id": 175,
@@ -3203,7 +3377,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 59.369998931884766,
     "latent_y": -4.369999885559082,
     "latent_z": 89.05999755859375,
-    "duration_seconds": null
+    "duration_seconds": 1261,
+    "duracion": "21:01"
   },
   {
     "id": 176,
@@ -3222,7 +3397,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -64.0199966430664,
     "latent_y": -26.3799991607666,
     "latent_z": 90.5999984741211,
-    "duration_seconds": null
+    "duration_seconds": 2866,
+    "duracion": "47:46"
   },
   {
     "id": 177,
@@ -3240,7 +3416,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 120.0,
     "latent_y": 7.840000152587891,
     "latent_z": -44.22999954223633,
-    "duration_seconds": null
+    "duration_seconds": 3724,
+    "duracion": "01:02:04"
   },
   {
     "id": 178,
@@ -3258,7 +3435,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 42.4900016784668,
     "latent_y": 10.020000457763672,
     "latent_z": -55.540000915527344,
-    "duration_seconds": null
+    "duration_seconds": 1033,
+    "duracion": "17:13"
   },
   {
     "id": 179,
@@ -3277,7 +3455,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 32.970001220703125,
     "latent_y": -91.80999755859375,
     "latent_z": -72.55000305175781,
-    "duration_seconds": null
+    "duration_seconds": 11525,
+    "duracion": "03:12:05"
   },
   {
     "id": 180,
@@ -3296,7 +3475,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -46.79999923706055,
     "latent_y": -70.9800033569336,
     "latent_z": -92.93000030517578,
-    "duration_seconds": null
+    "duration_seconds": 860,
+    "duracion": "14:20"
   },
   {
     "id": 181,
@@ -3314,7 +3494,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -96.91000366210938,
     "latent_y": -78.5999984741211,
     "latent_z": 78.91999816894531,
-    "duration_seconds": null
+    "duration_seconds": 405,
+    "duracion": "06:45"
   },
   {
     "id": 182,
@@ -3332,7 +3513,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -24.09000015258789,
     "latent_y": -120.0,
     "latent_z": -87.4800033569336,
-    "duration_seconds": null
+    "duration_seconds": 2650,
+    "duracion": "44:10"
   },
   {
     "id": 183,
@@ -3350,7 +3532,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -81.73999786376953,
     "latent_y": -19.469999313354492,
     "latent_z": -31.729999542236328,
-    "duration_seconds": null
+    "duration_seconds": 499,
+    "duracion": "08:19"
   },
   {
     "id": 184,
@@ -3368,7 +3551,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -98.80999755859375,
     "latent_y": 13.25,
     "latent_z": -52.88999938964844,
-    "duration_seconds": null
+    "duration_seconds": 1026,
+    "duracion": "17:06"
   },
   {
     "id": 185,
@@ -3386,7 +3570,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -34.349998474121094,
     "latent_y": -58.880001068115234,
     "latent_z": 20.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 355,
+    "duracion": "05:55"
   },
   {
     "id": 186,
@@ -3405,7 +3590,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 29.829999923706055,
     "latent_y": -73.13999938964844,
     "latent_z": -85.0,
-    "duration_seconds": null
+    "duration_seconds": 799,
+    "duracion": "13:19"
   },
   {
     "id": 187,
@@ -3423,7 +3609,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 47.849998474121094,
     "latent_y": 5.840000152587891,
     "latent_z": -39.310001373291016,
-    "duration_seconds": null
+    "duration_seconds": 10521,
+    "duracion": "02:55:21"
   },
   {
     "id": 188,
@@ -3442,7 +3629,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 59.119998931884766,
     "latent_y": -12.869999885559082,
     "latent_z": 53.4900016784668,
-    "duration_seconds": null
+    "duration_seconds": 3467,
+    "duracion": "57:47"
   },
   {
     "id": 189,
@@ -3460,7 +3648,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -6.579999923706055,
     "latent_y": -91.13999938964844,
     "latent_z": -67.3499984741211,
-    "duration_seconds": null
+    "duration_seconds": 790,
+    "duracion": "13:10"
   },
   {
     "id": 190,
@@ -3478,7 +3667,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 34.84000015258789,
     "latent_y": -53.70000076293945,
     "latent_z": 69.62000274658203,
-    "duration_seconds": null
+    "duration_seconds": 426,
+    "duracion": "07:06"
   },
   {
     "id": 191,
@@ -3496,7 +3686,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 4.25,
     "latent_y": 75.83999633789062,
     "latent_z": 18.889999389648438,
-    "duration_seconds": null
+    "duration_seconds": 2378,
+    "duracion": "39:38"
   },
   {
     "id": 192,
@@ -3514,7 +3705,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 25.010000228881836,
     "latent_y": -72.1500015258789,
     "latent_z": 62.720001220703125,
-    "duration_seconds": null
+    "duration_seconds": 561,
+    "duracion": "09:21"
   },
   {
     "id": 193,
@@ -3533,7 +3725,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -91.41999816894531,
     "latent_y": 9.850000381469727,
     "latent_z": -4.130000114440918,
-    "duration_seconds": null
+    "duration_seconds": 95,
+    "duracion": "01:35"
   },
   {
     "id": 194,
@@ -3552,7 +3745,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 0.8799999952316284,
     "latent_y": -58.4900016784668,
     "latent_z": 20.639999389648438,
-    "duration_seconds": null
+    "duration_seconds": 1699,
+    "duracion": "28:19"
   },
   {
     "id": 195,
@@ -3570,7 +3764,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -88.69999694824219,
     "latent_y": 31.979999542236328,
     "latent_z": 37.86000061035156,
-    "duration_seconds": null
+    "duration_seconds": 789,
+    "duracion": "13:09"
   },
   {
     "id": 196,
@@ -3588,7 +3783,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -41.619998931884766,
     "latent_y": 98.95999908447266,
     "latent_z": 24.280000686645508,
-    "duration_seconds": null
+    "duration_seconds": 135,
+    "duracion": "02:15"
   },
   {
     "id": 197,
@@ -3607,7 +3803,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -55.900001525878906,
     "latent_y": -26.06999969482422,
     "latent_z": 68.05999755859375,
-    "duration_seconds": null
+    "duration_seconds": 1266,
+    "duracion": "21:06"
   },
   {
     "id": 198,
@@ -3625,7 +3822,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 19.940000534057617,
     "latent_y": -64.41999816894531,
     "latent_z": 85.2699966430664,
-    "duration_seconds": null
+    "duration_seconds": 1259,
+    "duracion": "20:59"
   },
   {
     "id": 199,
@@ -3643,7 +3841,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 49.04999923706055,
     "latent_y": -84.29000091552734,
     "latent_z": 87.69000244140625,
-    "duration_seconds": null
+    "duration_seconds": 2332,
+    "duracion": "38:52"
   },
   {
     "id": 200,
@@ -3661,7 +3860,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -67.5,
     "latent_y": 0.12999999523162842,
     "latent_z": -39.11000061035156,
-    "duration_seconds": null
+    "duration_seconds": 403,
+    "duracion": "06:43"
   },
   {
     "id": 201,
@@ -3679,7 +3879,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -30.719999313354492,
     "latent_y": -103.72000122070312,
     "latent_z": -72.94999694824219,
-    "duration_seconds": null
+    "duration_seconds": 201,
+    "duracion": "03:21"
   },
   {
     "id": 202,
@@ -3697,7 +3898,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -59.209999084472656,
     "latent_y": -8.229999542236328,
     "latent_z": -55.20000076293945,
-    "duration_seconds": null
+    "duration_seconds": 428,
+    "duracion": "07:08"
   },
   {
     "id": 203,
@@ -3715,7 +3917,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 44.54999923706055,
     "latent_y": 22.950000762939453,
     "latent_z": -45.810001373291016,
-    "duration_seconds": null
+    "duration_seconds": 530,
+    "duracion": "08:50"
   },
   {
     "id": 204,
@@ -3734,7 +3937,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 50.72999954223633,
     "latent_y": 0.20000000298023224,
     "latent_z": 111.2300033569336,
-    "duration_seconds": null
+    "duration_seconds": 1728,
+    "duracion": "28:48"
   },
   {
     "id": 205,
@@ -3752,7 +3956,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -66.36000061035156,
     "latent_y": 24.020000457763672,
     "latent_z": -65.83999633789062,
-    "duration_seconds": null
+    "duration_seconds": 1218,
+    "duracion": "20:18"
   },
   {
     "id": 206,
@@ -3770,7 +3975,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 41.47999954223633,
     "latent_y": -108.4800033569336,
     "latent_z": 47.16999816894531,
-    "duration_seconds": null
+    "duration_seconds": 118,
+    "duracion": "01:58"
   },
   {
     "id": 207,
@@ -3788,7 +3994,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 55.470001220703125,
     "latent_y": 36.90999984741211,
     "latent_z": 27.170000076293945,
-    "duration_seconds": null
+    "duration_seconds": 5829,
+    "duracion": "01:37:09"
   },
   {
     "id": 208,
@@ -3807,7 +4014,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -74.0,
     "latent_y": -32.529998779296875,
     "latent_z": 60.189998626708984,
-    "duration_seconds": null
+    "duration_seconds": 219,
+    "duracion": "03:39"
   },
   {
     "id": 209,
@@ -3826,7 +4034,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 48.790000915527344,
     "latent_y": -92.61000061035156,
     "latent_z": 25.040000915527344,
-    "duration_seconds": null
+    "duration_seconds": 2227,
+    "duracion": "37:07"
   },
   {
     "id": 210,
@@ -3844,7 +4053,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 109.29000091552734,
     "latent_y": -31.81999969482422,
     "latent_z": -32.79999923706055,
-    "duration_seconds": null
+    "duration_seconds": 644,
+    "duracion": "10:44"
   },
   {
     "id": 211,
@@ -3862,7 +4072,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 70.19000244140625,
     "latent_y": -83.02999877929688,
     "latent_z": 31.5,
-    "duration_seconds": null
+    "duration_seconds": 636,
+    "duracion": "10:36"
   },
   {
     "id": 212,
@@ -3881,7 +4092,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 51.20000076293945,
     "latent_y": 2.4000000953674316,
     "latent_z": 48.59000015258789,
-    "duration_seconds": null
+    "duration_seconds": 5292,
+    "duracion": "01:28:12"
   },
   {
     "id": 213,
@@ -3899,7 +4111,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 62.75,
     "latent_y": 29.700000762939453,
     "latent_z": -6.980000019073486,
-    "duration_seconds": null
+    "duration_seconds": 37476,
+    "duracion": "10:24:36"
   },
   {
     "id": 214,
@@ -3917,7 +4130,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 66.23999786376953,
     "latent_y": -67.7300033569336,
     "latent_z": 54.220001220703125,
-    "duration_seconds": null
+    "duration_seconds": 5566,
+    "duracion": "01:32:46"
   },
   {
     "id": 215,
@@ -3935,7 +4149,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -93.08999633789062,
     "latent_y": -2.630000114440918,
     "latent_z": -40.08000183105469,
-    "duration_seconds": null
+    "duration_seconds": 761,
+    "duracion": "12:41"
   },
   {
     "id": 216,
@@ -3954,7 +4169,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 22.979999542236328,
     "latent_y": -89.51000213623047,
     "latent_z": -54.630001068115234,
-    "duration_seconds": null
+    "duration_seconds": 499,
+    "duracion": "08:19"
   },
   {
     "id": 217,
@@ -3973,7 +4189,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -14.390000343322754,
     "latent_y": -32.130001068115234,
     "latent_z": 45.84000015258789,
-    "duration_seconds": null
+    "duration_seconds": 3904,
+    "duracion": "01:05:04"
   },
   {
     "id": 218,
@@ -3991,7 +4208,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -64.56999969482422,
     "latent_y": 6.260000228881836,
     "latent_z": -82.20999908447266,
-    "duration_seconds": null
+    "duration_seconds": 837,
+    "duracion": "13:57"
   },
   {
     "id": 219,
@@ -4009,7 +4227,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 84.08000183105469,
     "latent_y": 30.770000457763672,
     "latent_z": -88.12000274658203,
-    "duration_seconds": null
+    "duration_seconds": 544,
+    "duracion": "09:04"
   },
   {
     "id": 220,
@@ -4028,7 +4247,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 24.149999618530273,
     "latent_y": -70.5199966430664,
     "latent_z": -43.54999923706055,
-    "duration_seconds": null
+    "duration_seconds": 421,
+    "duracion": "07:01"
   },
   {
     "id": 221,
@@ -4047,7 +4267,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -41.86000061035156,
     "latent_y": 120.0,
     "latent_z": 15.649999618530273,
-    "duration_seconds": null
+    "duration_seconds": 880,
+    "duracion": "14:40"
   },
   {
     "id": 222,
@@ -4065,7 +4286,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -75.88999938964844,
     "latent_y": -82.97000122070312,
     "latent_z": 70.45999908447266,
-    "duration_seconds": null
+    "duration_seconds": 440,
+    "duracion": "07:20"
   },
   {
     "id": 223,
@@ -4084,7 +4306,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 16.049999237060547,
     "latent_y": -85.70999908447266,
     "latent_z": -38.0099983215332,
-    "duration_seconds": null
+    "duration_seconds": 222,
+    "duracion": "03:42"
   },
   {
     "id": 224,
@@ -4103,7 +4326,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -65.11000061035156,
     "latent_y": -46.22999954223633,
     "latent_z": 91.41000366210938,
-    "duration_seconds": null
+    "duration_seconds": 558,
+    "duracion": "09:18"
   },
   {
     "id": 225,
@@ -4121,7 +4345,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -23.559999465942383,
     "latent_y": -80.77999877929688,
     "latent_z": -88.33000183105469,
-    "duration_seconds": null
+    "duration_seconds": 336,
+    "duracion": "05:36"
   },
   {
     "id": 226,
@@ -4140,7 +4365,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -49.22999954223633,
     "latent_y": 34.400001525878906,
     "latent_z": -68.5199966430664,
-    "duration_seconds": null
+    "duration_seconds": 628,
+    "duracion": "10:28"
   },
   {
     "id": 227,
@@ -4158,7 +4384,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 26.200000762939453,
     "latent_y": 57.970001220703125,
     "latent_z": -86.30000305175781,
-    "duration_seconds": null
+    "duration_seconds": 960,
+    "duracion": "16:00"
   },
   {
     "id": 228,
@@ -4176,7 +4403,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 85.83000183105469,
     "latent_y": 46.529998779296875,
     "latent_z": -47.849998474121094,
-    "duration_seconds": null
+    "duration_seconds": 267,
+    "duracion": "04:27"
   },
   {
     "id": 229,
@@ -4194,7 +4422,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -14.229999542236328,
     "latent_y": 102.69999694824219,
     "latent_z": 51.380001068115234,
-    "duration_seconds": null
+    "duration_seconds": 18589,
+    "duracion": "05:09:49"
   },
   {
     "id": 230,
@@ -4212,7 +4441,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -16.68000030517578,
     "latent_y": -65.41000366210938,
     "latent_z": 10.0,
-    "duration_seconds": null
+    "duration_seconds": 890,
+    "duracion": "14:50"
   },
   {
     "id": 231,
@@ -4230,7 +4460,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -15.850000381469727,
     "latent_y": -98.2300033569336,
     "latent_z": -81.66999816894531,
-    "duration_seconds": null
+    "duration_seconds": 1240,
+    "duracion": "20:40"
   },
   {
     "id": 232,
@@ -4248,7 +4479,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 41.599998474121094,
     "latent_y": -71.22000122070312,
     "latent_z": 78.77999877929688,
-    "duration_seconds": null
+    "duration_seconds": 544,
+    "duracion": "09:04"
   },
   {
     "id": 233,
@@ -4268,7 +4500,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -61.290000915527344,
     "latent_y": 88.0,
     "latent_z": 34.77000045776367,
-    "duration_seconds": null
+    "duration_seconds": 209,
+    "duracion": "03:29"
   },
   {
     "id": 234,
@@ -4286,7 +4519,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 106.51000213623047,
     "latent_y": -4.110000133514404,
     "latent_z": -16.34000015258789,
-    "duration_seconds": null
+    "duration_seconds": 287,
+    "duracion": "04:47"
   },
   {
     "id": 235,
@@ -4305,7 +4539,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -105.30000305175781,
     "latent_y": -52.97999954223633,
     "latent_z": 2.9000000953674316,
-    "duration_seconds": null
+    "duration_seconds": 559,
+    "duracion": "09:19"
   },
   {
     "id": 236,
@@ -4323,7 +4558,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 38.88999938964844,
     "latent_y": 16.450000762939453,
     "latent_z": 1.1699999570846558,
-    "duration_seconds": null
+    "duration_seconds": 6886,
+    "duracion": "01:54:46"
   },
   {
     "id": 237,
@@ -4341,7 +4577,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -85.01000213623047,
     "latent_y": -1.6100000143051147,
     "latent_z": -86.0199966430664,
-    "duration_seconds": null
+    "duration_seconds": 362,
+    "duracion": "06:02"
   },
   {
     "id": 238,
@@ -4360,7 +4597,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -18.739999771118164,
     "latent_y": 5.53000020980835,
     "latent_z": 23.790000915527344,
-    "duration_seconds": null
+    "duration_seconds": 1963,
+    "duracion": "32:43"
   },
   {
     "id": 239,
@@ -4378,7 +4616,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -95.87000274658203,
     "latent_y": -87.05999755859375,
     "latent_z": 58.33000183105469,
-    "duration_seconds": null
+    "duration_seconds": 253,
+    "duracion": "04:13"
   },
   {
     "id": 240,
@@ -4396,7 +4635,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 60.45000076293945,
     "latent_y": 1.2999999523162842,
     "latent_z": 28.520000457763672,
-    "duration_seconds": null
+    "duration_seconds": 4224,
+    "duracion": "01:10:24"
   },
   {
     "id": 241,
@@ -4414,7 +4654,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 77.16000366210938,
     "latent_y": 17.530000686645508,
     "latent_z": -30.350000381469727,
-    "duration_seconds": null
+    "duration_seconds": 2538,
+    "duracion": "42:18"
   },
   {
     "id": 242,
@@ -4433,7 +4674,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -39.91999816894531,
     "latent_y": -43.029998779296875,
     "latent_z": -12.720000267028809,
-    "duration_seconds": null
+    "duration_seconds": 1821,
+    "duracion": "30:21"
   },
   {
     "id": 243,
@@ -4454,7 +4696,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -60.90999984741211,
     "latent_y": -13.729999542236328,
     "latent_z": 46.15999984741211,
-    "duration_seconds": null
+    "duration_seconds": 16,
+    "duracion": "00:16"
   },
   {
     "id": 244,
@@ -4472,7 +4715,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -1.4299999475479126,
     "latent_y": -79.58000183105469,
     "latent_z": -85.1500015258789,
-    "duration_seconds": null
+    "duration_seconds": 560,
+    "duracion": "09:20"
   },
   {
     "id": 245,
@@ -4490,7 +4734,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -118.4800033569336,
     "latent_y": -6.03000020980835,
     "latent_z": -40.9900016784668,
-    "duration_seconds": null
+    "duration_seconds": 2130,
+    "duracion": "35:30"
   },
   {
     "id": 246,
@@ -4508,7 +4753,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -6.110000133514404,
     "latent_y": -118.13999938964844,
     "latent_z": -87.33000183105469,
-    "duration_seconds": null
+    "duration_seconds": 2087,
+    "duracion": "34:47"
   },
   {
     "id": 247,
@@ -4526,7 +4772,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -55.25,
     "latent_y": -102.91000366210938,
     "latent_z": -67.41999816894531,
-    "duration_seconds": null
+    "duration_seconds": 750,
+    "duracion": "12:30"
   },
   {
     "id": 248,
@@ -4545,7 +4792,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 42.9900016784668,
     "latent_y": -80.44000244140625,
     "latent_z": -68.0,
-    "duration_seconds": null
+    "duration_seconds": 820,
+    "duracion": "13:40"
   },
   {
     "id": 249,
@@ -4563,7 +4811,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -33.79999923706055,
     "latent_y": -96.95999908447266,
     "latent_z": -94.55000305175781,
-    "duration_seconds": null
+    "duration_seconds": 431,
+    "duracion": "07:11"
   },
   {
     "id": 250,
@@ -4582,7 +4831,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 31.530000686645508,
     "latent_y": -97.87999725341797,
     "latent_z": -39.9900016784668,
-    "duration_seconds": null
+    "duration_seconds": 262,
+    "duracion": "04:22"
   },
   {
     "id": 251,
@@ -4600,7 +4850,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -36.5099983215332,
     "latent_y": -94.66999816894531,
     "latent_z": -57.209999084472656,
-    "duration_seconds": null
+    "duration_seconds": 1731,
+    "duracion": "28:51"
   },
   {
     "id": 252,
@@ -4619,7 +4870,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -31.389999389648438,
     "latent_y": -78.56999969482422,
     "latent_z": 13.670000076293945,
-    "duration_seconds": null
+    "duration_seconds": 2324,
+    "duracion": "38:44"
   },
   {
     "id": 253,
@@ -4638,7 +4890,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -79.79000091552734,
     "latent_y": -52.0,
     "latent_z": 27.649999618530273,
-    "duration_seconds": null
+    "duration_seconds": 500,
+    "duracion": "08:20"
   },
   {
     "id": 254,
@@ -4657,7 +4910,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 36.27000045776367,
     "latent_y": -82.63999938964844,
     "latent_z": -47.880001068115234,
-    "duration_seconds": null
+    "duration_seconds": 236,
+    "duracion": "03:56"
   },
   {
     "id": 255,
@@ -4675,7 +4929,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -59.45000076293945,
     "latent_y": 28.649999618530273,
     "latent_z": -50.41999816894531,
-    "duration_seconds": null
+    "duration_seconds": 1203,
+    "duracion": "20:03"
   },
   {
     "id": 256,
@@ -4693,7 +4948,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -39.189998626708984,
     "latent_y": 93.63999938964844,
     "latent_z": -10.260000228881836,
-    "duration_seconds": null
+    "duration_seconds": 466,
+    "duracion": "07:46"
   },
   {
     "id": 257,
@@ -4712,7 +4968,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -26.65999984741211,
     "latent_y": 9.079999923706055,
     "latent_z": 74.25,
-    "duration_seconds": null
+    "duration_seconds": 394,
+    "duracion": "06:34"
   },
   {
     "id": 258,
@@ -4730,7 +4987,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 46.2599983215332,
     "latent_y": 12.34000015258789,
     "latent_z": -99.7699966430664,
-    "duration_seconds": null
+    "duration_seconds": 845,
+    "duracion": "14:05"
   },
   {
     "id": 259,
@@ -4749,7 +5007,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 24.959999084472656,
     "latent_y": -72.61000061035156,
     "latent_z": -62.130001068115234,
-    "duration_seconds": null
+    "duration_seconds": 237,
+    "duracion": "03:57"
   },
   {
     "id": 260,
@@ -4767,7 +5026,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 81.58999633789062,
     "latent_y": 32.779998779296875,
     "latent_z": -22.170000076293945,
-    "duration_seconds": null
+    "duration_seconds": 158,
+    "duracion": "02:38"
   },
   {
     "id": 261,
@@ -4786,7 +5046,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 57.900001525878906,
     "latent_y": -24.43000030517578,
     "latent_z": 85.31999969482422,
-    "duration_seconds": null
+    "duration_seconds": 7904,
+    "duracion": "02:11:44"
   },
   {
     "id": 262,
@@ -4804,7 +5065,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -104.77999877929688,
     "latent_y": -65.3499984741211,
     "latent_z": 63.38999938964844,
-    "duration_seconds": null
+    "duration_seconds": 1270,
+    "duracion": "21:10"
   },
   {
     "id": 263,
@@ -4822,7 +5084,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -81.3499984741211,
     "latent_y": 25.09000015258789,
     "latent_z": -49.900001525878906,
-    "duration_seconds": null
+    "duration_seconds": 413,
+    "duracion": "06:53"
   },
   {
     "id": 264,
@@ -4840,7 +5103,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -15.869999885559082,
     "latent_y": -111.45999908447266,
     "latent_z": -102.91999816894531,
-    "duration_seconds": null
+    "duration_seconds": 689,
+    "duracion": "11:29"
   },
   {
     "id": 265,
@@ -4858,7 +5122,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -84.04000091552734,
     "latent_y": -51.959999084472656,
     "latent_z": 58.150001525878906,
-    "duration_seconds": null
+    "duration_seconds": 2226,
+    "duracion": "37:06"
   },
   {
     "id": 266,
@@ -4877,7 +5142,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -47.59000015258789,
     "latent_y": -104.05000305175781,
     "latent_z": -40.79999923706055,
-    "duration_seconds": null
+    "duration_seconds": 1198,
+    "duracion": "19:58"
   },
   {
     "id": 267,
@@ -4895,7 +5161,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 53.2599983215332,
     "latent_y": -14.210000038146973,
     "latent_z": -27.780000686645508,
-    "duration_seconds": null
+    "duration_seconds": 599,
+    "duracion": "09:59"
   },
   {
     "id": 268,
@@ -4914,7 +5181,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -82.83999633789062,
     "latent_y": -78.19999694824219,
     "latent_z": 18.889999389648438,
-    "duration_seconds": null
+    "duration_seconds": 339,
+    "duracion": "05:39"
   },
   {
     "id": 269,
@@ -4932,7 +5200,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -13.420000076293945,
     "latent_y": 99.45999908447266,
     "latent_z": 15.510000228881836,
-    "duration_seconds": null
+    "duration_seconds": 247,
+    "duracion": "04:07"
   },
   {
     "id": 270,
@@ -4950,7 +5219,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 59.36000061035156,
     "latent_y": -21.600000381469727,
     "latent_z": -55.83000183105469,
-    "duration_seconds": null
+    "duration_seconds": 841,
+    "duracion": "14:01"
   },
   {
     "id": 271,
@@ -4969,7 +5239,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -15.520000457763672,
     "latent_y": -58.029998779296875,
     "latent_z": -95.33999633789062,
-    "duration_seconds": null
+    "duration_seconds": 1241,
+    "duracion": "20:41"
   },
   {
     "id": 272,
@@ -4987,7 +5258,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 55.04999923706055,
     "latent_y": -81.23999786376953,
     "latent_z": 43.369998931884766,
-    "duration_seconds": null
+    "duration_seconds": 421,
+    "duracion": "07:01"
   },
   {
     "id": 273,
@@ -5005,7 +5277,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 4.909999847412109,
     "latent_y": 24.389999389648438,
     "latent_z": -70.5999984741211,
-    "duration_seconds": null
+    "duration_seconds": 635,
+    "duracion": "10:35"
   },
   {
     "id": 274,
@@ -5023,7 +5296,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -71.1500015258789,
     "latent_y": -63.54999923706055,
     "latent_z": 68.68000030517578,
-    "duration_seconds": null
+    "duration_seconds": 634,
+    "duracion": "10:34"
   },
   {
     "id": 275,
@@ -5042,7 +5316,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -47.20000076293945,
     "latent_y": -56.22999954223633,
     "latent_z": -0.6600000262260437,
-    "duration_seconds": null
+    "duration_seconds": 838,
+    "duracion": "13:58"
   },
   {
     "id": 276,
@@ -5060,7 +5335,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -92.4000015258789,
     "latent_y": -25.700000762939453,
     "latent_z": -51.08000183105469,
-    "duration_seconds": null
+    "duration_seconds": 572,
+    "duracion": "09:32"
   },
   {
     "id": 277,
@@ -5078,7 +5354,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 41.689998626708984,
     "latent_y": -88.02999877929688,
     "latent_z": 61.849998474121094,
-    "duration_seconds": null
+    "duration_seconds": 469,
+    "duracion": "07:49"
   },
   {
     "id": 278,
@@ -5096,7 +5373,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -85.69000244140625,
     "latent_y": -69.77999877929688,
     "latent_z": 58.150001525878906,
-    "duration_seconds": null
+    "duration_seconds": 540,
+    "duracion": "09:00"
   },
   {
     "id": 279,
@@ -5115,7 +5393,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -81.5999984741211,
     "latent_y": -35.790000915527344,
     "latent_z": 80.77999877929688,
-    "duration_seconds": null
+    "duration_seconds": 1007,
+    "duracion": "16:47"
   },
   {
     "id": 280,
@@ -5133,7 +5412,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -85.70999908447266,
     "latent_y": 21.420000076293945,
     "latent_z": -81.12999725341797,
-    "duration_seconds": null
+    "duration_seconds": 1850,
+    "duracion": "30:50"
   },
   {
     "id": 281,
@@ -5151,7 +5431,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -83.9000015258789,
     "latent_y": 11.489999771118164,
     "latent_z": -29.600000381469727,
-    "duration_seconds": null
+    "duration_seconds": 367,
+    "duracion": "06:07"
   },
   {
     "id": 282,
@@ -5170,7 +5451,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -33.54999923706055,
     "latent_y": 26.280000686645508,
     "latent_z": -58.18000030517578,
-    "duration_seconds": null
+    "duration_seconds": 4596,
+    "duracion": "01:16:36"
   },
   {
     "id": 283,
@@ -5188,7 +5470,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -45.2400016784668,
     "latent_y": -17.110000610351562,
     "latent_z": -43.959999084472656,
-    "duration_seconds": null
+    "duration_seconds": 240,
+    "duracion": "04:00"
   },
   {
     "id": 284,
@@ -5206,7 +5489,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -104.87000274658203,
     "latent_y": 16.950000762939453,
     "latent_z": -77.1500015258789,
-    "duration_seconds": null
+    "duration_seconds": 1071,
+    "duracion": "17:51"
   },
   {
     "id": 285,
@@ -5225,7 +5509,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -21.309999465942383,
     "latent_y": 3.0999999046325684,
     "latent_z": 49.220001220703125,
-    "duration_seconds": null
+    "duration_seconds": 4535,
+    "duracion": "01:15:35"
   },
   {
     "id": 286,
@@ -5244,7 +5529,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -33.77000045776367,
     "latent_y": -58.130001068115234,
     "latent_z": -19.110000610351562,
-    "duration_seconds": null
+    "duration_seconds": 3315,
+    "duracion": "55:15"
   },
   {
     "id": 287,
@@ -5263,7 +5549,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -97.1500015258789,
     "latent_y": -38.380001068115234,
     "latent_z": 32.13999938964844,
-    "duration_seconds": null
+    "duration_seconds": 1074,
+    "duracion": "17:54"
   },
   {
     "id": 288,
@@ -5282,7 +5569,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -29.549999237060547,
     "latent_y": -56.66999816894531,
     "latent_z": -1.090000033378601,
-    "duration_seconds": null
+    "duration_seconds": 559,
+    "duracion": "09:19"
   },
   {
     "id": 289,
@@ -5301,7 +5589,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -78.41000366210938,
     "latent_y": 18.3799991607666,
     "latent_z": -3.3299999237060547,
-    "duration_seconds": null
+    "duration_seconds": 643,
+    "duracion": "10:43"
   },
   {
     "id": 290,
@@ -5319,7 +5608,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -81.4000015258789,
     "latent_y": 34.66999816894531,
     "latent_z": -32.2400016784668,
-    "duration_seconds": null
+    "duration_seconds": 375,
+    "duracion": "06:15"
   },
   {
     "id": 291,
@@ -5337,7 +5627,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -38.029998779296875,
     "latent_y": 107.29000091552734,
     "latent_z": 43.150001525878906,
-    "duration_seconds": null
+    "duration_seconds": 5996,
+    "duracion": "01:39:56"
   },
   {
     "id": 292,
@@ -5355,7 +5646,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -27.299999237060547,
     "latent_y": -112.37999725341797,
     "latent_z": -45.790000915527344,
-    "duration_seconds": null
+    "duration_seconds": 578,
+    "duracion": "09:38"
   },
   {
     "id": 293,
@@ -5374,7 +5666,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -3.3299999237060547,
     "latent_y": 31.780000686645508,
     "latent_z": 65.87000274658203,
-    "duration_seconds": null
+    "duration_seconds": 1007,
+    "duracion": "16:47"
   },
   {
     "id": 294,
@@ -5393,7 +5686,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -42.18000030517578,
     "latent_y": -38.59000015258789,
     "latent_z": 64.88999938964844,
-    "duration_seconds": null
+    "duration_seconds": 1150,
+    "duracion": "19:10"
   },
   {
     "id": 295,
@@ -5411,7 +5705,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -30.709999084472656,
     "latent_y": 104.12000274658203,
     "latent_z": 6.909999847412109,
-    "duration_seconds": null
+    "duration_seconds": 9571,
+    "duracion": "02:39:31"
   },
   {
     "id": 296,
@@ -5430,7 +5725,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -59.11000061035156,
     "latent_y": -44.029998779296875,
     "latent_z": 56.75,
-    "duration_seconds": null
+    "duration_seconds": 274,
+    "duracion": "04:34"
   },
   {
     "id": 297,
@@ -5448,7 +5744,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -60.16999816894531,
     "latent_y": -16.540000915527344,
     "latent_z": -30.989999771118164,
-    "duration_seconds": null
+    "duration_seconds": 2109,
+    "duracion": "35:09"
   },
   {
     "id": 298,
@@ -5467,7 +5764,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -10.300000190734863,
     "latent_y": -45.4900016784668,
     "latent_z": 35.61000061035156,
-    "duration_seconds": null
+    "duration_seconds": 317,
+    "duracion": "05:17"
   },
   {
     "id": 299,
@@ -5485,7 +5783,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 93.87999725341797,
     "latent_y": 7.699999809265137,
     "latent_z": -68.22000122070312,
-    "duration_seconds": null
+    "duration_seconds": 233,
+    "duracion": "03:53"
   },
   {
     "id": 300,
@@ -5504,7 +5803,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -34.95000076293945,
     "latent_y": -40.5099983215332,
     "latent_z": 4.869999885559082,
-    "duration_seconds": null
+    "duration_seconds": 676,
+    "duracion": "11:16"
   },
   {
     "id": 301,
@@ -5522,7 +5822,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -25.739999771118164,
     "latent_y": -86.12999725341797,
     "latent_z": -71.02999877929688,
-    "duration_seconds": null
+    "duration_seconds": 332,
+    "duracion": "05:32"
   },
   {
     "id": 302,
@@ -5543,7 +5844,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 14.279999732971191,
     "latent_y": 27.229999542236328,
     "latent_z": 77.68000030517578,
-    "duration_seconds": null
+    "duration_seconds": 5173,
+    "duracion": "01:26:13"
   },
   {
     "id": 303,
@@ -5562,7 +5864,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 0.2800000011920929,
     "latent_y": 22.510000228881836,
     "latent_z": 30.3799991607666,
-    "duration_seconds": null
+    "duration_seconds": 346,
+    "duracion": "05:46"
   },
   {
     "id": 304,
@@ -5580,7 +5883,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 8.489999771118164,
     "latent_y": 20.440000534057617,
     "latent_z": -30.15999984741211,
-    "duration_seconds": null
+    "duration_seconds": 220,
+    "duracion": "03:40"
   },
   {
     "id": 305,
@@ -5599,7 +5903,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 21.969999313354492,
     "latent_y": -19.81999969482422,
     "latent_z": 103.83000183105469,
-    "duration_seconds": null
+    "duration_seconds": 1791,
+    "duracion": "29:51"
   },
   {
     "id": 306,
@@ -5618,7 +5923,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 8.930000305175781,
     "latent_y": -73.72000122070312,
     "latent_z": -56.06999969482422,
-    "duration_seconds": null
+    "duration_seconds": 495,
+    "duracion": "08:15"
   },
   {
     "id": 307,
@@ -5636,7 +5942,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -79.20999908447266,
     "latent_y": 5.449999809265137,
     "latent_z": -66.54000091552734,
-    "duration_seconds": null
+    "duration_seconds": 424,
+    "duracion": "07:04"
   },
   {
     "id": 308,
@@ -5654,7 +5961,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -46.959999084472656,
     "latent_y": -111.12999725341797,
     "latent_z": -85.97000122070312,
-    "duration_seconds": null
+    "duration_seconds": 2034,
+    "duracion": "33:54"
   },
   {
     "id": 309,
@@ -5673,7 +5981,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 11.279999732971191,
     "latent_y": 36.63999938964844,
     "latent_z": 45.66999816894531,
-    "duration_seconds": null
+    "duration_seconds": 493,
+    "duracion": "08:13"
   },
   {
     "id": 310,
@@ -5691,7 +6000,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -17.979999542236328,
     "latent_y": -65.08999633789062,
     "latent_z": 29.299999237060547,
-    "duration_seconds": null
+    "duration_seconds": 11,
+    "duracion": "00:11"
   },
   {
     "id": 311,
@@ -5710,7 +6020,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -37.849998474121094,
     "latent_y": 16.920000076293945,
     "latent_z": 55.70000076293945,
-    "duration_seconds": null
+    "duration_seconds": 544,
+    "duracion": "09:04"
   },
   {
     "id": 312,
@@ -5729,7 +6040,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 23.969999313354492,
     "latent_y": -4.769999980926514,
     "latent_z": 78.7699966430664,
-    "duration_seconds": null
+    "duration_seconds": 1387,
+    "duracion": "23:07"
   },
   {
     "id": 313,
@@ -5749,7 +6061,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -67.23999786376953,
     "latent_y": -31.969999313354492,
     "latent_z": 36.9900016784668,
-    "duration_seconds": null
+    "duration_seconds": 973,
+    "duracion": "16:13"
   },
   {
     "id": 314,
@@ -5767,7 +6080,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 7.5,
     "latent_y": -5.610000133514404,
     "latent_z": -6.400000095367432,
-    "duration_seconds": null
+    "duration_seconds": 385,
+    "duracion": "06:25"
   },
   {
     "id": 315,
@@ -5785,7 +6099,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 28.829999923706055,
     "latent_y": 9.029999732971191,
     "latent_z": -76.61000061035156,
-    "duration_seconds": null
+    "duration_seconds": 10120,
+    "duracion": "02:48:40"
   },
   {
     "id": 316,
@@ -5804,7 +6119,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -26.969999313354492,
     "latent_y": -46.93000030517578,
     "latent_z": 40.34000015258789,
-    "duration_seconds": null
+    "duration_seconds": 665,
+    "duracion": "11:05"
   },
   {
     "id": 317,
@@ -5822,7 +6138,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -13.979999542236328,
     "latent_y": -72.13999938964844,
     "latent_z": -72.41999816894531,
-    "duration_seconds": null
+    "duration_seconds": 381,
+    "duracion": "06:21"
   },
   {
     "id": 318,
@@ -5841,7 +6158,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -8.949999809265137,
     "latent_y": 49.54999923706055,
     "latent_z": 51.869998931884766,
-    "duration_seconds": null
+    "duration_seconds": 594,
+    "duracion": "09:54"
   },
   {
     "id": 319,
@@ -5860,7 +6178,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 33.400001525878906,
     "latent_y": -79.08000183105469,
     "latent_z": -29.059999465942383,
-    "duration_seconds": null
+    "duration_seconds": 731,
+    "duracion": "12:11"
   },
   {
     "id": 320,
@@ -5878,7 +6197,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -43.2400016784668,
     "latent_y": -88.76000213623047,
     "latent_z": -78.27999877929688,
-    "duration_seconds": null
+    "duration_seconds": 417,
+    "duracion": "06:57"
   },
   {
     "id": 321,
@@ -5896,7 +6216,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 78.33000183105469,
     "latent_y": -54.40999984741211,
     "latent_z": 67.44999694824219,
-    "duration_seconds": null
+    "duration_seconds": 4412,
+    "duracion": "01:13:32"
   },
   {
     "id": 322,
@@ -5914,7 +6235,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 66.66999816894531,
     "latent_y": -38.25,
     "latent_z": -39.709999084472656,
-    "duration_seconds": null
+    "duration_seconds": 30,
+    "duracion": "00:30"
   },
   {
     "id": 323,
@@ -5932,7 +6254,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -68.76000213623047,
     "latent_y": -63.5,
     "latent_z": 47.689998626708984,
-    "duration_seconds": null
+    "duration_seconds": 28,
+    "duracion": "00:28"
   },
   {
     "id": 324,
@@ -5950,7 +6273,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -100.61000061035156,
     "latent_y": -5.96999979019165,
     "latent_z": -65.0199966430664,
-    "duration_seconds": null
+    "duration_seconds": 124,
+    "duracion": "02:04"
   },
   {
     "id": 325,
@@ -5968,7 +6292,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 46.7400016784668,
     "latent_y": -68.16000366210938,
     "latent_z": 60.2599983215332,
-    "duration_seconds": null
+    "duration_seconds": 1041,
+    "duracion": "17:21"
   },
   {
     "id": 326,
@@ -5987,7 +6312,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -38.810001373291016,
     "latent_y": 23.1299991607666,
     "latent_z": 17.989999771118164,
-    "duration_seconds": null
+    "duration_seconds": 407,
+    "duracion": "06:47"
   },
   {
     "id": 327,
@@ -6006,7 +6332,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 52.0099983215332,
     "latent_y": -77.80999755859375,
     "latent_z": -29.969999313354492,
-    "duration_seconds": null
+    "duration_seconds": 224,
+    "duracion": "03:44"
   },
   {
     "id": 328,
@@ -6024,7 +6351,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -75.41000366210938,
     "latent_y": -15.170000076293945,
     "latent_z": -72.02999877929688,
-    "duration_seconds": null
+    "duration_seconds": 237,
+    "duracion": "03:57"
   },
   {
     "id": 329,
@@ -6043,7 +6371,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -73.43000030517578,
     "latent_y": -18.790000915527344,
     "latent_z": 73.06999969482422,
-    "duration_seconds": null
+    "duration_seconds": 368,
+    "duracion": "06:08"
   },
   {
     "id": 330,
@@ -6061,7 +6390,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -35.029998779296875,
     "latent_y": -119.30999755859375,
     "latent_z": -65.44999694824219,
-    "duration_seconds": null
+    "duration_seconds": 1629,
+    "duracion": "27:09"
   },
   {
     "id": 331,
@@ -6080,7 +6410,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -85.58000183105469,
     "latent_y": -37.540000915527344,
     "latent_z": 9.619999885559082,
-    "duration_seconds": null
+    "duration_seconds": 124,
+    "duracion": "02:04"
   },
   {
     "id": 332,
@@ -6099,7 +6430,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -109.98999786376953,
     "latent_y": -70.41999816894531,
     "latent_z": 35.59000015258789,
-    "duration_seconds": null
+    "duration_seconds": 1239,
+    "duracion": "20:39"
   },
   {
     "id": 333,
@@ -6119,7 +6451,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -50.689998626708984,
     "latent_y": -53.189998626708984,
     "latent_z": 74.83000183105469,
-    "duration_seconds": null
+    "duration_seconds": 69,
+    "duracion": "01:09"
   },
   {
     "id": 334,
@@ -6137,7 +6470,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -77.91000366210938,
     "latent_y": -7.599999904632568,
     "latent_z": -21.360000610351562,
-    "duration_seconds": null
+    "duration_seconds": 217,
+    "duracion": "03:37"
   },
   {
     "id": 335,
@@ -6155,7 +6489,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -52.29999923706055,
     "latent_y": 93.58999633789062,
     "latent_z": 7.119999885559082,
-    "duration_seconds": null
+    "duration_seconds": 595,
+    "duracion": "09:55"
   },
   {
     "id": 336,
@@ -6173,7 +6508,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -12.4399995803833,
     "latent_y": -92.3499984741211,
     "latent_z": -102.36000061035156,
-    "duration_seconds": null
+    "duration_seconds": 303,
+    "duracion": "05:03"
   },
   {
     "id": 337,
@@ -6191,7 +6527,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -13.9399995803833,
     "latent_y": 94.36000061035156,
     "latent_z": -9.329999923706055,
-    "duration_seconds": null
+    "duration_seconds": 57,
+    "duracion": "00:57"
   },
   {
     "id": 338,
@@ -6209,7 +6546,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -85.69000244140625,
     "latent_y": -69.77999877929688,
     "latent_z": 58.150001525878906,
-    "duration_seconds": null
+    "duration_seconds": 140,
+    "duracion": "02:20"
   },
   {
     "id": 339,
@@ -6228,7 +6566,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -36.11000061035156,
     "latent_y": 16.940000534057617,
     "latent_z": -76.87000274658203,
-    "duration_seconds": null
+    "duration_seconds": 1908,
+    "duracion": "31:48"
   },
   {
     "id": 340,
@@ -6246,7 +6585,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -57.38999938964844,
     "latent_y": -79.13999938964844,
     "latent_z": 56.689998626708984,
-    "duration_seconds": null
+    "duration_seconds": 84,
+    "duracion": "01:24"
   },
   {
     "id": 341,
@@ -6264,7 +6604,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 3.609999895095825,
     "latent_y": 41.540000915527344,
     "latent_z": -50.790000915527344,
-    "duration_seconds": null
+    "duration_seconds": 886,
+    "duracion": "14:46"
   },
   {
     "id": 342,
@@ -6283,7 +6624,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 30.280000686645508,
     "latent_y": 12.329999923706055,
     "latent_z": 104.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 499,
+    "duracion": "08:19"
   },
   {
     "id": 343,
@@ -6301,7 +6643,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 23.68000030517578,
     "latent_y": -87.7699966430664,
     "latent_z": 80.44000244140625,
-    "duration_seconds": null
+    "duration_seconds": 660,
+    "duracion": "11:00"
   },
   {
     "id": 344,
@@ -6319,7 +6662,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -96.86000061035156,
     "latent_y": -14.90999984741211,
     "latent_z": -19.6299991607666,
-    "duration_seconds": null
+    "duration_seconds": 849,
+    "duracion": "14:09"
   },
   {
     "id": 345,
@@ -6337,7 +6681,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 34.52000045776367,
     "latent_y": -4.78000020980835,
     "latent_z": -106.4000015258789,
-    "duration_seconds": null
+    "duration_seconds": 164,
+    "duracion": "02:44"
   },
   {
     "id": 346,
@@ -6355,7 +6700,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 77.44999694824219,
     "latent_y": -75.08999633789062,
     "latent_z": 70.58999633789062,
-    "duration_seconds": null
+    "duration_seconds": 627,
+    "duracion": "10:27"
   },
   {
     "id": 347,
@@ -6374,7 +6720,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -34.36000061035156,
     "latent_y": 41.529998779296875,
     "latent_z": -75.69000244140625,
-    "duration_seconds": null
+    "duration_seconds": 12,
+    "duracion": "00:12"
   },
   {
     "id": 348,
@@ -6392,7 +6739,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 68.69999694824219,
     "latent_y": 6.949999809265137,
     "latent_z": -10.649999618530273,
-    "duration_seconds": null
+    "duration_seconds": 1520,
+    "duracion": "25:20"
   },
   {
     "id": 349,
@@ -6410,7 +6758,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 32.34000015258789,
     "latent_y": 9.649999618530273,
     "latent_z": -106.08999633789062,
-    "duration_seconds": null
+    "duration_seconds": 7304,
+    "duracion": "02:01:44"
   },
   {
     "id": 350,
@@ -6429,7 +6778,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 42.45000076293945,
     "latent_y": -14.079999923706055,
     "latent_z": 101.87999725341797,
-    "duration_seconds": null
+    "duration_seconds": 900,
+    "duracion": "15:00"
   },
   {
     "id": 351,
@@ -6447,7 +6797,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 33.369998931884766,
     "latent_y": -30.1200008392334,
     "latent_z": -31.440000534057617,
-    "duration_seconds": null
+    "duration_seconds": 3348,
+    "duracion": "55:48"
   },
   {
     "id": 352,
@@ -6465,7 +6816,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 44.41999816894531,
     "latent_y": -105.66000366210938,
     "latent_z": 79.19999694824219,
-    "duration_seconds": null
+    "duration_seconds": 1089,
+    "duracion": "18:09"
   },
   {
     "id": 353,
@@ -6484,7 +6836,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -14.850000381469727,
     "latent_y": 54.70000076293945,
     "latent_z": 72.98999786376953,
-    "duration_seconds": null
+    "duration_seconds": 875,
+    "duracion": "14:35"
   },
   {
     "id": 354,
@@ -6502,7 +6855,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 5.920000076293945,
     "latent_y": 11.329999923706055,
     "latent_z": -107.0999984741211,
-    "duration_seconds": null
+    "duration_seconds": 3818,
+    "duracion": "01:03:38"
   },
   {
     "id": 355,
@@ -6521,7 +6875,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 27.360000610351562,
     "latent_y": -6.610000133514404,
     "latent_z": 120.0,
-    "duration_seconds": null
+    "duration_seconds": 1395,
+    "duracion": "23:15"
   },
   {
     "id": 356,
@@ -6539,7 +6894,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 70.79000091552734,
     "latent_y": -16.969999313354492,
     "latent_z": -8.029999732971191,
-    "duration_seconds": null
+    "duration_seconds": 618,
+    "duracion": "10:18"
   },
   {
     "id": 357,
@@ -6557,7 +6913,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -21.56999969482422,
     "latent_y": 113.43000030517578,
     "latent_z": 28.520000457763672,
-    "duration_seconds": null
+    "duration_seconds": 309,
+    "duracion": "05:09"
   },
   {
     "id": 358,
@@ -6575,7 +6932,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -10.4399995803833,
     "latent_y": -33.11000061035156,
     "latent_z": -96.23999786376953,
-    "duration_seconds": null
+    "duration_seconds": 40,
+    "duracion": "00:40"
   },
   {
     "id": 359,
@@ -6593,7 +6951,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 74.33000183105469,
     "latent_y": -14.220000267028809,
     "latent_z": -38.150001525878906,
-    "duration_seconds": null
+    "duration_seconds": 2139,
+    "duracion": "35:39"
   },
   {
     "id": 360,
@@ -6612,7 +6971,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -47.95000076293945,
     "latent_y": -35.70000076293945,
     "latent_z": 83.94999694824219,
-    "duration_seconds": null
+    "duration_seconds": 417,
+    "duracion": "06:57"
   },
   {
     "id": 361,
@@ -6630,7 +6990,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -26.709999084472656,
     "latent_y": 78.31999969482422,
     "latent_z": 14.010000228881836,
-    "duration_seconds": null
+    "duration_seconds": 681,
+    "duracion": "11:21"
   },
   {
     "id": 362,
@@ -6649,7 +7010,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -31.440000534057617,
     "latent_y": 12.1899995803833,
     "latent_z": 34.560001373291016,
-    "duration_seconds": null
+    "duration_seconds": 499,
+    "duracion": "08:19"
   },
   {
     "id": 363,
@@ -6667,7 +7029,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 46.619998931884766,
     "latent_y": 49.47999954223633,
     "latent_z": -85.68000030517578,
-    "duration_seconds": null
+    "duration_seconds": 50,
+    "duracion": "00:50"
   },
   {
     "id": 364,
@@ -6686,7 +7049,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -34.90999984741211,
     "latent_y": 51.5099983215332,
     "latent_z": 52.369998931884766,
-    "duration_seconds": null
+    "duration_seconds": 242,
+    "duracion": "04:02"
   },
   {
     "id": 365,
@@ -6704,7 +7068,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -1.649999976158142,
     "latent_y": 95.7699966430664,
     "latent_z": 30.200000762939453,
-    "duration_seconds": null
+    "duration_seconds": 491,
+    "duracion": "08:11"
   },
   {
     "id": 366,
@@ -6722,7 +7087,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -23.530000686645508,
     "latent_y": 96.38999938964844,
     "latent_z": 32.90999984741211,
-    "duration_seconds": null
+    "duration_seconds": 323,
+    "duracion": "05:23"
   },
   {
     "id": 367,
@@ -6741,7 +7107,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -28.290000915527344,
     "latent_y": 35.58000183105469,
     "latent_z": 67.6500015258789,
-    "duration_seconds": null
+    "duration_seconds": 4851,
+    "duracion": "01:20:51"
   },
   {
     "id": 368,
@@ -6760,7 +7127,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -120.0,
     "latent_y": -44.689998626708984,
     "latent_z": 37.09000015258789,
-    "duration_seconds": null
+    "duration_seconds": 9,
+    "duracion": "00:09"
   },
   {
     "id": 369,
@@ -6778,7 +7146,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 80.30000305175781,
     "latent_y": 62.18000030517578,
     "latent_z": -10.40999984741211,
-    "duration_seconds": null
+    "duration_seconds": 165,
+    "duracion": "02:45"
   },
   {
     "id": 370,
@@ -6796,7 +7165,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -36.93000030517578,
     "latent_y": 85.55999755859375,
     "latent_z": 41.27000045776367,
-    "duration_seconds": null
+    "duration_seconds": 1408,
+    "duracion": "23:28"
   },
   {
     "id": 371,
@@ -6814,7 +7184,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -26.709999084472656,
     "latent_y": 78.31999969482422,
     "latent_z": 14.010000228881836,
-    "duration_seconds": null
+    "duration_seconds": 1259,
+    "duracion": "20:59"
   },
   {
     "id": 372,
@@ -6832,7 +7203,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -26.709999084472656,
     "latent_y": 78.31999969482422,
     "latent_z": 14.010000228881836,
-    "duration_seconds": null
+    "duration_seconds": 1372,
+    "duracion": "22:52"
   },
   {
     "id": 373,
@@ -6851,7 +7223,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -18.440000534057617,
     "latent_y": 26.850000381469727,
     "latent_z": 26.84000015258789,
-    "duration_seconds": null
+    "duration_seconds": 880,
+    "duracion": "14:40"
   },
   {
     "id": 374,
@@ -6869,7 +7242,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 37.7599983215332,
     "latent_y": -5.920000076293945,
     "latent_z": 12.5,
-    "duration_seconds": null
+    "duration_seconds": 11999,
+    "duracion": "03:19:59"
   },
   {
     "id": 375,
@@ -6887,7 +7261,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -26.709999084472656,
     "latent_y": 78.31999969482422,
     "latent_z": 14.010000228881836,
-    "duration_seconds": null
+    "duration_seconds": 1194,
+    "duracion": "19:54"
   },
   {
     "id": 376,
@@ -6905,7 +7280,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -11.789999961853027,
     "latent_y": 80.55999755859375,
     "latent_z": 40.83000183105469,
-    "duration_seconds": null
+    "duration_seconds": 2694,
+    "duracion": "44:54"
   },
   {
     "id": 377,
@@ -6923,7 +7299,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -26.709999084472656,
     "latent_y": 78.31999969482422,
     "latent_z": 14.010000228881836,
-    "duration_seconds": null
+    "duration_seconds": 2700,
+    "duracion": "45:00"
   },
   {
     "id": 378,
@@ -6941,7 +7318,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -39.22999954223633,
     "latent_y": 68.95999908447266,
     "latent_z": -4.940000057220459,
-    "duration_seconds": null
+    "duration_seconds": 498,
+    "duracion": "08:18"
   },
   {
     "id": 379,
@@ -6960,7 +7338,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 52.970001220703125,
     "latent_y": 10.1899995803833,
     "latent_z": 70.83000183105469,
-    "duration_seconds": null
+    "duration_seconds": 6001,
+    "duracion": "01:40:01"
   },
   {
     "id": 380,
@@ -6978,7 +7357,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 57.63999938964844,
     "latent_y": 19.5,
     "latent_z": -35.810001373291016,
-    "duration_seconds": null
+    "duration_seconds": 1316,
+    "duracion": "21:56"
   },
   {
     "id": 381,
@@ -6996,7 +7376,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -26.709999084472656,
     "latent_y": 78.31999969482422,
     "latent_z": 14.010000228881836,
-    "duration_seconds": null
+    "duration_seconds": 863,
+    "duracion": "14:23"
   },
   {
     "id": 382,
@@ -7014,7 +7395,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -26.709999084472656,
     "latent_y": 78.31999969482422,
     "latent_z": 14.010000228881836,
-    "duration_seconds": null
+    "duration_seconds": 2080,
+    "duracion": "34:40"
   },
   {
     "id": 383,
@@ -7032,7 +7414,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -15.140000343322754,
     "latent_y": 68.2699966430664,
     "latent_z": -4.650000095367432,
-    "duration_seconds": null
+    "duration_seconds": 1610,
+    "duracion": "26:50"
   },
   {
     "id": 384,
@@ -7050,7 +7433,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -26.709999084472656,
     "latent_y": 78.31999969482422,
     "latent_z": 14.010000228881836,
-    "duration_seconds": null
+    "duration_seconds": 53,
+    "duracion": "00:53"
   },
   {
     "id": 385,
@@ -7068,7 +7452,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -26.709999084472656,
     "latent_y": 78.31999969482422,
     "latent_z": 14.010000228881836,
-    "duration_seconds": null
+    "duration_seconds": 330,
+    "duracion": "05:30"
   },
   {
     "id": 386,
@@ -7087,7 +7472,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -27.149999618530273,
     "latent_y": 48.720001220703125,
     "latent_z": 35.349998474121094,
-    "duration_seconds": null
+    "duration_seconds": 97,
+    "duracion": "01:37"
   },
   {
     "id": 387,
@@ -7105,7 +7491,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 87.1500015258789,
     "latent_y": 1.7100000381469727,
     "latent_z": 8.039999961853027,
-    "duration_seconds": null
+    "duration_seconds": 7260,
+    "duracion": "02:01:00"
   },
   {
     "id": 388,
@@ -7123,7 +7510,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -48.93000030517578,
     "latent_y": 69.48999786376953,
     "latent_z": 17.0,
-    "duration_seconds": null
+    "duration_seconds": 698,
+    "duracion": "11:38"
   },
   {
     "id": 389,
@@ -7142,7 +7530,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -27.149999618530273,
     "latent_y": 48.720001220703125,
     "latent_z": 35.349998474121094,
-    "duration_seconds": null
+    "duration_seconds": 349,
+    "duracion": "05:49"
   },
   {
     "id": 390,
@@ -7160,7 +7549,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -26.709999084472656,
     "latent_y": 78.31999969482422,
     "latent_z": 14.010000228881836,
-    "duration_seconds": null
+    "duration_seconds": 1024,
+    "duracion": "17:04"
   },
   {
     "id": 391,
@@ -7179,7 +7569,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -27.149999618530273,
     "latent_y": 48.720001220703125,
     "latent_z": 35.349998474121094,
-    "duration_seconds": null
+    "duration_seconds": 562,
+    "duracion": "09:22"
   },
   {
     "id": 392,
@@ -7198,7 +7589,8 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": -34.90999984741211,
     "latent_y": 51.5099983215332,
     "latent_z": 52.369998931884766,
-    "duration_seconds": null
+    "duration_seconds": 494,
+    "duracion": "08:14"
   },
   {
     "id": 393,
@@ -7216,7 +7608,7 @@ const UNREAL_TUTORIALS_DATA = [
     "latent_x": 40.560001373291016,
     "latent_y": 9.979999542236328,
     "latent_z": -120.0,
-    "duration_seconds": null
+    "duration_seconds": 7200,
+    "duracion": "02:00:00"
   }
 ];
-window.UNREAL_DATA = UNREAL_TUTORIALS_DATA;

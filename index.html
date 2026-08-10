@@ -252,6 +252,24 @@
       </div>
 
       <div class="toolbar-group">
+        <!-- Dual Duration Filter Slider -->
+        <div class="duration-slider-container" title="Filter by duration range (0 to +40 min)">
+          <div class="duration-slider-label">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="10"></circle>
+              <polyline points="12 6 12 12 16 14"></polyline>
+            </svg>
+            <span class="duration-title">Duration:</span>
+            <span id="duration-val-badge" class="duration-val-badge">0 – +40 min</span>
+          </div>
+          <div class="dual-range-wrapper">
+            <div class="dual-range-track"></div>
+            <div id="dual-range-fill" class="dual-range-fill"></div>
+            <input type="range" id="filter-duration-min" class="duration-range-input range-min" min="0" max="40" value="0" step="1" aria-label="Minimum duration">
+            <input type="range" id="filter-duration-max" class="duration-range-input range-max" min="0" max="40" value="40" step="1" aria-label="Maximum duration">
+          </div>
+        </div>
+
         <!-- Topic Filter -->
         <div class="select-wrapper">
           <select id="filter-category" class="select-filter">
@@ -274,6 +292,8 @@
             <option value="popular-asc">Least Popular</option>
             <option value="recent-asc">Most Recent</option>
             <option value="recent-desc">Oldest First</option>
+            <option value="dur-asc">Shortest First</option>
+            <option value="dur-desc">Longest First</option>
             <option value="title-asc">Title (A-Z)</option>
             <option value="title-desc">Title (Z-A)</option>
             <option value="author-asc">Creator (A-Z)</option>
@@ -319,7 +339,7 @@
         <div class="latent-container">
           <div class="latent-header">
             <div class="latent-actions">
-              <span class="latent-hint">Drag: Rotate 3D • Right Click: Pan • Scroll: Move Page</span>
+              <span class="latent-hint">Drag: Rotate 3D • Right Click: Pan • Shift + Scroll: Zoom</span>
               <button id="btn-reset-latent" class="theme-toggle-btn" title="Reset 3D Camera">Reset 3D Camera</button>
             </div>
           </div>
@@ -399,7 +419,25 @@
   <script src="datasets/js/comfyui_tutorials_data.js"></script>
   <script src="datasets/js/madmapper_tutorials_data.js"></script>
   <script>
-    window.TD_DATA = TUTORIALS_DATA;
+    window.TD_DATA = typeof TUTORIALS_DATA !== 'undefined' ? TUTORIALS_DATA : [];
+    window.BLENDER_DATA = typeof BLENDER_TUTORIALS_DATA !== 'undefined' ? BLENDER_TUTORIALS_DATA : [];
+    window.ABLETON_DATA = typeof ABLETON_TUTORIALS_DATA !== 'undefined' ? ABLETON_TUTORIALS_DATA : [];
+    window.PREMIERE_DATA = typeof PREMIERE_TUTORIALS_DATA !== 'undefined' ? PREMIERE_TUTORIALS_DATA : [];
+    window.AFTEREFFECTS_DATA = typeof AFTEREFFECTS_TUTORIALS_DATA !== 'undefined' ? AFTEREFFECTS_TUTORIALS_DATA : [];
+    window.PHOTOSHOP_DATA = typeof PHOTOSHOP_TUTORIALS_DATA !== 'undefined' ? PHOTOSHOP_TUTORIALS_DATA : [];
+    window.MAXMSP_DATA = typeof MAXMSP_TUTORIALS_DATA !== 'undefined' ? MAXMSP_TUTORIALS_DATA : [];
+    window.LOGICPRO_DATA = typeof LOGICPRO_TUTORIALS_DATA !== 'undefined' ? LOGICPRO_TUTORIALS_DATA : [];
+    window.REAPER_DATA = typeof REAPER_TUTORIALS_DATA !== 'undefined' ? REAPER_TUTORIALS_DATA : [];
+    window.ILLUSTRATOR_DATA = typeof ILLUSTRATOR_TUTORIALS_DATA !== 'undefined' ? ILLUSTRATOR_TUTORIALS_DATA : [];
+    window.DAVINCI_DATA = typeof DAVINCI_TUTORIALS_DATA !== 'undefined' ? DAVINCI_TUTORIALS_DATA : [];
+    window.SIBELIUS_DATA = typeof SIBELIUS_TUTORIALS_DATA !== 'undefined' ? SIBELIUS_TUTORIALS_DATA : [];
+    window.VSC_DATA = typeof VSC_TUTORIALS_DATA !== 'undefined' ? VSC_TUTORIALS_DATA : [];
+    window.UNITY_DATA = typeof UNITY_TUTORIALS_DATA !== 'undefined' ? UNITY_TUTORIALS_DATA : [];
+    window.UNREAL_DATA = typeof UNREAL_TUTORIALS_DATA !== 'undefined' ? UNREAL_TUTORIALS_DATA : [];
+    window.PYTHON_DATA = typeof PYTHON_TUTORIALS_DATA !== 'undefined' ? PYTHON_TUTORIALS_DATA : [];
+    window.RESOLUME_DATA = typeof RESOLUME_TUTORIALS_DATA !== 'undefined' ? RESOLUME_TUTORIALS_DATA : [];
+    window.COMFYUI_DATA = typeof COMFYUI_TUTORIALS_DATA !== 'undefined' ? COMFYUI_TUTORIALS_DATA : [];
+    window.MADMAPPER_DATA = typeof MADMAPPER_TUTORIALS_DATA !== 'undefined' ? MADMAPPER_TUTORIALS_DATA : [];
   </script>
   <script src="app.js"></script>
 </body>

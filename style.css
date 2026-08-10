@@ -362,6 +362,164 @@ body {
   pointer-events: none;
 }
 
+/* Dual Duration Slider Filter Widget (Subtle Monochrome Palette) */
+.duration-slider-container {
+  display: inline-flex;
+  flex-direction: column;
+  gap: 6px;
+  background: var(--bg-surface);
+  border: 1px solid var(--border-main);
+  border-radius: 8px;
+  padding: 8px 12px;
+  min-width: 185px;
+  box-shadow: var(--shadow-subtle);
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.duration-slider-container:hover {
+  border-color: var(--text-muted);
+}
+
+.duration-slider-label {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--font-display);
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--text-muted);
+}
+
+.duration-slider-label svg {
+  color: var(--text-muted);
+  flex-shrink: 0;
+}
+
+.duration-title {
+  color: var(--text-muted);
+  font-size: 12px;
+}
+
+.duration-val-badge {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 500;
+  color: var(--text-muted);
+  background: var(--bg-subtle);
+  border: 1px solid var(--border-main);
+  padding: 1px 7px;
+  border-radius: 10px;
+  margin-left: auto;
+  transition: all 0.15s ease;
+}
+
+.duration-val-badge.active {
+  color: var(--text-heading);
+  background: var(--bg-hover);
+  border-color: var(--text-muted);
+}
+
+/* Dual Range Input Wrapper & Track */
+.dual-range-wrapper {
+  position: relative;
+  width: 100%;
+  height: 16px;
+  display: flex;
+  align-items: center;
+}
+
+.dual-range-track {
+  position: absolute;
+  width: 100%;
+  height: 3px;
+  background: var(--bg-subtle);
+  border-radius: 2px;
+  border: 1px solid var(--border-main);
+  pointer-events: none;
+}
+
+.dual-range-fill {
+  position: absolute;
+  height: 3px;
+  background: var(--text-muted);
+  border-radius: 2px;
+  pointer-events: none;
+}
+
+.duration-range-input {
+  position: absolute;
+  width: 100%;
+  height: 16px;
+  -webkit-appearance: none;
+  appearance: none;
+  background: transparent;
+  pointer-events: none;
+  outline: none;
+  margin: 0;
+}
+
+.duration-range-input.range-min {
+  z-index: 4;
+}
+
+.duration-range-input.range-max {
+  z-index: 3;
+}
+
+/* Custom Thumb Handles (Subtle Muted Monochrome) */
+.duration-range-input::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  pointer-events: auto;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--text-heading);
+  border: 2px solid var(--bg-surface);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+  transition: transform 0.15s ease, background-color 0.15s ease;
+}
+
+.duration-range-input::-webkit-slider-thumb:hover {
+  transform: scale(1.25);
+  background: var(--text-heading);
+}
+
+.duration-range-input::-moz-range-thumb {
+  pointer-events: auto;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--text-heading);
+  border: 2px solid var(--bg-surface);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+  transition: transform 0.15s ease, background-color 0.15s ease;
+}
+
+.duration-range-input::-moz-range-thumb:hover {
+  transform: scale(1.25);
+  background: var(--text-heading);
+}
+
+.card-duration-badge {
+  position: absolute;
+  bottom: 8px;
+  right: 8px;
+  background: rgba(0, 0, 0, 0.82);
+  backdrop-filter: blur(4px);
+  color: #ffffff;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 500;
+  padding: 2px 6px;
+  border-radius: 4px;
+  letter-spacing: 0.3px;
+  pointer-events: none;
+  z-index: 2;
+}
+
 /* Custom Styled Dropdown Filters */
 .select-wrapper {
   position: relative;
@@ -498,59 +656,36 @@ body {
   transform: rotate(180deg);
 }
 
-/* Custom Floating Menu Popover */
-.custom-select-menu {
-  position: absolute;
-  top: calc(100% + 6px);
-  left: 0;
-  z-index: 1000;
-  min-width: 100%;
-  width: max-content;
+/* Body Portal Floating Menu Popover */
+.custom-select-portal {
+  position: fixed !important;
+  z-index: 999999 !important;
   min-width: 240px;
   max-width: 440px;
-  background: var(--bg-surface);
-  border: 1px solid var(--border-main);
+  background: var(--bg-surface) !important;
+  border: 1px solid var(--border-main) !important;
   border-radius: 10px;
-  box-shadow: 0 12px 36px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 16px 48px rgba(0, 0, 0, 0.5) !important;
   padding: 6px;
-  display: none;
+  display: flex !important;
   flex-direction: column;
   gap: 4px;
-  opacity: 0;
-  transform: translateY(-6px);
-  transition: opacity 0.15s ease, transform 0.15s ease;
-  backdrop-filter: blur(16px);
-  -webkit-backdrop-filter: blur(16px);
-  overflow: hidden;
-}
-
-.custom-select-widget.open .custom-select-menu {
-  display: flex;
-  opacity: 1;
-  transform: translateY(0);
-}
-
-/* Right aligned popover for toolbar right items */
-.toolbar-group .custom-select-widget:last-child .custom-select-menu {
-  left: auto;
-  right: 0;
+  opacity: 1 !important;
+  transform: none !important;
 }
 
 /* Options List with Native Touchpad & Safari WebKit Scroll Support */
 .custom-select-options-list {
-  max-height: 280px;
+  max-height: 220px;
   overflow-x: hidden;
-  overflow-y: scroll;
+  overflow-y: auto;
   overscroll-behavior: contain;
-  touch-action: pan-y;
   -webkit-overflow-scrolling: touch;
   display: flex;
   flex-direction: column;
   gap: 2px;
   padding-right: 4px;
-  transform: translateZ(0);
-  -webkit-transform: translateZ(0);
-  will-change: scroll-position;
+  border-radius: 6px;
 }
 
 .custom-select-options-list::-webkit-scrollbar {

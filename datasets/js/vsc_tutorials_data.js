@@ -15,7 +15,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 79.9800033569336,
     "latent_y": -12.640000343322754,
     "latent_z": 93.2699966430664,
-    "duration_seconds": null
+    "duration_seconds": 7560,
+    "duracion": "02:06:00"
   },
   {
     "id": 2,
@@ -34,7 +35,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 102.69000244140625,
     "latent_y": -53.220001220703125,
     "latent_z": 28.0,
-    "duration_seconds": null
+    "duration_seconds": 23476,
+    "duracion": "06:31:16"
   },
   {
     "id": 3,
@@ -53,7 +55,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 98.18000030517578,
     "latent_y": -57.689998626708984,
     "latent_z": 40.349998474121094,
-    "duration_seconds": null
+    "duration_seconds": 2897,
+    "duracion": "48:17"
   },
   {
     "id": 4,
@@ -72,7 +75,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 104.51000213623047,
     "latent_y": -48.779998779296875,
     "latent_z": 13.359999656677246,
-    "duration_seconds": null
+    "duration_seconds": 4173,
+    "duracion": "01:09:33"
   },
   {
     "id": 5,
@@ -91,7 +95,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 83.66000366210938,
     "latent_y": -17.690000534057617,
     "latent_z": 35.65999984741211,
-    "duration_seconds": null
+    "duration_seconds": 1879,
+    "duracion": "31:19"
   },
   {
     "id": 6,
@@ -109,7 +114,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 86.79000091552734,
     "latent_y": 108.0199966430664,
     "latent_z": -40.38999938964844,
-    "duration_seconds": null
+    "duration_seconds": 4457,
+    "duracion": "01:14:17"
   },
   {
     "id": 7,
@@ -127,7 +133,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 79.98999786376953,
     "latent_y": -5.119999885559082,
     "latent_z": 74.22000122070312,
-    "duration_seconds": null
+    "duration_seconds": 3642,
+    "duracion": "01:00:42"
   },
   {
     "id": 8,
@@ -145,7 +152,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 92.62000274658203,
     "latent_y": -15.399999618530273,
     "latent_z": 96.5,
-    "duration_seconds": null
+    "duration_seconds": 1638,
+    "duracion": "27:18"
   },
   {
     "id": 9,
@@ -164,7 +172,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 101.38999938964844,
     "latent_y": -61.22999954223633,
     "latent_z": 16.5,
-    "duration_seconds": null
+    "duration_seconds": 14562,
+    "duracion": "04:02:42"
   },
   {
     "id": 10,
@@ -182,7 +191,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 77.38999938964844,
     "latent_y": -16.989999771118164,
     "latent_z": 68.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 6030,
+    "duracion": "01:40:30"
   },
   {
     "id": 11,
@@ -200,7 +210,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 75.61000061035156,
     "latent_y": -16.799999237060547,
     "latent_z": 110.76000213623047,
-    "duration_seconds": null
+    "duration_seconds": 1070,
+    "duracion": "17:50"
   },
   {
     "id": 12,
@@ -219,7 +230,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 80.91999816894531,
     "latent_y": 1.690000057220459,
     "latent_z": 7.199999809265137,
-    "duration_seconds": null
+    "duration_seconds": 3801,
+    "duracion": "01:03:21"
   },
   {
     "id": 13,
@@ -237,7 +249,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 114.94000244140625,
     "latent_y": 20.610000610351562,
     "latent_z": 17.290000915527344,
-    "duration_seconds": null
+    "duration_seconds": 627,
+    "duracion": "10:27"
   },
   {
     "id": 14,
@@ -255,7 +268,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 78.02999877929688,
     "latent_y": -33.95000076293945,
     "latent_z": 99.58000183105469,
-    "duration_seconds": null
+    "duration_seconds": 3600,
+    "duracion": "01:00:00"
   },
   {
     "id": 15,
@@ -273,7 +287,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 92.61000061035156,
     "latent_y": 101.08000183105469,
     "latent_z": -16.280000686645508,
-    "duration_seconds": null
+    "duration_seconds": 4153,
+    "duracion": "01:09:13"
   },
   {
     "id": 16,
@@ -291,7 +306,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 97.54000091552734,
     "latent_y": 28.59000015258789,
     "latent_z": -32.93000030517578,
-    "duration_seconds": null
+    "duration_seconds": 2028,
+    "duracion": "33:48"
   },
   {
     "id": 17,
@@ -310,7 +326,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 103.06999969482422,
     "latent_y": -55.20000076293945,
     "latent_z": 46.97999954223633,
-    "duration_seconds": null
+    "duration_seconds": 26951,
+    "duracion": "07:29:11"
   },
   {
     "id": 18,
@@ -328,7 +345,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 107.63999938964844,
     "latent_y": -0.9800000190734863,
     "latent_z": 37.70000076293945,
-    "duration_seconds": null
+    "duration_seconds": 141,
+    "duracion": "02:21"
   },
   {
     "id": 19,
@@ -346,7 +364,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 108.81999969482422,
     "latent_y": 24.530000686645508,
     "latent_z": -4.460000038146973,
-    "duration_seconds": null
+    "duration_seconds": 379,
+    "duracion": "06:19"
   },
   {
     "id": 20,
@@ -364,7 +383,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 108.19999694824219,
     "latent_y": 50.34000015258789,
     "latent_z": -20.229999542236328,
-    "duration_seconds": null
+    "duration_seconds": 405,
+    "duracion": "06:45"
   },
   {
     "id": 21,
@@ -382,7 +402,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 72.79000091552734,
     "latent_y": -34.88999938964844,
     "latent_z": 47.38999938964844,
-    "duration_seconds": null
+    "duration_seconds": 1318,
+    "duracion": "21:58"
   },
   {
     "id": 22,
@@ -400,7 +421,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 73.70999908447266,
     "latent_y": -24.56999969482422,
     "latent_z": 87.27999877929688,
-    "duration_seconds": null
+    "duration_seconds": 777,
+    "duracion": "12:57"
   },
   {
     "id": 23,
@@ -419,7 +441,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 56.88999938964844,
     "latent_y": 52.06999969482422,
     "latent_z": -15.75,
-    "duration_seconds": null
+    "duration_seconds": 695,
+    "duracion": "11:35"
   },
   {
     "id": 24,
@@ -437,7 +460,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 103.23999786376953,
     "latent_y": 58.38999938964844,
     "latent_z": -43.34000015258789,
-    "duration_seconds": null
+    "duration_seconds": 918,
+    "duracion": "15:18"
   },
   {
     "id": 25,
@@ -455,7 +479,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 70.5999984741211,
     "latent_y": -25.190000534057617,
     "latent_z": 69.20999908447266,
-    "duration_seconds": null
+    "duration_seconds": 558,
+    "duracion": "09:18"
   },
   {
     "id": 26,
@@ -473,7 +498,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 98.04000091552734,
     "latent_y": 23.3700008392334,
     "latent_z": 6.889999866485596,
-    "duration_seconds": null
+    "duration_seconds": 344,
+    "duracion": "05:44"
   },
   {
     "id": 27,
@@ -491,7 +517,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 92.08000183105469,
     "latent_y": 41.599998474121094,
     "latent_z": -67.0199966430664,
-    "duration_seconds": null
+    "duration_seconds": 520,
+    "duracion": "08:40"
   },
   {
     "id": 28,
@@ -509,7 +536,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 80.95999908447266,
     "latent_y": -42.939998626708984,
     "latent_z": 102.12000274658203,
-    "duration_seconds": null
+    "duration_seconds": 3600,
+    "duracion": "01:00:00"
   },
   {
     "id": 29,
@@ -527,7 +555,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 75.27999877929688,
     "latent_y": -11.739999771118164,
     "latent_z": 0.33000001311302185,
-    "duration_seconds": null
+    "duration_seconds": 25804,
+    "duracion": "07:10:04"
   },
   {
     "id": 30,
@@ -545,7 +574,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 100.38999938964844,
     "latent_y": -29.8799991607666,
     "latent_z": -16.440000534057617,
-    "duration_seconds": null
+    "duration_seconds": 24814,
+    "duracion": "06:53:34"
   },
   {
     "id": 31,
@@ -564,7 +594,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 98.5199966430664,
     "latent_y": -60.880001068115234,
     "latent_z": 4.639999866485596,
-    "duration_seconds": null
+    "duration_seconds": 14237,
+    "duracion": "03:57:17"
   },
   {
     "id": 32,
@@ -582,7 +613,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 98.29000091552734,
     "latent_y": 18.719999313354492,
     "latent_z": -5.920000076293945,
-    "duration_seconds": null
+    "duration_seconds": 413,
+    "duracion": "06:53"
   },
   {
     "id": 33,
@@ -601,7 +633,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 96.8499984741211,
     "latent_y": -40.81999969482422,
     "latent_z": 34.7599983215332,
-    "duration_seconds": null
+    "duration_seconds": 798,
+    "duracion": "13:18"
   },
   {
     "id": 34,
@@ -620,7 +653,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 92.05000305175781,
     "latent_y": 47.79999923706055,
     "latent_z": 19.0,
-    "duration_seconds": null
+    "duration_seconds": 416,
+    "duracion": "06:56"
   },
   {
     "id": 35,
@@ -638,7 +672,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 112.22000122070312,
     "latent_y": 32.040000915527344,
     "latent_z": -13.9399995803833,
-    "duration_seconds": null
+    "duration_seconds": 348,
+    "duracion": "05:48"
   },
   {
     "id": 36,
@@ -656,7 +691,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 116.0999984741211,
     "latent_y": -2.569999933242798,
     "latent_z": 0.5,
-    "duration_seconds": null
+    "duration_seconds": 286,
+    "duracion": "04:46"
   },
   {
     "id": 37,
@@ -674,7 +710,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 119.19999694824219,
     "latent_y": -10.010000228881836,
     "latent_z": -30.8700008392334,
-    "duration_seconds": null
+    "duration_seconds": 290,
+    "duracion": "04:50"
   },
   {
     "id": 38,
@@ -692,7 +729,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 79.25,
     "latent_y": -47.38999938964844,
     "latent_z": 64.44999694824219,
-    "duration_seconds": null
+    "duration_seconds": 169,
+    "duracion": "02:49"
   },
   {
     "id": 39,
@@ -711,7 +749,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 86.12999725341797,
     "latent_y": 43.84000015258789,
     "latent_z": 9.289999961853027,
-    "duration_seconds": null
+    "duration_seconds": 673,
+    "duracion": "11:13"
   },
   {
     "id": 40,
@@ -730,7 +769,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 58.09000015258789,
     "latent_y": -30.649999618530273,
     "latent_z": 3.2200000286102295,
-    "duration_seconds": null
+    "duration_seconds": 223,
+    "duracion": "03:43"
   },
   {
     "id": 41,
@@ -748,7 +788,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 80.3499984741211,
     "latent_y": 2.1600000858306885,
     "latent_z": 55.0,
-    "duration_seconds": null
+    "duration_seconds": 1470,
+    "duracion": "24:30"
   },
   {
     "id": 42,
@@ -766,7 +807,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 83.8499984741211,
     "latent_y": -19.889999389648438,
     "latent_z": 76.66999816894531,
-    "duration_seconds": null
+    "duration_seconds": 237,
+    "duracion": "03:57"
   },
   {
     "id": 43,
@@ -784,7 +826,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 71.79000091552734,
     "latent_y": -24.309999465942383,
     "latent_z": -6.090000152587891,
-    "duration_seconds": null
+    "duration_seconds": 241,
+    "duracion": "04:01"
   },
   {
     "id": 44,
@@ -802,7 +845,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 97.58000183105469,
     "latent_y": 1.0399999618530273,
     "latent_z": -6.610000133514404,
-    "duration_seconds": null
+    "duration_seconds": 5555,
+    "duracion": "01:32:35"
   },
   {
     "id": 45,
@@ -820,7 +864,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 82.80000305175781,
     "latent_y": 99.73999786376953,
     "latent_z": -32.220001220703125,
-    "duration_seconds": null
+    "duration_seconds": 629,
+    "duracion": "10:29"
   },
   {
     "id": 46,
@@ -838,7 +883,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 65.98999786376953,
     "latent_y": -31.959999084472656,
     "latent_z": -79.41999816894531,
-    "duration_seconds": null
+    "duration_seconds": 712,
+    "duracion": "11:52"
   },
   {
     "id": 47,
@@ -856,7 +902,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 74.2699966430664,
     "latent_y": -24.739999771118164,
     "latent_z": 9.760000228881836,
-    "duration_seconds": null
+    "duration_seconds": 416,
+    "duracion": "06:56"
   },
   {
     "id": 48,
@@ -875,7 +922,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 107.66000366210938,
     "latent_y": -71.33999633789062,
     "latent_z": 26.5,
-    "duration_seconds": null
+    "duration_seconds": 5142,
+    "duracion": "01:25:42"
   },
   {
     "id": 49,
@@ -893,7 +941,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 87.80999755859375,
     "latent_y": -2.5899999141693115,
     "latent_z": -17.84000015258789,
-    "duration_seconds": null
+    "duration_seconds": 11839,
+    "duracion": "03:17:19"
   },
   {
     "id": 50,
@@ -911,7 +960,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 108.68000030517578,
     "latent_y": 2.130000114440918,
     "latent_z": 17.329999923706055,
-    "duration_seconds": null
+    "duration_seconds": 219,
+    "duracion": "03:39"
   },
   {
     "id": 51,
@@ -929,7 +979,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 82.58999633789062,
     "latent_y": -37.72999954223633,
     "latent_z": 75.75,
-    "duration_seconds": null
+    "duration_seconds": 105,
+    "duracion": "01:45"
   },
   {
     "id": 52,
@@ -948,7 +999,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 63.11000061035156,
     "latent_y": 12.140000343322754,
     "latent_z": 43.75,
-    "duration_seconds": null
+    "duration_seconds": 259,
+    "duracion": "04:19"
   },
   {
     "id": 53,
@@ -966,7 +1018,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 102.04000091552734,
     "latent_y": -6.760000228881836,
     "latent_z": 37.95000076293945,
-    "duration_seconds": null
+    "duration_seconds": 153,
+    "duracion": "02:33"
   },
   {
     "id": 54,
@@ -985,7 +1038,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 106.22000122070312,
     "latent_y": -70.5,
     "latent_z": 11.960000038146973,
-    "duration_seconds": null
+    "duration_seconds": 15064,
+    "duracion": "04:11:04"
   },
   {
     "id": 55,
@@ -1003,7 +1057,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 98.5999984741211,
     "latent_y": -7.170000076293945,
     "latent_z": 13.0,
-    "duration_seconds": null
+    "duration_seconds": 4728,
+    "duracion": "01:18:48"
   },
   {
     "id": 56,
@@ -1021,7 +1076,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 78.7699966430664,
     "latent_y": -18.219999313354492,
     "latent_z": 12.0600004196167,
-    "duration_seconds": null
+    "duration_seconds": 3177,
+    "duracion": "52:57"
   },
   {
     "id": 57,
@@ -1039,7 +1095,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 76.70999908447266,
     "latent_y": -63.689998626708984,
     "latent_z": 53.33000183105469,
-    "duration_seconds": null
+    "duration_seconds": 248,
+    "duracion": "04:08"
   },
   {
     "id": 58,
@@ -1057,7 +1114,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 69.98999786376953,
     "latent_y": -52.130001068115234,
     "latent_z": 56.86000061035156,
-    "duration_seconds": null
+    "duration_seconds": 166,
+    "duracion": "02:46"
   },
   {
     "id": 59,
@@ -1075,7 +1133,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 97.56999969482422,
     "latent_y": -8.90999984741211,
     "latent_z": -45.7599983215332,
-    "duration_seconds": null
+    "duration_seconds": 1376,
+    "duracion": "22:56"
   },
   {
     "id": 60,
@@ -1093,7 +1152,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 52.209999084472656,
     "latent_y": -12.520000457763672,
     "latent_z": 11.220000267028809,
-    "duration_seconds": null
+    "duration_seconds": 238,
+    "duracion": "03:58"
   },
   {
     "id": 61,
@@ -1111,7 +1171,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 91.55000305175781,
     "latent_y": -14.65999984741211,
     "latent_z": -33.400001525878906,
-    "duration_seconds": null
+    "duration_seconds": 3941,
+    "duracion": "01:05:41"
   },
   {
     "id": 62,
@@ -1129,7 +1190,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 107.86000061035156,
     "latent_y": -11.210000038146973,
     "latent_z": -1.559999942779541,
-    "duration_seconds": null
+    "duration_seconds": 355,
+    "duracion": "05:55"
   },
   {
     "id": 63,
@@ -1148,7 +1210,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 101.33999633789062,
     "latent_y": -31.969999313354492,
     "latent_z": 36.18000030517578,
-    "duration_seconds": null
+    "duration_seconds": 145,
+    "duracion": "02:25"
   },
   {
     "id": 64,
@@ -1166,7 +1229,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 104.83999633789062,
     "latent_y": -14.75,
     "latent_z": 31.809999465942383,
-    "duration_seconds": null
+    "duration_seconds": 131,
+    "duracion": "02:11"
   },
   {
     "id": 65,
@@ -1184,7 +1248,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 73.73999786376953,
     "latent_y": -54.91999816894531,
     "latent_z": 73.0999984741211,
-    "duration_seconds": null
+    "duration_seconds": 251,
+    "duracion": "04:11"
   },
   {
     "id": 66,
@@ -1203,7 +1268,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 97.16000366210938,
     "latent_y": -53.790000915527344,
     "latent_z": 25.799999237060547,
-    "duration_seconds": null
+    "duration_seconds": 415,
+    "duracion": "06:55"
   },
   {
     "id": 67,
@@ -1222,7 +1288,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 99.31999969482422,
     "latent_y": -43.619998931884766,
     "latent_z": 14.369999885559082,
-    "duration_seconds": null
+    "duration_seconds": 11076,
+    "duracion": "03:04:36"
   },
   {
     "id": 68,
@@ -1240,7 +1307,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 79.29000091552734,
     "latent_y": -27.3799991607666,
     "latent_z": 81.2300033569336,
-    "duration_seconds": null
+    "duration_seconds": 311,
+    "duracion": "05:11"
   },
   {
     "id": 69,
@@ -1258,7 +1326,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 109.5,
     "latent_y": -35.709999084472656,
     "latent_z": -10.15999984741211,
-    "duration_seconds": null
+    "duration_seconds": 276,
+    "duracion": "04:36"
   },
   {
     "id": 70,
@@ -1276,7 +1345,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 87.94999694824219,
     "latent_y": -64.9000015258789,
     "latent_z": 90.4800033569336,
-    "duration_seconds": null
+    "duration_seconds": 126,
+    "duracion": "02:06"
   },
   {
     "id": 71,
@@ -1294,7 +1364,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 94.01000213623047,
     "latent_y": 8.510000228881836,
     "latent_z": 16.510000228881836,
-    "duration_seconds": null
+    "duration_seconds": 513,
+    "duracion": "08:33"
   },
   {
     "id": 72,
@@ -1312,7 +1383,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 117.11000061035156,
     "latent_y": -24.790000915527344,
     "latent_z": -37.599998474121094,
-    "duration_seconds": null
+    "duration_seconds": 978,
+    "duracion": "16:18"
   },
   {
     "id": 73,
@@ -1331,7 +1403,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 84.13999938964844,
     "latent_y": -3.759999990463257,
     "latent_z": 6.929999828338623,
-    "duration_seconds": null
+    "duration_seconds": 619,
+    "duracion": "10:19"
   },
   {
     "id": 74,
@@ -1349,7 +1422,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 89.23999786376953,
     "latent_y": -32.13999938964844,
     "latent_z": 103.98999786376953,
-    "duration_seconds": null
+    "duration_seconds": 7341,
+    "duracion": "02:02:21"
   },
   {
     "id": 75,
@@ -1367,7 +1441,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 80.94000244140625,
     "latent_y": -76.83999633789062,
     "latent_z": -42.04999923706055,
-    "duration_seconds": null
+    "duration_seconds": 439,
+    "duracion": "07:19"
   },
   {
     "id": 76,
@@ -1385,7 +1460,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 62.939998626708984,
     "latent_y": 15.829999923706055,
     "latent_z": -10.6899995803833,
-    "duration_seconds": null
+    "duration_seconds": 309,
+    "duracion": "05:09"
   },
   {
     "id": 77,
@@ -1403,7 +1479,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 89.47000122070312,
     "latent_y": -39.400001525878906,
     "latent_z": 55.38999938964844,
-    "duration_seconds": null
+    "duration_seconds": 5237,
+    "duracion": "01:27:17"
   },
   {
     "id": 78,
@@ -1421,7 +1498,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 82.68000030517578,
     "latent_y": -27.559999465942383,
     "latent_z": 94.79000091552734,
-    "duration_seconds": null
+    "duration_seconds": 19304,
+    "duracion": "05:21:44"
   },
   {
     "id": 79,
@@ -1439,7 +1517,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 115.29000091552734,
     "latent_y": 10.100000381469727,
     "latent_z": -26.049999237060547,
-    "duration_seconds": null
+    "duration_seconds": 312,
+    "duracion": "05:12"
   },
   {
     "id": 80,
@@ -1458,7 +1537,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 78.63999938964844,
     "latent_y": 21.440000534057617,
     "latent_z": -22.68000030517578,
-    "duration_seconds": null
+    "duration_seconds": 181,
+    "duracion": "03:01"
   },
   {
     "id": 81,
@@ -1476,7 +1556,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 86.56999969482422,
     "latent_y": 90.0199966430664,
     "latent_z": -40.68000030517578,
-    "duration_seconds": null
+    "duration_seconds": 302,
+    "duracion": "05:02"
   },
   {
     "id": 82,
@@ -1494,7 +1575,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 60.34000015258789,
     "latent_y": -12.180000305175781,
     "latent_z": -18.59000015258789,
-    "duration_seconds": null
+    "duration_seconds": 344,
+    "duracion": "05:44"
   },
   {
     "id": 83,
@@ -1512,7 +1594,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 75.29000091552734,
     "latent_y": -37.029998779296875,
     "latent_z": 75.56999969482422,
-    "duration_seconds": null
+    "duration_seconds": 521,
+    "duracion": "08:41"
   },
   {
     "id": 84,
@@ -1532,7 +1615,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 81.7699966430664,
     "latent_y": 47.540000915527344,
     "latent_z": 46.529998779296875,
-    "duration_seconds": null
+    "duration_seconds": 873,
+    "duracion": "14:33"
   },
   {
     "id": 85,
@@ -1550,7 +1634,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 82.58000183105469,
     "latent_y": -51.650001525878906,
     "latent_z": 45.66999816894531,
-    "duration_seconds": null
+    "duration_seconds": 42840,
+    "duracion": "11:54:00"
   },
   {
     "id": 86,
@@ -1568,7 +1653,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 84.76000213623047,
     "latent_y": 85.06999969482422,
     "latent_z": -26.020000457763672,
-    "duration_seconds": null
+    "duration_seconds": 299,
+    "duracion": "04:59"
   },
   {
     "id": 87,
@@ -1586,7 +1672,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 50.91999816894531,
     "latent_y": -9.239999771118164,
     "latent_z": -2.4000000953674316,
-    "duration_seconds": null
+    "duration_seconds": 278,
+    "duracion": "04:38"
   },
   {
     "id": 88,
@@ -1605,7 +1692,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 101.6500015258789,
     "latent_y": -81.76000213623047,
     "latent_z": 28.979999542236328,
-    "duration_seconds": null
+    "duration_seconds": 1908,
+    "duracion": "31:48"
   },
   {
     "id": 89,
@@ -1623,7 +1711,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 76.44999694824219,
     "latent_y": -59.720001220703125,
     "latent_z": 99.70999908447266,
-    "duration_seconds": null
+    "duration_seconds": 635,
+    "duracion": "10:35"
   },
   {
     "id": 90,
@@ -1642,7 +1731,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 72.5,
     "latent_y": 25.260000228881836,
     "latent_z": 31.530000686645508,
-    "duration_seconds": null
+    "duration_seconds": 285,
+    "duracion": "04:45"
   },
   {
     "id": 91,
@@ -1661,7 +1751,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 109.02999877929688,
     "latent_y": -61.13999938964844,
     "latent_z": 32.869998931884766,
-    "duration_seconds": null
+    "duration_seconds": 7501,
+    "duracion": "02:05:01"
   },
   {
     "id": 92,
@@ -1679,7 +1770,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 64.80000305175781,
     "latent_y": -0.3400000035762787,
     "latent_z": -3.0299999713897705,
-    "duration_seconds": null
+    "duration_seconds": 398,
+    "duracion": "06:38"
   },
   {
     "id": 93,
@@ -1697,7 +1789,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 59.400001525878906,
     "latent_y": -9.229999542236328,
     "latent_z": 19.760000228881836,
-    "duration_seconds": null
+    "duration_seconds": 369,
+    "duracion": "06:09"
   },
   {
     "id": 94,
@@ -1715,7 +1808,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 77.73999786376953,
     "latent_y": -36.20000076293945,
     "latent_z": 12.430000305175781,
-    "duration_seconds": null
+    "duration_seconds": 4516,
+    "duracion": "01:15:16"
   },
   {
     "id": 95,
@@ -1733,7 +1827,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 104.29000091552734,
     "latent_y": -9.619999885559082,
     "latent_z": -20.729999542236328,
-    "duration_seconds": null
+    "duration_seconds": 232,
+    "duracion": "03:52"
   },
   {
     "id": 96,
@@ -1751,7 +1846,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 103.23999786376953,
     "latent_y": -23.610000610351562,
     "latent_z": 4.590000152587891,
-    "duration_seconds": null
+    "duration_seconds": 3079,
+    "duracion": "51:19"
   },
   {
     "id": 97,
@@ -1770,7 +1866,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 83.69999694824219,
     "latent_y": -28.25,
     "latent_z": 29.219999313354492,
-    "duration_seconds": null
+    "duration_seconds": 836,
+    "duracion": "13:56"
   },
   {
     "id": 98,
@@ -1788,7 +1885,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 70.0199966430664,
     "latent_y": -46.18000030517578,
     "latent_z": 75.19999694824219,
-    "duration_seconds": null
+    "duration_seconds": 251,
+    "duracion": "04:11"
   },
   {
     "id": 99,
@@ -1806,7 +1904,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 120.0,
     "latent_y": 13.899999618530273,
     "latent_z": -19.540000915527344,
-    "duration_seconds": null
+    "duration_seconds": 352,
+    "duracion": "05:52"
   },
   {
     "id": 100,
@@ -1824,7 +1923,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 111.72000122070312,
     "latent_y": 32.86000061035156,
     "latent_z": -65.41000366210938,
-    "duration_seconds": null
+    "duration_seconds": 422,
+    "duracion": "07:02"
   },
   {
     "id": 101,
@@ -1842,7 +1942,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 110.45999908447266,
     "latent_y": -21.030000686645508,
     "latent_z": 6.099999904632568,
-    "duration_seconds": null
+    "duration_seconds": 269,
+    "duracion": "04:29"
   },
   {
     "id": 102,
@@ -1860,7 +1961,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 96.12999725341797,
     "latent_y": 19.18000030517578,
     "latent_z": -24.440000534057617,
-    "duration_seconds": null
+    "duration_seconds": 572,
+    "duracion": "09:32"
   },
   {
     "id": 103,
@@ -1878,7 +1980,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 96.37000274658203,
     "latent_y": -21.389999389648438,
     "latent_z": 90.81999969482422,
-    "duration_seconds": null
+    "duration_seconds": 7282,
+    "duracion": "02:01:22"
   },
   {
     "id": 104,
@@ -1896,7 +1999,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 78.06999969482422,
     "latent_y": 73.69000244140625,
     "latent_z": -9.40999984741211,
-    "duration_seconds": null
+    "duration_seconds": 193,
+    "duracion": "03:13"
   },
   {
     "id": 105,
@@ -1914,7 +2018,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 105.66999816894531,
     "latent_y": 32.970001220703125,
     "latent_z": -45.060001373291016,
-    "duration_seconds": null
+    "duration_seconds": 767,
+    "duracion": "12:47"
   },
   {
     "id": 106,
@@ -1932,7 +2037,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 112.01000213623047,
     "latent_y": 16.469999313354492,
     "latent_z": -26.059999465942383,
-    "duration_seconds": null
+    "duration_seconds": 243,
+    "duracion": "04:03"
   },
   {
     "id": 107,
@@ -1950,7 +2056,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 93.7699966430664,
     "latent_y": -24.739999771118164,
     "latent_z": -7.96999979019165,
-    "duration_seconds": null
+    "duration_seconds": 7595,
+    "duracion": "02:06:35"
   },
   {
     "id": 108,
@@ -1968,7 +2075,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 97.04000091552734,
     "latent_y": 48.11000061035156,
     "latent_z": -19.709999084472656,
-    "duration_seconds": null
+    "duration_seconds": 151,
+    "duracion": "02:31"
   },
   {
     "id": 109,
@@ -1986,7 +2094,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 78.62999725341797,
     "latent_y": -15.90999984741211,
     "latent_z": 120.0,
-    "duration_seconds": null
+    "duration_seconds": 92,
+    "duracion": "01:32"
   },
   {
     "id": 110,
@@ -2004,7 +2113,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 101.66999816894531,
     "latent_y": 29.239999771118164,
     "latent_z": -14.1899995803833,
-    "duration_seconds": null
+    "duration_seconds": 2317,
+    "duracion": "38:37"
   },
   {
     "id": 111,
@@ -2022,7 +2132,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 101.58999633789062,
     "latent_y": 45.689998626708984,
     "latent_z": 13.069999694824219,
-    "duration_seconds": null
+    "duration_seconds": 8402,
+    "duracion": "02:20:02"
   },
   {
     "id": 112,
@@ -2040,7 +2151,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 94.25,
     "latent_y": -21.170000076293945,
     "latent_z": 8.800000190734863,
-    "duration_seconds": null
+    "duration_seconds": 10604,
+    "duracion": "02:56:44"
   },
   {
     "id": 113,
@@ -2058,7 +2170,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 111.01000213623047,
     "latent_y": -8.399999618530273,
     "latent_z": -19.950000762939453,
-    "duration_seconds": null
+    "duration_seconds": 297,
+    "duracion": "04:57"
   },
   {
     "id": 114,
@@ -2076,7 +2189,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 104.62000274658203,
     "latent_y": 10.149999618530273,
     "latent_z": 4.650000095367432,
-    "duration_seconds": null
+    "duration_seconds": 199,
+    "duracion": "03:19"
   },
   {
     "id": 115,
@@ -2094,7 +2208,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 98.93000030517578,
     "latent_y": 16.3700008392334,
     "latent_z": -51.56999969482422,
-    "duration_seconds": null
+    "duration_seconds": 1303,
+    "duracion": "21:43"
   },
   {
     "id": 116,
@@ -2112,7 +2227,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 102.66000366210938,
     "latent_y": -42.70000076293945,
     "latent_z": -24.510000228881836,
-    "duration_seconds": null
+    "duration_seconds": 1464,
+    "duracion": "24:24"
   },
   {
     "id": 117,
@@ -2130,7 +2246,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 104.83999633789062,
     "latent_y": -14.75,
     "latent_z": 31.809999465942383,
-    "duration_seconds": null
+    "duration_seconds": 164,
+    "duracion": "02:44"
   },
   {
     "id": 118,
@@ -2148,7 +2265,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 115.0999984741211,
     "latent_y": -13.739999771118164,
     "latent_z": 25.729999542236328,
-    "duration_seconds": null
+    "duration_seconds": 227,
+    "duracion": "03:47"
   },
   {
     "id": 119,
@@ -2166,7 +2284,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 108.55999755859375,
     "latent_y": 33.54999923706055,
     "latent_z": 6.539999961853027,
-    "duration_seconds": null
+    "duration_seconds": 543,
+    "duracion": "09:03"
   },
   {
     "id": 120,
@@ -2184,7 +2303,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 86.81999969482422,
     "latent_y": -35.27000045776367,
     "latent_z": 74.51000213623047,
-    "duration_seconds": null
+    "duration_seconds": 587,
+    "duracion": "09:47"
   },
   {
     "id": 121,
@@ -2202,7 +2322,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 98.5199966430664,
     "latent_y": -15.40999984741211,
     "latent_z": -4.78000020980835,
-    "duration_seconds": null
+    "duration_seconds": 5921,
+    "duracion": "01:38:41"
   },
   {
     "id": 122,
@@ -2221,7 +2342,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 63.0099983215332,
     "latent_y": -8.920000076293945,
     "latent_z": -71.16999816894531,
-    "duration_seconds": null
+    "duration_seconds": 524,
+    "duracion": "08:44"
   },
   {
     "id": 123,
@@ -2240,7 +2362,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 68.38999938964844,
     "latent_y": -10.569999694824219,
     "latent_z": 15.729999542236328,
-    "duration_seconds": null
+    "duration_seconds": 1339,
+    "duracion": "22:19"
   },
   {
     "id": 124,
@@ -2258,7 +2381,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 78.69000244140625,
     "latent_y": -37.209999084472656,
     "latent_z": 47.47999954223633,
-    "duration_seconds": null
+    "duration_seconds": 4307,
+    "duracion": "01:11:47"
   },
   {
     "id": 125,
@@ -2276,7 +2400,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 87.7699966430664,
     "latent_y": -21.299999237060547,
     "latent_z": 88.36000061035156,
-    "duration_seconds": null
+    "duration_seconds": 6299,
+    "duracion": "01:44:59"
   },
   {
     "id": 126,
@@ -2294,7 +2419,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 92.27999877929688,
     "latent_y": 8.859999656677246,
     "latent_z": -23.030000686645508,
-    "duration_seconds": null
+    "duration_seconds": 2595,
+    "duracion": "43:15"
   },
   {
     "id": 127,
@@ -2312,7 +2438,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 83.68000030517578,
     "latent_y": -52.54999923706055,
     "latent_z": 81.38999938964844,
-    "duration_seconds": null
+    "duration_seconds": 129,
+    "duracion": "02:09"
   },
   {
     "id": 128,
@@ -2330,7 +2457,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 101.87999725341797,
     "latent_y": -11.1899995803833,
     "latent_z": -38.459999084472656,
-    "duration_seconds": null
+    "duration_seconds": 1068,
+    "duracion": "17:48"
   },
   {
     "id": 129,
@@ -2348,7 +2476,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": -120.0,
     "latent_y": -113.08999633789062,
     "latent_z": 1.9299999475479126,
-    "duration_seconds": null
+    "duration_seconds": 2663,
+    "duracion": "44:23"
   },
   {
     "id": 130,
@@ -2366,7 +2495,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 77.19999694824219,
     "latent_y": -33.66999816894531,
     "latent_z": 59.880001068115234,
-    "duration_seconds": null
+    "duration_seconds": 3105,
+    "duracion": "51:45"
   },
   {
     "id": 131,
@@ -2384,7 +2514,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 86.19999694824219,
     "latent_y": -17.040000915527344,
     "latent_z": 104.83000183105469,
-    "duration_seconds": null
+    "duration_seconds": 8444,
+    "duracion": "02:20:44"
   },
   {
     "id": 132,
@@ -2402,7 +2533,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 75.23999786376953,
     "latent_y": -21.600000381469727,
     "latent_z": -101.20999908447266,
-    "duration_seconds": null
+    "duration_seconds": 1044,
+    "duracion": "17:24"
   },
   {
     "id": 133,
@@ -2421,7 +2553,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 115.06999969482422,
     "latent_y": 29.3799991607666,
     "latent_z": -35.29999923706055,
-    "duration_seconds": null
+    "duration_seconds": 2217,
+    "duracion": "36:57"
   },
   {
     "id": 134,
@@ -2439,7 +2572,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 82.37000274658203,
     "latent_y": -112.4000015258789,
     "latent_z": -17.020000457763672,
-    "duration_seconds": null
+    "duration_seconds": 1020,
+    "duracion": "17:00"
   },
   {
     "id": 135,
@@ -2457,7 +2591,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 81.41999816894531,
     "latent_y": -63.65999984741211,
     "latent_z": -28.829999923706055,
-    "duration_seconds": null
+    "duration_seconds": 1176,
+    "duracion": "19:36"
   },
   {
     "id": 136,
@@ -2475,7 +2610,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 98.5199966430664,
     "latent_y": -15.40999984741211,
     "latent_z": -4.78000020980835,
-    "duration_seconds": null
+    "duration_seconds": 2540,
+    "duracion": "42:20"
   },
   {
     "id": 137,
@@ -2493,7 +2629,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 54.88999938964844,
     "latent_y": 7.849999904632568,
     "latent_z": 16.079999923706055,
-    "duration_seconds": null
+    "duration_seconds": 21350,
+    "duracion": "05:55:50"
   },
   {
     "id": 138,
@@ -2511,7 +2648,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 49.16999816894531,
     "latent_y": 12.279999732971191,
     "latent_z": 0.09000000357627869,
-    "duration_seconds": null
+    "duration_seconds": 1699,
+    "duracion": "28:19"
   },
   {
     "id": 139,
@@ -2530,7 +2668,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 60.810001373291016,
     "latent_y": 26.209999084472656,
     "latent_z": 30.049999237060547,
-    "duration_seconds": null
+    "duration_seconds": 63,
+    "duracion": "01:03"
   },
   {
     "id": 140,
@@ -2548,7 +2687,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 91.51000213623047,
     "latent_y": 120.0,
     "latent_z": -29.020000457763672,
-    "duration_seconds": null
+    "duration_seconds": 372,
+    "duracion": "06:12"
   },
   {
     "id": 141,
@@ -2566,7 +2706,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 87.33000183105469,
     "latent_y": -19.40999984741211,
     "latent_z": 57.36000061035156,
-    "duration_seconds": null
+    "duration_seconds": 36129,
+    "duracion": "10:02:09"
   },
   {
     "id": 142,
@@ -2584,7 +2725,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 107.26000213623047,
     "latent_y": -22.6200008392334,
     "latent_z": -31.510000228881836,
-    "duration_seconds": null
+    "duration_seconds": 289,
+    "duracion": "04:49"
   },
   {
     "id": 143,
@@ -2603,7 +2745,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 101.13999938964844,
     "latent_y": -77.88999938964844,
     "latent_z": 7.25,
-    "duration_seconds": null
+    "duration_seconds": 509,
+    "duracion": "08:29"
   },
   {
     "id": 144,
@@ -2621,7 +2764,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 99.94000244140625,
     "latent_y": -24.799999237060547,
     "latent_z": -44.25,
-    "duration_seconds": null
+    "duration_seconds": 387,
+    "duracion": "06:27"
   },
   {
     "id": 145,
@@ -2639,7 +2783,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 81.55999755859375,
     "latent_y": 82.41000366210938,
     "latent_z": -39.68000030517578,
-    "duration_seconds": null
+    "duration_seconds": 2773,
+    "duracion": "46:13"
   },
   {
     "id": 146,
@@ -2657,7 +2802,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 114.87000274658203,
     "latent_y": 0.9100000262260437,
     "latent_z": -66.4800033569336,
-    "duration_seconds": null
+    "duration_seconds": 779,
+    "duracion": "12:59"
   },
   {
     "id": 147,
@@ -2675,7 +2821,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 81.7300033569336,
     "latent_y": 68.23999786376953,
     "latent_z": -23.190000534057617,
-    "duration_seconds": null
+    "duration_seconds": 306,
+    "duracion": "05:06"
   },
   {
     "id": 148,
@@ -2693,7 +2840,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 101.62999725341797,
     "latent_y": -6.730000019073486,
     "latent_z": -2.0299999713897705,
-    "duration_seconds": null
+    "duration_seconds": 1171,
+    "duracion": "19:31"
   },
   {
     "id": 149,
@@ -2711,7 +2859,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 80.4000015258789,
     "latent_y": -16.809999465942383,
     "latent_z": 56.7400016784668,
-    "duration_seconds": null
+    "duration_seconds": 2477,
+    "duracion": "41:17"
   },
   {
     "id": 150,
@@ -2730,7 +2879,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 73.30000305175781,
     "latent_y": -68.66999816894531,
     "latent_z": -14.619999885559082,
-    "duration_seconds": null
+    "duration_seconds": 695,
+    "duracion": "11:35"
   },
   {
     "id": 151,
@@ -2749,7 +2899,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 91.30000305175781,
     "latent_y": 41.04999923706055,
     "latent_z": 34.41999816894531,
-    "duration_seconds": null
+    "duration_seconds": 850,
+    "duracion": "14:10"
   },
   {
     "id": 152,
@@ -2767,7 +2918,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 74.63999938964844,
     "latent_y": 20.489999771118164,
     "latent_z": -24.3700008392334,
-    "duration_seconds": null
+    "duration_seconds": 2692,
+    "duracion": "44:52"
   },
   {
     "id": 153,
@@ -2785,7 +2937,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 82.44000244140625,
     "latent_y": 54.68000030517578,
     "latent_z": -15.399999618530273,
-    "duration_seconds": null
+    "duration_seconds": 415,
+    "duracion": "06:55"
   },
   {
     "id": 154,
@@ -2803,7 +2956,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 86.30000305175781,
     "latent_y": -3.7799999713897705,
     "latent_z": 92.52999877929688,
-    "duration_seconds": null
+    "duration_seconds": 8314,
+    "duracion": "02:18:34"
   },
   {
     "id": 155,
@@ -2822,7 +2976,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 60.2400016784668,
     "latent_y": 40.029998779296875,
     "latent_z": -32.970001220703125,
-    "duration_seconds": null
+    "duration_seconds": 865,
+    "duracion": "14:25"
   },
   {
     "id": 156,
@@ -2841,7 +2996,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 60.880001068115234,
     "latent_y": -21.6299991607666,
     "latent_z": 2.5,
-    "duration_seconds": null
+    "duration_seconds": 1360,
+    "duracion": "22:40"
   },
   {
     "id": 157,
@@ -2859,7 +3015,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 68.45999908447266,
     "latent_y": -2.869999885559082,
     "latent_z": -100.80999755859375,
-    "duration_seconds": null
+    "duration_seconds": 903,
+    "duracion": "15:03"
   },
   {
     "id": 158,
@@ -2877,7 +3034,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 88.08999633789062,
     "latent_y": 89.0199966430664,
     "latent_z": 4.119999885559082,
-    "duration_seconds": null
+    "duration_seconds": 233,
+    "duracion": "03:53"
   },
   {
     "id": 159,
@@ -2895,7 +3053,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 85.93000030517578,
     "latent_y": -39.13999938964844,
     "latent_z": 88.33000183105469,
-    "duration_seconds": null
+    "duration_seconds": 517,
+    "duracion": "08:37"
   },
   {
     "id": 160,
@@ -2914,7 +3073,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 87.4000015258789,
     "latent_y": 58.689998626708984,
     "latent_z": 16.600000381469727,
-    "duration_seconds": null
+    "duration_seconds": 891,
+    "duracion": "14:51"
   },
   {
     "id": 161,
@@ -2932,7 +3092,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 66.80999755859375,
     "latent_y": 54.650001525878906,
     "latent_z": -47.720001220703125,
-    "duration_seconds": null
+    "duration_seconds": 407,
+    "duracion": "06:47"
   },
   {
     "id": 162,
@@ -2950,7 +3111,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 79.2300033569336,
     "latent_y": -2.609999895095825,
     "latent_z": -60.400001525878906,
-    "duration_seconds": null
+    "duration_seconds": 724,
+    "duracion": "12:04"
   },
   {
     "id": 163,
@@ -2968,7 +3130,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 74.73999786376953,
     "latent_y": -11.149999618530273,
     "latent_z": 54.7400016784668,
-    "duration_seconds": null
+    "duration_seconds": 984,
+    "duracion": "16:24"
   },
   {
     "id": 164,
@@ -2986,7 +3149,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 99.95999908447266,
     "latent_y": 10.670000076293945,
     "latent_z": -25.549999237060547,
-    "duration_seconds": null
+    "duration_seconds": 1031,
+    "duracion": "17:11"
   },
   {
     "id": 165,
@@ -3004,7 +3168,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 110.91999816894531,
     "latent_y": 4.380000114440918,
     "latent_z": -3.8499999046325684,
-    "duration_seconds": null
+    "duration_seconds": 432,
+    "duracion": "07:12"
   },
   {
     "id": 166,
@@ -3023,7 +3188,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 59.88999938964844,
     "latent_y": 37.209999084472656,
     "latent_z": 40.52000045776367,
-    "duration_seconds": null
+    "duration_seconds": 1287,
+    "duracion": "21:27"
   },
   {
     "id": 167,
@@ -3041,7 +3207,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 86.16000366210938,
     "latent_y": 72.30000305175781,
     "latent_z": -36.02000045776367,
-    "duration_seconds": null
+    "duration_seconds": 4851,
+    "duracion": "01:20:51"
   },
   {
     "id": 168,
@@ -3059,7 +3226,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 58.720001220703125,
     "latent_y": 3.680000066757202,
     "latent_z": -19.1299991607666,
-    "duration_seconds": null
+    "duration_seconds": 483,
+    "duracion": "08:03"
   },
   {
     "id": 169,
@@ -3078,7 +3246,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 93.6500015258789,
     "latent_y": -13.579999923706055,
     "latent_z": -74.08000183105469,
-    "duration_seconds": null
+    "duration_seconds": 16367,
+    "duracion": "04:32:47"
   },
   {
     "id": 170,
@@ -3096,7 +3265,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 101.0999984741211,
     "latent_y": -2.8399999141693115,
     "latent_z": -67.63999938964844,
-    "duration_seconds": null
+    "duration_seconds": 2907,
+    "duracion": "48:27"
   },
   {
     "id": 171,
@@ -3116,7 +3286,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 61.470001220703125,
     "latent_y": 54.439998626708984,
     "latent_z": 3.6700000762939453,
-    "duration_seconds": null
+    "duration_seconds": 1443,
+    "duracion": "24:03"
   },
   {
     "id": 172,
@@ -3134,7 +3305,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 86.81999969482422,
     "latent_y": 11.989999771118164,
     "latent_z": -45.90999984741211,
-    "duration_seconds": null
+    "duration_seconds": 928,
+    "duracion": "15:28"
   },
   {
     "id": 173,
@@ -3152,7 +3324,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 106.13999938964844,
     "latent_y": -11.800000190734863,
     "latent_z": -53.790000915527344,
-    "duration_seconds": null
+    "duration_seconds": 313,
+    "duracion": "05:13"
   },
   {
     "id": 174,
@@ -3170,7 +3343,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 83.80000305175781,
     "latent_y": -64.87000274658203,
     "latent_z": 70.16999816894531,
-    "duration_seconds": null
+    "duration_seconds": 140,
+    "duracion": "02:20"
   },
   {
     "id": 175,
@@ -3189,7 +3363,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 87.44000244140625,
     "latent_y": 41.40999984741211,
     "latent_z": 25.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 529,
+    "duracion": "08:49"
   },
   {
     "id": 176,
@@ -3207,7 +3382,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 73.01000213623047,
     "latent_y": -32.08000183105469,
     "latent_z": -75.12999725341797,
-    "duration_seconds": null
+    "duration_seconds": 466,
+    "duracion": "07:46"
   },
   {
     "id": 177,
@@ -3225,7 +3401,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 116.7300033569336,
     "latent_y": -23.389999389648438,
     "latent_z": -14.899999618530273,
-    "duration_seconds": null
+    "duration_seconds": 1019,
+    "duracion": "16:59"
   },
   {
     "id": 178,
@@ -3243,7 +3420,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 80.12000274658203,
     "latent_y": 113.36000061035156,
     "latent_z": -42.65999984741211,
-    "duration_seconds": null
+    "duration_seconds": 684,
+    "duracion": "11:24"
   },
   {
     "id": 179,
@@ -3261,7 +3439,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 72.94999694824219,
     "latent_y": -42.810001373291016,
     "latent_z": 93.38999938964844,
-    "duration_seconds": null
+    "duration_seconds": 2633,
+    "duracion": "43:53"
   },
   {
     "id": 180,
@@ -3280,7 +3459,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 69.37000274658203,
     "latent_y": 69.54000091552734,
     "latent_z": 33.75,
-    "duration_seconds": null
+    "duration_seconds": 335,
+    "duracion": "05:35"
   },
   {
     "id": 181,
@@ -3299,7 +3479,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 69.41999816894531,
     "latent_y": 18.1200008392334,
     "latent_z": 51.83000183105469,
-    "duration_seconds": null
+    "duration_seconds": 523,
+    "duracion": "08:43"
   },
   {
     "id": 182,
@@ -3317,7 +3498,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 109.94999694824219,
     "latent_y": -32.27000045776367,
     "latent_z": -51.72999954223633,
-    "duration_seconds": null
+    "duration_seconds": 311,
+    "duracion": "05:11"
   },
   {
     "id": 183,
@@ -3335,7 +3517,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 110.83000183105469,
     "latent_y": 15.279999732971191,
     "latent_z": -41.560001373291016,
-    "duration_seconds": null
+    "duration_seconds": 217,
+    "duracion": "03:37"
   },
   {
     "id": 184,
@@ -3353,7 +3536,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 90.5199966430664,
     "latent_y": -63.43000030517578,
     "latent_z": 70.9000015258789,
-    "duration_seconds": null
+    "duration_seconds": 273,
+    "duracion": "04:33"
   },
   {
     "id": 185,
@@ -3372,7 +3556,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 62.84000015258789,
     "latent_y": 41.22999954223633,
     "latent_z": 21.329999923706055,
-    "duration_seconds": null
+    "duration_seconds": 344,
+    "duracion": "05:44"
   },
   {
     "id": 186,
@@ -3391,7 +3576,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 69.41000366210938,
     "latent_y": 36.209999084472656,
     "latent_z": 44.119998931884766,
-    "duration_seconds": null
+    "duration_seconds": 1200,
+    "duracion": "20:00"
   },
   {
     "id": 187,
@@ -3409,7 +3595,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 54.9900016784668,
     "latent_y": 22.040000915527344,
     "latent_z": 6.010000228881836,
-    "duration_seconds": null
+    "duration_seconds": 1492,
+    "duracion": "24:52"
   },
   {
     "id": 188,
@@ -3427,7 +3614,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 70.18000030517578,
     "latent_y": 27.979999542236328,
     "latent_z": -97.33000183105469,
-    "duration_seconds": null
+    "duration_seconds": 770,
+    "duracion": "12:50"
   },
   {
     "id": 189,
@@ -3445,7 +3633,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 90.47000122070312,
     "latent_y": -46.209999084472656,
     "latent_z": 83.2300033569336,
-    "duration_seconds": null
+    "duration_seconds": 670,
+    "duracion": "11:10"
   },
   {
     "id": 190,
@@ -3463,7 +3652,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 52.349998474121094,
     "latent_y": 6.519999980926514,
     "latent_z": -16.739999771118164,
-    "duration_seconds": null
+    "duration_seconds": 3803,
+    "duracion": "01:03:23"
   },
   {
     "id": 191,
@@ -3482,7 +3672,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 92.51000213623047,
     "latent_y": -45.47999954223633,
     "latent_z": -31.350000381469727,
-    "duration_seconds": null
+    "duration_seconds": 780,
+    "duracion": "13:00"
   },
   {
     "id": 192,
@@ -3500,7 +3691,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 92.04000091552734,
     "latent_y": 98.81999969482422,
     "latent_z": -37.560001373291016,
-    "duration_seconds": null
+    "duration_seconds": 457,
+    "duracion": "07:37"
   },
   {
     "id": 193,
@@ -3518,7 +3710,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 76.62000274658203,
     "latent_y": 107.08000183105469,
     "latent_z": -20.06999969482422,
-    "duration_seconds": null
+    "duration_seconds": 326,
+    "duracion": "05:26"
   },
   {
     "id": 194,
@@ -3536,7 +3729,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 114.51000213623047,
     "latent_y": 11.880000114440918,
     "latent_z": 5.679999828338623,
-    "duration_seconds": null
+    "duration_seconds": 437,
+    "duracion": "07:17"
   },
   {
     "id": 195,
@@ -3555,7 +3749,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 59.5,
     "latent_y": 5.610000133514404,
     "latent_z": -70.5999984741211,
-    "duration_seconds": null
+    "duration_seconds": 1240,
+    "duracion": "20:40"
   },
   {
     "id": 196,
@@ -3574,7 +3769,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 65.93000030517578,
     "latent_y": 67.41000366210938,
     "latent_z": 50.70000076293945,
-    "duration_seconds": null
+    "duration_seconds": 1533,
+    "duracion": "25:33"
   },
   {
     "id": 197,
@@ -3592,7 +3788,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 101.70999908447266,
     "latent_y": 52.22999954223633,
     "latent_z": 3.809999942779541,
-    "duration_seconds": null
+    "duration_seconds": 3036,
+    "duracion": "50:36"
   },
   {
     "id": 198,
@@ -3611,7 +3808,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 101.45999908447266,
     "latent_y": -67.37000274658203,
     "latent_z": 31.299999237060547,
-    "duration_seconds": null
+    "duration_seconds": 410,
+    "duracion": "06:50"
   },
   {
     "id": 199,
@@ -3629,7 +3827,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 109.08000183105469,
     "latent_y": 31.65999984741211,
     "latent_z": 38.70000076293945,
-    "duration_seconds": null
+    "duration_seconds": 1138,
+    "duracion": "18:58"
   },
   {
     "id": 200,
@@ -3648,7 +3847,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 96.19999694824219,
     "latent_y": -73.33000183105469,
     "latent_z": 40.560001373291016,
-    "duration_seconds": null
+    "duration_seconds": 124,
+    "duracion": "02:04"
   },
   {
     "id": 201,
@@ -3667,7 +3867,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 103.23999786376953,
     "latent_y": -73.30999755859375,
     "latent_z": 43.720001220703125,
-    "duration_seconds": null
+    "duration_seconds": 782,
+    "duracion": "13:02"
   },
   {
     "id": 202,
@@ -3685,7 +3886,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 93.70999908447266,
     "latent_y": 81.66999816894531,
     "latent_z": -14.140000343322754,
-    "duration_seconds": null
+    "duration_seconds": 878,
+    "duracion": "14:38"
   },
   {
     "id": 203,
@@ -3703,7 +3905,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 88.94999694824219,
     "latent_y": -6.539999961853027,
     "latent_z": 74.44999694824219,
-    "duration_seconds": null
+    "duration_seconds": 4009,
+    "duracion": "01:06:49"
   },
   {
     "id": 204,
@@ -3721,7 +3924,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 54.77000045776367,
     "latent_y": 0.6800000071525574,
     "latent_z": 34.779998779296875,
-    "duration_seconds": null
+    "duration_seconds": 1318,
+    "duracion": "21:58"
   },
   {
     "id": 205,
@@ -3739,7 +3943,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 87.83000183105469,
     "latent_y": 108.7300033569336,
     "latent_z": -5.789999961853027,
-    "duration_seconds": null
+    "duration_seconds": 1818,
+    "duracion": "30:18"
   },
   {
     "id": 206,
@@ -3757,7 +3962,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 85.97000122070312,
     "latent_y": -57.77000045776367,
     "latent_z": 104.52999877929688,
-    "duration_seconds": null
+    "duration_seconds": 221,
+    "duracion": "03:41"
   },
   {
     "id": 207,
@@ -3775,7 +3981,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 84.19999694824219,
     "latent_y": 118.55000305175781,
     "latent_z": -24.690000534057617,
-    "duration_seconds": null
+    "duration_seconds": 420,
+    "duracion": "07:00"
   },
   {
     "id": 208,
@@ -3793,7 +4000,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 86.38999938964844,
     "latent_y": -108.0999984741211,
     "latent_z": -48.630001068115234,
-    "duration_seconds": null
+    "duration_seconds": 577,
+    "duracion": "09:37"
   },
   {
     "id": 209,
@@ -3811,7 +4019,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 71.20999908447266,
     "latent_y": 11.640000343322754,
     "latent_z": -79.80999755859375,
-    "duration_seconds": null
+    "duration_seconds": 1020,
+    "duracion": "17:00"
   },
   {
     "id": 210,
@@ -3829,7 +4038,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 56.72999954223633,
     "latent_y": 19.100000381469727,
     "latent_z": -18.06999969482422,
-    "duration_seconds": null
+    "duration_seconds": 3161,
+    "duracion": "52:41"
   },
   {
     "id": 211,
@@ -3848,7 +4058,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 85.7699966430664,
     "latent_y": -69.36000061035156,
     "latent_z": -13.5,
-    "duration_seconds": null
+    "duration_seconds": 447,
+    "duracion": "07:27"
   },
   {
     "id": 212,
@@ -3866,7 +4077,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 109.73999786376953,
     "latent_y": -45.33000183105469,
     "latent_z": -40.66999816894531,
-    "duration_seconds": null
+    "duration_seconds": 308,
+    "duracion": "05:08"
   },
   {
     "id": 213,
@@ -3884,7 +4096,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 81.98999786376953,
     "latent_y": -120.0,
     "latent_z": -36.540000915527344,
-    "duration_seconds": null
+    "duration_seconds": 422,
+    "duracion": "07:02"
   },
   {
     "id": 214,
@@ -3903,7 +4116,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 64.02999877929688,
     "latent_y": 30.959999084472656,
     "latent_z": 50.84000015258789,
-    "duration_seconds": null
+    "duration_seconds": 546,
+    "duracion": "09:06"
   },
   {
     "id": 215,
@@ -3921,7 +4135,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 81.56999969482422,
     "latent_y": 97.25,
     "latent_z": -53.68000030517578,
-    "duration_seconds": null
+    "duration_seconds": 1120,
+    "duracion": "18:40"
   },
   {
     "id": 216,
@@ -3939,7 +4154,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 76.72000122070312,
     "latent_y": -30.170000076293945,
     "latent_z": -3.7799999713897705,
-    "duration_seconds": null
+    "duration_seconds": 398,
+    "duracion": "06:38"
   },
   {
     "id": 217,
@@ -3957,7 +4173,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 85.12999725341797,
     "latent_y": -48.689998626708984,
     "latent_z": 64.87000274658203,
-    "duration_seconds": null
+    "duration_seconds": 287,
+    "duracion": "04:47"
   },
   {
     "id": 218,
@@ -3975,7 +4192,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 66.61000061035156,
     "latent_y": -6.659999847412109,
     "latent_z": -120.0,
-    "duration_seconds": null
+    "duration_seconds": 1035,
+    "duracion": "17:15"
   },
   {
     "id": 219,
@@ -3993,7 +4211,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 106.06999969482422,
     "latent_y": 8.920000076293945,
     "latent_z": -16.059999465942383,
-    "duration_seconds": null
+    "duration_seconds": 427,
+    "duracion": "07:07"
   },
   {
     "id": 220,
@@ -4011,7 +4230,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 115.43000030517578,
     "latent_y": -34.29999923706055,
     "latent_z": -44.5,
-    "duration_seconds": null
+    "duration_seconds": 336,
+    "duracion": "05:36"
   },
   {
     "id": 221,
@@ -4029,7 +4249,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 102.30999755859375,
     "latent_y": 19.309999465942383,
     "latent_z": 29.06999969482422,
-    "duration_seconds": null
+    "duration_seconds": 1049,
+    "duracion": "17:29"
   },
   {
     "id": 222,
@@ -4048,7 +4269,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 93.30999755859375,
     "latent_y": -27.229999542236328,
     "latent_z": -82.97000122070312,
-    "duration_seconds": null
+    "duration_seconds": 749,
+    "duracion": "12:29"
   },
   {
     "id": 223,
@@ -4067,7 +4289,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 59.029998779296875,
     "latent_y": 46.400001525878906,
     "latent_z": 59.900001525878906,
-    "duration_seconds": null
+    "duration_seconds": 429,
+    "duracion": "07:09"
   },
   {
     "id": 224,
@@ -4085,7 +4308,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 103.69000244140625,
     "latent_y": 11.699999809265137,
     "latent_z": -46.5,
-    "duration_seconds": null
+    "duration_seconds": 523,
+    "duracion": "08:43"
   },
   {
     "id": 225,
@@ -4103,7 +4327,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 92.97000122070312,
     "latent_y": -28.110000610351562,
     "latent_z": 72.80999755859375,
-    "duration_seconds": null
+    "duration_seconds": 272,
+    "duracion": "04:32"
   },
   {
     "id": 226,
@@ -4121,7 +4346,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 76.7300033569336,
     "latent_y": 3.930000066757202,
     "latent_z": -115.58000183105469,
-    "duration_seconds": null
+    "duration_seconds": 1778,
+    "duracion": "29:38"
   },
   {
     "id": 227,
@@ -4139,7 +4365,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 73.86000061035156,
     "latent_y": -15.859999656677246,
     "latent_z": -82.69999694824219,
-    "duration_seconds": null
+    "duration_seconds": 179,
+    "duracion": "02:59"
   },
   {
     "id": 228,
@@ -4157,7 +4384,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 92.04000091552734,
     "latent_y": 37.25,
     "latent_z": -52.4900016784668,
-    "duration_seconds": null
+    "duration_seconds": 980,
+    "duracion": "16:20"
   },
   {
     "id": 229,
@@ -4175,7 +4403,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 79.55999755859375,
     "latent_y": -16.899999618530273,
     "latent_z": -5.039999961853027,
-    "duration_seconds": null
+    "duration_seconds": 564,
+    "duracion": "09:24"
   },
   {
     "id": 230,
@@ -4194,7 +4423,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 64.94000244140625,
     "latent_y": 37.650001525878906,
     "latent_z": 37.470001220703125,
-    "duration_seconds": null
+    "duration_seconds": 1884,
+    "duracion": "31:24"
   },
   {
     "id": 231,
@@ -4212,7 +4442,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 84.38999938964844,
     "latent_y": -81.55000305175781,
     "latent_z": -28.09000015258789,
-    "duration_seconds": null
+    "duration_seconds": 1184,
+    "duracion": "19:44"
   },
   {
     "id": 232,
@@ -4230,7 +4461,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 55.060001373291016,
     "latent_y": -12.680000305175781,
     "latent_z": -23.969999313354492,
-    "duration_seconds": null
+    "duration_seconds": 423,
+    "duracion": "07:03"
   },
   {
     "id": 233,
@@ -4248,7 +4480,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 88.0199966430664,
     "latent_y": 70.66999816894531,
     "latent_z": -14.25,
-    "duration_seconds": null
+    "duration_seconds": 496,
+    "duracion": "08:16"
   },
   {
     "id": 234,
@@ -4266,7 +4499,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 83.81999969482422,
     "latent_y": -29.889999389648438,
     "latent_z": 59.77000045776367,
-    "duration_seconds": null
+    "duration_seconds": 343,
+    "duracion": "05:43"
   },
   {
     "id": 235,
@@ -4284,7 +4518,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 111.69999694824219,
     "latent_y": -7.300000190734863,
     "latent_z": -43.459999084472656,
-    "duration_seconds": null
+    "duration_seconds": 483,
+    "duracion": "08:03"
   },
   {
     "id": 236,
@@ -4302,7 +4537,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 76.81999969482422,
     "latent_y": -69.16000366210938,
     "latent_z": 77.02999877929688,
-    "duration_seconds": null
+    "duration_seconds": 246,
+    "duracion": "04:06"
   },
   {
     "id": 237,
@@ -4321,7 +4557,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 91.11000061035156,
     "latent_y": 61.880001068115234,
     "latent_z": 45.630001068115234,
-    "duration_seconds": null
+    "duration_seconds": 1654,
+    "duracion": "27:34"
   },
   {
     "id": 238,
@@ -4339,7 +4576,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 94.05000305175781,
     "latent_y": 9.819999694824219,
     "latent_z": -38.34000015258789,
-    "duration_seconds": null
+    "duration_seconds": 3804,
+    "duracion": "01:03:24"
   },
   {
     "id": 239,
@@ -4358,7 +4596,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 65.33999633789062,
     "latent_y": 48.439998626708984,
     "latent_z": 53.150001525878906,
-    "duration_seconds": null
+    "duration_seconds": 1673,
+    "duracion": "27:53"
   },
   {
     "id": 240,
@@ -4376,7 +4615,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 84.08000183105469,
     "latent_y": -90.73999786376953,
     "latent_z": -42.029998779296875,
-    "duration_seconds": null
+    "duration_seconds": 304,
+    "duracion": "05:04"
   },
   {
     "id": 241,
@@ -4394,7 +4634,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 70.33000183105469,
     "latent_y": -26.639999389648438,
     "latent_z": -115.58999633789062,
-    "duration_seconds": null
+    "duration_seconds": 1537,
+    "duracion": "25:37"
   },
   {
     "id": 242,
@@ -4412,7 +4653,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 59.099998474121094,
     "latent_y": 24.760000228881836,
     "latent_z": -0.17000000178813934,
-    "duration_seconds": null
+    "duration_seconds": 1385,
+    "duracion": "23:05"
   },
   {
     "id": 243,
@@ -4432,7 +4674,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 84.83999633789062,
     "latent_y": 39.79999923706055,
     "latent_z": 53.790000915527344,
-    "duration_seconds": null
+    "duration_seconds": 3476,
+    "duracion": "57:56"
   },
   {
     "id": 244,
@@ -4450,7 +4693,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 79.76000213623047,
     "latent_y": 88.16999816894531,
     "latent_z": -21.239999771118164,
-    "duration_seconds": null
+    "duration_seconds": 66,
+    "duracion": "01:06"
   },
   {
     "id": 245,
@@ -4468,7 +4712,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 91.02999877929688,
     "latent_y": 24.290000915527344,
     "latent_z": -8.949999809265137,
-    "duration_seconds": null
+    "duration_seconds": 3736,
+    "duracion": "01:02:16"
   },
   {
     "id": 246,
@@ -4486,7 +4731,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 94.08000183105469,
     "latent_y": 31.829999923706055,
     "latent_z": -16.5,
-    "duration_seconds": null
+    "duration_seconds": 2431,
+    "duracion": "40:31"
   },
   {
     "id": 247,
@@ -4505,7 +4751,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 64.12999725341797,
     "latent_y": 10.3100004196167,
     "latent_z": -73.04000091552734,
-    "duration_seconds": null
+    "duration_seconds": 330,
+    "duracion": "05:30"
   },
   {
     "id": 248,
@@ -4524,7 +4771,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 96.4000015258789,
     "latent_y": -69.83999633789062,
     "latent_z": 20.31999969482422,
-    "duration_seconds": null
+    "duration_seconds": 2187,
+    "duracion": "36:27"
   },
   {
     "id": 249,
@@ -4542,7 +4790,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 78.93000030517578,
     "latent_y": -90.83000183105469,
     "latent_z": -34.27000045776367,
-    "duration_seconds": null
+    "duration_seconds": 469,
+    "duracion": "07:49"
   },
   {
     "id": 250,
@@ -4562,7 +4811,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 83.44999694824219,
     "latent_y": 34.150001525878906,
     "latent_z": 41.130001068115234,
-    "duration_seconds": null
+    "duration_seconds": 452,
+    "duracion": "07:32"
   },
   {
     "id": 251,
@@ -4581,7 +4831,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 69.31999969482422,
     "latent_y": 14.40999984741211,
     "latent_z": -19.010000228881836,
-    "duration_seconds": null
+    "duration_seconds": 485,
+    "duracion": "08:05"
   },
   {
     "id": 252,
@@ -4599,7 +4850,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 105.7300033569336,
     "latent_y": -42.540000915527344,
     "latent_z": -60.70000076293945,
-    "duration_seconds": null
+    "duration_seconds": 215,
+    "duracion": "03:35"
   },
   {
     "id": 253,
@@ -4617,7 +4869,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 95.36000061035156,
     "latent_y": 14.460000038146973,
     "latent_z": -59.060001373291016,
-    "duration_seconds": null
+    "duration_seconds": 1140,
+    "duracion": "19:00"
   },
   {
     "id": 254,
@@ -4637,7 +4890,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 80.48999786376953,
     "latent_y": 32.75,
     "latent_z": 51.959999084472656,
-    "duration_seconds": null
+    "duration_seconds": 370,
+    "duracion": "06:10"
   },
   {
     "id": 255,
@@ -4656,7 +4910,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 62.56999969482422,
     "latent_y": 0.18000000715255737,
     "latent_z": -87.1500015258789,
-    "duration_seconds": null
+    "duration_seconds": 1478,
+    "duracion": "24:38"
   },
   {
     "id": 256,
@@ -4674,7 +4929,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 70.87000274658203,
     "latent_y": 24.90999984741211,
     "latent_z": -71.91000366210938,
-    "duration_seconds": null
+    "duration_seconds": 334,
+    "duracion": "05:34"
   },
   {
     "id": 257,
@@ -4692,7 +4948,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 72.63999938964844,
     "latent_y": 8.470000267028809,
     "latent_z": -101.04000091552734,
-    "duration_seconds": null
+    "duration_seconds": 852,
+    "duracion": "14:12"
   },
   {
     "id": 258,
@@ -4712,7 +4969,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 75.93000030517578,
     "latent_y": -28.549999237060547,
     "latent_z": -49.75,
-    "duration_seconds": null
+    "duration_seconds": 100,
+    "duracion": "01:40"
   },
   {
     "id": 259,
@@ -4731,7 +4989,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 90.93000030517578,
     "latent_y": -22.850000381469727,
     "latent_z": -66.69000244140625,
-    "duration_seconds": null
+    "duration_seconds": 9184,
+    "duracion": "02:33:04"
   },
   {
     "id": 260,
@@ -4749,7 +5008,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 78.45999908447266,
     "latent_y": -45.5,
     "latent_z": 85.12000274658203,
-    "duration_seconds": null
+    "duration_seconds": 529,
+    "duracion": "08:49"
   },
   {
     "id": 261,
@@ -4767,7 +5027,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 83.48999786376953,
     "latent_y": 82.19999694824219,
     "latent_z": -7.900000095367432,
-    "duration_seconds": null
+    "duration_seconds": 342,
+    "duracion": "05:42"
   },
   {
     "id": 262,
@@ -4785,7 +5046,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 88.0,
     "latent_y": 89.02999877929688,
     "latent_z": -12.319999694824219,
-    "duration_seconds": null
+    "duration_seconds": 327,
+    "duracion": "05:27"
   },
   {
     "id": 263,
@@ -4804,7 +5066,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 58.4900016784668,
     "latent_y": 55.16999816894531,
     "latent_z": 48.119998931884766,
-    "duration_seconds": null
+    "duration_seconds": 228,
+    "duracion": "03:48"
   },
   {
     "id": 264,
@@ -4823,7 +5086,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 72.83999633789062,
     "latent_y": -78.4800033569336,
     "latent_z": 1.7899999618530273,
-    "duration_seconds": null
+    "duration_seconds": 1379,
+    "duracion": "22:59"
   },
   {
     "id": 265,
@@ -4841,7 +5105,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 96.08000183105469,
     "latent_y": -4.179999828338623,
     "latent_z": -19.1200008392334,
-    "duration_seconds": null
+    "duration_seconds": 11079,
+    "duracion": "03:04:39"
   },
   {
     "id": 266,
@@ -4859,7 +5124,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 76.19000244140625,
     "latent_y": 74.27999877929688,
     "latent_z": -36.93000030517578,
-    "duration_seconds": null
+    "duration_seconds": 330,
+    "duracion": "05:30"
   },
   {
     "id": 267,
@@ -4877,7 +5143,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 107.05000305175781,
     "latent_y": -20.889999389648438,
     "latent_z": -80.30000305175781,
-    "duration_seconds": null
+    "duration_seconds": 185,
+    "duracion": "03:05"
   },
   {
     "id": 268,
@@ -4895,7 +5162,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 88.08000183105469,
     "latent_y": 99.55000305175781,
     "latent_z": -59.5099983215332,
-    "duration_seconds": null
+    "duration_seconds": 1447,
+    "duracion": "24:07"
   },
   {
     "id": 269,
@@ -4913,7 +5181,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 106.66999816894531,
     "latent_y": -0.05999999865889549,
     "latent_z": -34.279998779296875,
-    "duration_seconds": null
+    "duration_seconds": 1589,
+    "duracion": "26:29"
   },
   {
     "id": 270,
@@ -4932,7 +5201,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 62.5,
     "latent_y": 50.68000030517578,
     "latent_z": 72.12000274658203,
-    "duration_seconds": null
+    "duration_seconds": 132,
+    "duracion": "02:12"
   },
   {
     "id": 271,
@@ -4951,7 +5221,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 94.44000244140625,
     "latent_y": -12.989999771118164,
     "latent_z": -89.41000366210938,
-    "duration_seconds": null
+    "duration_seconds": 800,
+    "duracion": "13:20"
   },
   {
     "id": 272,
@@ -4970,7 +5241,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 92.04000091552734,
     "latent_y": 64.80999755859375,
     "latent_z": 27.290000915527344,
-    "duration_seconds": null
+    "duration_seconds": 1351,
+    "duracion": "22:31"
   },
   {
     "id": 273,
@@ -4988,7 +5260,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 73.19999694824219,
     "latent_y": -95.61000061035156,
     "latent_z": -32.16999816894531,
-    "duration_seconds": null
+    "duration_seconds": 1072,
+    "duracion": "17:52"
   },
   {
     "id": 274,
@@ -5006,7 +5279,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 83.93000030517578,
     "latent_y": 100.29000091552734,
     "latent_z": -16.15999984741211,
-    "duration_seconds": null
+    "duration_seconds": 544,
+    "duracion": "09:04"
   },
   {
     "id": 275,
@@ -5025,7 +5299,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 60.75,
     "latent_y": 70.2300033569336,
     "latent_z": 28.829999923706055,
-    "duration_seconds": null
+    "duration_seconds": 1111,
+    "duracion": "18:31"
   },
   {
     "id": 276,
@@ -5043,7 +5318,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 76.16000366210938,
     "latent_y": -76.55999755859375,
     "latent_z": -34.63999938964844,
-    "duration_seconds": null
+    "duration_seconds": 520,
+    "duracion": "08:40"
   },
   {
     "id": 277,
@@ -5061,7 +5337,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 89.80999755859375,
     "latent_y": 84.97000122070312,
     "latent_z": -27.450000762939453,
-    "duration_seconds": null
+    "duration_seconds": 857,
+    "duracion": "14:17"
   },
   {
     "id": 278,
@@ -5081,7 +5358,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 69.2699966430664,
     "latent_y": 2.819999933242798,
     "latent_z": 27.989999771118164,
-    "duration_seconds": null
+    "duration_seconds": 718,
+    "duracion": "11:58"
   },
   {
     "id": 279,
@@ -5100,7 +5378,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 72.94000244140625,
     "latent_y": 46.22999954223633,
     "latent_z": 30.790000915527344,
-    "duration_seconds": null
+    "duration_seconds": 782,
+    "duracion": "13:02"
   },
   {
     "id": 280,
@@ -5118,7 +5397,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 77.08000183105469,
     "latent_y": -106.2699966430664,
     "latent_z": -8.09000015258789,
-    "duration_seconds": null
+    "duration_seconds": 688,
+    "duracion": "11:28"
   },
   {
     "id": 281,
@@ -5137,7 +5417,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 89.43000030517578,
     "latent_y": 53.34000015258789,
     "latent_z": 28.889999389648438,
-    "duration_seconds": null
+    "duration_seconds": 964,
+    "duracion": "16:04"
   },
   {
     "id": 282,
@@ -5155,7 +5436,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 74.72000122070312,
     "latent_y": -87.70999908447266,
     "latent_z": -49.560001373291016,
-    "duration_seconds": null
+    "duration_seconds": 519,
+    "duracion": "08:39"
   },
   {
     "id": 283,
@@ -5174,7 +5456,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 65.58999633789062,
     "latent_y": 56.58000183105469,
     "latent_z": 21.760000228881836,
-    "duration_seconds": null
+    "duration_seconds": 570,
+    "duracion": "09:30"
   },
   {
     "id": 284,
@@ -5193,7 +5476,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 88.76000213623047,
     "latent_y": -83.06999969482422,
     "latent_z": -14.529999732971191,
-    "duration_seconds": null
+    "duration_seconds": 175,
+    "duracion": "02:55"
   },
   {
     "id": 285,
@@ -5213,7 +5497,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 92.0999984741211,
     "latent_y": -54.97999954223633,
     "latent_z": 20.559999465942383,
-    "duration_seconds": null
+    "duration_seconds": 465,
+    "duracion": "07:45"
   },
   {
     "id": 286,
@@ -5232,7 +5517,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 74.20999908447266,
     "latent_y": -57.4900016784668,
     "latent_z": -26.040000915527344,
-    "duration_seconds": null
+    "duration_seconds": 2124,
+    "duracion": "35:24"
   },
   {
     "id": 287,
@@ -5250,7 +5536,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 85.12999725341797,
     "latent_y": 77.02999877929688,
     "latent_z": -55.849998474121094,
-    "duration_seconds": null
+    "duration_seconds": 416,
+    "duracion": "06:56"
   },
   {
     "id": 288,
@@ -5269,7 +5556,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 68.68000030517578,
     "latent_y": -65.93000030517578,
     "latent_z": -4.199999809265137,
-    "duration_seconds": null
+    "duration_seconds": 537,
+    "duracion": "08:57"
   },
   {
     "id": 289,
@@ -5287,7 +5575,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 91.62999725341797,
     "latent_y": 83.27999877929688,
     "latent_z": -48.72999954223633,
-    "duration_seconds": null
+    "duration_seconds": 423,
+    "duracion": "07:03"
   },
   {
     "id": 290,
@@ -5306,7 +5595,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 62.970001220703125,
     "latent_y": 51.11000061035156,
     "latent_z": 37.130001068115234,
-    "duration_seconds": null
+    "duration_seconds": 2235,
+    "duracion": "37:15"
   },
   {
     "id": 291,
@@ -5324,7 +5614,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 72.76000213623047,
     "latent_y": -40.279998779296875,
     "latent_z": -92.66000366210938,
-    "duration_seconds": null
+    "duration_seconds": 1089,
+    "duracion": "18:09"
   },
   {
     "id": 292,
@@ -5342,7 +5633,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 104.4000015258789,
     "latent_y": 19.299999237060547,
     "latent_z": -68.69000244140625,
-    "duration_seconds": null
+    "duration_seconds": 1456,
+    "duracion": "24:16"
   },
   {
     "id": 293,
@@ -5361,7 +5653,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 51.11000061035156,
     "latent_y": 23.440000534057617,
     "latent_z": 23.280000686645508,
-    "duration_seconds": null
+    "duration_seconds": 928,
+    "duracion": "15:28"
   },
   {
     "id": 294,
@@ -5380,7 +5673,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 57.59000015258789,
     "latent_y": 23.34000015258789,
     "latent_z": 52.2400016784668,
-    "duration_seconds": null
+    "duration_seconds": 1833,
+    "duracion": "30:33"
   },
   {
     "id": 295,
@@ -5399,7 +5693,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 78.5199966430664,
     "latent_y": -29.610000610351562,
     "latent_z": -62.400001525878906,
-    "duration_seconds": null
+    "duration_seconds": 137,
+    "duracion": "02:17"
   },
   {
     "id": 296,
@@ -5417,7 +5712,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 80.3499984741211,
     "latent_y": -92.12999725341797,
     "latent_z": -52.869998931884766,
-    "duration_seconds": null
+    "duration_seconds": 566,
+    "duracion": "09:26"
   },
   {
     "id": 297,
@@ -5436,7 +5732,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 77.08999633789062,
     "latent_y": -70.7300033569336,
     "latent_z": -2.359999895095825,
-    "duration_seconds": null
+    "duration_seconds": 342,
+    "duracion": "05:42"
   },
   {
     "id": 298,
@@ -5454,7 +5751,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 87.69999694824219,
     "latent_y": 101.4000015258789,
     "latent_z": -25.110000610351562,
-    "duration_seconds": null
+    "duration_seconds": 330,
+    "duracion": "05:30"
   },
   {
     "id": 299,
@@ -5474,7 +5772,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 68.94999694824219,
     "latent_y": -80.5999984741211,
     "latent_z": -19.520000457763672,
-    "duration_seconds": null
+    "duration_seconds": 917,
+    "duracion": "15:17"
   },
   {
     "id": 300,
@@ -5492,7 +5791,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 104.66999816894531,
     "latent_y": 23.739999771118164,
     "latent_z": -34.529998779296875,
-    "duration_seconds": null
+    "duration_seconds": 1464,
+    "duracion": "24:24"
   },
   {
     "id": 301,
@@ -5510,7 +5810,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 83.3499984741211,
     "latent_y": 95.7300033569336,
     "latent_z": 3.740000009536743,
-    "duration_seconds": null
+    "duration_seconds": 110,
+    "duracion": "01:50"
   },
   {
     "id": 302,
@@ -5530,7 +5831,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 92.12000274658203,
     "latent_y": -57.18000030517578,
     "latent_z": -9.90999984741211,
-    "duration_seconds": null
+    "duration_seconds": 288,
+    "duracion": "04:48"
   },
   {
     "id": 303,
@@ -5548,7 +5850,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 93.1500015258789,
     "latent_y": -2.0899999141693115,
     "latent_z": -4.599999904632568,
-    "duration_seconds": null
+    "duration_seconds": 2942,
+    "duracion": "49:02"
   },
   {
     "id": 304,
@@ -5567,7 +5870,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 67.69999694824219,
     "latent_y": 40.880001068115234,
     "latent_z": 25.049999237060547,
-    "duration_seconds": null
+    "duration_seconds": 209,
+    "duracion": "03:29"
   },
   {
     "id": 305,
@@ -5585,7 +5889,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 91.80000305175781,
     "latent_y": 22.34000015258789,
     "latent_z": -32.470001220703125,
-    "duration_seconds": null
+    "duration_seconds": 266,
+    "duracion": "04:26"
   },
   {
     "id": 306,
@@ -5604,7 +5909,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 91.02999877929688,
     "latent_y": 31.440000534057617,
     "latent_z": 17.59000015258789,
-    "duration_seconds": null
+    "duration_seconds": 404,
+    "duracion": "06:44"
   },
   {
     "id": 307,
@@ -5622,7 +5928,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 73.87999725341797,
     "latent_y": 94.55000305175781,
     "latent_z": -17.81999969482422,
-    "duration_seconds": null
+    "duration_seconds": 65,
+    "duracion": "01:05"
   },
   {
     "id": 308,
@@ -5640,7 +5947,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 76.7699966430664,
     "latent_y": 99.58999633789062,
     "latent_z": -5.46999979019165,
-    "duration_seconds": null
+    "duration_seconds": 293,
+    "duracion": "04:53"
   },
   {
     "id": 309,
@@ -5659,7 +5967,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 66.41999816894531,
     "latent_y": 23.34000015258789,
     "latent_z": 34.560001373291016,
-    "duration_seconds": null
+    "duration_seconds": 806,
+    "duracion": "13:26"
   },
   {
     "id": 310,
@@ -5678,7 +5987,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 76.58999633789062,
     "latent_y": -56.20000076293945,
     "latent_z": -10.760000228881836,
-    "duration_seconds": null
+    "duration_seconds": 710,
+    "duracion": "11:50"
   },
   {
     "id": 311,
@@ -5697,7 +6007,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 83.08999633789062,
     "latent_y": 60.540000915527344,
     "latent_z": 18.010000228881836,
-    "duration_seconds": null
+    "duration_seconds": 1722,
+    "duracion": "28:42"
   },
   {
     "id": 312,
@@ -5716,7 +6027,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 64.23999786376953,
     "latent_y": 3.4600000381469727,
     "latent_z": -55.63999938964844,
-    "duration_seconds": null
+    "duration_seconds": 766,
+    "duracion": "12:46"
   },
   {
     "id": 313,
@@ -5734,7 +6046,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 81.38999938964844,
     "latent_y": -91.87999725341797,
     "latent_z": -19.729999542236328,
-    "duration_seconds": null
+    "duration_seconds": 126,
+    "duracion": "02:06"
   },
   {
     "id": 314,
@@ -5754,7 +6067,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 82.6500015258789,
     "latent_y": 12.890000343322754,
     "latent_z": 13.960000038146973,
-    "duration_seconds": null
+    "duration_seconds": 589,
+    "duracion": "09:49"
   },
   {
     "id": 315,
@@ -5773,7 +6087,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 78.37999725341797,
     "latent_y": -66.52999877929688,
     "latent_z": -58.31999969482422,
-    "duration_seconds": null
+    "duration_seconds": 400,
+    "duracion": "06:40"
   },
   {
     "id": 316,
@@ -5792,7 +6107,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 68.5,
     "latent_y": 34.709999084472656,
     "latent_z": 63.58000183105469,
-    "duration_seconds": null
+    "duration_seconds": 990,
+    "duracion": "16:30"
   },
   {
     "id": 317,
@@ -5810,7 +6126,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 76.26000213623047,
     "latent_y": -2.5799999237060547,
     "latent_z": -95.66999816894531,
-    "duration_seconds": null
+    "duration_seconds": 319,
+    "duracion": "05:19"
   },
   {
     "id": 318,
@@ -5828,7 +6145,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 85.87999725341797,
     "latent_y": 16.93000030517578,
     "latent_z": -35.33000183105469,
-    "duration_seconds": null
+    "duration_seconds": 474,
+    "duracion": "07:54"
   },
   {
     "id": 319,
@@ -5847,7 +6165,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 71.27999877929688,
     "latent_y": -52.43000030517578,
     "latent_z": -12.289999961853027,
-    "duration_seconds": null
+    "duration_seconds": 743,
+    "duracion": "12:23"
   },
   {
     "id": 320,
@@ -5866,7 +6185,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 66.61000061035156,
     "latent_y": -12.210000038146973,
     "latent_z": 26.25,
-    "duration_seconds": null
+    "duration_seconds": 291,
+    "duracion": "04:51"
   },
   {
     "id": 321,
@@ -5885,7 +6205,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 94.05000305175781,
     "latent_y": -58.34000015258789,
     "latent_z": -29.260000228881836,
-    "duration_seconds": null
+    "duration_seconds": 455,
+    "duracion": "07:35"
   },
   {
     "id": 322,
@@ -5903,7 +6224,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 77.70999908447266,
     "latent_y": -107.16999816894531,
     "latent_z": -27.170000076293945,
-    "duration_seconds": null
+    "duration_seconds": 392,
+    "duracion": "06:32"
   },
   {
     "id": 323,
@@ -5921,7 +6243,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 86.29000091552734,
     "latent_y": -67.76000213623047,
     "latent_z": -39.529998779296875,
-    "duration_seconds": null
+    "duration_seconds": 175,
+    "duracion": "02:55"
   },
   {
     "id": 324,
@@ -5940,7 +6263,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 62.97999954223633,
     "latent_y": 23.56999969482422,
     "latent_z": 65.58000183105469,
-    "duration_seconds": null
+    "duration_seconds": 3759,
+    "duracion": "01:02:39"
   },
   {
     "id": 325,
@@ -5958,7 +6282,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 76.20999908447266,
     "latent_y": -89.01000213623047,
     "latent_z": -17.459999084472656,
-    "duration_seconds": null
+    "duration_seconds": 424,
+    "duracion": "07:04"
   },
   {
     "id": 326,
@@ -5976,7 +6301,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 106.69000244140625,
     "latent_y": 6.71999979019165,
     "latent_z": -61.08000183105469,
-    "duration_seconds": null
+    "duration_seconds": 1378,
+    "duracion": "22:58"
   },
   {
     "id": 327,
@@ -5994,7 +6320,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 77.9800033569336,
     "latent_y": 15.149999618530273,
     "latent_z": -70.16999816894531,
-    "duration_seconds": null
+    "duration_seconds": 745,
+    "duracion": "12:25"
   },
   {
     "id": 328,
@@ -6013,7 +6340,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 71.94999694824219,
     "latent_y": 51.7599983215332,
     "latent_z": 54.59000015258789,
-    "duration_seconds": null
+    "duration_seconds": 286,
+    "duracion": "04:46"
   },
   {
     "id": 329,
@@ -6032,7 +6360,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 57.970001220703125,
     "latent_y": 48.310001373291016,
     "latent_z": 25.18000030517578,
-    "duration_seconds": null
+    "duration_seconds": 1562,
+    "duracion": "26:02"
   },
   {
     "id": 330,
@@ -6050,7 +6379,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 60.689998626708984,
     "latent_y": 6.380000114440918,
     "latent_z": -1.6699999570846558,
-    "duration_seconds": null
+    "duration_seconds": 1588,
+    "duracion": "26:28"
   },
   {
     "id": 331,
@@ -6068,7 +6398,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 85.61000061035156,
     "latent_y": -80.73999786376953,
     "latent_z": -56.880001068115234,
-    "duration_seconds": null
+    "duration_seconds": 421,
+    "duracion": "07:01"
   },
   {
     "id": 332,
@@ -6087,7 +6418,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 68.13999938964844,
     "latent_y": 51.959999084472656,
     "latent_z": 37.459999084472656,
-    "duration_seconds": null
+    "duration_seconds": 1824,
+    "duracion": "30:24"
   },
   {
     "id": 333,
@@ -6106,7 +6438,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 61.54999923706055,
     "latent_y": 42.779998779296875,
     "latent_z": -16.1299991607666,
-    "duration_seconds": null
+    "duration_seconds": 411,
+    "duracion": "06:51"
   },
   {
     "id": 334,
@@ -6124,7 +6457,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 57.459999084472656,
     "latent_y": 0.1599999964237213,
     "latent_z": 6.070000171661377,
-    "duration_seconds": null
+    "duration_seconds": 616,
+    "duracion": "10:16"
   },
   {
     "id": 335,
@@ -6143,7 +6477,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 71.02999877929688,
     "latent_y": 25.450000762939453,
     "latent_z": 17.190000534057617,
-    "duration_seconds": null
+    "duration_seconds": 167,
+    "duracion": "02:47"
   },
   {
     "id": 336,
@@ -6161,7 +6496,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 82.62000274658203,
     "latent_y": -103.51000213623047,
     "latent_z": -32.709999084472656,
-    "duration_seconds": null
+    "duration_seconds": 381,
+    "duracion": "06:21"
   },
   {
     "id": 337,
@@ -6179,7 +6515,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 55.54999923706055,
     "latent_y": 8.149999618530273,
     "latent_z": -2.200000047683716,
-    "duration_seconds": null
+    "duration_seconds": 1014,
+    "duracion": "16:54"
   },
   {
     "id": 338,
@@ -6199,7 +6536,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 64.08999633789062,
     "latent_y": 51.63999938964844,
     "latent_z": -39.09000015258789,
-    "duration_seconds": null
+    "duration_seconds": 677,
+    "duracion": "11:17"
   },
   {
     "id": 339,
@@ -6218,7 +6556,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 86.29000091552734,
     "latent_y": 66.1500015258789,
     "latent_z": 35.4900016784668,
-    "duration_seconds": null
+    "duration_seconds": 1778,
+    "duracion": "29:38"
   },
   {
     "id": 340,
@@ -6236,7 +6575,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 57.34000015258789,
     "latent_y": -8.15999984741211,
     "latent_z": -8.289999961853027,
-    "duration_seconds": null
+    "duration_seconds": 426,
+    "duracion": "07:06"
   },
   {
     "id": 341,
@@ -6256,7 +6596,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 69.0199966430664,
     "latent_y": -66.30999755859375,
     "latent_z": -26.700000762939453,
-    "duration_seconds": null
+    "duration_seconds": 380,
+    "duracion": "06:20"
   },
   {
     "id": 342,
@@ -6274,7 +6615,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 80.04000091552734,
     "latent_y": 112.6500015258789,
     "latent_z": -6.769999980926514,
-    "duration_seconds": null
+    "duration_seconds": 148,
+    "duracion": "02:28"
   },
   {
     "id": 343,
@@ -6292,7 +6634,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 78.6500015258789,
     "latent_y": -23.850000381469727,
     "latent_z": -84.88999938964844,
-    "duration_seconds": null
+    "duration_seconds": 695,
+    "duracion": "11:35"
   },
   {
     "id": 344,
@@ -6310,7 +6653,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 86.87000274658203,
     "latent_y": -100.2300033569336,
     "latent_z": -24.959999084472656,
-    "duration_seconds": null
+    "duration_seconds": 44,
+    "duracion": "00:44"
   },
   {
     "id": 345,
@@ -6328,7 +6672,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 77.75,
     "latent_y": -107.04000091552734,
     "latent_z": -45.68000030517578,
-    "duration_seconds": null
+    "duration_seconds": 159,
+    "duracion": "02:39"
   },
   {
     "id": 346,
@@ -6346,7 +6691,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 75.16999816894531,
     "latent_y": -9.210000038146973,
     "latent_z": -65.08000183105469,
-    "duration_seconds": null
+    "duration_seconds": 686,
+    "duracion": "11:26"
   },
   {
     "id": 347,
@@ -6366,7 +6712,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 80.18000030517578,
     "latent_y": 37.58000183105469,
     "latent_z": 32.380001068115234,
-    "duration_seconds": null
+    "duration_seconds": 62,
+    "duracion": "01:02"
   },
   {
     "id": 348,
@@ -6384,7 +6731,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 77.06999969482422,
     "latent_y": 94.01000213623047,
     "latent_z": -36.7599983215332,
-    "duration_seconds": null
+    "duration_seconds": 212,
+    "duracion": "03:32"
   },
   {
     "id": 349,
@@ -6402,7 +6750,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 83.62000274658203,
     "latent_y": -21.920000076293945,
     "latent_z": -95.5199966430664,
-    "duration_seconds": null
+    "duration_seconds": 141,
+    "duracion": "02:21"
   },
   {
     "id": 350,
@@ -6420,7 +6769,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 72.1500015258789,
     "latent_y": -9.220000267028809,
     "latent_z": -111.83999633789062,
-    "duration_seconds": null
+    "duration_seconds": 2268,
+    "duracion": "37:48"
   },
   {
     "id": 351,
@@ -6439,7 +6789,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 70.33000183105469,
     "latent_y": 52.36000061035156,
     "latent_z": 9.239999771118164,
-    "duration_seconds": null
+    "duration_seconds": 172,
+    "duracion": "02:52"
   },
   {
     "id": 352,
@@ -6458,7 +6809,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 73.37999725341797,
     "latent_y": -59.130001068115234,
     "latent_z": 2.380000114440918,
-    "duration_seconds": null
+    "duration_seconds": 704,
+    "duracion": "11:44"
   },
   {
     "id": 353,
@@ -6476,7 +6828,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 73.86000061035156,
     "latent_y": -15.859999656677246,
     "latent_z": -82.69999694824219,
-    "duration_seconds": null
+    "duration_seconds": 1038,
+    "duracion": "17:18"
   },
   {
     "id": 354,
@@ -6495,7 +6848,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 94.2699966430664,
     "latent_y": -55.77000045776367,
     "latent_z": -40.97999954223633,
-    "duration_seconds": null
+    "duration_seconds": 440,
+    "duracion": "07:20"
   },
   {
     "id": 355,
@@ -6513,7 +6867,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 76.68000030517578,
     "latent_y": 17.030000686645508,
     "latent_z": -88.33999633789062,
-    "duration_seconds": null
+    "duration_seconds": 175,
+    "duracion": "02:55"
   },
   {
     "id": 356,
@@ -6532,7 +6887,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 75.13999938964844,
     "latent_y": 32.380001068115234,
     "latent_z": -24.280000686645508,
-    "duration_seconds": null
+    "duration_seconds": 700,
+    "duracion": "11:40"
   },
   {
     "id": 357,
@@ -6550,7 +6906,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 95.86000061035156,
     "latent_y": 39.529998779296875,
     "latent_z": -52.77000045776367,
-    "duration_seconds": null
+    "duration_seconds": 324,
+    "duracion": "05:24"
   },
   {
     "id": 358,
@@ -6568,7 +6925,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 73.13999938964844,
     "latent_y": 8.40999984741211,
     "latent_z": -60.29999923706055,
-    "duration_seconds": null
+    "duration_seconds": 413,
+    "duracion": "06:53"
   },
   {
     "id": 359,
@@ -6587,7 +6945,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 58.68000030517578,
     "latent_y": 53.599998474121094,
     "latent_z": -27.219999313354492,
-    "duration_seconds": null
+    "duration_seconds": 551,
+    "duracion": "09:11"
   },
   {
     "id": 360,
@@ -6605,7 +6964,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 79.80999755859375,
     "latent_y": -12.600000381469727,
     "latent_z": -105.5999984741211,
-    "duration_seconds": null
+    "duration_seconds": 507,
+    "duracion": "08:27"
   },
   {
     "id": 361,
@@ -6623,7 +6983,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 80.37000274658203,
     "latent_y": -10.1899995803833,
     "latent_z": -78.58000183105469,
-    "duration_seconds": null
+    "duration_seconds": 50,
+    "duracion": "00:50"
   },
   {
     "id": 362,
@@ -6641,7 +7002,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 81.48999786376953,
     "latent_y": -30.559999465942383,
     "latent_z": 0.23000000417232513,
-    "duration_seconds": null
+    "duration_seconds": 947,
+    "duracion": "15:47"
   },
   {
     "id": 363,
@@ -6659,7 +7021,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 60.459999084472656,
     "latent_y": 9.920000076293945,
     "latent_z": 14.760000228881836,
-    "duration_seconds": null
+    "duration_seconds": 115,
+    "duracion": "01:55"
   },
   {
     "id": 364,
@@ -6678,7 +7041,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 56.34000015258789,
     "latent_y": 38.720001220703125,
     "latent_z": -24.8700008392334,
-    "duration_seconds": null
+    "duration_seconds": 967,
+    "duracion": "16:07"
   },
   {
     "id": 365,
@@ -6696,7 +7060,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 89.45999908447266,
     "latent_y": -87.29000091552734,
     "latent_z": -37.70000076293945,
-    "duration_seconds": null
+    "duration_seconds": 195,
+    "duracion": "03:15"
   },
   {
     "id": 366,
@@ -6714,7 +7079,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 69.83999633789062,
     "latent_y": -2.3499999046325684,
     "latent_z": -68.43000030517578,
-    "duration_seconds": null
+    "duration_seconds": 404,
+    "duracion": "06:44"
   },
   {
     "id": 367,
@@ -6733,7 +7099,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 69.2300033569336,
     "latent_y": 40.47999954223633,
     "latent_z": 4.360000133514404,
-    "duration_seconds": null
+    "duration_seconds": 178,
+    "duracion": "02:58"
   },
   {
     "id": 368,
@@ -6751,7 +7118,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 76.27999877929688,
     "latent_y": -0.25,
     "latent_z": -77.69999694824219,
-    "duration_seconds": null
+    "duration_seconds": 303,
+    "duracion": "05:03"
   },
   {
     "id": 369,
@@ -6771,7 +7139,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 66.11000061035156,
     "latent_y": 54.15999984741211,
     "latent_z": -3.0199999809265137,
-    "duration_seconds": null
+    "duration_seconds": 133,
+    "duracion": "02:13"
   },
   {
     "id": 370,
@@ -6789,7 +7158,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 69.80000305175781,
     "latent_y": -19.479999542236328,
     "latent_z": -63.91999816894531,
-    "duration_seconds": null
+    "duration_seconds": 168,
+    "duracion": "02:48"
   },
   {
     "id": 371,
@@ -6808,7 +7178,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 65.58999633789062,
     "latent_y": 29.18000030517578,
     "latent_z": 16.540000915527344,
-    "duration_seconds": null
+    "duration_seconds": 145,
+    "duracion": "02:25"
   },
   {
     "id": 372,
@@ -6826,7 +7197,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 64.58999633789062,
     "latent_y": -15.75,
     "latent_z": -100.9800033569336,
-    "duration_seconds": null
+    "duration_seconds": 236,
+    "duracion": "03:56"
   },
   {
     "id": 373,
@@ -6845,7 +7217,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 84.20999908447266,
     "latent_y": -81.0,
     "latent_z": 1.0,
-    "duration_seconds": null
+    "duration_seconds": 158,
+    "duracion": "02:38"
   },
   {
     "id": 374,
@@ -6864,7 +7237,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 90.30999755859375,
     "latent_y": -14.239999771118164,
     "latent_z": -83.02999877929688,
-    "duration_seconds": null
+    "duration_seconds": 176,
+    "duracion": "02:56"
   },
   {
     "id": 375,
@@ -6882,7 +7256,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 72.05000305175781,
     "latent_y": -2.890000104904175,
     "latent_z": -87.83999633789062,
-    "duration_seconds": null
+    "duration_seconds": 957,
+    "duracion": "15:57"
   },
   {
     "id": 376,
@@ -6900,7 +7275,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 91.7300033569336,
     "latent_y": 67.94000244140625,
     "latent_z": -32.470001220703125,
-    "duration_seconds": null
+    "duration_seconds": 173,
+    "duracion": "02:53"
   },
   {
     "id": 377,
@@ -6918,7 +7294,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 69.87999725341797,
     "latent_y": -21.68000030517578,
     "latent_z": -94.55999755859375,
-    "duration_seconds": null
+    "duration_seconds": 733,
+    "duracion": "12:13"
   },
   {
     "id": 378,
@@ -6936,7 +7313,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 76.23999786376953,
     "latent_y": -19.729999542236328,
     "latent_z": -16.790000915527344,
-    "duration_seconds": null
+    "duration_seconds": 106,
+    "duracion": "01:46"
   },
   {
     "id": 379,
@@ -6954,7 +7332,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 79.02999877929688,
     "latent_y": -33.0,
     "latent_z": -102.97000122070312,
-    "duration_seconds": null
+    "duration_seconds": 222,
+    "duracion": "03:42"
   },
   {
     "id": 380,
@@ -6972,7 +7351,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 80.0199966430664,
     "latent_y": -78.02999877929688,
     "latent_z": -21.3700008392334,
-    "duration_seconds": null
+    "duration_seconds": 160,
+    "duracion": "02:40"
   },
   {
     "id": 381,
@@ -6990,7 +7370,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 77.8499984741211,
     "latent_y": 23.229999542236328,
     "latent_z": -107.75,
-    "duration_seconds": null
+    "duration_seconds": 1741,
+    "duracion": "29:01"
   },
   {
     "id": 382,
@@ -7008,7 +7389,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 81.30999755859375,
     "latent_y": 4.809999942779541,
     "latent_z": -96.5199966430664,
-    "duration_seconds": null
+    "duration_seconds": 150,
+    "duracion": "02:30"
   },
   {
     "id": 383,
@@ -7026,7 +7408,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 84.37999725341797,
     "latent_y": -99.44999694824219,
     "latent_z": -5.369999885559082,
-    "duration_seconds": null
+    "duration_seconds": 174,
+    "duracion": "02:54"
   },
   {
     "id": 384,
@@ -7044,7 +7427,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 80.30000305175781,
     "latent_y": -90.25,
     "latent_z": 0.7599999904632568,
-    "duration_seconds": null
+    "duration_seconds": 77,
+    "duracion": "01:17"
   },
   {
     "id": 385,
@@ -7063,7 +7447,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 90.56999969482422,
     "latent_y": -1.4500000476837158,
     "latent_z": -83.68000030517578,
-    "duration_seconds": null
+    "duration_seconds": 269,
+    "duracion": "04:29"
   },
   {
     "id": 386,
@@ -7081,7 +7466,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 68.52999877929688,
     "latent_y": 14.489999771118164,
     "latent_z": -114.66000366210938,
-    "duration_seconds": null
+    "duration_seconds": 122,
+    "duracion": "02:02"
   },
   {
     "id": 387,
@@ -7099,7 +7485,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 67.3499984741211,
     "latent_y": 12.079999923706055,
     "latent_z": -92.79000091552734,
-    "duration_seconds": null
+    "duration_seconds": 169,
+    "duracion": "02:49"
   },
   {
     "id": 388,
@@ -7117,7 +7504,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 68.19999694824219,
     "latent_y": -10.130000114440918,
     "latent_z": -79.75,
-    "duration_seconds": null
+    "duration_seconds": 151,
+    "duracion": "02:31"
   },
   {
     "id": 389,
@@ -7135,7 +7523,8 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 63.560001373291016,
     "latent_y": 4.539999961853027,
     "latent_z": -106.31999969482422,
-    "duration_seconds": null
+    "duration_seconds": 91,
+    "duracion": "01:31"
   },
   {
     "id": 390,
@@ -7153,7 +7542,7 @@ const VSC_TUTORIALS_DATA = [
     "latent_x": 74.83999633789062,
     "latent_y": -6.920000076293945,
     "latent_z": 86.52999877929688,
-    "duration_seconds": null
+    "duration_seconds": 3610,
+    "duracion": "01:00:10"
   }
 ];
-window.VSC_DATA = VSC_TUTORIALS_DATA;

@@ -13,7 +13,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 79.9800033569336,
     "latent_y": -12.640000343322754,
-    "latent_z": 93.2699966430664
+    "latent_z": 93.2699966430664,
+    "duration_seconds": 7560,
+    "duracion": "02:06:00"
   },
   {
     "vid": "G3e-cpL7ofc",
@@ -30,7 +32,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 102.69000244140625,
     "latent_y": -53.220001220703125,
-    "latent_z": 28.0
+    "latent_z": 28.0,
+    "duration_seconds": 23476,
+    "duracion": "06:31:16"
   },
   {
     "vid": "W6NZfCO5SIk",
@@ -47,7 +51,9 @@
     "fecha_publicacion": "2018-08-11",
     "latent_x": 98.18000030517578,
     "latent_y": -57.689998626708984,
-    "latent_z": 40.349998474121094
+    "latent_z": 40.349998474121094,
+    "duration_seconds": 2897,
+    "duracion": "48:17"
   },
   {
     "vid": "qz0aGYrrlhU",
@@ -64,7 +70,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 104.51000213623047,
     "latent_y": -48.779998779296875,
-    "latent_z": 13.359999656677246
+    "latent_z": 13.359999656677246,
+    "duration_seconds": 4173,
+    "duracion": "01:09:33"
   },
   {
     "vid": "tVzUXW6siu0",
@@ -81,7 +89,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 83.66000366210938,
     "latent_y": -17.690000534057617,
-    "latent_z": 35.65999984741211
+    "latent_z": 35.65999984741211,
+    "duration_seconds": 1879,
+    "duracion": "31:19"
   },
   {
     "vid": "Ez8F0nW6S-w",
@@ -97,7 +107,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 86.79000091552734,
     "latent_y": 108.0199966430664,
-    "latent_z": -40.38999938964844
+    "latent_z": -40.38999938964844,
+    "duration_seconds": 4457,
+    "duracion": "01:14:17"
   },
   {
     "vid": "UB1O30fR-EE",
@@ -113,7 +125,9 @@
     "fecha_publicacion": "2017-08-11",
     "latent_x": 79.98999786376953,
     "latent_y": -5.119999885559082,
-    "latent_z": 74.22000122070312
+    "latent_z": 74.22000122070312,
+    "duration_seconds": 3642,
+    "duracion": "01:00:42"
   },
   {
     "vid": "CQZxeoQeo5c",
@@ -129,7 +143,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 92.62000274658203,
     "latent_y": -15.399999618530273,
-    "latent_z": 96.5
+    "latent_z": 96.5,
+    "duration_seconds": 1638,
+    "duracion": "27:18"
   },
   {
     "vid": "HGTJBPNC-Gw",
@@ -146,7 +162,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 101.38999938964844,
     "latent_y": -61.22999954223633,
-    "latent_z": 16.5
+    "latent_z": 16.5,
+    "duration_seconds": 14562,
+    "duracion": "04:02:42"
   },
   {
     "vid": "hdI2bqOjy3c",
@@ -162,7 +180,9 @@
     "fecha_publicacion": "2019-08-11",
     "latent_x": 77.38999938964844,
     "latent_y": -16.989999771118164,
-    "latent_z": 68.43000030517578
+    "latent_z": 68.43000030517578,
+    "duration_seconds": 6030,
+    "duracion": "01:40:30"
   },
   {
     "vid": "TeZdo8mx0gc",
@@ -178,7 +198,9 @@
     "fecha_publicacion": "2020-08-10",
     "latent_x": 75.61000061035156,
     "latent_y": -16.799999237060547,
-    "latent_z": 110.76000213623047
+    "latent_z": 110.76000213623047,
+    "duration_seconds": 1070,
+    "duracion": "17:50"
   },
   {
     "vid": "b093aqAZiPU",
@@ -195,7 +217,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 80.91999816894531,
     "latent_y": 1.690000057220459,
-    "latent_z": 7.199999809265137
+    "latent_z": 7.199999809265137,
+    "duration_seconds": 3801,
+    "duracion": "01:03:21"
   },
   {
     "vid": "8PhdfcX9tG0",
@@ -211,7 +235,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 114.94000244140625,
     "latent_y": 20.610000610351562,
-    "latent_z": 17.290000915527344
+    "latent_z": 17.290000915527344,
+    "duration_seconds": 627,
+    "duracion": "10:27"
   },
   {
     "vid": "HD13eq_Pmp8",
@@ -227,7 +253,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 78.02999877929688,
     "latent_y": -33.95000076293945,
-    "latent_z": 99.58000183105469
+    "latent_z": 99.58000183105469,
+    "duration_seconds": 3600,
+    "duracion": "01:00:00"
   },
   {
     "vid": "8JJ101D3knE",
@@ -243,7 +271,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 92.61000061035156,
     "latent_y": 101.08000183105469,
-    "latent_z": -16.280000686645508
+    "latent_z": -16.280000686645508,
+    "duration_seconds": 4153,
+    "duracion": "01:09:13"
   },
   {
     "vid": "VqCgcpAypFQ",
@@ -259,7 +289,9 @@
     "fecha_publicacion": "2018-08-11",
     "latent_x": 97.54000091552734,
     "latent_y": 28.59000015258789,
-    "latent_z": -32.93000030517578
+    "latent_z": -32.93000030517578,
+    "duration_seconds": 2028,
+    "duracion": "33:48"
   },
   {
     "vid": "nu_pCVPKzTk",
@@ -276,7 +308,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 103.06999969482422,
     "latent_y": -55.20000076293945,
-    "latent_z": 46.97999954223633
+    "latent_z": 46.97999954223633,
+    "duration_seconds": 26951,
+    "duracion": "07:29:11"
   },
   {
     "vid": "m4-HM_sCvtQ",
@@ -292,7 +326,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 107.63999938964844,
     "latent_y": -0.9800000190734863,
-    "latent_z": 37.70000076293945
+    "latent_z": 37.70000076293945,
+    "duration_seconds": 141,
+    "duracion": "02:21"
   },
   {
     "vid": "r6tH55syq0o",
@@ -308,7 +344,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 108.81999969482422,
     "latent_y": 24.530000686645508,
-    "latent_z": -4.460000038146973
+    "latent_z": -4.460000038146973,
+    "duration_seconds": 379,
+    "duracion": "06:19"
   },
   {
     "vid": "NtfbWkxJTHw",
@@ -324,7 +362,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 108.19999694824219,
     "latent_y": 50.34000015258789,
-    "latent_z": -20.229999542236328
+    "latent_z": -20.229999542236328,
+    "duration_seconds": 405,
+    "duracion": "06:45"
   },
   {
     "vid": "cuHDQhDhvPE",
@@ -340,7 +380,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 72.79000091552734,
     "latent_y": -34.88999938964844,
-    "latent_z": 47.38999938964844
+    "latent_z": 47.38999938964844,
+    "duration_seconds": 1318,
+    "duracion": "21:58"
   },
   {
     "vid": "XBu54nfzxAQ",
@@ -356,7 +398,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 73.70999908447266,
     "latent_y": -24.56999969482422,
-    "latent_z": 87.27999877929688
+    "latent_z": 87.27999877929688,
+    "duration_seconds": 777,
+    "duracion": "12:57"
   },
   {
     "vid": "ifTF3ags0XI",
@@ -373,7 +417,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 56.88999938964844,
     "latent_y": 52.06999969482422,
-    "latent_z": -15.75
+    "latent_z": -15.75,
+    "duration_seconds": 695,
+    "duracion": "11:35"
   },
   {
     "vid": "66tfvFeALBQ",
@@ -389,7 +435,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 103.23999786376953,
     "latent_y": 58.38999938964844,
-    "latent_z": -43.34000015258789
+    "latent_z": -43.34000015258789,
+    "duration_seconds": 918,
+    "duracion": "15:18"
   },
   {
     "vid": "goy4lZfDtCE",
@@ -405,7 +453,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 70.5999984741211,
     "latent_y": -25.190000534057617,
-    "latent_z": 69.20999908447266
+    "latent_z": 69.20999908447266,
+    "duration_seconds": 558,
+    "duracion": "09:18"
   },
   {
     "vid": "9VE7p-he4fA",
@@ -421,7 +471,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 98.04000091552734,
     "latent_y": 23.3700008392334,
-    "latent_z": 6.889999866485596
+    "latent_z": 6.889999866485596,
+    "duration_seconds": 344,
+    "duracion": "05:44"
   },
   {
     "vid": "AdygBbbEnco",
@@ -437,7 +489,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 92.08000183105469,
     "latent_y": 41.599998474121094,
-    "latent_z": -67.0199966430664
+    "latent_z": -67.0199966430664,
+    "duration_seconds": 520,
+    "duracion": "08:40"
   },
   {
     "vid": "wRNinF7YQqQ",
@@ -453,7 +507,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 80.95999908447266,
     "latent_y": -42.939998626708984,
-    "latent_z": 102.12000274658203
+    "latent_z": 102.12000274658203,
+    "duration_seconds": 3600,
+    "duracion": "01:00:00"
   },
   {
     "vid": "PtQiiknWUcI",
@@ -469,7 +525,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 75.27999877929688,
     "latent_y": -11.739999771118164,
-    "latent_z": 0.33000001311302185
+    "latent_z": 0.33000001311302185,
+    "duration_seconds": 25804,
+    "duracion": "07:10:04"
   },
   {
     "vid": "xND0t1pr3KY",
@@ -485,7 +543,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 100.38999938964844,
     "latent_y": -29.8799991607666,
-    "latent_z": -16.440000534057617
+    "latent_z": -16.440000534057617,
+    "duration_seconds": 24814,
+    "duracion": "06:53:34"
   },
   {
     "vid": "C5QFHp1oAws",
@@ -502,7 +562,9 @@
     "fecha_publicacion": "2019-08-11",
     "latent_x": 98.5199966430664,
     "latent_y": -60.880001068115234,
-    "latent_z": 4.639999866485596
+    "latent_z": 4.639999866485596,
+    "duration_seconds": 14237,
+    "duracion": "03:57:17"
   },
   {
     "vid": "DMWD7wfhgNY",
@@ -518,7 +580,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 98.29000091552734,
     "latent_y": 18.719999313354492,
-    "latent_z": -5.920000076293945
+    "latent_z": -5.920000076293945,
+    "duration_seconds": 413,
+    "duracion": "06:53"
   },
   {
     "vid": "erEgovG9WBs",
@@ -535,7 +599,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 96.8499984741211,
     "latent_y": -40.81999969482422,
-    "latent_z": 34.7599983215332
+    "latent_z": 34.7599983215332,
+    "duration_seconds": 798,
+    "duracion": "13:18"
   },
   {
     "vid": "i_23KUAEtUM",
@@ -552,7 +618,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 92.05000305175781,
     "latent_y": 47.79999923706055,
-    "latent_z": 19.0
+    "latent_z": 19.0,
+    "duration_seconds": 416,
+    "duracion": "06:56"
   },
   {
     "vid": "x2WtHZciC74",
@@ -568,7 +636,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 112.22000122070312,
     "latent_y": 32.040000915527344,
-    "latent_z": -13.9399995803833
+    "latent_z": -13.9399995803833,
+    "duration_seconds": 348,
+    "duracion": "05:48"
   },
   {
     "vid": "Tw18-4U7mts",
@@ -584,7 +654,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 116.0999984741211,
     "latent_y": -2.569999933242798,
-    "latent_z": 0.5
+    "latent_z": 0.5,
+    "duration_seconds": 286,
+    "duracion": "04:46"
   },
   {
     "vid": "qaB5HF4ax9M",
@@ -600,7 +672,9 @@
     "fecha_publicacion": "2026-04-11",
     "latent_x": 119.19999694824219,
     "latent_y": -10.010000228881836,
-    "latent_z": -30.8700008392334
+    "latent_z": -30.8700008392334,
+    "duration_seconds": 290,
+    "duracion": "04:50"
   },
   {
     "vid": "aXOChLn5ZdQ",
@@ -616,7 +690,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 79.25,
     "latent_y": -47.38999938964844,
-    "latent_z": 64.44999694824219
+    "latent_z": 64.44999694824219,
+    "duration_seconds": 169,
+    "duracion": "02:49"
   },
   {
     "vid": "ufKRYe8ZPaw",
@@ -633,7 +709,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 86.12999725341797,
     "latent_y": 43.84000015258789,
-    "latent_z": 9.289999961853027
+    "latent_z": 9.289999961853027,
+    "duration_seconds": 673,
+    "duracion": "11:13"
   },
   {
     "vid": "TBIjgBVFjVI",
@@ -650,7 +728,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 58.09000015258789,
     "latent_y": -30.649999618530273,
-    "latent_z": 3.2200000286102295
+    "latent_z": 3.2200000286102295,
+    "duration_seconds": 223,
+    "duracion": "03:43"
   },
   {
     "vid": "PoRJizFvM7s",
@@ -666,7 +746,9 @@
     "fecha_publicacion": "2018-08-11",
     "latent_x": 80.3499984741211,
     "latent_y": 2.1600000858306885,
-    "latent_z": 55.0
+    "latent_z": 55.0,
+    "duration_seconds": 1470,
+    "duracion": "24:30"
   },
   {
     "vid": "gT0Lh1eYk78",
@@ -682,7 +764,9 @@
     "fecha_publicacion": "2017-08-11",
     "latent_x": 83.8499984741211,
     "latent_y": -19.889999389648438,
-    "latent_z": 76.66999816894531
+    "latent_z": 76.66999816894531,
+    "duration_seconds": 237,
+    "duracion": "03:57"
   },
   {
     "vid": "HCOQmKTFzYY",
@@ -698,7 +782,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 71.79000091552734,
     "latent_y": -24.309999465942383,
-    "latent_z": -6.090000152587891
+    "latent_z": -6.090000152587891,
+    "duration_seconds": 241,
+    "duracion": "04:01"
   },
   {
     "vid": "WPqXP_kLzpo",
@@ -714,7 +800,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 97.58000183105469,
     "latent_y": 1.0399999618530273,
-    "latent_z": -6.610000133514404
+    "latent_z": -6.610000133514404,
+    "duration_seconds": 5555,
+    "duracion": "01:32:35"
   },
   {
     "vid": "a9u2yZvsqHA",
@@ -730,7 +818,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 82.80000305175781,
     "latent_y": 99.73999786376953,
-    "latent_z": -32.220001220703125
+    "latent_z": -32.220001220703125,
+    "duration_seconds": 629,
+    "duracion": "10:29"
   },
   {
     "vid": "-txKSRn0qeA",
@@ -746,7 +836,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 65.98999786376953,
     "latent_y": -31.959999084472656,
-    "latent_z": -79.41999816894531
+    "latent_z": -79.41999816894531,
+    "duration_seconds": 712,
+    "duracion": "11:52"
   },
   {
     "vid": "9o4gDQvVkLU",
@@ -762,7 +854,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 74.2699966430664,
     "latent_y": -24.739999771118164,
-    "latent_z": 9.760000228881836
+    "latent_z": 9.760000228881836,
+    "duration_seconds": 416,
+    "duracion": "06:56"
   },
   {
     "vid": "FazgJVnrVuI",
@@ -779,7 +873,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 107.66000366210938,
     "latent_y": -71.33999633789062,
-    "latent_z": 26.5
+    "latent_z": 26.5,
+    "duration_seconds": 5142,
+    "duracion": "01:25:42"
   },
   {
     "vid": "HFWQdGn5DaU",
@@ -795,7 +891,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 87.80999755859375,
     "latent_y": -2.5899999141693115,
-    "latent_z": -17.84000015258789
+    "latent_z": -17.84000015258789,
+    "duration_seconds": 11839,
+    "duracion": "03:17:19"
   },
   {
     "vid": "Ibjm2KHfymo",
@@ -811,7 +909,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 108.68000030517578,
     "latent_y": 2.130000114440918,
-    "latent_z": 17.329999923706055
+    "latent_z": 17.329999923706055,
+    "duration_seconds": 219,
+    "duracion": "03:39"
   },
   {
     "vid": "mL1IcxIUd5Y",
@@ -827,7 +927,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 82.58999633789062,
     "latent_y": -37.72999954223633,
-    "latent_z": 75.75
+    "latent_z": 75.75,
+    "duration_seconds": 105,
+    "duracion": "01:45"
   },
   {
     "vid": "NIgrGqmoeHs",
@@ -844,7 +946,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 63.11000061035156,
     "latent_y": 12.140000343322754,
-    "latent_z": 43.75
+    "latent_z": 43.75,
+    "duration_seconds": 259,
+    "duracion": "04:19"
   },
   {
     "vid": "KMxo3T_MTvY",
@@ -860,7 +964,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 102.04000091552734,
     "latent_y": -6.760000228881836,
-    "latent_z": 37.95000076293945
+    "latent_z": 37.95000076293945,
+    "duration_seconds": 153,
+    "duracion": "02:33"
   },
   {
     "vid": "srvUrASNj0s",
@@ -877,7 +983,9 @@
     "fecha_publicacion": "2020-08-10",
     "latent_x": 106.22000122070312,
     "latent_y": -70.5,
-    "latent_z": 11.960000038146973
+    "latent_z": 11.960000038146973,
+    "duration_seconds": 15064,
+    "duracion": "04:11:04"
   },
   {
     "vid": "4sosXZsdy-s",
@@ -893,7 +1001,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 98.5999984741211,
     "latent_y": -7.170000076293945,
-    "latent_z": 13.0
+    "latent_z": 13.0,
+    "duration_seconds": 4728,
+    "duracion": "01:18:48"
   },
   {
     "vid": "t90FMQr9WWc",
@@ -909,7 +1019,9 @@
     "fecha_publicacion": "2019-08-11",
     "latent_x": 78.7699966430664,
     "latent_y": -18.219999313354492,
-    "latent_z": 12.0600004196167
+    "latent_z": 12.0600004196167,
+    "duration_seconds": 3177,
+    "duracion": "52:57"
   },
   {
     "vid": "PQ2WjtaPfXU",
@@ -925,7 +1037,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 76.70999908447266,
     "latent_y": -63.689998626708984,
-    "latent_z": 53.33000183105469
+    "latent_z": 53.33000183105469,
+    "duration_seconds": 248,
+    "duracion": "04:08"
   },
   {
     "vid": "VkezQMb1DHw",
@@ -941,7 +1055,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 69.98999786376953,
     "latent_y": -52.130001068115234,
-    "latent_z": 56.86000061035156
+    "latent_z": 56.86000061035156,
+    "duration_seconds": 166,
+    "duracion": "02:46"
   },
   {
     "vid": "ORrELERGIHs",
@@ -957,7 +1073,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 97.56999969482422,
     "latent_y": -8.90999984741211,
-    "latent_z": -45.7599983215332
+    "latent_z": -45.7599983215332,
+    "duration_seconds": 1376,
+    "duracion": "22:56"
   },
   {
     "vid": "JGz7Ou0Nwo8",
@@ -973,7 +1091,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 52.209999084472656,
     "latent_y": -12.520000457763672,
-    "latent_z": 11.220000267028809
+    "latent_z": 11.220000267028809,
+    "duration_seconds": 238,
+    "duracion": "03:58"
   },
   {
     "vid": "Ei1y51K8jQk",
@@ -989,7 +1109,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 91.55000305175781,
     "latent_y": -14.65999984741211,
-    "latent_z": -33.400001525878906
+    "latent_z": -33.400001525878906,
+    "duration_seconds": 3941,
+    "duracion": "01:05:41"
   },
   {
     "vid": "bS9R6aCVEzw",
@@ -1005,7 +1127,9 @@
     "fecha_publicacion": "2025-10-13",
     "latent_x": 107.86000061035156,
     "latent_y": -11.210000038146973,
-    "latent_z": -1.559999942779541
+    "latent_z": -1.559999942779541,
+    "duration_seconds": 355,
+    "duracion": "05:55"
   },
   {
     "vid": "zQnBQ4tB3ZA",
@@ -1022,7 +1146,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 101.33999633789062,
     "latent_y": -31.969999313354492,
-    "latent_z": 36.18000030517578
+    "latent_z": 36.18000030517578,
+    "duration_seconds": 145,
+    "duracion": "02:25"
   },
   {
     "vid": "c4OyfL5o7DU",
@@ -1038,7 +1164,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 104.83999633789062,
     "latent_y": -14.75,
-    "latent_z": 31.809999465942383
+    "latent_z": 31.809999465942383,
+    "duration_seconds": 131,
+    "duracion": "02:11"
   },
   {
     "vid": "4k6Xgjqkad4",
@@ -1054,7 +1182,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 73.73999786376953,
     "latent_y": -54.91999816894531,
-    "latent_z": 73.0999984741211
+    "latent_z": 73.0999984741211,
+    "duration_seconds": 251,
+    "duracion": "04:11"
   },
   {
     "vid": "TG6XSFeOT3g",
@@ -1071,7 +1201,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 97.16000366210938,
     "latent_y": -53.790000915527344,
-    "latent_z": 25.799999237060547
+    "latent_z": 25.799999237060547,
+    "duration_seconds": 415,
+    "duracion": "06:55"
   },
   {
     "vid": "LDB4uaJ87e0",
@@ -1088,7 +1220,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 99.31999969482422,
     "latent_y": -43.619998931884766,
-    "latent_z": 14.369999885559082
+    "latent_z": 14.369999885559082,
+    "duration_seconds": 11076,
+    "duracion": "03:04:36"
   },
   {
     "vid": "salY_Sm6mv4",
@@ -1104,7 +1238,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 79.29000091552734,
     "latent_y": -27.3799991607666,
-    "latent_z": 81.2300033569336
+    "latent_z": 81.2300033569336,
+    "duration_seconds": 311,
+    "duracion": "05:11"
   },
   {
     "vid": "HIp8sFB2GGw",
@@ -1120,7 +1256,9 @@
     "fecha_publicacion": "2025-11-12",
     "latent_x": 109.5,
     "latent_y": -35.709999084472656,
-    "latent_z": -10.15999984741211
+    "latent_z": -10.15999984741211,
+    "duration_seconds": 276,
+    "duracion": "04:36"
   },
   {
     "vid": "VqZURkN90Ik",
@@ -1136,7 +1274,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 87.94999694824219,
     "latent_y": -64.9000015258789,
-    "latent_z": 90.4800033569336
+    "latent_z": 90.4800033569336,
+    "duration_seconds": 126,
+    "duracion": "02:06"
   },
   {
     "vid": "ndEFbDOsM6c",
@@ -1152,7 +1292,9 @@
     "fecha_publicacion": "2020-08-10",
     "latent_x": 94.01000213623047,
     "latent_y": 8.510000228881836,
-    "latent_z": 16.510000228881836
+    "latent_z": 16.510000228881836,
+    "duration_seconds": 513,
+    "duracion": "08:33"
   },
   {
     "vid": "dutyOc_cAEU",
@@ -1168,7 +1310,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 117.11000061035156,
     "latent_y": -24.790000915527344,
-    "latent_z": -37.599998474121094
+    "latent_z": -37.599998474121094,
+    "duration_seconds": 978,
+    "duracion": "16:18"
   },
   {
     "vid": "D2cwvpJSBX4",
@@ -1185,7 +1329,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 84.13999938964844,
     "latent_y": -3.759999990463257,
-    "latent_z": 6.929999828338623
+    "latent_z": 6.929999828338623,
+    "duration_seconds": 619,
+    "duracion": "10:19"
   },
   {
     "vid": "p0bGHP-PXD4",
@@ -1201,7 +1347,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 89.23999786376953,
     "latent_y": -32.13999938964844,
-    "latent_z": 103.98999786376953
+    "latent_z": 103.98999786376953,
+    "duration_seconds": 7341,
+    "duracion": "02:02:21"
   },
   {
     "vid": "X3jw1JVNdPE",
@@ -1217,7 +1365,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 80.94000244140625,
     "latent_y": -76.83999633789062,
-    "latent_z": -42.04999923706055
+    "latent_z": -42.04999923706055,
+    "duration_seconds": 439,
+    "duracion": "07:19"
   },
   {
     "vid": "YP73B9D20V4",
@@ -1233,7 +1383,9 @@
     "fecha_publicacion": "2026-07-26",
     "latent_x": 62.939998626708984,
     "latent_y": 15.829999923706055,
-    "latent_z": -10.6899995803833
+    "latent_z": -10.6899995803833,
+    "duration_seconds": 309,
+    "duracion": "05:09"
   },
   {
     "vid": "jaVNP3nIAv0",
@@ -1249,7 +1401,9 @@
     "fecha_publicacion": "2019-08-11",
     "latent_x": 89.47000122070312,
     "latent_y": -39.400001525878906,
-    "latent_z": 55.38999938964844
+    "latent_z": 55.38999938964844,
+    "duration_seconds": 5237,
+    "duracion": "01:27:17"
   },
   {
     "vid": "a_iQb1lnAEQ",
@@ -1265,7 +1419,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 82.68000030517578,
     "latent_y": -27.559999465942383,
-    "latent_z": 94.79000091552734
+    "latent_z": 94.79000091552734,
+    "duration_seconds": 19304,
+    "duracion": "05:21:44"
   },
   {
     "vid": "jeA-KBv0b68",
@@ -1281,7 +1437,9 @@
     "fecha_publicacion": "2026-05-11",
     "latent_x": 115.29000091552734,
     "latent_y": 10.100000381469727,
-    "latent_z": -26.049999237060547
+    "latent_z": -26.049999237060547,
+    "duration_seconds": 312,
+    "duracion": "05:12"
   },
   {
     "vid": "vtB1J_zCv8I",
@@ -1298,7 +1456,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 78.63999938964844,
     "latent_y": 21.440000534057617,
-    "latent_z": -22.68000030517578
+    "latent_z": -22.68000030517578,
+    "duration_seconds": 181,
+    "duracion": "03:01"
   },
   {
     "vid": "JSuS-zXMVwE",
@@ -1314,7 +1474,9 @@
     "fecha_publicacion": "2026-04-11",
     "latent_x": 86.56999969482422,
     "latent_y": 90.0199966430664,
-    "latent_z": -40.68000030517578
+    "latent_z": -40.68000030517578,
+    "duration_seconds": 302,
+    "duracion": "05:02"
   },
   {
     "vid": "PLKrSVuT-Dg",
@@ -1330,7 +1492,9 @@
     "fecha_publicacion": "2025-11-12",
     "latent_x": 60.34000015258789,
     "latent_y": -12.180000305175781,
-    "latent_z": -18.59000015258789
+    "latent_z": -18.59000015258789,
+    "duration_seconds": 344,
+    "duracion": "05:44"
   },
   {
     "vid": "deg8bOoziaE",
@@ -1346,7 +1510,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 75.29000091552734,
     "latent_y": -37.029998779296875,
-    "latent_z": 75.56999969482422
+    "latent_z": 75.56999969482422,
+    "duration_seconds": 521,
+    "duracion": "08:41"
   },
   {
     "vid": "Fi3AJZZregI",
@@ -1364,7 +1530,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 81.7699966430664,
     "latent_y": 47.540000915527344,
-    "latent_z": 46.529998779296875
+    "latent_z": 46.529998779296875,
+    "duration_seconds": 873,
+    "duracion": "14:33"
   },
   {
     "vid": "BI1o2H9z9fo",
@@ -1380,7 +1548,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 82.58000183105469,
     "latent_y": -51.650001525878906,
-    "latent_z": 45.66999816894531
+    "latent_z": 45.66999816894531,
+    "duration_seconds": 42840,
+    "duracion": "11:54:00"
   },
   {
     "vid": "URKml8lgw8Y",
@@ -1396,7 +1566,9 @@
     "fecha_publicacion": "2026-07-12",
     "latent_x": 84.76000213623047,
     "latent_y": 85.06999969482422,
-    "latent_z": -26.020000457763672
+    "latent_z": -26.020000457763672,
+    "duration_seconds": 299,
+    "duracion": "04:59"
   },
   {
     "vid": "DC2p3kFjcK0",
@@ -1412,7 +1584,9 @@
     "fecha_publicacion": "2025-10-13",
     "latent_x": 50.91999816894531,
     "latent_y": -9.239999771118164,
-    "latent_z": -2.4000000953674316
+    "latent_z": -2.4000000953674316,
+    "duration_seconds": 278,
+    "duracion": "04:38"
   },
   {
     "vid": "_GTMOmRrqkU",
@@ -1429,7 +1603,9 @@
     "fecha_publicacion": "2020-08-10",
     "latent_x": 101.6500015258789,
     "latent_y": -81.76000213623047,
-    "latent_z": 28.979999542236328
+    "latent_z": 28.979999542236328,
+    "duration_seconds": 1908,
+    "duracion": "31:48"
   },
   {
     "vid": "-atblwgc63E",
@@ -1445,7 +1621,9 @@
     "fecha_publicacion": "2020-08-10",
     "latent_x": 76.44999694824219,
     "latent_y": -59.720001220703125,
-    "latent_z": 99.70999908447266
+    "latent_z": 99.70999908447266,
+    "duration_seconds": 635,
+    "duracion": "10:35"
   },
   {
     "vid": "jXp5D5ZnxGM",
@@ -1462,7 +1640,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 72.5,
     "latent_y": 25.260000228881836,
-    "latent_z": 31.530000686645508
+    "latent_z": 31.530000686645508,
+    "duration_seconds": 285,
+    "duracion": "04:45"
   },
   {
     "vid": "3-2Pj5hxwrw",
@@ -1479,7 +1659,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 109.02999877929688,
     "latent_y": -61.13999938964844,
-    "latent_z": 32.869998931884766
+    "latent_z": 32.869998931884766,
+    "duration_seconds": 7501,
+    "duracion": "02:05:01"
   },
   {
     "vid": "wzzh7Not8XE",
@@ -1495,7 +1677,9 @@
     "fecha_publicacion": "2026-03-12",
     "latent_x": 64.80000305175781,
     "latent_y": -0.3400000035762787,
-    "latent_z": -3.0299999713897705
+    "latent_z": -3.0299999713897705,
+    "duration_seconds": 398,
+    "duracion": "06:38"
   },
   {
     "vid": "9uW6B9LPntY",
@@ -1511,7 +1695,9 @@
     "fecha_publicacion": "2026-02-10",
     "latent_x": 59.400001525878906,
     "latent_y": -9.229999542236328,
-    "latent_z": 19.760000228881836
+    "latent_z": 19.760000228881836,
+    "duration_seconds": 369,
+    "duracion": "06:09"
   },
   {
     "vid": "-nh9rCzPJ20",
@@ -1527,7 +1713,9 @@
     "fecha_publicacion": "2019-08-11",
     "latent_x": 77.73999786376953,
     "latent_y": -36.20000076293945,
-    "latent_z": 12.430000305175781
+    "latent_z": 12.430000305175781,
+    "duration_seconds": 4516,
+    "duracion": "01:15:16"
   },
   {
     "vid": "h55emgImrLk",
@@ -1543,7 +1731,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 104.29000091552734,
     "latent_y": -9.619999885559082,
-    "latent_z": -20.729999542236328
+    "latent_z": -20.729999542236328,
+    "duration_seconds": 232,
+    "duracion": "03:52"
   },
   {
     "vid": "x4q86IjJFag",
@@ -1559,7 +1749,9 @@
     "fecha_publicacion": "2018-08-11",
     "latent_x": 103.23999786376953,
     "latent_y": -23.610000610351562,
-    "latent_z": 4.590000152587891
+    "latent_z": 4.590000152587891,
+    "duration_seconds": 3079,
+    "duracion": "51:19"
   },
   {
     "vid": "6i3e-j3wSf0",
@@ -1576,7 +1768,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 83.69999694824219,
     "latent_y": -28.25,
-    "latent_z": 29.219999313354492
+    "latent_z": 29.219999313354492,
+    "duration_seconds": 836,
+    "duracion": "13:56"
   },
   {
     "vid": "yl0YWA2K2B0",
@@ -1592,7 +1786,9 @@
     "fecha_publicacion": "2025-11-12",
     "latent_x": 70.0199966430664,
     "latent_y": -46.18000030517578,
-    "latent_z": 75.19999694824219
+    "latent_z": 75.19999694824219,
+    "duration_seconds": 251,
+    "duracion": "04:11"
   },
   {
     "vid": "CXSvKcLovAk",
@@ -1608,7 +1804,9 @@
     "fecha_publicacion": "2026-07-19",
     "latent_x": 120.0,
     "latent_y": 13.899999618530273,
-    "latent_z": -19.540000915527344
+    "latent_z": -19.540000915527344,
+    "duration_seconds": 352,
+    "duracion": "05:52"
   },
   {
     "vid": "clJCDHml2cA",
@@ -1624,7 +1822,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 111.72000122070312,
     "latent_y": 32.86000061035156,
-    "latent_z": -65.41000366210938
+    "latent_z": -65.41000366210938,
+    "duration_seconds": 422,
+    "duracion": "07:02"
   },
   {
     "vid": "6fnmXX8RK0s",
@@ -1640,7 +1840,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 110.45999908447266,
     "latent_y": -21.030000686645508,
-    "latent_z": 6.099999904632568
+    "latent_z": 6.099999904632568,
+    "duration_seconds": 269,
+    "duracion": "04:29"
   },
   {
     "vid": "CxF3ykWP1H4",
@@ -1656,7 +1858,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 96.12999725341797,
     "latent_y": 19.18000030517578,
-    "latent_z": -24.440000534057617
+    "latent_z": -24.440000534057617,
+    "duration_seconds": 572,
+    "duracion": "09:32"
   },
   {
     "vid": "4ykAepVkG5Y",
@@ -1672,7 +1876,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 96.37000274658203,
     "latent_y": -21.389999389648438,
-    "latent_z": 90.81999969482422
+    "latent_z": 90.81999969482422,
+    "duration_seconds": 7282,
+    "duracion": "02:01:22"
   },
   {
     "vid": "JB7YD7OKm5g",
@@ -1688,7 +1894,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 78.06999969482422,
     "latent_y": 73.69000244140625,
-    "latent_z": -9.40999984741211
+    "latent_z": -9.40999984741211,
+    "duration_seconds": 193,
+    "duracion": "03:13"
   },
   {
     "vid": "1ZfO149BJvg",
@@ -1704,7 +1912,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 105.66999816894531,
     "latent_y": 32.970001220703125,
-    "latent_z": -45.060001373291016
+    "latent_z": -45.060001373291016,
+    "duration_seconds": 767,
+    "duracion": "12:47"
   },
   {
     "vid": "-w53i6Ae-YM",
@@ -1720,7 +1930,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 112.01000213623047,
     "latent_y": 16.469999313354492,
-    "latent_z": -26.059999465942383
+    "latent_z": -26.059999465942383,
+    "duration_seconds": 243,
+    "duracion": "04:03"
   },
   {
     "vid": "32M1al-Y6Ag",
@@ -1736,7 +1948,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 93.7699966430664,
     "latent_y": -24.739999771118164,
-    "latent_z": -7.96999979019165
+    "latent_z": -7.96999979019165,
+    "duration_seconds": 7595,
+    "duracion": "02:06:35"
   },
   {
     "vid": "CPmQwlycfGI",
@@ -1752,7 +1966,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 97.04000091552734,
     "latent_y": 48.11000061035156,
-    "latent_z": -19.709999084472656
+    "latent_z": -19.709999084472656,
+    "duration_seconds": 151,
+    "duracion": "02:31"
   },
   {
     "vid": "I2PlgSGT2Ls",
@@ -1768,7 +1984,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 78.62999725341797,
     "latent_y": -15.90999984741211,
-    "latent_z": 120.0
+    "latent_z": 120.0,
+    "duration_seconds": 92,
+    "duracion": "01:32"
   },
   {
     "vid": "fnPhJHN0jTE",
@@ -1784,7 +2002,9 @@
     "fecha_publicacion": "2018-08-11",
     "latent_x": 101.66999816894531,
     "latent_y": 29.239999771118164,
-    "latent_z": -14.1899995803833
+    "latent_z": -14.1899995803833,
+    "duration_seconds": 2317,
+    "duracion": "38:37"
   },
   {
     "vid": "TbzrOz8HbFM",
@@ -1800,7 +2020,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 101.58999633789062,
     "latent_y": 45.689998626708984,
-    "latent_z": 13.069999694824219
+    "latent_z": 13.069999694824219,
+    "duration_seconds": 8402,
+    "duracion": "02:20:02"
   },
   {
     "vid": "VeNfHj6MhgA",
@@ -1816,7 +2038,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 94.25,
     "latent_y": -21.170000076293945,
-    "latent_z": 8.800000190734863
+    "latent_z": 8.800000190734863,
+    "duration_seconds": 10604,
+    "duracion": "02:56:44"
   },
   {
     "vid": "cNywlNWan9o",
@@ -1832,7 +2056,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 111.01000213623047,
     "latent_y": -8.399999618530273,
-    "latent_z": -19.950000762939453
+    "latent_z": -19.950000762939453,
+    "duration_seconds": 297,
+    "duracion": "04:57"
   },
   {
     "vid": "HzBA6FIn_Bo",
@@ -1848,7 +2074,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 104.62000274658203,
     "latent_y": 10.149999618530273,
-    "latent_z": 4.650000095367432
+    "latent_z": 4.650000095367432,
+    "duration_seconds": 199,
+    "duracion": "03:19"
   },
   {
     "vid": "7Kw-lrG7o1I",
@@ -1864,7 +2092,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 98.93000030517578,
     "latent_y": 16.3700008392334,
-    "latent_z": -51.56999969482422
+    "latent_z": -51.56999969482422,
+    "duration_seconds": 1303,
+    "duracion": "21:43"
   },
   {
     "vid": "2lVDktWK-pc",
@@ -1880,7 +2110,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 102.66000366210938,
     "latent_y": -42.70000076293945,
-    "latent_z": -24.510000228881836
+    "latent_z": -24.510000228881836,
+    "duration_seconds": 1464,
+    "duracion": "24:24"
   },
   {
     "vid": "M7uo5jmFDUw",
@@ -1896,7 +2128,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 104.83999633789062,
     "latent_y": -14.75,
-    "latent_z": 31.809999465942383
+    "latent_z": 31.809999465942383,
+    "duration_seconds": 164,
+    "duracion": "02:44"
   },
   {
     "vid": "nQ2A30cD3Q8",
@@ -1912,7 +2146,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 115.0999984741211,
     "latent_y": -13.739999771118164,
-    "latent_z": 25.729999542236328
+    "latent_z": 25.729999542236328,
+    "duration_seconds": 227,
+    "duracion": "03:47"
   },
   {
     "vid": "N6-Q2dgodLs",
@@ -1928,7 +2164,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 108.55999755859375,
     "latent_y": 33.54999923706055,
-    "latent_z": 6.539999961853027
+    "latent_z": 6.539999961853027,
+    "duration_seconds": 543,
+    "duracion": "09:03"
   },
   {
     "vid": "5deeCvboSos",
@@ -1944,7 +2182,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 86.81999969482422,
     "latent_y": -35.27000045776367,
-    "latent_z": 74.51000213623047
+    "latent_z": 74.51000213623047,
+    "duration_seconds": 587,
+    "duracion": "09:47"
   },
   {
     "vid": "SqrbIlUwR0U",
@@ -1960,7 +2200,9 @@
     "fecha_publicacion": "2019-08-11",
     "latent_x": 98.5199966430664,
     "latent_y": -15.40999984741211,
-    "latent_z": -4.78000020980835
+    "latent_z": -4.78000020980835,
+    "duration_seconds": 5921,
+    "duracion": "01:38:41"
   },
   {
     "vid": "dLzMz2Jk_qU",
@@ -1977,7 +2219,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 63.0099983215332,
     "latent_y": -8.920000076293945,
-    "latent_z": -71.16999816894531
+    "latent_z": -71.16999816894531,
+    "duration_seconds": 524,
+    "duracion": "08:44"
   },
   {
     "vid": "W--_EOzdTHk",
@@ -1994,7 +2238,9 @@
     "fecha_publicacion": "2020-08-10",
     "latent_x": 68.38999938964844,
     "latent_y": -10.569999694824219,
-    "latent_z": 15.729999542236328
+    "latent_z": 15.729999542236328,
+    "duration_seconds": 1339,
+    "duracion": "22:19"
   },
   {
     "vid": "ML743nrkMHw",
@@ -2010,7 +2256,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 78.69000244140625,
     "latent_y": -37.209999084472656,
-    "latent_z": 47.47999954223633
+    "latent_z": 47.47999954223633,
+    "duration_seconds": 4307,
+    "duracion": "01:11:47"
   },
   {
     "vid": "b3Gqq_k-g24",
@@ -2026,7 +2274,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 87.7699966430664,
     "latent_y": -21.299999237060547,
-    "latent_z": 88.36000061035156
+    "latent_z": 88.36000061035156,
+    "duration_seconds": 6299,
+    "duracion": "01:44:59"
   },
   {
     "vid": "yjeHLSrhPao",
@@ -2042,7 +2292,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 92.27999877929688,
     "latent_y": 8.859999656677246,
-    "latent_z": -23.030000686645508
+    "latent_z": -23.030000686645508,
+    "duration_seconds": 2595,
+    "duracion": "43:15"
   },
   {
     "vid": "7IaqdnU44rQ",
@@ -2058,7 +2310,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 83.68000030517578,
     "latent_y": -52.54999923706055,
-    "latent_z": 81.38999938964844
+    "latent_z": 81.38999938964844,
+    "duration_seconds": 129,
+    "duracion": "02:09"
   },
   {
     "vid": "EUJlVYggR1Y",
@@ -2074,7 +2328,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 101.87999725341797,
     "latent_y": -11.1899995803833,
-    "latent_z": -38.459999084472656
+    "latent_z": -38.459999084472656,
+    "duration_seconds": 1068,
+    "duracion": "17:48"
   },
   {
     "vid": "XmimiXIaTWc",
@@ -2090,7 +2346,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": -120.0,
     "latent_y": -113.08999633789062,
-    "latent_z": 1.9299999475479126
+    "latent_z": 1.9299999475479126,
+    "duration_seconds": 2663,
+    "duracion": "44:23"
   },
   {
     "vid": "JaMCxVWtW58",
@@ -2106,7 +2364,9 @@
     "fecha_publicacion": "2019-08-11",
     "latent_x": 77.19999694824219,
     "latent_y": -33.66999816894531,
-    "latent_z": 59.880001068115234
+    "latent_z": 59.880001068115234,
+    "duration_seconds": 3105,
+    "duracion": "51:45"
   },
   {
     "vid": "QRrPE9aj3wI",
@@ -2122,7 +2382,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 86.19999694824219,
     "latent_y": -17.040000915527344,
-    "latent_z": 104.83000183105469
+    "latent_z": 104.83000183105469,
+    "duration_seconds": 8444,
+    "duracion": "02:20:44"
   },
   {
     "vid": "jsZoR1kkq6s",
@@ -2138,7 +2400,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 75.23999786376953,
     "latent_y": -21.600000381469727,
-    "latent_z": -101.20999908447266
+    "latent_z": -101.20999908447266,
+    "duration_seconds": 1044,
+    "duracion": "17:24"
   },
   {
     "vid": "saggDHHnmtQ",
@@ -2155,7 +2419,9 @@
     "fecha_publicacion": "2026-02-10",
     "latent_x": 115.06999969482422,
     "latent_y": 29.3799991607666,
-    "latent_z": -35.29999923706055
+    "latent_z": -35.29999923706055,
+    "duration_seconds": 2217,
+    "duracion": "36:57"
   },
   {
     "vid": "7qZBwhSlfOo",
@@ -2171,7 +2437,9 @@
     "fecha_publicacion": "2020-08-10",
     "latent_x": 82.37000274658203,
     "latent_y": -112.4000015258789,
-    "latent_z": -17.020000457763672
+    "latent_z": -17.020000457763672,
+    "duration_seconds": 1020,
+    "duracion": "17:00"
   },
   {
     "vid": "VcU2HGsxeII",
@@ -2187,7 +2455,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 81.41999816894531,
     "latent_y": -63.65999984741211,
-    "latent_z": -28.829999923706055
+    "latent_z": -28.829999923706055,
+    "duration_seconds": 1176,
+    "duracion": "19:36"
   },
   {
     "vid": "6LyagkoRWYA",
@@ -2203,7 +2473,9 @@
     "fecha_publicacion": "2020-08-10",
     "latent_x": 98.5199966430664,
     "latent_y": -15.40999984741211,
-    "latent_z": -4.78000020980835
+    "latent_z": -4.78000020980835,
+    "duration_seconds": 2540,
+    "duracion": "42:20"
   },
   {
     "vid": "heXQnM99oAI",
@@ -2219,7 +2491,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 54.88999938964844,
     "latent_y": 7.849999904632568,
-    "latent_z": 16.079999923706055
+    "latent_z": 16.079999923706055,
+    "duration_seconds": 21350,
+    "duracion": "05:55:50"
   },
   {
     "vid": "LdF2RcelRg0",
@@ -2235,7 +2509,9 @@
     "fecha_publicacion": "2019-08-11",
     "latent_x": 49.16999816894531,
     "latent_y": 12.279999732971191,
-    "latent_z": 0.09000000357627869
+    "latent_z": 0.09000000357627869,
+    "duration_seconds": 1699,
+    "duracion": "28:19"
   },
   {
     "vid": "X_Aet9ndh_Y",
@@ -2252,7 +2528,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 60.810001373291016,
     "latent_y": 26.209999084472656,
-    "latent_z": 30.049999237060547
+    "latent_z": 30.049999237060547,
+    "duration_seconds": 63,
+    "duracion": "01:03"
   },
   {
     "vid": "YLtlz88zrLg",
@@ -2268,7 +2546,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 91.51000213623047,
     "latent_y": 120.0,
-    "latent_z": -29.020000457763672
+    "latent_z": -29.020000457763672,
+    "duration_seconds": 372,
+    "duracion": "06:12"
   },
   {
     "vid": "MsnQ5uepIaE",
@@ -2284,7 +2564,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 87.33000183105469,
     "latent_y": -19.40999984741211,
-    "latent_z": 57.36000061035156
+    "latent_z": 57.36000061035156,
+    "duration_seconds": 36129,
+    "duracion": "10:02:09"
   },
   {
     "vid": "G9gnSGKYIg4",
@@ -2300,7 +2582,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 107.26000213623047,
     "latent_y": -22.6200008392334,
-    "latent_z": -31.510000228881836
+    "latent_z": -31.510000228881836,
+    "duration_seconds": 289,
+    "duracion": "04:49"
   },
   {
     "vid": "o_lmRHkLvp8",
@@ -2317,7 +2601,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 101.13999938964844,
     "latent_y": -77.88999938964844,
-    "latent_z": 7.25
+    "latent_z": 7.25,
+    "duration_seconds": 509,
+    "duracion": "08:29"
   },
   {
     "vid": "suAkMeWJ1yE",
@@ -2333,7 +2619,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 99.94000244140625,
     "latent_y": -24.799999237060547,
-    "latent_z": -44.25
+    "latent_z": -44.25,
+    "duration_seconds": 387,
+    "duracion": "06:27"
   },
   {
     "vid": "pJYOG6klqj8",
@@ -2349,7 +2637,9 @@
     "fecha_publicacion": "2025-11-12",
     "latent_x": 81.55999755859375,
     "latent_y": 82.41000366210938,
-    "latent_z": -39.68000030517578
+    "latent_z": -39.68000030517578,
+    "duration_seconds": 2773,
+    "duracion": "46:13"
   },
   {
     "vid": "IsJcjrQwgF4",
@@ -2365,7 +2655,9 @@
     "fecha_publicacion": "2025-12-12",
     "latent_x": 114.87000274658203,
     "latent_y": 0.9100000262260437,
-    "latent_z": -66.4800033569336
+    "latent_z": -66.4800033569336,
+    "duration_seconds": 779,
+    "duracion": "12:59"
   },
   {
     "vid": "4dkNn93DIx4",
@@ -2381,7 +2673,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 81.7300033569336,
     "latent_y": 68.23999786376953,
-    "latent_z": -23.190000534057617
+    "latent_z": -23.190000534057617,
+    "duration_seconds": 306,
+    "duracion": "05:06"
   },
   {
     "vid": "HUBNt18RFbo",
@@ -2397,7 +2691,9 @@
     "fecha_publicacion": "2018-08-11",
     "latent_x": 101.62999725341797,
     "latent_y": -6.730000019073486,
-    "latent_z": -2.0299999713897705
+    "latent_z": -2.0299999713897705,
+    "duration_seconds": 1171,
+    "duracion": "19:31"
   },
   {
     "vid": "IZGNcSuwBZs",
@@ -2413,7 +2709,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 80.4000015258789,
     "latent_y": -16.809999465942383,
-    "latent_z": 56.7400016784668
+    "latent_z": 56.7400016784668,
+    "duration_seconds": 2477,
+    "duracion": "41:17"
   },
   {
     "vid": "b4p-SBjHh28",
@@ -2430,7 +2728,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 73.30000305175781,
     "latent_y": -68.66999816894531,
-    "latent_z": -14.619999885559082
+    "latent_z": -14.619999885559082,
+    "duration_seconds": 695,
+    "duracion": "11:35"
   },
   {
     "vid": "qdec2M4NwT0",
@@ -2447,7 +2747,9 @@
     "fecha_publicacion": "2020-08-10",
     "latent_x": 91.30000305175781,
     "latent_y": 41.04999923706055,
-    "latent_z": 34.41999816894531
+    "latent_z": 34.41999816894531,
+    "duration_seconds": 850,
+    "duracion": "14:10"
   },
   {
     "vid": "uwAqEzhyjtw",
@@ -2463,7 +2765,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 74.63999938964844,
     "latent_y": 20.489999771118164,
-    "latent_z": -24.3700008392334
+    "latent_z": -24.3700008392334,
+    "duration_seconds": 2692,
+    "duracion": "44:52"
   },
   {
     "vid": "lYiE5lBS13E",
@@ -2479,7 +2783,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 82.44000244140625,
     "latent_y": 54.68000030517578,
-    "latent_z": -15.399999618530273
+    "latent_z": -15.399999618530273,
+    "duration_seconds": 415,
+    "duracion": "06:55"
   },
   {
     "vid": "HXYZxVbWkjc",
@@ -2495,7 +2801,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 86.30000305175781,
     "latent_y": -3.7799999713897705,
-    "latent_z": 92.52999877929688
+    "latent_z": 92.52999877929688,
+    "duration_seconds": 8314,
+    "duracion": "02:18:34"
   },
   {
     "vid": "bBTgcO6CKv0",
@@ -2512,7 +2820,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 60.2400016784668,
     "latent_y": 40.029998779296875,
-    "latent_z": -32.970001220703125
+    "latent_z": -32.970001220703125,
+    "duration_seconds": 865,
+    "duracion": "14:25"
   },
   {
     "vid": "SydnKbGc7W8",
@@ -2529,7 +2839,9 @@
     "fecha_publicacion": "2019-08-11",
     "latent_x": 60.880001068115234,
     "latent_y": -21.6299991607666,
-    "latent_z": 2.5
+    "latent_z": 2.5,
+    "duration_seconds": 1360,
+    "duracion": "22:40"
   },
   {
     "vid": "Xa5EU-qAv-I",
@@ -2545,7 +2857,9 @@
     "fecha_publicacion": "2020-08-10",
     "latent_x": 68.45999908447266,
     "latent_y": -2.869999885559082,
-    "latent_z": -100.80999755859375
+    "latent_z": -100.80999755859375,
+    "duration_seconds": 903,
+    "duracion": "15:03"
   },
   {
     "vid": "3Tsaxxv9sls",
@@ -2561,7 +2875,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 88.08999633789062,
     "latent_y": 89.0199966430664,
-    "latent_z": 4.119999885559082
+    "latent_z": 4.119999885559082,
+    "duration_seconds": 233,
+    "duracion": "03:53"
   },
   {
     "vid": "3eCmc0t6aqA",
@@ -2577,7 +2893,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 85.93000030517578,
     "latent_y": -39.13999938964844,
-    "latent_z": 88.33000183105469
+    "latent_z": 88.33000183105469,
+    "duration_seconds": 517,
+    "duracion": "08:37"
   },
   {
     "vid": "z5jZ9lrSpqk",
@@ -2594,7 +2912,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 87.4000015258789,
     "latent_y": 58.689998626708984,
-    "latent_z": 16.600000381469727
+    "latent_z": 16.600000381469727,
+    "duration_seconds": 891,
+    "duracion": "14:51"
   },
   {
     "vid": "fgBdE3MsDzs",
@@ -2610,7 +2930,9 @@
     "fecha_publicacion": "2025-12-12",
     "latent_x": 66.80999755859375,
     "latent_y": 54.650001525878906,
-    "latent_z": -47.720001220703125
+    "latent_z": -47.720001220703125,
+    "duration_seconds": 407,
+    "duracion": "06:47"
   },
   {
     "vid": "fG6HV3pxtOI",
@@ -2626,7 +2948,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 79.2300033569336,
     "latent_y": -2.609999895095825,
-    "latent_z": -60.400001525878906
+    "latent_z": -60.400001525878906,
+    "duration_seconds": 724,
+    "duracion": "12:04"
   },
   {
     "vid": "89NJdbYTgJ8",
@@ -2642,7 +2966,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 74.73999786376953,
     "latent_y": -11.149999618530273,
-    "latent_z": 54.7400016784668
+    "latent_z": 54.7400016784668,
+    "duration_seconds": 984,
+    "duracion": "16:24"
   },
   {
     "vid": "jIpybrA1j68",
@@ -2658,7 +2984,9 @@
     "fecha_publicacion": "2019-08-11",
     "latent_x": 99.95999908447266,
     "latent_y": 10.670000076293945,
-    "latent_z": -25.549999237060547
+    "latent_z": -25.549999237060547,
+    "duration_seconds": 1031,
+    "duracion": "17:11"
   },
   {
     "vid": "ImSjJwzqAss",
@@ -2674,7 +3002,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 110.91999816894531,
     "latent_y": 4.380000114440918,
-    "latent_z": -3.8499999046325684
+    "latent_z": -3.8499999046325684,
+    "duration_seconds": 432,
+    "duracion": "07:12"
   },
   {
     "vid": "vdBxfFVXnc0",
@@ -2691,7 +3021,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 59.88999938964844,
     "latent_y": 37.209999084472656,
-    "latent_z": 40.52000045776367
+    "latent_z": 40.52000045776367,
+    "duration_seconds": 1287,
+    "duracion": "21:27"
   },
   {
     "vid": "3TVy6GdtNuQ",
@@ -2707,7 +3039,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 86.16000366210938,
     "latent_y": 72.30000305175781,
-    "latent_z": -36.02000045776367
+    "latent_z": -36.02000045776367,
+    "duration_seconds": 4851,
+    "duracion": "01:20:51"
   },
   {
     "vid": "WCGTQBCE3FA",
@@ -2723,7 +3057,9 @@
     "fecha_publicacion": "2026-01-11",
     "latent_x": 58.720001220703125,
     "latent_y": 3.680000066757202,
-    "latent_z": -19.1299991607666
+    "latent_z": -19.1299991607666,
+    "duration_seconds": 483,
+    "duracion": "08:03"
   },
   {
     "vid": "UTQp6mvhb0Y",
@@ -2740,7 +3076,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 93.6500015258789,
     "latent_y": -13.579999923706055,
-    "latent_z": -74.08000183105469
+    "latent_z": -74.08000183105469,
+    "duration_seconds": 16367,
+    "duracion": "04:32:47"
   },
   {
     "vid": "lWEKiak0WVU",
@@ -2756,7 +3094,9 @@
     "fecha_publicacion": "2026-01-11",
     "latent_x": 101.0999984741211,
     "latent_y": -2.8399999141693115,
-    "latent_z": -67.63999938964844
+    "latent_z": -67.63999938964844,
+    "duration_seconds": 2907,
+    "duracion": "48:27"
   },
   {
     "vid": "Z6BYhJl9hV8",
@@ -2774,7 +3114,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 61.470001220703125,
     "latent_y": 54.439998626708984,
-    "latent_z": 3.6700000762939453
+    "latent_z": 3.6700000762939453,
+    "duration_seconds": 1443,
+    "duracion": "24:03"
   },
   {
     "vid": "f8_uF_IDV50",
@@ -2790,7 +3132,9 @@
     "fecha_publicacion": "2026-02-10",
     "latent_x": 86.81999969482422,
     "latent_y": 11.989999771118164,
-    "latent_z": -45.90999984741211
+    "latent_z": -45.90999984741211,
+    "duration_seconds": 928,
+    "duracion": "15:28"
   },
   {
     "vid": "qeEcV6u1kV4",
@@ -2806,7 +3150,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 106.13999938964844,
     "latent_y": -11.800000190734863,
-    "latent_z": -53.790000915527344
+    "latent_z": -53.790000915527344,
+    "duration_seconds": 313,
+    "duracion": "05:13"
   },
   {
     "vid": "emLHW0VhzeM",
@@ -2822,7 +3168,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 83.80000305175781,
     "latent_y": -64.87000274658203,
-    "latent_z": 70.16999816894531
+    "latent_z": 70.16999816894531,
+    "duration_seconds": 140,
+    "duracion": "02:20"
   },
   {
     "vid": "mR9jhYD3bnI",
@@ -2839,7 +3187,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 87.44000244140625,
     "latent_y": 41.40999984741211,
-    "latent_z": 25.43000030517578
+    "latent_z": 25.43000030517578,
+    "duration_seconds": 529,
+    "duracion": "08:49"
   },
   {
     "vid": "H_pBvUFPceA",
@@ -2855,7 +3205,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 73.01000213623047,
     "latent_y": -32.08000183105469,
-    "latent_z": -75.12999725341797
+    "latent_z": -75.12999725341797,
+    "duration_seconds": 466,
+    "duracion": "07:46"
   },
   {
     "vid": "gQnBetuyktk",
@@ -2871,7 +3223,9 @@
     "fecha_publicacion": "2025-12-12",
     "latent_x": 116.7300033569336,
     "latent_y": -23.389999389648438,
-    "latent_z": -14.899999618530273
+    "latent_z": -14.899999618530273,
+    "duration_seconds": 1019,
+    "duracion": "16:59"
   },
   {
     "vid": "oCvb-Q5lXb8",
@@ -2887,7 +3241,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 80.12000274658203,
     "latent_y": 113.36000061035156,
-    "latent_z": -42.65999984741211
+    "latent_z": -42.65999984741211,
+    "duration_seconds": 684,
+    "duracion": "11:24"
   },
   {
     "vid": "PoFkd42WvQA",
@@ -2903,7 +3259,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 72.94999694824219,
     "latent_y": -42.810001373291016,
-    "latent_z": 93.38999938964844
+    "latent_z": 93.38999938964844,
+    "duration_seconds": 2633,
+    "duracion": "43:53"
   },
   {
     "vid": "sYepbevm8TY",
@@ -2920,7 +3278,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 69.37000274658203,
     "latent_y": 69.54000091552734,
-    "latent_z": 33.75
+    "latent_z": 33.75,
+    "duration_seconds": 335,
+    "duracion": "05:35"
   },
   {
     "vid": "2nPoiUJpDaU",
@@ -2937,7 +3297,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 69.41999816894531,
     "latent_y": 18.1200008392334,
-    "latent_z": 51.83000183105469
+    "latent_z": 51.83000183105469,
+    "duration_seconds": 523,
+    "duracion": "08:43"
   },
   {
     "vid": "JepVi1tBNEE",
@@ -2953,7 +3315,9 @@
     "fecha_publicacion": "2026-02-10",
     "latent_x": 109.94999694824219,
     "latent_y": -32.27000045776367,
-    "latent_z": -51.72999954223633
+    "latent_z": -51.72999954223633,
+    "duration_seconds": 311,
+    "duracion": "05:11"
   },
   {
     "vid": "ph5DRCX_g6s",
@@ -2969,7 +3333,9 @@
     "fecha_publicacion": "2026-02-10",
     "latent_x": 110.83000183105469,
     "latent_y": 15.279999732971191,
-    "latent_z": -41.560001373291016
+    "latent_z": -41.560001373291016,
+    "duration_seconds": 217,
+    "duracion": "03:37"
   },
   {
     "vid": "Bd9p3XxmrfE",
@@ -2985,7 +3351,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 90.5199966430664,
     "latent_y": -63.43000030517578,
-    "latent_z": 70.9000015258789
+    "latent_z": 70.9000015258789,
+    "duration_seconds": 273,
+    "duracion": "04:33"
   },
   {
     "vid": "0dSKt4DgnyA",
@@ -3002,7 +3370,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 62.84000015258789,
     "latent_y": 41.22999954223633,
-    "latent_z": 21.329999923706055
+    "latent_z": 21.329999923706055,
+    "duration_seconds": 344,
+    "duracion": "05:44"
   },
   {
     "vid": "XpQ7uUXuPHg",
@@ -3019,7 +3389,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 69.41000366210938,
     "latent_y": 36.209999084472656,
-    "latent_z": 44.119998931884766
+    "latent_z": 44.119998931884766,
+    "duration_seconds": 1200,
+    "duracion": "20:00"
   },
   {
     "vid": "bj6QSx22zXs",
@@ -3035,7 +3407,9 @@
     "fecha_publicacion": "2026-05-11",
     "latent_x": 54.9900016784668,
     "latent_y": 22.040000915527344,
-    "latent_z": 6.010000228881836
+    "latent_z": 6.010000228881836,
+    "duration_seconds": 1492,
+    "duracion": "24:52"
   },
   {
     "vid": "nWIRJBCjls8",
@@ -3051,7 +3425,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 70.18000030517578,
     "latent_y": 27.979999542236328,
-    "latent_z": -97.33000183105469
+    "latent_z": -97.33000183105469,
+    "duration_seconds": 770,
+    "duracion": "12:50"
   },
   {
     "vid": "XX6SObkxZe0",
@@ -3067,7 +3443,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 90.47000122070312,
     "latent_y": -46.209999084472656,
-    "latent_z": 83.2300033569336
+    "latent_z": 83.2300033569336,
+    "duration_seconds": 670,
+    "duracion": "11:10"
   },
   {
     "vid": "C2GpeepcmYs",
@@ -3083,7 +3461,9 @@
     "fecha_publicacion": "2026-07-10",
     "latent_x": 52.349998474121094,
     "latent_y": 6.519999980926514,
-    "latent_z": -16.739999771118164
+    "latent_z": -16.739999771118164,
+    "duration_seconds": 3803,
+    "duracion": "01:03:23"
   },
   {
     "vid": "3HiLLByBWkg",
@@ -3100,7 +3480,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 92.51000213623047,
     "latent_y": -45.47999954223633,
-    "latent_z": -31.350000381469727
+    "latent_z": -31.350000381469727,
+    "duration_seconds": 780,
+    "duracion": "13:00"
   },
   {
     "vid": "y-an0v208A0",
@@ -3116,7 +3498,9 @@
     "fecha_publicacion": "2025-09-13",
     "latent_x": 92.04000091552734,
     "latent_y": 98.81999969482422,
-    "latent_z": -37.560001373291016
+    "latent_z": -37.560001373291016,
+    "duration_seconds": 457,
+    "duracion": "07:37"
   },
   {
     "vid": "V7WpadAi3RI",
@@ -3132,7 +3516,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 76.62000274658203,
     "latent_y": 107.08000183105469,
-    "latent_z": -20.06999969482422
+    "latent_z": -20.06999969482422,
+    "duration_seconds": 326,
+    "duracion": "05:26"
   },
   {
     "vid": "bjh7EYdFTo4",
@@ -3148,7 +3534,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 114.51000213623047,
     "latent_y": 11.880000114440918,
-    "latent_z": 5.679999828338623
+    "latent_z": 5.679999828338623,
+    "duration_seconds": 437,
+    "duracion": "07:17"
   },
   {
     "vid": "JIqk9UxgKEc",
@@ -3165,7 +3553,9 @@
     "fecha_publicacion": "2019-08-11",
     "latent_x": 59.5,
     "latent_y": 5.610000133514404,
-    "latent_z": -70.5999984741211
+    "latent_z": -70.5999984741211,
+    "duration_seconds": 1240,
+    "duracion": "20:40"
   },
   {
     "vid": "pUK7MRzoTDc",
@@ -3182,7 +3572,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 65.93000030517578,
     "latent_y": 67.41000366210938,
-    "latent_z": 50.70000076293945
+    "latent_z": 50.70000076293945,
+    "duration_seconds": 1533,
+    "duracion": "25:33"
   },
   {
     "vid": "FzRGSlhQIyY",
@@ -3198,7 +3590,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 101.70999908447266,
     "latent_y": 52.22999954223633,
-    "latent_z": 3.809999942779541
+    "latent_z": 3.809999942779541,
+    "duration_seconds": 3036,
+    "duracion": "50:36"
   },
   {
     "vid": "DHGhFJZLKMs",
@@ -3215,7 +3609,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 101.45999908447266,
     "latent_y": -67.37000274658203,
-    "latent_z": 31.299999237060547
+    "latent_z": 31.299999237060547,
+    "duration_seconds": 410,
+    "duracion": "06:50"
   },
   {
     "vid": "9Emn2YQNDl0",
@@ -3231,7 +3627,9 @@
     "fecha_publicacion": "2019-08-11",
     "latent_x": 109.08000183105469,
     "latent_y": 31.65999984741211,
-    "latent_z": 38.70000076293945
+    "latent_z": 38.70000076293945,
+    "duration_seconds": 1138,
+    "duracion": "18:58"
   },
   {
     "vid": "L2v5SR0Omwc",
@@ -3248,7 +3646,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 96.19999694824219,
     "latent_y": -73.33000183105469,
-    "latent_z": 40.560001373291016
+    "latent_z": 40.560001373291016,
+    "duration_seconds": 124,
+    "duracion": "02:04"
   },
   {
     "vid": "PnwpEo9hcRQ",
@@ -3265,7 +3665,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 103.23999786376953,
     "latent_y": -73.30999755859375,
-    "latent_z": 43.720001220703125
+    "latent_z": 43.720001220703125,
+    "duration_seconds": 782,
+    "duracion": "13:02"
   },
   {
     "vid": "OBmhKQhrO6U",
@@ -3281,7 +3683,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 93.70999908447266,
     "latent_y": 81.66999816894531,
-    "latent_z": -14.140000343322754
+    "latent_z": -14.140000343322754,
+    "duration_seconds": 878,
+    "duracion": "14:38"
   },
   {
     "vid": "ewN4_mcaI84",
@@ -3297,7 +3701,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 88.94999694824219,
     "latent_y": -6.539999961853027,
-    "latent_z": 74.44999694824219
+    "latent_z": 74.44999694824219,
+    "duration_seconds": 4009,
+    "duracion": "01:06:49"
   },
   {
     "vid": "5NxGqnTazR8",
@@ -3313,7 +3719,9 @@
     "fecha_publicacion": "2025-12-12",
     "latent_x": 54.77000045776367,
     "latent_y": 0.6800000071525574,
-    "latent_z": 34.779998779296875
+    "latent_z": 34.779998779296875,
+    "duration_seconds": 1318,
+    "duracion": "21:58"
   },
   {
     "vid": "twsYxYaQikI",
@@ -3329,7 +3737,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 87.83000183105469,
     "latent_y": 108.7300033569336,
-    "latent_z": -5.789999961853027
+    "latent_z": -5.789999961853027,
+    "duration_seconds": 1818,
+    "duracion": "30:18"
   },
   {
     "vid": "q9KWvNmM2QU",
@@ -3345,7 +3755,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 85.97000122070312,
     "latent_y": -57.77000045776367,
-    "latent_z": 104.52999877929688
+    "latent_z": 104.52999877929688,
+    "duration_seconds": 221,
+    "duracion": "03:41"
   },
   {
     "vid": "tTIlDb71t2s",
@@ -3361,7 +3773,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 84.19999694824219,
     "latent_y": 118.55000305175781,
-    "latent_z": -24.690000534057617
+    "latent_z": -24.690000534057617,
+    "duration_seconds": 420,
+    "duracion": "07:00"
   },
   {
     "vid": "XHEnQM_NieU",
@@ -3377,7 +3791,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 86.38999938964844,
     "latent_y": -108.0999984741211,
-    "latent_z": -48.630001068115234
+    "latent_z": -48.630001068115234,
+    "duration_seconds": 577,
+    "duracion": "09:37"
   },
   {
     "vid": "4xA5JePvCJc",
@@ -3393,7 +3809,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 71.20999908447266,
     "latent_y": 11.640000343322754,
-    "latent_z": -79.80999755859375
+    "latent_z": -79.80999755859375,
+    "duration_seconds": 1020,
+    "duracion": "17:00"
   },
   {
     "vid": "5zR1ZE5aqho",
@@ -3409,7 +3827,9 @@
     "fecha_publicacion": "2025-09-13",
     "latent_x": 56.72999954223633,
     "latent_y": 19.100000381469727,
-    "latent_z": -18.06999969482422
+    "latent_z": -18.06999969482422,
+    "duration_seconds": 3161,
+    "duracion": "52:41"
   },
   {
     "vid": "FOXNlZFkbPk",
@@ -3426,7 +3846,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 85.7699966430664,
     "latent_y": -69.36000061035156,
-    "latent_z": -13.5
+    "latent_z": -13.5,
+    "duration_seconds": 447,
+    "duracion": "07:27"
   },
   {
     "vid": "J5KTpq7hVn4",
@@ -3442,7 +3864,9 @@
     "fecha_publicacion": "2026-04-11",
     "latent_x": 109.73999786376953,
     "latent_y": -45.33000183105469,
-    "latent_z": -40.66999816894531
+    "latent_z": -40.66999816894531,
+    "duration_seconds": 308,
+    "duracion": "05:08"
   },
   {
     "vid": "XmpIBsnc3xU",
@@ -3458,7 +3882,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 81.98999786376953,
     "latent_y": -120.0,
-    "latent_z": -36.540000915527344
+    "latent_z": -36.540000915527344,
+    "duration_seconds": 422,
+    "duracion": "07:02"
   },
   {
     "vid": "vUQfqW5GKAQ",
@@ -3475,7 +3901,9 @@
     "fecha_publicacion": "2025-09-13",
     "latent_x": 64.02999877929688,
     "latent_y": 30.959999084472656,
-    "latent_z": 50.84000015258789
+    "latent_z": 50.84000015258789,
+    "duration_seconds": 546,
+    "duracion": "09:06"
   },
   {
     "vid": "FjHtZnjNEBU",
@@ -3491,7 +3919,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 81.56999969482422,
     "latent_y": 97.25,
-    "latent_z": -53.68000030517578
+    "latent_z": -53.68000030517578,
+    "duration_seconds": 1120,
+    "duracion": "18:40"
   },
   {
     "vid": "oCcTiRGPogQ",
@@ -3507,7 +3937,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 76.72000122070312,
     "latent_y": -30.170000076293945,
-    "latent_z": -3.7799999713897705
+    "latent_z": -3.7799999713897705,
+    "duration_seconds": 398,
+    "duracion": "06:38"
   },
   {
     "vid": "rdyEisoeX-U",
@@ -3523,7 +3955,9 @@
     "fecha_publicacion": "2020-08-10",
     "latent_x": 85.12999725341797,
     "latent_y": -48.689998626708984,
-    "latent_z": 64.87000274658203
+    "latent_z": 64.87000274658203,
+    "duration_seconds": 287,
+    "duracion": "04:47"
   },
   {
     "vid": "dI34jrEtmB0",
@@ -3539,7 +3973,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 66.61000061035156,
     "latent_y": -6.659999847412109,
-    "latent_z": -120.0
+    "latent_z": -120.0,
+    "duration_seconds": 1035,
+    "duracion": "17:15"
   },
   {
     "vid": "2vPVdZWhuM8",
@@ -3555,7 +3991,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 106.06999969482422,
     "latent_y": 8.920000076293945,
-    "latent_z": -16.059999465942383
+    "latent_z": -16.059999465942383,
+    "duration_seconds": 427,
+    "duracion": "07:07"
   },
   {
     "vid": "VePxCcF99w4",
@@ -3571,7 +4009,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 115.43000030517578,
     "latent_y": -34.29999923706055,
-    "latent_z": -44.5
+    "latent_z": -44.5,
+    "duration_seconds": 336,
+    "duracion": "05:36"
   },
   {
     "vid": "srwsnNhiqv8",
@@ -3587,7 +4027,9 @@
     "fecha_publicacion": "2019-08-11",
     "latent_x": 102.30999755859375,
     "latent_y": 19.309999465942383,
-    "latent_z": 29.06999969482422
+    "latent_z": 29.06999969482422,
+    "duration_seconds": 1049,
+    "duracion": "17:29"
   },
   {
     "vid": "o4kkRqzHDvw",
@@ -3604,7 +4046,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 93.30999755859375,
     "latent_y": -27.229999542236328,
-    "latent_z": -82.97000122070312
+    "latent_z": -82.97000122070312,
+    "duration_seconds": 749,
+    "duracion": "12:29"
   },
   {
     "vid": "zwIlqbTHjac",
@@ -3621,7 +4065,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 59.029998779296875,
     "latent_y": 46.400001525878906,
-    "latent_z": 59.900001525878906
+    "latent_z": 59.900001525878906,
+    "duration_seconds": 429,
+    "duracion": "07:09"
   },
   {
     "vid": "oJdlGtsbc3U",
@@ -3637,7 +4083,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 103.69000244140625,
     "latent_y": 11.699999809265137,
-    "latent_z": -46.5
+    "latent_z": -46.5,
+    "duration_seconds": 523,
+    "duracion": "08:43"
   },
   {
     "vid": "HuI4fDxDM0g",
@@ -3653,7 +4101,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 92.97000122070312,
     "latent_y": -28.110000610351562,
-    "latent_z": 72.80999755859375
+    "latent_z": 72.80999755859375,
+    "duration_seconds": 272,
+    "duracion": "04:32"
   },
   {
     "vid": "fNWxN0q-ZgE",
@@ -3669,7 +4119,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 76.7300033569336,
     "latent_y": 3.930000066757202,
-    "latent_z": -115.58000183105469
+    "latent_z": -115.58000183105469,
+    "duration_seconds": 1778,
+    "duracion": "29:38"
   },
   {
     "vid": "HIqONcVBEm0",
@@ -3685,7 +4137,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 73.86000061035156,
     "latent_y": -15.859999656677246,
-    "latent_z": -82.69999694824219
+    "latent_z": -82.69999694824219,
+    "duration_seconds": 179,
+    "duracion": "02:59"
   },
   {
     "vid": "Y7eoHDrw-aU",
@@ -3701,7 +4155,9 @@
     "fecha_publicacion": "2019-08-11",
     "latent_x": 92.04000091552734,
     "latent_y": 37.25,
-    "latent_z": -52.4900016784668
+    "latent_z": -52.4900016784668,
+    "duration_seconds": 980,
+    "duracion": "16:20"
   },
   {
     "vid": "qCCj7qy72Bg",
@@ -3717,7 +4173,9 @@
     "fecha_publicacion": "2020-08-10",
     "latent_x": 79.55999755859375,
     "latent_y": -16.899999618530273,
-    "latent_z": -5.039999961853027
+    "latent_z": -5.039999961853027,
+    "duration_seconds": 564,
+    "duracion": "09:24"
   },
   {
     "vid": "jWLUhHWXMT8",
@@ -3734,7 +4192,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 64.94000244140625,
     "latent_y": 37.650001525878906,
-    "latent_z": 37.470001220703125
+    "latent_z": 37.470001220703125,
+    "duration_seconds": 1884,
+    "duracion": "31:24"
   },
   {
     "vid": "xaC5oWwzOt0",
@@ -3750,7 +4210,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 84.38999938964844,
     "latent_y": -81.55000305175781,
-    "latent_z": -28.09000015258789
+    "latent_z": -28.09000015258789,
+    "duration_seconds": 1184,
+    "duracion": "19:44"
   },
   {
     "vid": "4V5G3wtrmhg",
@@ -3766,7 +4228,9 @@
     "fecha_publicacion": "2026-06-10",
     "latent_x": 55.060001373291016,
     "latent_y": -12.680000305175781,
-    "latent_z": -23.969999313354492
+    "latent_z": -23.969999313354492,
+    "duration_seconds": 423,
+    "duracion": "07:03"
   },
   {
     "vid": "Dedz4gRHezg",
@@ -3782,7 +4246,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 88.0199966430664,
     "latent_y": 70.66999816894531,
-    "latent_z": -14.25
+    "latent_z": -14.25,
+    "duration_seconds": 496,
+    "duracion": "08:16"
   },
   {
     "vid": "U8542COlBiU",
@@ -3798,7 +4264,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 83.81999969482422,
     "latent_y": -29.889999389648438,
-    "latent_z": 59.77000045776367
+    "latent_z": 59.77000045776367,
+    "duration_seconds": 343,
+    "duracion": "05:43"
   },
   {
     "vid": "ou6x2qcLOLI",
@@ -3814,7 +4282,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 111.69999694824219,
     "latent_y": -7.300000190734863,
-    "latent_z": -43.459999084472656
+    "latent_z": -43.459999084472656,
+    "duration_seconds": 483,
+    "duracion": "08:03"
   },
   {
     "vid": "f3i9b3uK00U",
@@ -3830,7 +4300,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 76.81999969482422,
     "latent_y": -69.16000366210938,
-    "latent_z": 77.02999877929688
+    "latent_z": 77.02999877929688,
+    "duration_seconds": 246,
+    "duracion": "04:06"
   },
   {
     "vid": "AxBu4JARPCM",
@@ -3847,7 +4319,9 @@
     "fecha_publicacion": "2020-08-10",
     "latent_x": 91.11000061035156,
     "latent_y": 61.880001068115234,
-    "latent_z": 45.630001068115234
+    "latent_z": 45.630001068115234,
+    "duration_seconds": 1654,
+    "duracion": "27:34"
   },
   {
     "vid": "mK17Tel7dA8",
@@ -3863,7 +4337,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 94.05000305175781,
     "latent_y": 9.819999694824219,
-    "latent_z": -38.34000015258789
+    "latent_z": -38.34000015258789,
+    "duration_seconds": 3804,
+    "duracion": "01:03:24"
   },
   {
     "vid": "TrZ6fKBENB8",
@@ -3880,7 +4356,9 @@
     "fecha_publicacion": "2026-04-11",
     "latent_x": 65.33999633789062,
     "latent_y": 48.439998626708984,
-    "latent_z": 53.150001525878906
+    "latent_z": 53.150001525878906,
+    "duration_seconds": 1673,
+    "duracion": "27:53"
   },
   {
     "vid": "tJF7UhA59Gc",
@@ -3896,7 +4374,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 84.08000183105469,
     "latent_y": -90.73999786376953,
-    "latent_z": -42.029998779296875
+    "latent_z": -42.029998779296875,
+    "duration_seconds": 304,
+    "duracion": "05:04"
   },
   {
     "vid": "phC-vKlNoaM",
@@ -3912,7 +4392,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 70.33000183105469,
     "latent_y": -26.639999389648438,
-    "latent_z": -115.58999633789062
+    "latent_z": -115.58999633789062,
+    "duration_seconds": 1537,
+    "duracion": "25:37"
   },
   {
     "vid": "QkmPe68UePg",
@@ -3928,7 +4410,9 @@
     "fecha_publicacion": "2025-12-12",
     "latent_x": 59.099998474121094,
     "latent_y": 24.760000228881836,
-    "latent_z": -0.17000000178813934
+    "latent_z": -0.17000000178813934,
+    "duration_seconds": 1385,
+    "duracion": "23:05"
   },
   {
     "vid": "dxDqelvVc2U",
@@ -3946,7 +4430,9 @@
     "fecha_publicacion": "2026-01-11",
     "latent_x": 84.83999633789062,
     "latent_y": 39.79999923706055,
-    "latent_z": 53.790000915527344
+    "latent_z": 53.790000915527344,
+    "duration_seconds": 3476,
+    "duracion": "57:56"
   },
   {
     "vid": "acLAaFPjOTo",
@@ -3962,7 +4448,9 @@
     "fecha_publicacion": "2025-10-13",
     "latent_x": 79.76000213623047,
     "latent_y": 88.16999816894531,
-    "latent_z": -21.239999771118164
+    "latent_z": -21.239999771118164,
+    "duration_seconds": 66,
+    "duracion": "01:06"
   },
   {
     "vid": "bfvq_kTbnd8",
@@ -3978,7 +4466,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 91.02999877929688,
     "latent_y": 24.290000915527344,
-    "latent_z": -8.949999809265137
+    "latent_z": -8.949999809265137,
+    "duration_seconds": 3736,
+    "duracion": "01:02:16"
   },
   {
     "vid": "SGbBQV9steE",
@@ -3994,7 +4484,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 94.08000183105469,
     "latent_y": 31.829999923706055,
-    "latent_z": -16.5
+    "latent_z": -16.5,
+    "duration_seconds": 2431,
+    "duracion": "40:31"
   },
   {
     "vid": "F_0rS5DDi3M",
@@ -4011,7 +4503,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 64.12999725341797,
     "latent_y": 10.3100004196167,
-    "latent_z": -73.04000091552734
+    "latent_z": -73.04000091552734,
+    "duration_seconds": 330,
+    "duracion": "05:30"
   },
   {
     "vid": "fzWdtSGRVNo",
@@ -4028,7 +4522,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 96.4000015258789,
     "latent_y": -69.83999633789062,
-    "latent_z": 20.31999969482422
+    "latent_z": 20.31999969482422,
+    "duration_seconds": 2187,
+    "duracion": "36:27"
   },
   {
     "vid": "7vVKBRjFbeg",
@@ -4044,7 +4540,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 78.93000030517578,
     "latent_y": -90.83000183105469,
-    "latent_z": -34.27000045776367
+    "latent_z": -34.27000045776367,
+    "duration_seconds": 469,
+    "duracion": "07:49"
   },
   {
     "vid": "mV40u-vaBo8",
@@ -4062,7 +4560,9 @@
     "fecha_publicacion": "2025-11-12",
     "latent_x": 83.44999694824219,
     "latent_y": 34.150001525878906,
-    "latent_z": 41.130001068115234
+    "latent_z": 41.130001068115234,
+    "duration_seconds": 452,
+    "duracion": "07:32"
   },
   {
     "vid": "_l3UO1oUoec",
@@ -4079,7 +4579,9 @@
     "fecha_publicacion": "2026-03-12",
     "latent_x": 69.31999969482422,
     "latent_y": 14.40999984741211,
-    "latent_z": -19.010000228881836
+    "latent_z": -19.010000228881836,
+    "duration_seconds": 485,
+    "duracion": "08:05"
   },
   {
     "vid": "PAgLzv1Lp1o",
@@ -4095,7 +4597,9 @@
     "fecha_publicacion": "2026-01-11",
     "latent_x": 105.7300033569336,
     "latent_y": -42.540000915527344,
-    "latent_z": -60.70000076293945
+    "latent_z": -60.70000076293945,
+    "duration_seconds": 215,
+    "duracion": "03:35"
   },
   {
     "vid": "J24hPQ0riVE",
@@ -4111,7 +4615,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 95.36000061035156,
     "latent_y": 14.460000038146973,
-    "latent_z": -59.060001373291016
+    "latent_z": -59.060001373291016,
+    "duration_seconds": 1140,
+    "duracion": "19:00"
   },
   {
     "vid": "wxaxlIlN7BA",
@@ -4129,7 +4635,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 80.48999786376953,
     "latent_y": 32.75,
-    "latent_z": 51.959999084472656
+    "latent_z": 51.959999084472656,
+    "duration_seconds": 370,
+    "duracion": "06:10"
   },
   {
     "vid": "AvJmpPFoZTg",
@@ -4146,7 +4654,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 62.56999969482422,
     "latent_y": 0.18000000715255737,
-    "latent_z": -87.1500015258789
+    "latent_z": -87.1500015258789,
+    "duration_seconds": 1478,
+    "duracion": "24:38"
   },
   {
     "vid": "nhEHXQGVmaQ",
@@ -4162,7 +4672,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 70.87000274658203,
     "latent_y": 24.90999984741211,
-    "latent_z": -71.91000366210938
+    "latent_z": -71.91000366210938,
+    "duration_seconds": 334,
+    "duracion": "05:34"
   },
   {
     "vid": "heJnXtPelJQ",
@@ -4178,7 +4690,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 72.63999938964844,
     "latent_y": 8.470000267028809,
-    "latent_z": -101.04000091552734
+    "latent_z": -101.04000091552734,
+    "duration_seconds": 852,
+    "duracion": "14:12"
   },
   {
     "vid": "CY6uZIoF_kQ",
@@ -4196,7 +4710,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 75.93000030517578,
     "latent_y": -28.549999237060547,
-    "latent_z": -49.75
+    "latent_z": -49.75,
+    "duration_seconds": 100,
+    "duracion": "01:40"
   },
   {
     "vid": "Xwuhoh1UEuk",
@@ -4213,7 +4729,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 90.93000030517578,
     "latent_y": -22.850000381469727,
-    "latent_z": -66.69000244140625
+    "latent_z": -66.69000244140625,
+    "duration_seconds": 9184,
+    "duracion": "02:33:04"
   },
   {
     "vid": "2sdXMJZKLJE",
@@ -4229,7 +4747,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 78.45999908447266,
     "latent_y": -45.5,
-    "latent_z": 85.12000274658203
+    "latent_z": 85.12000274658203,
+    "duration_seconds": 529,
+    "duracion": "08:49"
   },
   {
     "vid": "PzYxpncAYD8",
@@ -4245,7 +4765,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 83.48999786376953,
     "latent_y": 82.19999694824219,
-    "latent_z": -7.900000095367432
+    "latent_z": -7.900000095367432,
+    "duration_seconds": 342,
+    "duracion": "05:42"
   },
   {
     "vid": "Vn0LYZ8Qepc",
@@ -4261,7 +4783,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 88.0,
     "latent_y": 89.02999877929688,
-    "latent_z": -12.319999694824219
+    "latent_z": -12.319999694824219,
+    "duration_seconds": 327,
+    "duracion": "05:27"
   },
   {
     "vid": "BdZWFlFiHHY",
@@ -4278,7 +4802,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 58.4900016784668,
     "latent_y": 55.16999816894531,
-    "latent_z": 48.119998931884766
+    "latent_z": 48.119998931884766,
+    "duration_seconds": 228,
+    "duracion": "03:48"
   },
   {
     "vid": "C-bie4ZY_o0",
@@ -4295,7 +4821,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 72.83999633789062,
     "latent_y": -78.4800033569336,
-    "latent_z": 1.7899999618530273
+    "latent_z": 1.7899999618530273,
+    "duration_seconds": 1379,
+    "duracion": "22:59"
   },
   {
     "vid": "S8j1IFr8Ngg",
@@ -4311,7 +4839,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 96.08000183105469,
     "latent_y": -4.179999828338623,
-    "latent_z": -19.1200008392334
+    "latent_z": -19.1200008392334,
+    "duration_seconds": 11079,
+    "duracion": "03:04:39"
   },
   {
     "vid": "jVO26l-KGN8",
@@ -4327,7 +4857,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 76.19000244140625,
     "latent_y": 74.27999877929688,
-    "latent_z": -36.93000030517578
+    "latent_z": -36.93000030517578,
+    "duration_seconds": 330,
+    "duracion": "05:30"
   },
   {
     "vid": "MvwcWWp1NFs",
@@ -4343,7 +4875,9 @@
     "fecha_publicacion": "2026-03-12",
     "latent_x": 107.05000305175781,
     "latent_y": -20.889999389648438,
-    "latent_z": -80.30000305175781
+    "latent_z": -80.30000305175781,
+    "duration_seconds": 185,
+    "duracion": "03:05"
   },
   {
     "vid": "T6sW1Dk9B4E",
@@ -4359,7 +4893,9 @@
     "fecha_publicacion": "2020-08-10",
     "latent_x": 88.08000183105469,
     "latent_y": 99.55000305175781,
-    "latent_z": -59.5099983215332
+    "latent_z": -59.5099983215332,
+    "duration_seconds": 1447,
+    "duracion": "24:07"
   },
   {
     "vid": "uQV8uEzgxHo",
@@ -4375,7 +4911,9 @@
     "fecha_publicacion": "2025-09-13",
     "latent_x": 106.66999816894531,
     "latent_y": -0.05999999865889549,
-    "latent_z": -34.279998779296875
+    "latent_z": -34.279998779296875,
+    "duration_seconds": 1589,
+    "duracion": "26:29"
   },
   {
     "vid": "gY_9raUIP6c",
@@ -4392,7 +4930,9 @@
     "fecha_publicacion": "2026-01-11",
     "latent_x": 62.5,
     "latent_y": 50.68000030517578,
-    "latent_z": 72.12000274658203
+    "latent_z": 72.12000274658203,
+    "duration_seconds": 132,
+    "duracion": "02:12"
   },
   {
     "vid": "c0HO_-NDJCk",
@@ -4409,7 +4949,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 94.44000244140625,
     "latent_y": -12.989999771118164,
-    "latent_z": -89.41000366210938
+    "latent_z": -89.41000366210938,
+    "duration_seconds": 800,
+    "duracion": "13:20"
   },
   {
     "vid": "yBp8Le3Fw4M",
@@ -4426,7 +4968,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 92.04000091552734,
     "latent_y": 64.80999755859375,
-    "latent_z": 27.290000915527344
+    "latent_z": 27.290000915527344,
+    "duration_seconds": 1351,
+    "duracion": "22:31"
   },
   {
     "vid": "lPg5VUrOVgY",
@@ -4442,7 +4986,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 73.19999694824219,
     "latent_y": -95.61000061035156,
-    "latent_z": -32.16999816894531
+    "latent_z": -32.16999816894531,
+    "duration_seconds": 1072,
+    "duracion": "17:52"
   },
   {
     "vid": "NFjz1AGKA4c",
@@ -4458,7 +5004,9 @@
     "fecha_publicacion": "2026-06-10",
     "latent_x": 83.93000030517578,
     "latent_y": 100.29000091552734,
-    "latent_z": -16.15999984741211
+    "latent_z": -16.15999984741211,
+    "duration_seconds": 544,
+    "duracion": "09:04"
   },
   {
     "vid": "18niVtczoUs",
@@ -4475,7 +5023,9 @@
     "fecha_publicacion": "2025-12-12",
     "latent_x": 60.75,
     "latent_y": 70.2300033569336,
-    "latent_z": 28.829999923706055
+    "latent_z": 28.829999923706055,
+    "duration_seconds": 1111,
+    "duracion": "18:31"
   },
   {
     "vid": "O0UvfT5bUPg",
@@ -4491,7 +5041,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 76.16000366210938,
     "latent_y": -76.55999755859375,
-    "latent_z": -34.63999938964844
+    "latent_z": -34.63999938964844,
+    "duration_seconds": 520,
+    "duracion": "08:40"
   },
   {
     "vid": "NdgMuZBpyo8",
@@ -4507,7 +5059,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 89.80999755859375,
     "latent_y": 84.97000122070312,
-    "latent_z": -27.450000762939453
+    "latent_z": -27.450000762939453,
+    "duration_seconds": 857,
+    "duracion": "14:17"
   },
   {
     "vid": "alMEtTzsDu8",
@@ -4525,7 +5079,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 69.2699966430664,
     "latent_y": 2.819999933242798,
-    "latent_z": 27.989999771118164
+    "latent_z": 27.989999771118164,
+    "duration_seconds": 718,
+    "duracion": "11:58"
   },
   {
     "vid": "OdW2r3raAHI",
@@ -4542,7 +5098,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 72.94000244140625,
     "latent_y": 46.22999954223633,
-    "latent_z": 30.790000915527344
+    "latent_z": 30.790000915527344,
+    "duration_seconds": 782,
+    "duracion": "13:02"
   },
   {
     "vid": "zYjAdxGwyv0",
@@ -4558,7 +5116,9 @@
     "fecha_publicacion": "2019-08-11",
     "latent_x": 77.08000183105469,
     "latent_y": -106.2699966430664,
-    "latent_z": -8.09000015258789
+    "latent_z": -8.09000015258789,
+    "duration_seconds": 688,
+    "duracion": "11:28"
   },
   {
     "vid": "SwtL-6w-B5c",
@@ -4575,7 +5135,9 @@
     "fecha_publicacion": "2025-09-13",
     "latent_x": 89.43000030517578,
     "latent_y": 53.34000015258789,
-    "latent_z": 28.889999389648438
+    "latent_z": 28.889999389648438,
+    "duration_seconds": 964,
+    "duracion": "16:04"
   },
   {
     "vid": "TlfGs7ExC0A",
@@ -4591,7 +5153,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 74.72000122070312,
     "latent_y": -87.70999908447266,
-    "latent_z": -49.560001373291016
+    "latent_z": -49.560001373291016,
+    "duration_seconds": 519,
+    "duracion": "08:39"
   },
   {
     "vid": "AIgZH8zbMTE",
@@ -4608,7 +5172,9 @@
     "fecha_publicacion": "2026-04-11",
     "latent_x": 65.58999633789062,
     "latent_y": 56.58000183105469,
-    "latent_z": 21.760000228881836
+    "latent_z": 21.760000228881836,
+    "duration_seconds": 570,
+    "duracion": "09:30"
   },
   {
     "vid": "ll2Rw616wkU",
@@ -4625,7 +5191,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 88.76000213623047,
     "latent_y": -83.06999969482422,
-    "latent_z": -14.529999732971191
+    "latent_z": -14.529999732971191,
+    "duration_seconds": 175,
+    "duracion": "02:55"
   },
   {
     "vid": "aQoJNVZcPSc",
@@ -4643,7 +5211,9 @@
     "fecha_publicacion": "2025-09-13",
     "latent_x": 92.0999984741211,
     "latent_y": -54.97999954223633,
-    "latent_z": 20.559999465942383
+    "latent_z": 20.559999465942383,
+    "duration_seconds": 465,
+    "duracion": "07:45"
   },
   {
     "vid": "R3smFr6W8jI",
@@ -4660,7 +5230,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 74.20999908447266,
     "latent_y": -57.4900016784668,
-    "latent_z": -26.040000915527344
+    "latent_z": -26.040000915527344,
+    "duration_seconds": 2124,
+    "duracion": "35:24"
   },
   {
     "vid": "WwMpEq44El8",
@@ -4676,7 +5248,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 85.12999725341797,
     "latent_y": 77.02999877929688,
-    "latent_z": -55.849998474121094
+    "latent_z": -55.849998474121094,
+    "duration_seconds": 416,
+    "duracion": "06:56"
   },
   {
     "vid": "Qe1oCJk-DYU",
@@ -4693,7 +5267,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 68.68000030517578,
     "latent_y": -65.93000030517578,
-    "latent_z": -4.199999809265137
+    "latent_z": -4.199999809265137,
+    "duration_seconds": 537,
+    "duracion": "08:57"
   },
   {
     "vid": "OXcS09qn1rc",
@@ -4709,7 +5285,9 @@
     "fecha_publicacion": "2026-01-11",
     "latent_x": 91.62999725341797,
     "latent_y": 83.27999877929688,
-    "latent_z": -48.72999954223633
+    "latent_z": -48.72999954223633,
+    "duration_seconds": 423,
+    "duracion": "07:03"
   },
   {
     "vid": "YI7kjWzIiTM",
@@ -4726,7 +5304,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 62.970001220703125,
     "latent_y": 51.11000061035156,
-    "latent_z": 37.130001068115234
+    "latent_z": 37.130001068115234,
+    "duration_seconds": 2235,
+    "duracion": "37:15"
   },
   {
     "vid": "QHfnVtgU2II",
@@ -4742,7 +5322,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 72.76000213623047,
     "latent_y": -40.279998779296875,
-    "latent_z": -92.66000366210938
+    "latent_z": -92.66000366210938,
+    "duration_seconds": 1089,
+    "duracion": "18:09"
   },
   {
     "vid": "_pBNn2X06i4",
@@ -4758,7 +5340,9 @@
     "fecha_publicacion": "2026-02-10",
     "latent_x": 104.4000015258789,
     "latent_y": 19.299999237060547,
-    "latent_z": -68.69000244140625
+    "latent_z": -68.69000244140625,
+    "duration_seconds": 1456,
+    "duracion": "24:16"
   },
   {
     "vid": "r50UXhT9hc0",
@@ -4775,7 +5359,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 51.11000061035156,
     "latent_y": 23.440000534057617,
-    "latent_z": 23.280000686645508
+    "latent_z": 23.280000686645508,
+    "duration_seconds": 928,
+    "duracion": "15:28"
   },
   {
     "vid": "v4lUJBMIDxY",
@@ -4792,7 +5378,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 57.59000015258789,
     "latent_y": 23.34000015258789,
-    "latent_z": 52.2400016784668
+    "latent_z": 52.2400016784668,
+    "duration_seconds": 1833,
+    "duracion": "30:33"
   },
   {
     "vid": "fToX2Ma1YYw",
@@ -4809,7 +5397,9 @@
     "fecha_publicacion": "2020-08-10",
     "latent_x": 78.5199966430664,
     "latent_y": -29.610000610351562,
-    "latent_z": -62.400001525878906
+    "latent_z": -62.400001525878906,
+    "duration_seconds": 137,
+    "duracion": "02:17"
   },
   {
     "vid": "_bw_VWn5IzU",
@@ -4825,7 +5415,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 80.3499984741211,
     "latent_y": -92.12999725341797,
-    "latent_z": -52.869998931884766
+    "latent_z": -52.869998931884766,
+    "duration_seconds": 566,
+    "duracion": "09:26"
   },
   {
     "vid": "X3SgEXhX11w",
@@ -4842,7 +5434,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 77.08999633789062,
     "latent_y": -70.7300033569336,
-    "latent_z": -2.359999895095825
+    "latent_z": -2.359999895095825,
+    "duration_seconds": 342,
+    "duracion": "05:42"
   },
   {
     "vid": "1gDkpZ0AjlQ",
@@ -4858,7 +5452,9 @@
     "fecha_publicacion": "2026-08-01",
     "latent_x": 87.69999694824219,
     "latent_y": 101.4000015258789,
-    "latent_z": -25.110000610351562
+    "latent_z": -25.110000610351562,
+    "duration_seconds": 330,
+    "duracion": "05:30"
   },
   {
     "vid": "Mkh8z_2IleA",
@@ -4876,7 +5472,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 68.94999694824219,
     "latent_y": -80.5999984741211,
-    "latent_z": -19.520000457763672
+    "latent_z": -19.520000457763672,
+    "duration_seconds": 917,
+    "duracion": "15:17"
   },
   {
     "vid": "YIqF5STcc0Q",
@@ -4892,7 +5490,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 104.66999816894531,
     "latent_y": 23.739999771118164,
-    "latent_z": -34.529998779296875
+    "latent_z": -34.529998779296875,
+    "duration_seconds": 1464,
+    "duracion": "24:24"
   },
   {
     "vid": "GovuAxP-Bj8",
@@ -4908,7 +5508,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 83.3499984741211,
     "latent_y": 95.7300033569336,
-    "latent_z": 3.740000009536743
+    "latent_z": 3.740000009536743,
+    "duration_seconds": 110,
+    "duracion": "01:50"
   },
   {
     "vid": "vqBxtyvPUjw",
@@ -4926,7 +5528,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 92.12000274658203,
     "latent_y": -57.18000030517578,
-    "latent_z": -9.90999984741211
+    "latent_z": -9.90999984741211,
+    "duration_seconds": 288,
+    "duracion": "04:48"
   },
   {
     "vid": "fSQMBZ089HY",
@@ -4942,7 +5546,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 93.1500015258789,
     "latent_y": -2.0899999141693115,
-    "latent_z": -4.599999904632568
+    "latent_z": -4.599999904632568,
+    "duration_seconds": 2942,
+    "duracion": "49:02"
   },
   {
     "vid": "nYNwhN-6Y7A",
@@ -4959,7 +5565,9 @@
     "fecha_publicacion": "2026-02-10",
     "latent_x": 67.69999694824219,
     "latent_y": 40.880001068115234,
-    "latent_z": 25.049999237060547
+    "latent_z": 25.049999237060547,
+    "duration_seconds": 209,
+    "duracion": "03:29"
   },
   {
     "vid": "75-SM_xtil0",
@@ -4975,7 +5583,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 91.80000305175781,
     "latent_y": 22.34000015258789,
-    "latent_z": -32.470001220703125
+    "latent_z": -32.470001220703125,
+    "duration_seconds": 266,
+    "duracion": "04:26"
   },
   {
     "vid": "ZK4JpH22UKY",
@@ -4992,7 +5602,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 91.02999877929688,
     "latent_y": 31.440000534057617,
-    "latent_z": 17.59000015258789
+    "latent_z": 17.59000015258789,
+    "duration_seconds": 404,
+    "duracion": "06:44"
   },
   {
     "vid": "zko9puhRcHo",
@@ -5008,7 +5620,9 @@
     "fecha_publicacion": "2025-11-12",
     "latent_x": 73.87999725341797,
     "latent_y": 94.55000305175781,
-    "latent_z": -17.81999969482422
+    "latent_z": -17.81999969482422,
+    "duration_seconds": 65,
+    "duracion": "01:05"
   },
   {
     "vid": "K8lFaIf2EcY",
@@ -5024,7 +5638,9 @@
     "fecha_publicacion": "2025-10-13",
     "latent_x": 76.7699966430664,
     "latent_y": 99.58999633789062,
-    "latent_z": -5.46999979019165
+    "latent_z": -5.46999979019165,
+    "duration_seconds": 293,
+    "duracion": "04:53"
   },
   {
     "vid": "sj9E7WUHbmU",
@@ -5041,7 +5657,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 66.41999816894531,
     "latent_y": 23.34000015258789,
-    "latent_z": 34.560001373291016
+    "latent_z": 34.560001373291016,
+    "duration_seconds": 806,
+    "duracion": "13:26"
   },
   {
     "vid": "vhxdCPisziQ",
@@ -5058,7 +5676,9 @@
     "fecha_publicacion": "2026-02-10",
     "latent_x": 76.58999633789062,
     "latent_y": -56.20000076293945,
-    "latent_z": -10.760000228881836
+    "latent_z": -10.760000228881836,
+    "duration_seconds": 710,
+    "duracion": "11:50"
   },
   {
     "vid": "zeV4_TNUFus",
@@ -5075,7 +5695,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 83.08999633789062,
     "latent_y": 60.540000915527344,
-    "latent_z": 18.010000228881836
+    "latent_z": 18.010000228881836,
+    "duration_seconds": 1722,
+    "duracion": "28:42"
   },
   {
     "vid": "hn1gd-hpl3M",
@@ -5092,7 +5714,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 64.23999786376953,
     "latent_y": 3.4600000381469727,
-    "latent_z": -55.63999938964844
+    "latent_z": -55.63999938964844,
+    "duration_seconds": 766,
+    "duracion": "12:46"
   },
   {
     "vid": "55yBtFZDQdQ",
@@ -5108,7 +5732,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 81.38999938964844,
     "latent_y": -91.87999725341797,
-    "latent_z": -19.729999542236328
+    "latent_z": -19.729999542236328,
+    "duration_seconds": 126,
+    "duracion": "02:06"
   },
   {
     "vid": "iTB6PRbuGpQ",
@@ -5126,7 +5752,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 82.6500015258789,
     "latent_y": 12.890000343322754,
-    "latent_z": 13.960000038146973
+    "latent_z": 13.960000038146973,
+    "duration_seconds": 589,
+    "duracion": "09:49"
   },
   {
     "vid": "6o24W3BOMg8",
@@ -5143,7 +5771,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 78.37999725341797,
     "latent_y": -66.52999877929688,
-    "latent_z": -58.31999969482422
+    "latent_z": -58.31999969482422,
+    "duration_seconds": 400,
+    "duracion": "06:40"
   },
   {
     "vid": "-k-HQV3wbi4",
@@ -5160,7 +5790,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 68.5,
     "latent_y": 34.709999084472656,
-    "latent_z": 63.58000183105469
+    "latent_z": 63.58000183105469,
+    "duration_seconds": 990,
+    "duracion": "16:30"
   },
   {
     "vid": "-doF8gtXbwM",
@@ -5176,7 +5808,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 76.26000213623047,
     "latent_y": -2.5799999237060547,
-    "latent_z": -95.66999816894531
+    "latent_z": -95.66999816894531,
+    "duration_seconds": 319,
+    "duracion": "05:19"
   },
   {
     "vid": "ZngV3QqOEB0",
@@ -5192,7 +5826,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 85.87999725341797,
     "latent_y": 16.93000030517578,
-    "latent_z": -35.33000183105469
+    "latent_z": -35.33000183105469,
+    "duration_seconds": 474,
+    "duracion": "07:54"
   },
   {
     "vid": "06eQ41TuJRs",
@@ -5209,7 +5845,9 @@
     "fecha_publicacion": "2026-07-31",
     "latent_x": 71.27999877929688,
     "latent_y": -52.43000030517578,
-    "latent_z": -12.289999961853027
+    "latent_z": -12.289999961853027,
+    "duration_seconds": 743,
+    "duracion": "12:23"
   },
   {
     "vid": "ZAkawop-2Cg",
@@ -5226,7 +5864,9 @@
     "fecha_publicacion": "2025-10-13",
     "latent_x": 66.61000061035156,
     "latent_y": -12.210000038146973,
-    "latent_z": 26.25
+    "latent_z": 26.25,
+    "duration_seconds": 291,
+    "duracion": "04:51"
   },
   {
     "vid": "XKCzdFOxOwA",
@@ -5243,7 +5883,9 @@
     "fecha_publicacion": "2025-12-12",
     "latent_x": 94.05000305175781,
     "latent_y": -58.34000015258789,
-    "latent_z": -29.260000228881836
+    "latent_z": -29.260000228881836,
+    "duration_seconds": 455,
+    "duracion": "07:35"
   },
   {
     "vid": "H9OGturjRiE",
@@ -5259,7 +5901,9 @@
     "fecha_publicacion": "2025-10-13",
     "latent_x": 77.70999908447266,
     "latent_y": -107.16999816894531,
-    "latent_z": -27.170000076293945
+    "latent_z": -27.170000076293945,
+    "duration_seconds": 392,
+    "duracion": "06:32"
   },
   {
     "vid": "9w6cojJ89Yk",
@@ -5275,7 +5919,9 @@
     "fecha_publicacion": "2020-08-10",
     "latent_x": 86.29000091552734,
     "latent_y": -67.76000213623047,
-    "latent_z": -39.529998779296875
+    "latent_z": -39.529998779296875,
+    "duration_seconds": 175,
+    "duracion": "02:55"
   },
   {
     "vid": "KRBqLjRjX70",
@@ -5292,7 +5938,9 @@
     "fecha_publicacion": "2026-03-12",
     "latent_x": 62.97999954223633,
     "latent_y": 23.56999969482422,
-    "latent_z": 65.58000183105469
+    "latent_z": 65.58000183105469,
+    "duration_seconds": 3759,
+    "duracion": "01:02:39"
   },
   {
     "vid": "N6wWj5aX7D8",
@@ -5308,7 +5956,9 @@
     "fecha_publicacion": "2019-08-11",
     "latent_x": 76.20999908447266,
     "latent_y": -89.01000213623047,
-    "latent_z": -17.459999084472656
+    "latent_z": -17.459999084472656,
+    "duration_seconds": 424,
+    "duracion": "07:04"
   },
   {
     "vid": "6tQ6MS8cHMk",
@@ -5324,7 +5974,9 @@
     "fecha_publicacion": "2026-07-19",
     "latent_x": 106.69000244140625,
     "latent_y": 6.71999979019165,
-    "latent_z": -61.08000183105469
+    "latent_z": -61.08000183105469,
+    "duration_seconds": 1378,
+    "duracion": "22:58"
   },
   {
     "vid": "8Yjnme07Yvw",
@@ -5340,7 +5992,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 77.9800033569336,
     "latent_y": 15.149999618530273,
-    "latent_z": -70.16999816894531
+    "latent_z": -70.16999816894531,
+    "duration_seconds": 745,
+    "duracion": "12:25"
   },
   {
     "vid": "551n6E8iCBI",
@@ -5357,7 +6011,9 @@
     "fecha_publicacion": "2026-08-06",
     "latent_x": 71.94999694824219,
     "latent_y": 51.7599983215332,
-    "latent_z": 54.59000015258789
+    "latent_z": 54.59000015258789,
+    "duration_seconds": 286,
+    "duracion": "04:46"
   },
   {
     "vid": "7Q4YKUYSEX8",
@@ -5374,7 +6030,9 @@
     "fecha_publicacion": "2026-04-11",
     "latent_x": 57.970001220703125,
     "latent_y": 48.310001373291016,
-    "latent_z": 25.18000030517578
+    "latent_z": 25.18000030517578,
+    "duration_seconds": 1562,
+    "duracion": "26:02"
   },
   {
     "vid": "GfVnJO8fwwk",
@@ -5390,7 +6048,9 @@
     "fecha_publicacion": "2025-09-13",
     "latent_x": 60.689998626708984,
     "latent_y": 6.380000114440918,
-    "latent_z": -1.6699999570846558
+    "latent_z": -1.6699999570846558,
+    "duration_seconds": 1588,
+    "duracion": "26:28"
   },
   {
     "vid": "7a73fjdiQvQ",
@@ -5406,7 +6066,9 @@
     "fecha_publicacion": "2020-08-10",
     "latent_x": 85.61000061035156,
     "latent_y": -80.73999786376953,
-    "latent_z": -56.880001068115234
+    "latent_z": -56.880001068115234,
+    "duration_seconds": 421,
+    "duracion": "07:01"
   },
   {
     "vid": "PwXFo5RmmS0",
@@ -5423,7 +6085,9 @@
     "fecha_publicacion": "2026-02-10",
     "latent_x": 68.13999938964844,
     "latent_y": 51.959999084472656,
-    "latent_z": 37.459999084472656
+    "latent_z": 37.459999084472656,
+    "duration_seconds": 1824,
+    "duracion": "30:24"
   },
   {
     "vid": "G52OUAqEBn8",
@@ -5440,7 +6104,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 61.54999923706055,
     "latent_y": 42.779998779296875,
-    "latent_z": -16.1299991607666
+    "latent_z": -16.1299991607666,
+    "duration_seconds": 411,
+    "duracion": "06:51"
   },
   {
     "vid": "lciZYzefXZI",
@@ -5456,7 +6122,9 @@
     "fecha_publicacion": "2026-03-12",
     "latent_x": 57.459999084472656,
     "latent_y": 0.1599999964237213,
-    "latent_z": 6.070000171661377
+    "latent_z": 6.070000171661377,
+    "duration_seconds": 616,
+    "duracion": "10:16"
   },
   {
     "vid": "4OFlFz4nQkU",
@@ -5473,7 +6141,9 @@
     "fecha_publicacion": "2026-03-12",
     "latent_x": 71.02999877929688,
     "latent_y": 25.450000762939453,
-    "latent_z": 17.190000534057617
+    "latent_z": 17.190000534057617,
+    "duration_seconds": 167,
+    "duracion": "02:47"
   },
   {
     "vid": "diLHwA0rlGM",
@@ -5489,7 +6159,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 82.62000274658203,
     "latent_y": -103.51000213623047,
-    "latent_z": -32.709999084472656
+    "latent_z": -32.709999084472656,
+    "duration_seconds": 381,
+    "duracion": "06:21"
   },
   {
     "vid": "4kJLNoztCjk",
@@ -5505,7 +6177,9 @@
     "fecha_publicacion": "2025-09-13",
     "latent_x": 55.54999923706055,
     "latent_y": 8.149999618530273,
-    "latent_z": -2.200000047683716
+    "latent_z": -2.200000047683716,
+    "duration_seconds": 1014,
+    "duracion": "16:54"
   },
   {
     "vid": "VWCI1ct02hY",
@@ -5523,7 +6197,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 64.08999633789062,
     "latent_y": 51.63999938964844,
-    "latent_z": -39.09000015258789
+    "latent_z": -39.09000015258789,
+    "duration_seconds": 677,
+    "duracion": "11:17"
   },
   {
     "vid": "pxXVPVrhZe8",
@@ -5540,7 +6216,9 @@
     "fecha_publicacion": "2026-05-11",
     "latent_x": 86.29000091552734,
     "latent_y": 66.1500015258789,
-    "latent_z": 35.4900016784668
+    "latent_z": 35.4900016784668,
+    "duration_seconds": 1778,
+    "duracion": "29:38"
   },
   {
     "vid": "6nnMI37SaVM",
@@ -5556,7 +6234,9 @@
     "fecha_publicacion": "2026-04-11",
     "latent_x": 57.34000015258789,
     "latent_y": -8.15999984741211,
-    "latent_z": -8.289999961853027
+    "latent_z": -8.289999961853027,
+    "duration_seconds": 426,
+    "duracion": "07:06"
   },
   {
     "vid": "k0ZaiwBnp90",
@@ -5574,7 +6254,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 69.0199966430664,
     "latent_y": -66.30999755859375,
-    "latent_z": -26.700000762939453
+    "latent_z": -26.700000762939453,
+    "duration_seconds": 380,
+    "duracion": "06:20"
   },
   {
     "vid": "MwAPPxgBiaA",
@@ -5590,7 +6272,9 @@
     "fecha_publicacion": "2026-03-12",
     "latent_x": 80.04000091552734,
     "latent_y": 112.6500015258789,
-    "latent_z": -6.769999980926514
+    "latent_z": -6.769999980926514,
+    "duration_seconds": 148,
+    "duracion": "02:28"
   },
   {
     "vid": "epVf9O-4TgY",
@@ -5606,7 +6290,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 78.6500015258789,
     "latent_y": -23.850000381469727,
-    "latent_z": -84.88999938964844
+    "latent_z": -84.88999938964844,
+    "duration_seconds": 695,
+    "duracion": "11:35"
   },
   {
     "vid": "XTlKDw-iMzM",
@@ -5622,7 +6308,9 @@
     "fecha_publicacion": "2020-08-10",
     "latent_x": 86.87000274658203,
     "latent_y": -100.2300033569336,
-    "latent_z": -24.959999084472656
+    "latent_z": -24.959999084472656,
+    "duration_seconds": 44,
+    "duracion": "00:44"
   },
   {
     "vid": "kjKYI_YaKuc",
@@ -5638,7 +6326,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 77.75,
     "latent_y": -107.04000091552734,
-    "latent_z": -45.68000030517578
+    "latent_z": -45.68000030517578,
+    "duration_seconds": 159,
+    "duracion": "02:39"
   },
   {
     "vid": "YUVsUnWcY3o",
@@ -5654,7 +6344,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 75.16999816894531,
     "latent_y": -9.210000038146973,
-    "latent_z": -65.08000183105469
+    "latent_z": -65.08000183105469,
+    "duration_seconds": 686,
+    "duracion": "11:26"
   },
   {
     "vid": "SlazC4dKi0g",
@@ -5672,7 +6364,9 @@
     "fecha_publicacion": "2026-05-11",
     "latent_x": 80.18000030517578,
     "latent_y": 37.58000183105469,
-    "latent_z": 32.380001068115234
+    "latent_z": 32.380001068115234,
+    "duration_seconds": 62,
+    "duracion": "01:02"
   },
   {
     "vid": "VEmF4X-BNtA",
@@ -5688,7 +6382,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 77.06999969482422,
     "latent_y": 94.01000213623047,
-    "latent_z": -36.7599983215332
+    "latent_z": -36.7599983215332,
+    "duration_seconds": 212,
+    "duracion": "03:32"
   },
   {
     "vid": "EuIiHNLr5JE",
@@ -5704,7 +6400,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 83.62000274658203,
     "latent_y": -21.920000076293945,
-    "latent_z": -95.5199966430664
+    "latent_z": -95.5199966430664,
+    "duration_seconds": 141,
+    "duracion": "02:21"
   },
   {
     "vid": "pfPvzhdpCbA",
@@ -5720,7 +6418,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 72.1500015258789,
     "latent_y": -9.220000267028809,
-    "latent_z": -111.83999633789062
+    "latent_z": -111.83999633789062,
+    "duration_seconds": 2268,
+    "duracion": "37:48"
   },
   {
     "vid": "LVYLz4MlJwQ",
@@ -5737,7 +6437,9 @@
     "fecha_publicacion": "2026-07-10",
     "latent_x": 70.33000183105469,
     "latent_y": 52.36000061035156,
-    "latent_z": 9.239999771118164
+    "latent_z": 9.239999771118164,
+    "duration_seconds": 172,
+    "duracion": "02:52"
   },
   {
     "vid": "KPEyA7RYkfI",
@@ -5754,7 +6456,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 73.37999725341797,
     "latent_y": -59.130001068115234,
-    "latent_z": 2.380000114440918
+    "latent_z": 2.380000114440918,
+    "duration_seconds": 704,
+    "duracion": "11:44"
   },
   {
     "vid": "9BCJ_BJARH0",
@@ -5770,7 +6474,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 73.86000061035156,
     "latent_y": -15.859999656677246,
-    "latent_z": -82.69999694824219
+    "latent_z": -82.69999694824219,
+    "duration_seconds": 1038,
+    "duracion": "17:18"
   },
   {
     "vid": "-63Zr6K_rMQ",
@@ -5787,7 +6493,9 @@
     "fecha_publicacion": "2025-11-12",
     "latent_x": 94.2699966430664,
     "latent_y": -55.77000045776367,
-    "latent_z": -40.97999954223633
+    "latent_z": -40.97999954223633,
+    "duration_seconds": 440,
+    "duracion": "07:20"
   },
   {
     "vid": "oMD6vucKa7s",
@@ -5803,7 +6511,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 76.68000030517578,
     "latent_y": 17.030000686645508,
-    "latent_z": -88.33999633789062
+    "latent_z": -88.33999633789062,
+    "duration_seconds": 175,
+    "duracion": "02:55"
   },
   {
     "vid": "auYyYcfXJzI",
@@ -5820,7 +6530,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 75.13999938964844,
     "latent_y": 32.380001068115234,
-    "latent_z": -24.280000686645508
+    "latent_z": -24.280000686645508,
+    "duration_seconds": 700,
+    "duracion": "11:40"
   },
   {
     "vid": "5Epj5Y4qXsU",
@@ -5836,7 +6548,9 @@
     "fecha_publicacion": "2026-03-12",
     "latent_x": 95.86000061035156,
     "latent_y": 39.529998779296875,
-    "latent_z": -52.77000045776367
+    "latent_z": -52.77000045776367,
+    "duration_seconds": 324,
+    "duracion": "05:24"
   },
   {
     "vid": "aVyAA9dRJlo",
@@ -5852,7 +6566,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 73.13999938964844,
     "latent_y": 8.40999984741211,
-    "latent_z": -60.29999923706055
+    "latent_z": -60.29999923706055,
+    "duration_seconds": 413,
+    "duracion": "06:53"
   },
   {
     "vid": "6w-1behMpic",
@@ -5869,7 +6585,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 58.68000030517578,
     "latent_y": 53.599998474121094,
-    "latent_z": -27.219999313354492
+    "latent_z": -27.219999313354492,
+    "duration_seconds": 551,
+    "duracion": "09:11"
   },
   {
     "vid": "rfnpwbJaa_M",
@@ -5885,7 +6603,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 79.80999755859375,
     "latent_y": -12.600000381469727,
-    "latent_z": -105.5999984741211
+    "latent_z": -105.5999984741211,
+    "duration_seconds": 507,
+    "duracion": "08:27"
   },
   {
     "vid": "Yen5ChV9M48",
@@ -5901,7 +6621,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 80.37000274658203,
     "latent_y": -10.1899995803833,
-    "latent_z": -78.58000183105469
+    "latent_z": -78.58000183105469,
+    "duration_seconds": 50,
+    "duracion": "00:50"
   },
   {
     "vid": "J9Dc3Ar5xuM",
@@ -5917,7 +6639,9 @@
     "fecha_publicacion": "2025-09-13",
     "latent_x": 81.48999786376953,
     "latent_y": -30.559999465942383,
-    "latent_z": 0.23000000417232513
+    "latent_z": 0.23000000417232513,
+    "duration_seconds": 947,
+    "duracion": "15:47"
   },
   {
     "vid": "ws6t0NBle9g",
@@ -5933,7 +6657,9 @@
     "fecha_publicacion": "2026-02-10",
     "latent_x": 60.459999084472656,
     "latent_y": 9.920000076293945,
-    "latent_z": 14.760000228881836
+    "latent_z": 14.760000228881836,
+    "duration_seconds": 115,
+    "duracion": "01:55"
   },
   {
     "vid": "G_Myl_s1KKw",
@@ -5950,7 +6676,9 @@
     "fecha_publicacion": "2026-03-12",
     "latent_x": 56.34000015258789,
     "latent_y": 38.720001220703125,
-    "latent_z": -24.8700008392334
+    "latent_z": -24.8700008392334,
+    "duration_seconds": 967,
+    "duracion": "16:07"
   },
   {
     "vid": "o7nlP_W6NMk",
@@ -5966,7 +6694,9 @@
     "fecha_publicacion": "2026-01-11",
     "latent_x": 89.45999908447266,
     "latent_y": -87.29000091552734,
-    "latent_z": -37.70000076293945
+    "latent_z": -37.70000076293945,
+    "duration_seconds": 195,
+    "duracion": "03:15"
   },
   {
     "vid": "mLDoT0Cna4w",
@@ -5982,7 +6712,9 @@
     "fecha_publicacion": "2020-08-10",
     "latent_x": 69.83999633789062,
     "latent_y": -2.3499999046325684,
-    "latent_z": -68.43000030517578
+    "latent_z": -68.43000030517578,
+    "duration_seconds": 404,
+    "duracion": "06:44"
   },
   {
     "vid": "MqCTGaVvfk4",
@@ -5999,7 +6731,9 @@
     "fecha_publicacion": "2026-05-11",
     "latent_x": 69.2300033569336,
     "latent_y": 40.47999954223633,
-    "latent_z": 4.360000133514404
+    "latent_z": 4.360000133514404,
+    "duration_seconds": 178,
+    "duracion": "02:58"
   },
   {
     "vid": "Cn_DoZbgX-A",
@@ -6015,7 +6749,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 76.27999877929688,
     "latent_y": -0.25,
-    "latent_z": -77.69999694824219
+    "latent_z": -77.69999694824219,
+    "duration_seconds": 303,
+    "duracion": "05:03"
   },
   {
     "vid": "1UdfGI1pQVg",
@@ -6033,7 +6769,9 @@
     "fecha_publicacion": "2026-07-10",
     "latent_x": 66.11000061035156,
     "latent_y": 54.15999984741211,
-    "latent_z": -3.0199999809265137
+    "latent_z": -3.0199999809265137,
+    "duration_seconds": 133,
+    "duracion": "02:13"
   },
   {
     "vid": "x0GP1HbM-gk",
@@ -6049,7 +6787,9 @@
     "fecha_publicacion": "2022-08-10",
     "latent_x": 69.80000305175781,
     "latent_y": -19.479999542236328,
-    "latent_z": -63.91999816894531
+    "latent_z": -63.91999816894531,
+    "duration_seconds": 168,
+    "duracion": "02:48"
   },
   {
     "vid": "QH8QKqXW70A",
@@ -6066,7 +6806,9 @@
     "fecha_publicacion": "2026-07-10",
     "latent_x": 65.58999633789062,
     "latent_y": 29.18000030517578,
-    "latent_z": 16.540000915527344
+    "latent_z": 16.540000915527344,
+    "duration_seconds": 145,
+    "duracion": "02:25"
   },
   {
     "vid": "Zv1TwlfqZBs",
@@ -6082,7 +6824,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 64.58999633789062,
     "latent_y": -15.75,
-    "latent_z": -100.9800033569336
+    "latent_z": -100.9800033569336,
+    "duration_seconds": 236,
+    "duracion": "03:56"
   },
   {
     "vid": "3I_Yqbw62nA",
@@ -6099,7 +6843,9 @@
     "fecha_publicacion": "2026-03-12",
     "latent_x": 84.20999908447266,
     "latent_y": -81.0,
-    "latent_z": 1.0
+    "latent_z": 1.0,
+    "duration_seconds": 158,
+    "duracion": "02:38"
   },
   {
     "vid": "P2lfoMIlctQ",
@@ -6116,7 +6862,9 @@
     "fecha_publicacion": "2026-03-12",
     "latent_x": 90.30999755859375,
     "latent_y": -14.239999771118164,
-    "latent_z": -83.02999877929688
+    "latent_z": -83.02999877929688,
+    "duration_seconds": 176,
+    "duracion": "02:56"
   },
   {
     "vid": "oFw2V1DNnak",
@@ -6132,7 +6880,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 72.05000305175781,
     "latent_y": -2.890000104904175,
-    "latent_z": -87.83999633789062
+    "latent_z": -87.83999633789062,
+    "duration_seconds": 957,
+    "duracion": "15:57"
   },
   {
     "vid": "oUALXZSeLjY",
@@ -6148,7 +6898,9 @@
     "fecha_publicacion": "2025-12-12",
     "latent_x": 91.7300033569336,
     "latent_y": 67.94000244140625,
-    "latent_z": -32.470001220703125
+    "latent_z": -32.470001220703125,
+    "duration_seconds": 173,
+    "duracion": "02:53"
   },
   {
     "vid": "umct1TvwduI",
@@ -6164,7 +6916,9 @@
     "fecha_publicacion": "2021-08-10",
     "latent_x": 69.87999725341797,
     "latent_y": -21.68000030517578,
-    "latent_z": -94.55999755859375
+    "latent_z": -94.55999755859375,
+    "duration_seconds": 733,
+    "duracion": "12:13"
   },
   {
     "vid": "Ax5HXQPE2aU",
@@ -6180,7 +6934,9 @@
     "fecha_publicacion": "2026-03-12",
     "latent_x": 76.23999786376953,
     "latent_y": -19.729999542236328,
-    "latent_z": -16.790000915527344
+    "latent_z": -16.790000915527344,
+    "duration_seconds": 106,
+    "duracion": "01:46"
   },
   {
     "vid": "2WeIcS6JKOc",
@@ -6196,7 +6952,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 79.02999877929688,
     "latent_y": -33.0,
-    "latent_z": -102.97000122070312
+    "latent_z": -102.97000122070312,
+    "duration_seconds": 222,
+    "duracion": "03:42"
   },
   {
     "vid": "SP3j0E_jnGc",
@@ -6212,7 +6970,9 @@
     "fecha_publicacion": "2025-12-12",
     "latent_x": 80.0199966430664,
     "latent_y": -78.02999877929688,
-    "latent_z": -21.3700008392334
+    "latent_z": -21.3700008392334,
+    "duration_seconds": 160,
+    "duracion": "02:40"
   },
   {
     "vid": "6Cq14fQ9L-I",
@@ -6228,7 +6988,9 @@
     "fecha_publicacion": "2024-08-09",
     "latent_x": 77.8499984741211,
     "latent_y": 23.229999542236328,
-    "latent_z": -107.75
+    "latent_z": -107.75,
+    "duration_seconds": 1741,
+    "duracion": "29:01"
   },
   {
     "vid": "JuKG5BaUXc0",
@@ -6244,7 +7006,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 81.30999755859375,
     "latent_y": 4.809999942779541,
-    "latent_z": -96.5199966430664
+    "latent_z": -96.5199966430664,
+    "duration_seconds": 150,
+    "duracion": "02:30"
   },
   {
     "vid": "t5R7HNmzB-E",
@@ -6260,7 +7024,9 @@
     "fecha_publicacion": "2026-07-10",
     "latent_x": 84.37999725341797,
     "latent_y": -99.44999694824219,
-    "latent_z": -5.369999885559082
+    "latent_z": -5.369999885559082,
+    "duration_seconds": 174,
+    "duracion": "02:54"
   },
   {
     "vid": "-mQy9XOF0b8",
@@ -6276,7 +7042,9 @@
     "fecha_publicacion": "2026-05-11",
     "latent_x": 80.30000305175781,
     "latent_y": -90.25,
-    "latent_z": 0.7599999904632568
+    "latent_z": 0.7599999904632568,
+    "duration_seconds": 77,
+    "duracion": "01:17"
   },
   {
     "vid": "LHQUdYDOllM",
@@ -6293,7 +7061,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 90.56999969482422,
     "latent_y": -1.4500000476837158,
-    "latent_z": -83.68000030517578
+    "latent_z": -83.68000030517578,
+    "duration_seconds": 269,
+    "duracion": "04:29"
   },
   {
     "vid": "ddOBEFsQev4",
@@ -6309,7 +7079,9 @@
     "fecha_publicacion": "2026-02-10",
     "latent_x": 68.52999877929688,
     "latent_y": 14.489999771118164,
-    "latent_z": -114.66000366210938
+    "latent_z": -114.66000366210938,
+    "duration_seconds": 122,
+    "duracion": "02:02"
   },
   {
     "vid": "i15EDKKIsy4",
@@ -6325,7 +7097,9 @@
     "fecha_publicacion": "2025-08-09",
     "latent_x": 67.3499984741211,
     "latent_y": 12.079999923706055,
-    "latent_z": -92.79000091552734
+    "latent_z": -92.79000091552734,
+    "duration_seconds": 169,
+    "duracion": "02:49"
   },
   {
     "vid": "RNyfPnUjcbc",
@@ -6341,7 +7115,9 @@
     "fecha_publicacion": "2023-08-10",
     "latent_x": 68.19999694824219,
     "latent_y": -10.130000114440918,
-    "latent_z": -79.75
+    "latent_z": -79.75,
+    "duration_seconds": 151,
+    "duracion": "02:31"
   },
   {
     "vid": "V04v7knnxuE",
@@ -6357,7 +7133,9 @@
     "fecha_publicacion": "2026-05-11",
     "latent_x": 63.560001373291016,
     "latent_y": 4.539999961853027,
-    "latent_z": -106.31999969482422
+    "latent_z": -106.31999969482422,
+    "duration_seconds": 91,
+    "duracion": "01:31"
   },
   {
     "vid": "bqbdT0SL0B0",
@@ -6373,6 +7151,8 @@
     "fecha_publicacion": "2023-06-15",
     "latent_x": 74.83999633789062,
     "latent_y": -6.920000076293945,
-    "latent_z": 86.52999877929688
+    "latent_z": 86.52999877929688,
+    "duration_seconds": 3610,
+    "duracion": "01:00:10"
   }
 ]

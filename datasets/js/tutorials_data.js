@@ -6418,7 +6418,8 @@ const TUTORIALS_DATA = [
     "latent_x": 53.91999816894531,
     "latent_y": 10.399999618530273,
     "latent_z": 20.6200008392334,
-    "duration_seconds": null
+    "duration_seconds": 2002,
+    "duracion": "33:22"
   },
   {
     "id": 345,
